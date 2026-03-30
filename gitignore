@@ -1,0 +1,36 @@
+# Dependências
+node_modules/
+.venv/
+__pycache__/
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+
+# Build
+dist/
+.next/
+.astro/
+build/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Mídia local (arquivos grandes ficam fora do repo)
+media/raw/
+knowledge/raw_video/
+
+# Chaves e segredos — NUNCA subir
+*.pem
+*.key
+secrets/
