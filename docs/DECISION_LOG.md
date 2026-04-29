@@ -28,6 +28,57 @@ Ordem: mais recente no topo.
 
 ---
 
+### [2026-04-29] D008 — Estrutura da base de conhecimento: tema, não aula
+
+**Contexto:** O curso tem 89 aulas em 21 gravações de áudio sem correspondência
+1:1. Organizar por aula geraria arquivos fragmentados e inúteis para RAG. O
+usuário do site nunca vai buscar "Aula 31" — vai buscar "fundações" ou "quanto
+custa radier".
+
+**Alternativas consideradas:**
+
+- Um arquivo por aula (89 arquivos): fragmentação excessiva, gravações cobrindo
+  múltiplas aulas geram duplicação
+- Um arquivo único (blob): inviável para RAG, contexto gigante
+- Um arquivo por módulo temático (12 arquivos): balanceia granularidade e
+  riqueza
+
+**Decisão:** 12 arquivos em `knowledge/temas/`, um por módulo. Módulo de
+Orçamento (crítico) estruturado internamente por aula específica.
+
+**Racional:** Unidade de busca do Claudinho da Brisa é o tema, não a aula.
+Chunks de ~500 tokens por módulo vão para o pgvector. Usuário pergunta sobre
+fundações e o RAG retorna o chunk certo do `06_fundacoes.md`.
+
+**Responsável:** Alan Gattiboni **Status:** Ativa
+
+---
+
+### [2026-04-29] D007 — Claude API no pipeline offline de processamento
+
+**Contexto:** O mapeamento de 21 gravações às 89 aulas exigia compreensão
+semântica do conteúdo. Abordagem puramente por palavras-chave produzia falsos
+positivos e módulos vazios.
+
+**Alternativas consideradas:**
+
+- Keyword matching estático: rápido, sem custo de API, mas impreciso
+- Distribuição proporcional por contagem de aulas: sem semântica, erros nas
+  bordas
+- Claude API com amostragem em múltiplas posições: custo ~50k tokens total,
+  classificação com confiança "alta" em 21/21 gravações
+
+**Decisão:** Claude API (claude-sonnet-4) usada no pipeline offline de
+organização. Não só no front com o usuário.
+
+**Racional:** O custo de API para processamento offline é desprezível comparado
+ao custo de uma base de conhecimento mal organizada que compromete a qualidade
+do Claudinho da Brisa. Qualidade da fonte define qualidade do RAG.
+
+**Responsável:** Alan Gattiboni **Status:** Ativa
+
+---
+
 ### [2026-03-30] D006 — Identidade visual definida
 
 **Contexto:** Necessidade de padronizar cores, tipografia, espaçamento e regras

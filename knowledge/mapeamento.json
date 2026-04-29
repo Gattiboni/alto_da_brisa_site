@@ -1,0 +1,426 @@
+{
+  "por_gravacao": {
+    "1": {
+      "aulas": [
+        1
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação apresenta o objetivo do curso e introduz conceitos de orçamento da estimativa inicial ao executivo | Revisado: removido do módulo 4 (menção de passagem)"
+    },
+    "2": {
+      "aulas": [
+        1
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação apresenta o curso, seus objetivos, metodologia e aborda construção convencional vs alternativa"
+    },
+    "3": {
+      "aulas": [
+        14,
+        15
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação menciona Lei Athis e depois inicia especificamente a aula sobre necessidades no projeto arquitetônico"
+    },
+    "4": {
+      "aulas": [
+        19
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação trata especificamente do estudo de clima usando o site Weather Spark, comparando temperaturas de diferentes cidades"
+    },
+    "5": {
+      "aulas": [
+        24,
+        25,
+        26
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação foca especificamente em orçamento, planejamento e controle de obras passo a passo"
+    },
+    "6": {
+      "aulas": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação fala especificamente sobre orçamento executivo, quadro de concorrência entre fornecedores, planejamento e controle de obra"
+    },
+    "7": {
+      "aulas": [
+        25,
+        26
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação menciona explicitamente continuação de planejamento e controle de obra com estudo de caso da Casa do Lago"
+    },
+    "8": {
+      "aulas": [
+        28
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação aborda canteiro de obra, almoxarifado, banheiros, acessos e logística de materiais, que são típicos dos serviços preliminares"
+    },
+    "9": {
+      "aulas": [
+        34
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação fala especificamente sobre fundações profundas, estacas e quando usar esse tipo de fundação"
+    },
+    "10": {
+      "aulas": [
+        41
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação explica estrutura e elevação convencional, elementos como lajes e vigas, exatamente o conteúdo da Aula 41"
+    },
+    "11": {
+      "aulas": [
+        24
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação foca especificamente em orçamento, planejamento e controle de obras passo a passo"
+    },
+    "12": {
+      "aulas": [
+        24,
+        25,
+        26
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação aborda especificamente EVF (Estudo de Viabilidade Financeira), orçamento executivo, custos imprevistos e análise de custos com base em projetos semelhantes"
+    },
+    "13": {
+      "aulas": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação aborda análise de orçamentos, comparação de custos entre diferentes sistemas construtivos, custos indiretos e controle de obra | Revisado: removido do módulo 4 (menção de passagem) | Revisado: reincorporado ao módulo 4"
+    },
+    "14": {
+      "aulas": [
+        34
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação aborda especificamente fundações profundas, estacas, hélice contínua e blocos de coroamento"
+    },
+    "15": {
+      "aulas": [
+        41,
+        42,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação introduz estruturas e elevações convencionais, explicando elementos como lajes e vigas do sistema convencional | Revisado: contém módulo 8"
+    },
+    "16": {
+      "aulas": [
+        51,
+        52,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação discute estruturas pré-fabricadas e pré-moldadas e finaliza mencionando especificamente blocos de ICF | Revisado: contém módulo 8 | Revisado: contém módulo 8 | Revisado: contém módulo 8"
+    },
+    "17": {
+      "aulas": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        62
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação fala especificamente sobre telhas de fibrocimento, suas características, preço e aplicações | Revisado: contém módulo 8 | Revisado: contém módulo 8"
+    },
+    "18": {
+      "aulas": [
+        65,
+        66
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação detalha especificamente telhas sanduíche, parafusos, acessórios e instalação"
+    },
+    "19": {
+      "aulas": [
+        76,
+        77,
+        78
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação discute detalhadamente diferentes tipos de pisos incluindo industrial, granilite e cimento queimado"
+    },
+    "20": {
+      "aulas": [
+        79,
+        80,
+        81,
+        88,
+        89
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação discute detalhadamente acabamentos de paredes, custos, técnicas como massa PVA, cimentícios, tinta de terra e porcelanato | Revisado: contém módulo 12"
+    },
+    "21": {
+      "aulas": [
+        86,
+        88,
+        89
+      ],
+      "confianca": "alta",
+      "raciocinio": "A gravação fala especificamente sobre esquadrias de diferentes materiais (madeira, alumínio, PVC) e tipos de vidro | Revisado: contém módulo 12 | Revisado: contém módulo 12"
+    }
+  },
+  "arquivos_gerados": [
+    {
+      "modulo_id": 1,
+      "nome": "Introdução Casa Baixo Custo Sustentável",
+      "arquivo": "01_introducao.md",
+      "aulas": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "gravacoes": [
+        1,
+        2
+      ],
+      "size_kb": 245.2
+    },
+    {
+      "modulo_id": 2,
+      "nome": "Projeto",
+      "arquivo": "02_projeto.md",
+      "aulas": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "gravacoes": [
+        3
+      ],
+      "size_kb": 118.2
+    },
+    {
+      "modulo_id": 3,
+      "nome": "Terreno",
+      "arquivo": "03_terreno.md",
+      "aulas": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "gravacoes": [
+        4
+      ],
+      "size_kb": 105.2
+    },
+    {
+      "modulo_id": 4,
+      "nome": "Orçamento, Planejamento e Controle",
+      "arquivo": "04_orcamento-planejamento-controle.md",
+      "aulas": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "gravacoes": [
+        5,
+        6,
+        7,
+        11,
+        12,
+        13
+      ],
+      "size_kb": 2042.6
+    },
+    {
+      "modulo_id": 5,
+      "nome": "Serviços Preliminares",
+      "arquivo": "05_servicos-preliminares.md",
+      "aulas": [
+        28
+      ],
+      "gravacoes": [
+        8
+      ],
+      "size_kb": 110.6
+    },
+    {
+      "modulo_id": 6,
+      "nome": "Fundações",
+      "arquivo": "06_fundacoes.md",
+      "aulas": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "gravacoes": [
+        9,
+        14
+      ],
+      "size_kb": 176.1
+    },
+    {
+      "modulo_id": 7,
+      "nome": "Estruturas e Vedações",
+      "arquivo": "07_estruturas-vedacoes.md",
+      "aulas": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "gravacoes": [
+        10,
+        15,
+        16
+      ],
+      "size_kb": 423.9
+    },
+    {
+      "modulo_id": 8,
+      "nome": "Lajes",
+      "arquivo": "08_lajes.md",
+      "aulas": [
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "gravacoes": [
+        15,
+        16,
+        17
+      ],
+      "size_kb": 407.7
+    },
+    {
+      "modulo_id": 9,
+      "nome": "Coberturas",
+      "arquivo": "09_coberturas.md",
+      "aulas": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74
+      ],
+      "gravacoes": [
+        17,
+        18
+      ],
+      "size_kb": 272.8
+    },
+    {
+      "modulo_id": 10,
+      "nome": "Acabamentos",
+      "arquivo": "10_acabamentos.md",
+      "aulas": [
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "gravacoes": [
+        19,
+        20
+      ],
+      "size_kb": 247.6
+    },
+    {
+      "modulo_id": 11,
+      "nome": "Aberturas e Esquadrias",
+      "arquivo": "11_aberturas-esquadrias.md",
+      "aulas": [
+        86,
+        87
+      ],
+      "gravacoes": [
+        21
+      ],
+      "size_kb": 80.5
+    },
+    {
+      "modulo_id": 12,
+      "nome": "Instalações Residenciais",
+      "arquivo": "12_instalacoes-residenciais.md",
+      "aulas": [
+        88,
+        89
+      ],
+      "gravacoes": [
+        20,
+        21
+      ],
+      "size_kb": 211.5
+    }
+  ]
+}

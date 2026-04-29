@@ -12,6 +12,26 @@ Ordem: mais recente no topo.
 
 ## 2026
 
+### [2026-04-29] SITE — Base de conhecimento gerada: 12 módulos organizados por tema
+
+Pipeline completa de knowledge base executada. 21 gravações de áudio mapeadas às
+89 aulas do curso "Casa de Baixo Custo Sustentável" (Amanda & Fernando) via
+Claude API. Gerados 12 arquivos `.md` em `knowledge/temas/`, organizados por
+módulo temático. Módulo 4 (Orçamento) estruturado por aula específica (24–27).
+Scripts: `organizar_com_claude.py`, `corrigir_mapeamento.py`,
+`reestruturar_orcamento.py`.
+
+---
+
+### [2026-04-29] SITE — Descrições das 89 aulas capturadas via scraper JS
+
+Script `acbcs_scraper_v2.js` executado no DevTools do curso Kiwify. Capturou
+título, módulo e descrição de cada aula navegando via Vue Router (sem reload).
+Output salvo em `knowledge/descricoes_das_aulas.md`. Usado como âncora semântica
+para o mapeamento gravação→aula.
+
+---
+
 ### [2026-03-30] DOC — Identidade visual documentada
 
 Arquivo `docs/identidade_visual.md` criado com paleta, escala tipográfica, grid,
