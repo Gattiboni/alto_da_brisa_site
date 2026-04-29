@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Alto da Brisa — Wireframe v2</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Lato:wght@300;400;700&family=Montserrat:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --g:#6b7f67;
+  --s:#b7b0a1;
+  --st:#d6d3ce;
+  --c:#333437;
+  --w:#fff;
+  --bg:#f9f8f6;
+  --font-serif:'Cormorant Garamond',Georgia,serif;
+  --font-body:'Lato',sans-serif;
+  --font-ui:'Montserrat',sans-serif;
+}
+html,body{font-family:var(--font-body);color:var(--c);background:var(--w);font-size:14px;min-height:100vh}
+
+/* TAB BAR */
+.tabs{background:var(--c);padding:6px 18px;display:flex;gap:3px;flex-wrap:wrap;position:sticky;top:0;z-index:100}
+.tab{background:none;border:none;font-family:var(--font-ui);font-size:10px;font-weight:500;letter-spacing:.09em;text-transform:uppercase;color:rgba(255,255,255,.45);padding:5px 12px;border-radius:3px;cursor:pointer;transition:all .15s}
+.tab:hover{color:rgba(255,255,255,.85);background:rgba(255,255,255,.08)}
+.tab.on{background:var(--g);color:#fff}
+
+/* TOPBAR */
+.topbar{background:#fff;border-bottom:.5px solid var(--st);padding:0 36px;display:flex;align-items:stretch;justify-content:space-between;height:58px}
+.topbar-logo{font-family:var(--font-serif);font-size:17px;letter-spacing:.1em;color:var(--g);display:flex;flex-direction:column;justify-content:center;cursor:pointer}
+.topbar-logo small{font-size:8px;font-family:var(--font-ui);font-weight:500;letter-spacing:.2em;text-transform:uppercase;color:var(--s);display:block;margin-bottom:2px}
+.topbar-nav{display:flex;align-items:stretch;gap:0}
+.topbar-nav a{font-family:var(--font-ui);font-size:10px;font-weight:500;letter-spacing:.1em;text-transform:uppercase;color:var(--c);cursor:pointer;opacity:.5;padding:0 18px;display:flex;align-items:center;border-bottom:2px solid transparent;transition:all .15s;text-decoration:none}
+.topbar-nav a:hover{opacity:1;color:var(--g)}
+.topbar-nav a.on{opacity:1;color:var(--g);border-bottom-color:var(--g)}
+.topbar-right{display:flex;align-items:center;gap:12px}
+.avatar{width:32px;height:32px;border-radius:50%;background:var(--g);color:#fff;font-family:var(--font-ui);font-size:11px;font-weight:500;display:flex;align-items:center;justify-content:center;cursor:pointer}
+
+/* LAYOUT */
+.wrap{max-width:1100px;margin:0 auto;padding:44px 36px}
+.page-bg{background:var(--bg);min-height:600px}
+
+/* HERO */
+.hero{position:relative;background:var(--st);min-height:340px;display:flex;flex-direction:column;align-items:flex-start;justify-content:flex-end;padding:0;overflow:hidden}
+.hero-fill{position:absolute;inset:0;background:linear-gradient(160deg,#8fa08b 0%,var(--st) 60%,#a8b89e 100%);opacity:.7}
+.hero-texture{position:absolute;inset:0;background-image:repeating-linear-gradient(-55deg,transparent,transparent 18px,rgba(107,127,103,.06) 18px,rgba(107,127,103,.06) 19px)}
+.hero-content{position:relative;z-index:2;padding:0 40px 54px}
+.hero-eyebrow{font-family:var(--font-ui);font-size:10px;font-weight:500;letter-spacing:.18em;text-transform:uppercase;color:rgba(51,52,55,.6);margin-bottom:12px}
+.hero-title{font-family:var(--font-serif);font-size:56px;font-weight:300;color:var(--c);line-height:1.05;letter-spacing:.02em;margin-bottom:20px}
+.hero-sub{font-family:var(--font-body);font-size:13px;color:rgba(51,52,55,.6);line-height:1.85;max-width:440px;margin-bottom:30px}
+.hero-badge{position:absolute;right:40px;bottom:40px;width:280px;height:190px;border-radius:6px;background:rgba(107,127,103,.18);border:.5px solid rgba(107,127,103,.25);display:flex;align-items:center;justify-content:center;font-family:var(--font-ui);font-size:10px;letter-spacing:.09em;text-transform:uppercase;color:rgba(51,52,55,.35)}
+
+/* BUTTONS */
+.btn{background:var(--g);color:#fff;border:none;font-family:var(--font-ui);font-size:10px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;padding:12px 28px;border-radius:2px;cursor:pointer;transition:background .15s}
+.btn:hover{background:#5a6d57}
+.btn-o{background:transparent;color:var(--g);border:1px solid var(--g);font-family:var(--font-ui);font-size:10px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;padding:11px 28px;border-radius:2px;cursor:pointer;transition:all .15s}
+.btn-o:hover{background:var(--g);color:#fff}
+.btn-ghost{background:transparent;color:rgba(51,52,55,.5);border:.5px solid var(--st);font-family:var(--font-ui);font-size:10px;font-weight:500;letter-spacing:.08em;text-transform:uppercase;padding:8px 16px;border-radius:2px;cursor:pointer;transition:all .15s}
+.btn-ghost:hover{border-color:var(--s);color:var(--c)}
+
+/* CARDS */
+.card{background:#fff;border:.5px solid var(--st);border-radius:8px;padding:22px;transition:border-color .2s,transform .2s}
+.card:hover{border-color:var(--s)}
+.card-link{cursor:pointer}
+.card-link:hover{transform:translateY(-1px)}
+.card-icon{width:38px;height:38px;border-radius:6px;background:var(--st);display:flex;align-items:center;justify-content:center;margin-bottom:14px;font-size:17px}
+
+/* GRIDS */
+.g2{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}
+.g3{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px}
+
+/* TYPE */
+h1{font-family:var(--font-serif);font-size:34px;font-weight:400;letter-spacing:.02em;line-height:1.2}
+h2{font-family:var(--font-serif);font-size:26px;font-weight:400;line-height:1.3}
+h3{font-family:var(--font-serif);font-size:18px;font-weight:400;margin-bottom:6px}
+.eyebrow{font-family:var(--font-ui);font-size:10px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:var(--s);margin-bottom:8px}
+.muted{color:rgba(51,52,55,.5);font-size:13px;line-height:1.75}
+
+/* FORMS */
+.inp{width:100%;border:.5px solid var(--st);border-radius:4px;padding:11px 14px;font-size:13px;font-family:var(--font-body);color:var(--c);background:#fff;margin-bottom:14px;outline:none;transition:border-color .15s}
+.inp:focus{border-color:var(--g)}
+.lbl{font-family:var(--font-ui);font-size:10px;font-weight:500;letter-spacing:.1em;text-transform:uppercase;color:var(--s);margin-bottom:5px;display:block}
+.hr{border:none;border-top:.5px solid var(--st);margin:22px 0}
+
+/* PLACEHOLDERS */
+.ph{background:var(--st);border-radius:5px;display:flex;align-items:center;justify-content:center;font-family:var(--font-ui);color:rgba(51,52,55,.3);font-size:10px;letter-spacing:.08em;text-transform:uppercase}
+
+/* TAGS */
+.tag{background:var(--st);color:rgba(51,52,55,.65);font-family:var(--font-ui);font-size:9px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;padding:3px 9px;border-radius:3px;display:inline-block}
+.tag-g{background:rgba(107,127,103,.12);color:var(--g);font-family:var(--font-ui);font-size:9px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;padding:3px 9px;border-radius:3px;display:inline-block}
+
+/* STATUS */
+.dot{width:7px;height:7px;border-radius:50%;display:inline-block;flex-shrink:0}
+.dot-g{background:var(--g)}
+.dot-a{background:#c4a94a}
+.dot-s{background:var(--s)}
+
+/* CHAT */
+.chat-u{background:var(--st);padding:12px 16px;border-radius:8px 8px 2px 8px;margin-bottom:10px;font-size:13px;font-family:var(--font-body);line-height:1.75;max-width:76%;margin-left:auto}
+.chat-a{background:#f1f3f0;border:.5px solid var(--st);padding:12px 16px;border-radius:8px 8px 8px 2px;margin-bottom:10px;font-size:13px;font-family:var(--font-body);line-height:1.75;max-width:82%}
+.chat-src{font-family:var(--font-ui);font-size:10px;color:var(--g);margin-top:8px;letter-spacing:.04em;border-top:.5px solid rgba(107,127,103,.2);padding-top:8px}
+
+/* TOC SIDEBAR */
+.toc-item{font-size:12px;font-family:var(--font-body);padding:7px 10px;border-radius:4px;cursor:pointer;margin-bottom:2px;color:rgba(51,52,55,.6);transition:all .15s}
+.toc-item:hover{color:var(--g);background:rgba(107,127,103,.07)}
+.toc-item.on{background:rgba(107,127,103,.12);color:var(--g);font-weight:500}
+
+/* CONTENT QUOTE */
+.quote{background:rgba(107,127,103,.07);border-left:3px solid var(--g);padding:14px 18px;border-radius:0 6px 6px 0;margin:20px 0;font-size:13px;font-style:italic;color:rgba(51,52,55,.75);line-height:1.8}
+.quote-src{font-family:var(--font-ui);font-size:10px;font-style:normal;margin-top:6px;color:var(--s);letter-spacing:.05em}
+</style>
+</head>
+<body>
+
+<div class="tabs" id="tabs"></div>
+<div id="content"></div>
+
+<script>
+const PAGES=[
+  {id:'landing',label:'Homepage'},
+  {id:'login',label:'Login'},
+  {id:'solicitar',label:'Solicitar Acesso'},
+  {id:'dashboard',label:'Dashboard'},
+  {id:'conhecimento',label:'Conhecimento'},
+  {id:'tema',label:'Tema · Fundações'},
+  {id:'assistente',label:'Claudinho da Brisa'},
+  {id:'galeria',label:'Galeria'},
+  {id:'admin',label:'Admin · Parceiros'},
+];
+
+function topbar(active){
+  const nav=[{l:'Conhecimento',id:'conhecimento'},{l:'Claudinho',id:'assistente'},{l:'Galeria',id:'galeria'}];
+  return`<div class="topbar">
+    <div class="topbar-logo" onclick="go('dashboard')"><small>Sítio</small>Alto da Brisa</div>
+    <nav class="topbar-nav">${nav.map(n=>`<a class="${n.id===active?'on':''}" onclick="go('${n.id}')">${n.l}</a>`).join('')}</nav>
+    <div class="topbar-right"><div class="avatar" title="Alan Gattiboni">AG</div></div>
+  </div>`;
+}
+
+function pubTopbar(){
+  return`<div class="topbar">
+    <div class="topbar-logo"><small>Sítio</small>Alto da Brisa</div>
+    <div class="topbar-right">
+      <button class="btn-ghost" onclick="go('solicitar')">Solicitar acesso</button>
+      <button class="btn" style="padding:8px 20px" onclick="go('login')">Entrar</button>
+    </div>
+  </div>`;
+}
+
+const C={
+
+landing:()=>`${pubTopbar()}
+<div class="hero">
+  <div class="hero-fill"></div><div class="hero-texture"></div>
+  <div class="hero-content">
+    <div class="hero-eyebrow">Sapucaí-Mirim, MG · Serra da Mantiqueira</div>
+    <h1 class="hero-title">Sítio<br>Alto da Brisa</h1>
+    <p class="hero-sub">Um projeto de vida comunitário entre natureza, autonomia e intenção.</p>
+    <div style="display:flex;gap:10px">
+      <button class="btn" onclick="go('login')">Acessar o portal</button>
+      <button class="btn-o" onclick="go('solicitar')">Solicitar acesso</button>
+    </div>
+  </div>
+  <div class="hero-badge">foto do terreno · placeholder</div>
+</div>
+<div class="wrap">
+  <div class="g3" style="margin-bottom:56px">
+    ${[
+      {i:'🌿',t:'A terra',d:'20.000 m² de Mata Atlântica na Mantiqueira, com nascente própria e curvas que encantam.'},
+      {i:'🏡',t:'O projeto',d:'Três famílias. Três casas. Um espaço comum. Uma forma de viver que faz sentido.'},
+      {i:'📚',t:'O portal',d:'Base de conhecimento, assistente IA, galeria e controle de evolução em um único lugar.'},
+    ].map(c=>`<div class="card"><div class="card-icon">${c.i}</div><h3>${c.t}</h3><p class="muted" style="margin-top:6px">${c.d}</p></div>`).join('')}
+  </div>
+  <div style="display:flex;align-items:center;gap:52px;padding:44px 0;border-top:.5px solid var(--st)">
+    <div style="flex:1">
+      <div class="eyebrow">Em construção</div>
+      <h2 style="margin-bottom:12px">Acompanhe a evolução</h2>
+      <p class="muted">Do terreno à casa pronta — cada etapa documentada aqui.</p>
+    </div>
+    <div class="ph" style="width:340px;height:200px;flex-shrink:0">mapa do lote · SVG</div>
+  </div>
+</div>`,
+
+login:()=>`${pubTopbar()}
+<div style="min-height:540px;display:flex;align-items:center;justify-content:center;background:var(--bg);padding:52px 20px">
+  <div class="card" style="width:100%;max-width:380px;padding:38px">
+    <div style="text-align:center;margin-bottom:30px">
+      <div style="font-family:var(--font-serif);font-size:22px;letter-spacing:.1em;color:var(--g)">Alto da Brisa</div>
+      <p style="font-family:var(--font-ui);font-size:10px;color:var(--s);margin-top:7px;letter-spacing:.12em;text-transform:uppercase">Portal dos moradores</p>
+    </div>
+    <label class="lbl">E-mail</label>
+    <input class="inp" type="email" placeholder="seu@email.com">
+    <label class="lbl">Senha</label>
+    <input class="inp" type="password" placeholder="••••••••">
+    <button class="btn" style="width:100%;margin-top:6px" onclick="go('dashboard')">Entrar</button>
+    <div class="hr"></div>
+    <p style="text-align:center;font-size:12px;font-family:var(--font-body);color:var(--s)">
+      É parceiro? <span style="color:var(--g);cursor:pointer;font-weight:500" onclick="go('solicitar')">Solicitar acesso →</span>
+    </p>
+  </div>
+</div>`,
+
+solicitar:()=>`${pubTopbar()}
+<div style="min-height:540px;display:flex;align-items:center;justify-content:center;background:var(--bg);padding:52px 20px">
+  <div class="card" style="width:100%;max-width:460px;padding:38px">
+    <div class="eyebrow">Acesso externo</div>
+    <h2 style="font-size:22px;margin-bottom:8px">Solicitar acesso</h2>
+    <p class="muted" style="margin-bottom:26px">Alan receberá sua solicitação por e-mail e configurará seu nível de acesso manualmente.</p>
+    <label class="lbl">Nome completo</label>
+    <input class="inp" placeholder="Seu nome">
+    <label class="lbl">E-mail</label>
+    <input class="inp" type="email" placeholder="seu@email.com">
+    <label class="lbl">Sua relação com o projeto</label>
+    <textarea class="inp" rows="3" placeholder="Ex: arquiteto responsável pelo projeto da Casa 2..." style="resize:none"></textarea>
+    <button class="btn" style="width:100%">Enviar solicitação</button>
+    <p style="font-family:var(--font-ui);font-size:10px;color:var(--s);text-align:center;margin-top:14px;line-height:1.7;letter-spacing:.04em">Você receberá um e-mail assim que o acesso for ativado.</p>
+  </div>
+</div>`,
+
+dashboard:()=>`${topbar('dashboard')}
+<div class="page-bg"><div class="wrap">
+  <div style="margin-bottom:36px">
+    <div class="eyebrow">Bem-vindo de volta</div>
+    <h1 style="font-size:32px">Alan Gattiboni</h1>
+  </div>
+  <div class="g3" style="margin-bottom:36px">
+    ${[
+      {l:'Fase do projeto',v:'Pré-obra',d:'dot-a'},
+      {l:'Site',v:'v1 em build',d:'dot-g'},
+      {l:'Escritura',v:'Pendente',d:'dot-s'},
+    ].map(m=>`<div style="background:#fff;border:.5px solid var(--st);border-radius:8px;padding:20px">
+      <div class="eyebrow" style="margin-bottom:10px">${m.l}</div>
+      <div style="display:flex;align-items:center;gap:8px;font-family:var(--font-serif);font-size:20px">
+        <span class="dot ${m.d}"></span>${m.v}
+      </div>
+    </div>`).join('')}
+  </div>
+  <h2 style="font-size:20px;margin-bottom:16px">Acesso rápido</h2>
+  <div class="g2">
+    ${[
+      {i:'📖',t:'Base de Conhecimento',d:'Cursos Amanda & Fernando — por tema',pg:'conhecimento'},
+      {i:'💬',t:'Claudinho da Brisa',d:'Assistente IA contextualizado com o projeto',pg:'assistente'},
+      {i:'📷',t:'Galeria',d:'Fotos e vídeos do terreno e da obra',pg:'galeria'},
+      {i:'📁',t:'Documentos',d:'Contrato, plantas, laudos',pg:'dashboard'},
+    ].map(c=>`<div class="card card-link" onclick="go('${c.pg}')">
+      <div style="display:flex;gap:14px;align-items:flex-start">
+        <span style="font-size:20px;margin-top:2px;flex-shrink:0">${c.i}</span>
+        <div><h3 style="font-size:15px">${c.t}</h3><p class="muted" style="margin-top:4px;font-size:12px">${c.d}</p></div>
+      </div>
+    </div>`).join('')}
+  </div>
+</div></div>`,
+
+conhecimento:()=>`${topbar('conhecimento')}
+<div class="page-bg"><div class="wrap">
+  <div style="display:flex;align-items:flex-end;justify-content:space-between;flex-wrap:wrap;gap:14px;margin-bottom:32px">
+    <div>
+      <div class="eyebrow">Amanda & Fernando · Acervo completo</div>
+      <h1 style="font-size:30px">Base de Conhecimento</h1>
+    </div>
+    <input class="inp" placeholder="Buscar por tema, técnica, material..." style="width:290px;margin:0">
+  </div>
+  <div class="g2">
+    ${[
+      {t:'Projeto & Planejamento',n:'14 tópicos',s:['Necessidades vs orçamento','Tipos de projeto','Fluxo de projeto','Desenhando seu lar']},
+      {t:'Terreno & Fundações',n:'11 tópicos',s:['Análise do terreno','Topografia e cortes','Tipos de fundação','Sapatas e blocos']},
+      {t:'Estrutura',n:'9 tópicos',s:['Pilares e vigas','Lajes','Estrutura metálica','Madeira estrutural']},
+      {t:'Vedações & Paredes',n:'8 tópicos',s:['Alvenaria convencional','Bloco de concreto','Bioconstrução com terra','Pau a pique']},
+      {t:'Cobertura',n:'7 tópicos',s:['Tipos de telhado','Telhas e materiais','Beirais e calhas','Impermeabilização']},
+      {t:'Instalações Hidráulicas',n:'10 tópicos',s:['Captação de nascente','Cisternas','Distribuição no lote','Esgoto e fossa']},
+      {t:'Instalações Elétricas',n:'8 tópicos',s:['Dimensionamento','Quadro elétrico','Solar off-grid','Gerador backup']},
+      {t:'Permacultura & Jardins',n:'9 tópicos',s:['Mandala alimentar','Agrofloresta','Compostagem','Manejo da água']},
+    ].map(m=>`<div class="card card-link" onclick="go('tema')">
+      <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:12px">
+        <span class="tag-g">${m.n}</span>
+      </div>
+      <h3 style="margin-bottom:10px">${m.t}</h3>
+      <div style="display:flex;flex-direction:column;gap:0">
+        ${m.s.map(s=>`<div style="font-size:12px;font-family:var(--font-body);color:rgba(51,52,55,.5);padding:5px 0;border-bottom:.5px solid var(--st)">${s}</div>`).join('')}
+      </div>
+    </div>`).join('')}
+  </div>
+</div></div>`,
+
+tema:()=>`${topbar('conhecimento')}
+<div class="page-bg">
+<div style="display:grid;grid-template-columns:260px 1fr;min-height:620px">
+  <div style="border-right:.5px solid var(--st);padding:28px 20px;background:#fff">
+    <div style="font-family:var(--font-ui);font-size:10px;color:var(--s);letter-spacing:.1em;text-transform:uppercase;cursor:pointer;margin-bottom:6px" onclick="go('conhecimento')">← Conhecimento</div>
+    <div style="font-family:var(--font-serif);font-size:19px;color:var(--c);margin:10px 0 18px;line-height:1.2">Terreno &<br>Fundações</div>
+    <div class="hr" style="margin:0 0 14px"></div>
+    ${['Análise do terreno','Topografia e cortes de nível','Tipos de fundação','Sapatas corridas','Blocos e baldrame','Solo argiloso vs rochoso','Drenagem perimetral','Fundação em terreno inclinado','Erros comuns','Orçamento de fundações','Checklist final'].map((t,i)=>`
+    <div class="toc-item ${i===3?'on':''}">${t}</div>`).join('')}
+  </div>
+  <div style="padding:40px 44px;max-width:800px">
+    <div class="eyebrow">Terreno & Fundações</div>
+    <h2 style="margin-bottom:6px">Sapatas corridas</h2>
+    <p class="muted" style="margin-bottom:28px;font-size:12px;font-family:var(--font-ui);letter-spacing:.03em">Extraído e organizado a partir das transcrições do acervo Amanda & Fernando.</p>
+    <div style="background:#fff;border:.5px solid var(--st);border-radius:8px;padding:30px;line-height:1.9;font-size:14px;font-family:var(--font-body);color:var(--c)">
+      <p style="margin-bottom:16px">A sapata corrida é uma das fundações mais utilizadas em construções residenciais de baixo e médio porte. Diferente da sapata isolada — que recebe a carga de um pilar específico — a sapata corrida distribui a carga ao longo de toda uma parede ou sequência de pilares.</p>
+      <p style="margin-bottom:16px">Para terrenos com declividade acentuada, como é o caso do Lote 7, o escalonamento das sapatas é fundamental para garantir nivelamento e distribuição uniforme de carga ao longo do trecho construído.</p>
+      <div class="quote">
+        "Em terreno com mais de 10% de inclinação, sempre escalone as sapatas em degraus de no máximo 60cm por vez, garantindo que cada degrau tenha armação contínua."
+        <div class="quote-src">— Transcrição: Módulo Fundações, aula 3</div>
+      </div>
+      <p>A armação longitudinal deve atravessar cada degrau de forma contínua, sem emendas nos pontos de escalonamento. O concreto deve ser lançado em etapas, respeitando o tempo de cura mínimo de 7 dias antes de carregar a fundação.</p>
+    </div>
+    <div style="display:flex;justify-content:space-between;margin-top:22px">
+      <button class="btn-ghost">← Tipos de fundação</button>
+      <button class="btn-ghost">Blocos e baldrame →</button>
+    </div>
+  </div>
+</div>
+</div>`,
+
+assistente:()=>`${topbar('assistente')}
+<div class="page-bg">
+<div style="display:grid;grid-template-columns:240px 1fr;min-height:600px">
+  <div style="border-right:.5px solid var(--st);padding:20px;background:#fff;overflow:auto">
+    <div class="eyebrow" style="margin-bottom:12px">Contexto ativo</div>
+    ${['Base de Conhecimento completa','Contrato Lote 7','Planta arquitetônica v01','Identidade visual'].map(c=>`
+    <div style="display:flex;align-items:center;gap:8px;padding:7px 0;border-bottom:.5px solid var(--st);font-size:12px;font-family:var(--font-body);color:var(--c)">
+      <span class="dot dot-g"></span>${c}
+    </div>`).join('')}
+    <div class="hr"></div>
+    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px">
+      <div class="eyebrow" style="margin:0">Conversas</div>
+      <span style="font-family:var(--font-ui);font-size:10px;color:var(--g);cursor:pointer;font-weight:500">+ Nova</span>
+    </div>
+    ${['Fundações no terreno inclinado','Cálculo de água para 3 famílias','APP e construções permitidas','Bioconstrução com adobe'].map((c,i)=>`
+    <div class="toc-item ${i===0?'on':''}" style="line-height:1.5;margin-bottom:3px">${c}</div>`).join('')}
+  </div>
+  <div style="display:flex;flex-direction:column">
+    <div style="padding:16px 26px;border-bottom:.5px solid var(--st);background:#fff">
+      <div style="font-family:var(--font-serif);font-size:18px">Claudinho da Brisa</div>
+      <div style="font-family:var(--font-ui);font-size:10px;color:var(--s);margin-top:3px;letter-spacing:.05em">Assistente contextualizado com o projeto e os cursos</div>
+    </div>
+    <div style="flex:1;padding:26px;overflow:auto;display:flex;flex-direction:column;background:var(--bg)">
+      <div class="chat-a">Olá! Tenho acesso à base de conhecimento completa dos cursos, ao contrato e às plantas do Lote 7. Como posso ajudar?</div>
+      <div class="chat-u">Qual a profundidade ideal de fundação para um terreno com inclinação de 15%?</div>
+      <div class="chat-a">Para terrenos com declividade entre 10–20%, a recomendação dos cursos é trabalhar com <strong>sapatas corridas escalonadas</strong>, com degraus de no máximo 60cm por vez e armação contínua atravessando cada escalonamento.
+        <div class="chat-src">Fonte: Base de Conhecimento · Terreno & Fundações → Fundação em terreno inclinado</div>
+      </div>
+    </div>
+    <div style="padding:14px 26px;border-top:.5px solid var(--st);background:#fff;display:flex;gap:10px">
+      <input class="inp" placeholder="Pergunte sobre construção, permacultura, o projeto..." style="flex:1;margin:0">
+      <button class="btn" style="padding:11px 20px;white-space:nowrap">Enviar</button>
+    </div>
+  </div>
+</div>
+</div>`,
+
+galeria:()=>`${topbar('galeria')}
+<div class="page-bg"><div class="wrap">
+  <div style="display:flex;align-items:flex-end;justify-content:space-between;flex-wrap:wrap;gap:14px;margin-bottom:28px">
+    <div>
+      <div class="eyebrow">Arquivo visual</div>
+      <h1 style="font-size:30px">Galeria</h1>
+    </div>
+    <div style="display:flex;gap:6px;flex-wrap:wrap">
+      ${['Todos','Fotos','Vídeos','Terreno','Obra','Natureza'].map((f,i)=>`
+      <button class="${i===0?'btn':'btn-ghost'}" style="padding:7px 14px">${f}</button>`).join('')}
+    </div>
+  </div>
+  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px">
+    <div class="ph" style="aspect-ratio:16/9;grid-column:span 2;grid-row:span 2;font-size:12px">destaque · foto principal</div>
+    ${Array(7).fill(0).map((_,i)=>`<div class="ph" style="aspect-ratio:4/3;font-size:10px">foto ${i+2}</div>`).join('')}
+  </div>
+</div></div>`,
+
+admin:()=>`${topbar('')}
+<div class="page-bg"><div class="wrap">
+  <div style="margin-bottom:30px">
+    <div class="eyebrow">Administração · Alan</div>
+    <h1 style="font-size:30px">Aprovar acesso · Parceiros</h1>
+  </div>
+  ${[
+    {n:'Juliana Moraes',e:'ju@estudio.arq.br',m:'Arquiteta responsável pelo projeto da Casa 2',perms:[1,1,1,0,0]},
+    {n:'Pedro Rezende',e:'pedro@rezende.eng.br',m:'Engenheiro civil acompanhando a fundação',perms:[0,0,1,1,0]},
+  ].map(r=>`<div class="card" style="margin-bottom:14px">
+    <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px;margin-bottom:16px">
+      <div>
+        <div style="font-weight:500;font-size:15px;font-family:var(--font-body)">${r.n}</div>
+        <div style="font-family:var(--font-ui);font-size:11px;color:var(--s);margin-top:3px;letter-spacing:.04em">${r.e}</div>
+        <div style="font-size:13px;margin-top:9px;color:rgba(51,52,55,.65);line-height:1.6">${r.m}</div>
+      </div>
+      <div style="display:flex;gap:8px;align-items:flex-start">
+        <button class="btn-ghost" style="color:var(--s)">Recusar</button>
+        <button class="btn" style="padding:9px 18px">Aprovar</button>
+      </div>
+    </div>
+    <div class="hr" style="margin:12px 0"></div>
+    <div class="eyebrow" style="margin-bottom:12px">Definir permissões</div>
+    <div style="display:flex;flex-wrap:wrap;gap:16px">
+      ${['Conhecimento','Claudinho IA','Galeria','Documentos','Painel de Obras'].map((p,i)=>`
+      <label style="display:flex;align-items:center;gap:7px;font-size:13px;font-family:var(--font-body);cursor:pointer">
+        <input type="checkbox" ${r.perms[i]?'checked':''} style="accent-color:var(--g);width:14px;height:14px"> ${p}
+      </label>`).join('')}
+    </div>
+  </div>`).join('')}
+</div></div>`,
+
+};
+
+function go(id){
+  if(!C[id])return;
+  document.getElementById('content').innerHTML=C[id]();
+  document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('on',t.dataset.id===id));
+  window.scrollTo(0,0);
+}
+
+const tabs=document.getElementById('tabs');
+PAGES.forEach(p=>{
+  const b=document.createElement('button');
+  b.className='tab';
+  b.dataset.id=p.id;
+  b.textContent=p.label;
+  b.onclick=()=>go(p.id);
+  tabs.appendChild(b);
+});
+
+go('landing');
+</script>
+</body>
+</html>

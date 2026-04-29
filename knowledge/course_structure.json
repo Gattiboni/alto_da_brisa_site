@@ -1,0 +1,193 @@
+{
+  "curso": "Casa de Baixo Custo Sustentável",
+  "fonte": "Amanda & Fernando — amandaefernando.com.br",
+  "total_modulos": 12,
+  "total_aulas": 89,
+  "modulos": [
+    {
+      "id": 1,
+      "nome": "Introdução Casa Baixo Custo Sustentável",
+      "slug": "introducao",
+      "total_aulas": 5,
+      "aulas": [
+        "Objetivo do Curso",
+        "Etapas da Construção de uma Casa",
+        "Comece pelo NÓ Necessidades vs Orçamento",
+        "Estimando Necessidades e Orçamento com Chat GPT",
+        "Estimando Necessidades e Orçamento com Chat GPT 2"
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Projeto",
+      "slug": "projeto",
+      "total_aulas": 12,
+      "aulas": [
+        "Etapas do Projeto",
+        "Tipos de Projetos",
+        "Fluxo de Projetos 1/2",
+        "Fluxo de Projetos 2/2",
+        "Desenho Técnico / Elemento de Projetos",
+        "Projeto: Vale a Pena?",
+        "Projeto: Quanto Custa?",
+        "Construir sem Investir em Projeto",
+        "Lei Athis",
+        "Necessidades",
+        "Tamanhos e Ergonomia",
+        "Distribuição de Espaços"
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Terreno",
+      "slug": "terreno",
+      "total_aulas": 6,
+      "aulas": [
+        "Introdução",
+        "Clima - Parte 1",
+        "Clima - Parte 2",
+        "Clima - Parte 3",
+        "Sondagem de Solo - Resistência - SPT",
+        "Topografia - Geometria do Terreno"
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Orçamento, Planejamento e Controle",
+      "slug": "orcamento-planejamento-controle",
+      "total_aulas": 4,
+      "aulas": [
+        "Orçamento: Estimativa Inicial ao Executivo",
+        "Estudo de Caso - Orçamento, Planejamento e Controle",
+        "Estudo de Caso - Orçamento, Planejamento e Controle 2",
+        "Orçamentos Custos Indiretos, Compra de Fábrica, Quadro de Concorrência"
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Serviços Preliminares",
+      "slug": "servicos-preliminares",
+      "total_aulas": 1,
+      "aulas": [
+        "Serviços Preliminares"
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "Fundações",
+      "slug": "fundacoes",
+      "total_aulas": 12,
+      "aulas": [
+        "Introdução CBCS Fundações",
+        "Bloco Simples, Alicerce de Pedra, Concreto Simples",
+        "Sapata Concreto Armado",
+        "Viga Baldrame",
+        "Radier Concreto Armado",
+        "Fundações Profundas",
+        "Fundações Mistas",
+        "Impermeabilização",
+        "Como Escolher?",
+        "Material Didático",
+        "Encerramento",
+        "Como Escolher Fundação Segura e Eficiente a sua Obra"
+      ]
+    },
+    {
+      "id": 7,
+      "nome": "Estruturas e Vedações",
+      "slug": "estruturas-vedacoes",
+      "total_aulas": 15,
+      "aulas": [
+        "Convencional: Concreto Armado In-Loco e Alvenaria de Bloco Cerâmico 8 Furos - Parte 1",
+        "Convencional: Concreto Armado In-Loco e Alvenaria de Bloco Cerâmico 8 Furos - Parte 2",
+        "Entulho",
+        "Alternativas",
+        "Alvenaria Estrutural",
+        "Estrutura Metálica",
+        "Light Steel Frame, Wood Frame e Drywall",
+        "Paredes de Concreto Armado",
+        "Concreto Celular",
+        "Paredes e Painéis",
+        "Pré-Fabricados e Pré-Moldados",
+        "Bloco de ICF",
+        "Painel de EPS",
+        "Casa Container",
+        "Bioconstrução"
+      ]
+    },
+    {
+      "id": 8,
+      "nome": "Lajes",
+      "slug": "lajes",
+      "total_aulas": 5,
+      "aulas": [
+        "Introdução e Tipos",
+        "Laje Maciça e Treliçada",
+        "Laje Painel, Protendida e Nervurada",
+        "Lajes Light Steel Frame, Drywall e Wood Frame, Madeira, OSB",
+        "Laje Cascaje e Bambucreto"
+      ]
+    },
+    {
+      "id": 9,
+      "nome": "Coberturas",
+      "slug": "coberturas",
+      "total_aulas": 14,
+      "aulas": [
+        "Cobertura Cerâmica",
+        "Cobertura Fibrocimento",
+        "Cobertura Laje Impermeabilizada",
+        "Cobertura Telha Ecológica e PVC",
+        "Cobertura Telha Sanduiche",
+        "Cobertura Telha Sanduiche - Instalação Estrutura",
+        "Cobertura Telha Sanduiche - Manutenção",
+        "Cobertura Telhas Translúcidas",
+        "Cobertura Telhado Verde",
+        "Cobertura Telhado Verde Extensivo",
+        "Cobertura Telhado Verde - Exemplos",
+        "Cobertura Telhado Verde - Custos",
+        "Cobertura com Isolamento 1/2",
+        "Cobertura com Isolamento 2/2"
+      ]
+    },
+    {
+      "id": 10,
+      "nome": "Acabamentos",
+      "slug": "acabamentos",
+      "total_aulas": 11,
+      "aulas": [
+        "Forros",
+        "Pisos",
+        "Pisos 2",
+        "Pisos 3",
+        "Parede",
+        "Paredes Baixo Custo",
+        "Paredes Preços",
+        "Bancadas",
+        "Metais, Louças e Cubas",
+        "Parede Diferenciada",
+        "Estilos"
+      ]
+    },
+    {
+      "id": 11,
+      "nome": "Aberturas e Esquadrias",
+      "slug": "aberturas-esquadrias",
+      "total_aulas": 2,
+      "aulas": [
+        "Esquadrias",
+        "Aberturas"
+      ]
+    },
+    {
+      "id": 12,
+      "nome": "Instalações Residenciais",
+      "slug": "instalacoes-residenciais",
+      "total_aulas": 2,
+      "aulas": [
+        "Instalações Elétricas e Hidráulicas",
+        "Iluminação"
+      ]
+    }
+  ]
+}
