@@ -12,6 +12,28 @@ Ordem: mais recente no topo.
 
 ## 2026
 
+### [2026-05-01] DOC — Mapeamento georreferenciado do projeto criado
+
+Arquivo `docs/geo/alto_da_brisa_geo_v1.kmz` adicionado como fonte de verdade
+espacial do projeto. Contém: 3 polígonos (`alto_da_brisa_area_expandida` para o
+bounding box do terreno 3D, `sitio_sao_miguel` para o sítio inteiro,
+`alto_da_brisa_perimetro` para a Gleba 7) e 9 pins (casas planejadas, área
+social, airbnb, porteira, entrada do sítio, referência na estrada do Juncal).
+Coordenadas em WGS84 catalogadas em `docs/geo/features.md`.
+
+---
+
+### [2026-05-01] DECISÃO — Pipeline 3D definido para homepage
+
+Decisão D009 registrada: homepage será mapa 3D interativo com terreno gerado via
+Blender GIS (SRTM 30m via OpenTopography), estilização Cenário A (cor sólida
+derivada da paleta, sem fotorrealismo), integração Next.js via
+react-three-fiber. Rejeitadas alternativas baseadas em embed (3D-Mapper,
+maps3d.io, Sketchfab) por perda de controle sobre câmera, cliques e integração
+com Claudinho da Brisa.
+
+---
+
 ### [2026-04-29] SITE — Base de conhecimento gerada: 12 módulos organizados por tema
 
 Pipeline completa de knowledge base executada. 21 gravações de áudio mapeadas às

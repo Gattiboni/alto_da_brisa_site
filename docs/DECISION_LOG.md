@@ -28,6 +28,42 @@ Ordem: mais recente no topo.
 
 ---
 
+### [2026-05-01] D009 — Pipeline 3D para homepage interativa
+
+**Contexto:** Homepage definida como mapa 3D interativo com ícones clicáveis
+levando a subpáginas. Necessidade de gerar modelo 3D georreferenciado da área
+Juncal → encosta sul do Sítio São Miguel, com estética alinhada à identidade
+visual sóbria do projeto (não fotorrealista).
+
+**Alternativas consideradas:**
+
+- 3D-Mapper.com / maps3d.io com embed: perda de controle de câmera, cliques e
+  integração com IA — incompatível com requisitos de interatividade
+- Cesium ion + 3DTilesRendererJS: overkill para escala e ambição v1
+- Sketchfab embed: perde controle de runtime, não integra com Next.js
+- Pipeline próprio: Blender GIS + SRTM 30m + estilização Cenário A + Three.js
+
+**Decisão:** Pipeline próprio. Terreno via Blender GIS (DEM SRTM 30m via
+OpenTopography), estilização Cenário A (cor sólida derivada da paleta, sem
+fotorrealismo, sem vegetação 3D), exportação `.glTF`, integração no Next.js via
+react-three-fiber em fase posterior.
+
+**Racional:** Controle total da estética, da câmera, das interações e da
+integração com Claudinho da Brisa e ícones-clicáveis. Custo zero de ferramentas.
+Cenário A casa com a identidade contemplativa do projeto e escala bem em mobile
+com baixo peso de `.glTF`. Compatível com o princípio de zero dívida técnica e
+autonomia documentado em D001. SRTM 30m é suficiente para a escala da
+`area_expandida` (~1.18 km × 730 m); ALOS PALSAR 12.5m fica como upgrade
+reservado caso resolução decepcione.
+
+**Fonte de verdade espacial:** `docs/geo/alto_da_brisa_geo_v1.kmz`, com 3
+polígonos (`alto_da_brisa_area_expandida`, `sitio_sao_miguel`,
+`alto_da_brisa_perimetro`) e 9 pins. Catalogado em `docs/geo/features.md`.
+
+**Responsável:** Alan Gattiboni **Status:** Ativa
+
+---
+
 ### [2026-04-29] D008 — Estrutura da base de conhecimento: tema, não aula
 
 **Contexto:** O curso tem 89 aulas em 21 gravações de áudio sem correspondência
