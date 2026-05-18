@@ -1,0 +1,49 @@
+======================================================================
+LOG DE POLIMENTO — 09_coberturas.md
+======================================================================
+
+## LINHAS-CONFIRMAÇÃO REMOVIDAS (14)
+
+  L    3: 'Vamos lá.'
+  L    9: 'É.'
+  L  343: 'É.'
+  L   10: 'É.'
+  L  176: 'Exatamente.'
+  L  241: 'Exato.'
+  L  263: 'Exatamente.'
+  L  278: 'Exato.'
+  L  300: 'É verdade.'
+  L  385: 'Não.'
+  L  394: 'É.'
+  L  411: 'É.'
+  L  432: 'Isso.'
+  L  452: 'Exatamente.'
+
+## ESPAÇOS COLADOS DETECTADOS — REVISAR MANUALMENTE (1)
+
+  AVISO: o script NÃO corrige automaticamente. Detecta CamelCase suspeito
+  e lista aqui. Se for erro real, edite o arquivo de saída manualmente.
+
+     1x  'hatsApp' -> 'hats App'
+
+## VÍCIOS DE FALA APLICADOS
+
+    265x  \s+([.,;:!?])
+    187x  ,\s*né\?
+    169x  \.{2,}
+    102x  ,\s*né,\s*
+     41x  ,\s*gente,\s*
+     34x  ,\s*tá\?
+     22x  ,\s*tá,\s*
+     12x  ,\s*sabe\?
+      7x  (^|(?<=[.!?\n]))\s*Gente,\s+
+      6x  (^|(?<=[.!?\n]))\s*Assim,\s+
+      3x  ,\s*viu\?
+      3x  (^|(?<=[.!?\n]))\s*Tipo,\s+
+      1x  (^|(?<=[.!?\n]))\s*Olha,\s+
+
+## PARÁGRAFOS QUEBRADOS (3)
+
+  Parágrafos > 600 chars subdivididos em pontuação forte.
+
+======================================================================

@@ -12,6 +12,49 @@ Ordem: mais recente no topo.
 
 ## 2026
 
+### [2026-05-18] SITE — Polimento determinístico dos 12 módulos de conhecimento
+
+Pipeline determinístico Python (sem API, custo zero) executado sobre os 12
+arquivos `.md` em `knowledge/temas/`, com saída em `knowledge/temas_v2/`. Módulo
+4 (Orçamento) processado primeiro com normalização estrutural completa
+(`## Aula N:` → `### N.` dentro de `## Aulas`, gravações consolidadas em
+`## Transcrição` no final). Outros 11 processados em batch, preservando
+estrutura existente (Visão Geral / Aulas / Transcrição) e aplicando limpeza.
+
+Operações: remoção de vícios de fala inline (`, né?`, `, tá?`, `Peraí,`,
+`Gente,` etc), remoção de linhas-confirmação isoladas (`Exato.`, `Isso.`,
+`Beleza.`), juncão de quebras-preguiçosas de copy-paste, normalização de
+parágrafos > 600 chars, detecção (não correção) de CamelCase suspeito para
+revisão manual.
+
+Resultados:
+
+- Módulo 4: 2.015.079 → 2.003.001 chars (-12.078, -0.6%)
+- Outros 11: reduções entre -0.3% e -0.9% cada
+- Zero perda de palavras-chave técnicas (CUB, EVF, NPR, R$, valores numéricos,
+  nomes próprios)
+- Zero deformações de palavras acentuadas (bug Unicode de regex corrigido com
+  classes explícitas)
+- Espaços colados detectados: majoritariamente neologismos legítimos
+  (ConstruTinder, WhatsApp, WoodFrame, PowerPoint, LightShield, InfoDev) +
+  poucos erros isolados de copy-paste mantidos como estão por irrelevância
+
+Scripts: `scripts/polish_clean_modulo4.py`, `scripts/polish_clean_batch.py`,
+`scripts/polish_common.py`.
+
+Logs em `knowledge/temas_v2/*_polish_log.txt`.
+
+---
+
+### [2026-05-18] DOC — Avatar do Claudinho da Brisa criado
+
+Ilustração 3D estilizada de uma libélula (referência pessoal — tatuagem no
+pescoço do Tech Lead) finalizada como avatar oficial do Claudinho da Brisa.
+Posicionamento e specs finais (tamanho, variações, contextos de uso) a definir
+em revisão de aplicação.
+
+---
+
 ### [2026-05-01] DOC — Mapeamento georreferenciado do projeto criado
 
 Arquivo `docs/geo/alto_da_brisa_geo_v1.kmz` adicionado como fonte de verdade

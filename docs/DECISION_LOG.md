@@ -28,6 +28,48 @@ Ordem: mais recente no topo.
 
 ---
 
+### [2026-05-18] D010 — Polimento determinístico da base de conhecimento
+
+**Contexto:** A base de conhecimento gerada em D008 ainda contém vícios de fala,
+linhas-confirmação isoladas e artefatos de transcrição/copy-paste que prejudicam
+tanto a leitura humana quanto a qualidade do RAG do Claudinho da Brisa. Material
+de origem é audio + slides; estilo de fala é conversacional e cheio de muletas.
+
+**Alternativas consideradas:**
+
+- Claude API revisando cada chunk: custo estimado R$15–25 com Sonnet, risco de
+  alterar conteúdo técnico, ironia de gastar API processando conteúdo sobre
+  construção de baixo custo
+- Estratificação visual (Visão Geral visível / Aulas expandível / Transcrição
+  oculta) sem tocar no conteúdo: paliativo que carrega dívida técnica de
+  conteúdo sujo indefinidamente
+- Polimento determinístico Python puro: regex calibrados para vícios óbvios,
+  zero custo, zero risco de alteração semântica, log auditável de tudo que muda
+
+**Decisão:** Pipeline determinístico em Python puro, sem API. Limpeza
+conservadora: remove apenas padrões claramente identificáveis como vício
+(`, né?`, `, tá?`, `Peraí,` no início de frase, `Gente,` como muleta etc).
+Detecta mas não corrige espaços colados (CamelCase) por risco alto de falso
+positivo em nomes próprios e neologismos. Testes internos rodam antes de
+qualquer escrita validando regex contra 28 palavras acentuadas que devem ficar
+intactas.
+
+**Racional:** Qualidade da fonte define qualidade do RAG. O polimento na fonte
+pesa nada (1 segundo de processamento, custo zero) e elimina ruído que
+contaminaria todas as consultas ao Claudinho da Brisa. A estratégia
+determinística é também auditável: cada arquivo gera um log paralelo listando
+linha-por-linha o que foi removido, permitindo verificação humana. Ambiente de
+desenvolvimento (Linux + Python 3) e produção (Windows + Python 3.12) produzem
+output bit-a-bit equivalente.
+
+**Pós-decisão:** Saída em `knowledge/temas_v2/`. Originais preservados em
+`knowledge/temas/` como fonte histórica intocada. Aplicações que consomem a base
+(Claudinho da Brisa, páginas `/conhecimento/[slug]`) referenciam `temas_v2/`.
+
+**Responsável:** Alan Gattiboni **Status:** Ativa
+
+---
+
 ### [2026-05-01] D009 — Pipeline 3D para homepage interativa
 
 **Contexto:** Homepage definida como mapa 3D interativo com ícones clicáveis

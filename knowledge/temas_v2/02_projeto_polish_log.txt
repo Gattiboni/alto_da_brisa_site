@@ -1,0 +1,37 @@
+======================================================================
+LOG DE POLIMENTO — 02_projeto.md
+======================================================================
+
+## LINHAS-CONFIRMAÇÃO REMOVIDAS (0)
+
+  (nenhuma)
+
+## ESPAÇOS COLADOS DETECTADOS — REVISAR MANUALMENTE (2)
+
+  AVISO: o script NÃO corrige automaticamente. Detecta CamelCase suspeito
+  e lista aqui. Se for erro real, edite o arquivo de saída manualmente.
+
+     2x  'hatsApp' -> 'hats App'
+
+## VÍCIOS DE FALA APLICADOS
+
+     83x  ,\s*né\?
+     57x  \.{2,}
+     36x  ,\s*né,\s*
+     21x  \s+([.,;:!?])
+     17x  ,\s*tá\?
+     16x  ,\s*gente,\s*
+      6x  ,\s*sabe\?
+      4x  ,\s*viu\?
+      3x  (^|(?<=[.!?\n]))\s*Tipo,\s+
+      3x  (^|(?<=[.!?\n]))\s*Gente,\s+
+      2x  \s+né\?
+      2x  (^|(?<=[.!?\n]))\s*Olha,\s+
+      1x  ,\s*tá,\s*
+      1x  (^|(?<=[.!?\n]))\s*Assim,\s+
+
+## PARÁGRAFOS QUEBRADOS (4)
+
+  Parágrafos > 600 chars subdivididos em pontuação forte.
+
+======================================================================

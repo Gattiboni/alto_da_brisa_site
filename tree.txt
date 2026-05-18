@@ -1,0 +1,90 @@
+alto_da_brisa_site/
+├── .gitignore
+├── README.md
+├── corrigir_mapeamento.py
+├── merge_transcripts.py
+├── organizar_com_claude.py
+├── reestruturar_orcamento.py
+├── tree.txt
+├── docs/
+│   ├── CHANGELOG.md
+│   ├── DECISION_LOG.md
+│   ├── alto_da_brisa_wireframe_v2.html
+│   ├── identidade_visual.md
+│   ├── identidade_visual.txt
+│   ├── logo_alto_da_brisa.png
+│   ├── site_dod_v1.md
+│   ├── site_escopo_funcional.md
+│   ├── docs_sao_miguel/
+│   │   ├── DCR Sítio São Miguel.pdf
+│   │   ├── São Miguel - Croqui fxtaverna & mariannamar.pdf
+│   │   ├── Sítio São Miguel em Sapucaí-Mirim - MG - Demonstrativo SICAR.pdf
+│   │   └── divisaorv_2026.RV2dwg-Model.pdf
+│   └── geo/
+│       ├── alto_da_brisa_geo_v1.kmz
+│       └── features.md
+├── frontend/
+├── knowledge/
+│   ├── course_structure.json
+│   ├── curso_amanda_fernando_raw.md
+│   ├── curso_limpo.md
+│   ├── descricoes_das_aulas.md
+│   ├── mapeamento.json
+│   └── temas/
+│       ├── 01_introducao.md
+│       ├── 02_projeto.md
+│       ├── 03_terreno.md
+│       ├── 04_orcamento-planejamento-controle.md
+│       ├── 05_servicos-preliminares.md
+│       ├── 06_fundacoes.md
+│       ├── 07_estruturas-vedacoes.md
+│       ├── 08_lajes.md
+│       ├── 09_coberturas.md
+│       ├── 10_acabamentos.md
+│       ├── 11_aberturas-esquadrias.md
+│       └── 12_instalacoes-residenciais.md
+├── site/
+│   ├── README.md
+│   ├── eslint.config.mjs
+│   ├── next-env.d.ts
+│   ├── next.config.ts
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── postcss.config.mjs
+│   ├── tsconfig.json
+│   ├── public/
+│   │   ├── em_breve_alto_da_brisa.png
+│   │   ├── file.svg
+│   │   ├── globe.svg
+│   │   ├── logo_A_alto_da_brisa.png
+│   │   ├── next.svg
+│   │   ├── vercel.svg
+│   │   └── window.svg
+│   └── src/
+│       └── app/
+│           ├── favicon.ico
+│           ├── globals.css
+│           ├── layout.tsx
+│           └── page.tsx
+└── transcripts_original/
+    ├── ACBS-1-mp3-f29b7916-ae37.md
+    ├── ACBS-2-mp3-e89a59f8-d9b5.md
+    ├── ACBS-3-mp3-1c002704-59e6.md
+    ├── ACBS-4-mp3-ae51c3ce-dbdb.md
+    ├── ACBS-5-mp3-a47eb9d7-43f2.md
+    ├── ACBS-6-mp3-9f4dc8f7-c80f.md
+    ├── ACBS-7-mp3-d9a6a7e9-1416.md
+    ├── ACBS-8-mp3-a13f8da8-91aa.md
+    ├── ACBS-9-mp3-3673d3ff-61cc.md
+    ├── ACBS-10-mp3-b0fe09a4-2391.md
+    ├── ACBS-11-mp3-73b609e7-74b6.md
+    ├── ACBS-12-mp3-28ec0f5a-d6ba.md
+    ├── ACBS-13-mp3-450a2956-1e01.md
+    ├── ACBS-14-mp3-43c2ce6e-d49c.md
+    ├── ACBS-15-mp3-cd95f64c-901d.md
+    ├── ACBS-16-mp3-f9d31efa-f4e4.md
+    ├── ACBS-17-mp3-00b1232c-ecdb.md
+    ├── ACBS-18-mp3-8d627765-54b0.md
+    ├── ACBS-19-mp3-1fc7a719-02fe.md
+    ├── ACBS-20-mp3-4868cde7-3492.md
+    └── ACBS-21-mp3-b4199492-26e9.md
