@@ -17,954 +17,668 @@ O conhecimento adquirido aqui servirá não apenas para sua casa própria, mas t
 
 ### 1. Objetivo do Curso
 
-Qual o objetivo do curso? A ) Definir o que é a construção de uma casa convencional. Materiais e MétodosCusto Base B ) Detalhar todas as etapas da construção de uma casa.
+Sejam muito bem-vindos ao acervo de construção de baixo custo sustentável. Nós somos a Amanda e o Fernando, engenheiros civis, e a nossa missão aqui é te ajudar a construir sua casa sustentável até 50% mais econômica.
 
-Suficiente para fazer todas as contratações necessáriasSuficiente para fazer todo o planejamentoSerá abordado cálculos de quantitativosNão será abordado cálculo estrutural, somente o suficiente para a contratação C ) Explorar alternativas à construção convencional Introduzir alternativasFunçõesComo usar eficientementeComo não usar eficientementeComparação de custo / benefício em relação ao convencionalEstudos de casos D ) Itens Diversos relacionados a construção de casas
+Parabéns por ter escolhido esse caminho do conhecimento. Esse investimento em planejamento vai gerar muitos frutos. Você vai se agradecer lá na frente por ter tirado esse tempo para estar aqui conosco.
+
+#### Para Quem é Este Curso
+
+O conhecimento que você vai adquirir aqui vai servir não só para sua casa — que deve ser o principal agora — mas para várias situações:
+
+- Comprar e avaliar imóveis
+- Reformas
+- Construir com familiares
+- Iniciar novos empreendimentos
+- Pontos comerciais
+- Construir kitnets
+
+É conhecimento que, uma vez adquirido, permanece com você.
+
+**Um detalhe importante:** até nós, que somos engenheiros, não sabíamos construir uma casa quando saímos da faculdade. Essa é a realidade do mercado, porque a engenharia é uma faculdade muito ampla. A diferença é estudar de forma estruturada antes de começar.
+
+#### O Caminho do Aprendizado
+
+Todo mundo constrói. Você também vai construir com a gente. Tem assunto na sua vida que um dia você não soube nada sobre ele e hoje domina completamente. Você sabe qual o caminho que precisa seguir para sair do ponto zero — "não sei nada sobre construção" — até ter a confiança para fazer o investimento e construir de fato.
+
+> [!dica] Não desista nas primeiras aulas. Pode parecer informação demais no começo, mas depois de umas 10 ou 20 aulas você vai ser outra pessoa.
+
+#### Como o Curso Foi Pensado
+
+Fizemos tudo com muito carinho, pensando como se fosse para nós mesmos. E para durar também — para durar anos e anos.
+
+O curso foi pensado especialmente para pessoas leigas. Partimos do absoluto zero. Mas ele também é excelente para profissionais da área que estão precisando se especializar, se atualizar, ou querem entender sobre construção sustentável.
+
+A gente sabe que a faculdade não ensina tudo o que precisamos para atuar no mercado, ainda mais nesse nicho — o nicho de pessoas que têm menos recursos financeiros. Então, mesmo que você já saiba sobre construção, vai aprender muita coisa aqui com a gente.
+
+#### Nosso Compromisso
+
+Esperamos que vocês curtam o curso. Vamos estar sempre à disposição para atender vocês e tirar todas as dúvidas ao longo dessa jornada de construção da sua casa sustentável e econômica.
 
 ### 2. Etapas da Construção de uma Casa
 
-*Descrição não disponível para esta aula.*
+Uma casa é um objeto muito grande e complexo. Para tornar o processo compreensível, dividimos a construção em etapas menores — pequenos pedaços que, ao final, compõem o quebra-cabeça completo da sua residência.
+
+#### A Casa Se Constrói de Baixo para Cima
+
+A sequência básica de construção segue uma ordem lógica vertical:
+
+1. **Base (fundação)** — sustenta todo o peso da construção
+2. **Estrutura** — distribui as cargas e mantém a casa em pé
+3. **Fechamentos** — vedam os ambientes (alvenarias, lajes)
+4. **Cobertura** — protege contra chuva e sol
+5. **Instalações** — sistemas elétricos e hidráulicos
+6. **Acabamentos** — pisos, revestimentos, pinturas
+
+Essa é a parte física da obra — o que acontece no canteiro. Mas existe uma etapa anterior, frequentemente negligenciada, que determina o sucesso de tudo.
+
+#### As Etapas Mais Negligenciadas (e Mais Importantes)
+
+##### Antes da Obra Começar
+
+**Orçamento** é a etapa mais ignorada no mercado brasileiro. Muitos iniciam obras sem saber quanto vão gastar. Resultado: ou o acabamento sai péssimo, ou a obra para no meio por falta de dinheiro.
+
+> [!atencao] Não construa sem orçamento
+> Se você não sabe quanto sua casa vai custar, está apostando o dinheiro da sua vida. Mesmo com muito planejamento, construção ainda é investimento de alto risco. Todo planejamento na construção é pouco.
+
+**Projeto** também costuma ser pulado. A prática terrível do mercado: você pergunta ao profissional "quanto vai custar minha casa?" e ele responde "cadê o projeto?". Isso está errado.
+
+> **Nunca faça projeto antes de saber se consegue pagar para construí-lo.**
+
+Você pode (e deve) estimar custos **antes** de investir em projeto detalhado. Caso contrário, corre o risco de pagar por um projeto completo e descobrir que não tem orçamento para executá-lo.
+
+**Terreno** influencia dramaticamente os custos. A topografia, o tipo de solo e a infraestrutura disponível (água, luz, esgoto) podem fazer a diferença entre uma fundação de R$ 30 mil ou R$ 100 mil. Escolher terreno sem avaliar esses fatores é como comprar um elefante branco.
+
+#### Etapas Estruturadas do Processo Completo
+
+##### 1. Pré-Obra (Planejamento)
+
+- **Estudo de viabilidade financeira** — você consegue pagar pelo que quer construir?
+- **Levantamento de necessidades** — quantos quartos, banheiros, qual tamanho de cada ambiente
+- **Escolha do terreno** — com auxílio de profissionais
+- **Desenvolvimento dos projetos** — arquitetônico, estrutural, complementares
+- **Orçamento executivo** — detalhamento final de custos antes de iniciar
+
+##### 2. Serviços Preliminares (Preparação do Canteiro)
+
+A construção é uma fábrica temporária que se move até o seu terreno, constrói a casa e depois desmonta.
+
+- **Layout do canteiro de obra** — onde armazenar materiais, onde ficam os trabalhadores
+- **Infraestrutura provisória** — instalações para colaboradores, depósitos, tapumes
+- **Limpeza do terreno**
+- **Sondagem (SPT)** — estudo do solo
+- **Gabarito** — transferência do projeto do papel para o terreno real
+
+##### 3. Movimento de Terra
+
+Ajuste do terreno para receber a fundação. Muito caro quando mal planejado — existem formas de evitar ou minimizar essas movimentações.
+
+##### 4. Fundação
+
+A base que transmite o peso da casa para o solo. Funciona como os sapatos largos para andar na neve: distribui a carga em área maior para o solo aguentar.
+
+##### 5. Estrutura
+
+Pilares, vigas, lajes — o esqueleto que segura a casa. **Ponto de grande potencial de economia** através de escolhas arquitetônicas corretas.
+
+> [!atencao] Custo escondido
+> Muitos materiais usados na estrutura (formas de madeira, escoras, sargentos) não ficam na obra. Você paga para trazer, montar, desmontar e levar embora. É trabalho dobrado — por isso o planejamento aqui economiza tanto.
+
+##### 6. Vedação (Alvenaria)
+
+Fechamento dos ambientes. Pode ser convencional (bloco por bloco) ou estrutural (quando a vedação já é a própria estrutura, economizando etapas).
+
+##### 7. Cobertura
+
+Proteção contra sol e chuva. O sistema mais comum no Brasil é telha cerâmica com madeiramento, mas existem diversas alternativas mais econômicas.
+
+##### 8. Instalações
+
+- **Elétrica** — circuitos dimensionados para evitar problemas e desperdício de cabo
+- **Hidrossanitária** — redes de água, esgoto, águas pluviais
+- **Outras** — ar-condicionado, gás, lógica (internet/câmeras)
+
+Instalações são mais sobre **evitar prejuízos** do que gerar economias diretas. Fazer errado sai caríssimo para corrigir.
+
+##### 9. Forros
+
+Camada abaixo da cobertura. Muitas casas empilham camadas desnecessárias: estrutura do telhado + laje + forro de gesso + pintura. Dá para simplificar juntando funções.
+
+##### 10. Acabamentos
+
+Seguem a ordem: **forro → parede → piso** (de cima para baixo, para o piso resolver os respingos).
+
+**Grande área de economia potencial.** Muitas obras terminam na alvenaria, chapisco ou reboco porque o dinheiro acabou antes de planejar todas as etapas de acabamento.
+
+- Revestimentos de parede (cerâmica, porcelanato, reboco, pintura)
+- Pisos (porcelanato, vinílico, cimentícios)
+- Acessórios (cubas, torneiras, metais)
+- Bancadas (cozinha e banheiros)
+
+##### 11. Marcenaria
+
+Móveis planejados. Precisa ser pensada **antes** do projeto elétrico — você precisa saber qual fogão vai usar (a gás ou elétrico?) para dimensionar disjuntores e ventilação.
+
+##### 12. Outros Sistemas
+
+- **Muros** — custos comparáveis à própria casa
+- **Piscina** — convencional ou natural
+- **Paisagismo**
+- **Redes de esgoto e entrada de água**
+
+#### O Planejamento é o Verdadeiro Trabalho
+
+A obra é como um espetáculo de balé: **o ensaio é o trabalho real.** A apresentação (a construção física) só acontece uma vez, mas depende de preparação intensa.
+
+> Nós levamos dois anos planejando para construir 70 metros quadrados. Sem vergonha disso.
+
+Pode parecer que nada está acontecendo durante o planejamento, mas é ali que você:
+
+- Erra à vontade (no papel, barato)
+- Testa soluções
+- Compara custos
+- Encontra os pontos de economia
+- Evita retrabalho
+- Garante que o dinheiro não vai acabar no meio
+
+**Tudo que foi ensaiado no planejamento simplesmente acontece na obra.** Sem planejamento, você paga caro para descobrir os problemas em tempo real, quando consertar custa 10 vezes mais.
+
+---
+
+#### Resumo das Etapas na Ordem Cronológica
+
+1. Levantamento de necessidades e orçamento inicial
+2. Contratação de profissionais (arquiteto, engenheiro, orçamentista)
+3. Escolha do terreno
+4. Estudo preliminar + viabilidade financeira
+5. Desenvolvimento dos projetos (básico → legal → executivo)
+6. Orçamento executivo
+7. Preparação (suprimentos, cronograma, layout do canteiro)
+8. **Execução da obra** (serviços preliminares → fundação → estrutura → vedação → cobertura → instalações → acabamentos)
+9. Entrega e manutenção
+
+Cada etapa alimenta a seguinte. Pular qualquer uma aumenta drasticamente o risco de problemas e custos extras.
 
 ### 3. Comece pelo NÓ Necessidades vs Orçamento
 
-O material para baixar está disponível abaixo.
+O planejamento de uma casa sempre começa com um desafio: suas necessidades raramente batem com o orçamento disponível. Esse é o **nó** que você precisa resolver antes de qualquer outra coisa — antes de buscar terreno, antes de contratar profissionais, antes de desenhar qualquer projeto.
+
+Muitos anos trabalhando nessa área mostram o mesmo padrão se repetindo: "Amanda, preciso construir uma casa de 3 quartos, 2 andares, 200m². Meu orçamento é de 100 mil reais." O problema aqui é querer construir uma casa com 85% de economia em relação à média do mercado. Isso não é querer — é sonhar sem base na realidade.
+
+#### Por que as necessidades nunca cabem no orçamento inicial
+
+Quando você lista o que precisa sem considerar custos, naturalmente projeta mais do que pode pagar. É humano. Você imagina:
+
+- Quantos quartos a família precisa
+- Cozinha integrada ou separada
+- Área gourmet externa
+- Escritório para home office
+- Closet no quarto principal
+- Varanda ampla
+
+Cada ambiente, cada metro quadrado, é dinheiro. **Quanto maior a casa, mais cara.** Quanto menor a casa, mais barata. Mas isso não significa construir uma casa "fininha" — significa estudar alternativas inteligentes.
+
+#### Como resolver o nó
+
+Para desatar esse nó entre necessidades e orçamento, você tem três caminhos principais:
+
+**1. Financiamento**  
+Buscar crédito para ampliar o orçamento disponível. O curso de financiamento no acervo detalha como fazer isso de forma segura.
+
+**2. Dividir em etapas**  
+Construir o essencial primeiro, morar, e ampliar depois quando juntar mais recursos. Muitos alunos começam com um núcleo básico (2 quartos, cozinha, banheiro, sala) e expandem conforme a vida permite.
+
+**3. Aplicar técnicas de baixo custo**  
+O método CBCS (Construção de Baixo Custo Sustentável) pode gerar economia real, mas exige planejamento. Não é mágica — é trabalho intelectual antecipado que substitui gastos em obra.
+
+#### Definindo o tamanho da casa
+
+Antes de tudo, você precisa saber: **quantos metros quadrados consigo construir com meu orçamento?**
+
+A gente vai te ensinar uma forma fácil de calcular usando o ChatGPT (tem aula específica logo depois dessa). Mas a lógica é simples:
+
+**Orçamento disponível ÷ Custo por m² = Área construível**
+
+Em janeiro de 2025, uma estimativa grosseira para construção convencional (fundação até acabamento, sem muros, sem movimentação de terra, sem projetos) fica em torno de **R$ 3.000/m²**. Aplicando o método CBCS, você pode puxar isso para valores entre **R$ 1.000 e R$ 2.500/m²**, dependendo das escolhas.
+
+> [!atencao]  
+> Essa estimativa inicial tem margem de erro de até 35% para cima ou para baixo. Não é o valor exato — é a **ordem de grandeza**. A diferença entre ter R$ 50 mil para construir 200m² e ter R$ 400 mil para os mesmos 200m² é brutal. Entre R$ 400 mil e R$ 600 mil já é uma diferença possível de trabalhar.
+
+#### Levantando suas necessidades
+
+Como você vai responder a pergunta "o que eu preciso"? Comece pelo básico:
+
+**Quantas pessoas vão morar na casa?**
+- Você tem filhos? Quantos?
+- Idosos vão morar junto?
+- Os filhos dividem quarto ou cada um tem o seu?
+
+**Divisão de quartos e banheiros**
+- Quantos quartos?
+- Quantas suítes (quarto + banheiro privativo)?
+- Banheiro social compartilhado?
+
+**Visitas**
+- Você recebe muita gente?
+- Precisa de quarto de visita?
+- Ou é suficiente um sofá-cama na sala?
+
+**Animais**
+- Tem cachorro grande que precisa circular pela casa?
+- Gato que precisa de solução para não fugir?
+- Criação de galinhas, horta?
+
+**Outros ambientes**
+- Cozinha integrada ou separada?
+- Sala de estar, jantar, ou as duas juntas?
+- Despensa para alimentos?
+- Depósito para ferramentas, bicicletas, equipamentos?
+- Área de serviço — grande porque lava muita roupa, ou pequena porque é pouco usada?
+- Escritório para home office (um ou dois)?
+
+**Momentos especiais**
+O que você **não pode viver sem**? Por exemplo:
+- Preciso de uma poltrona confortável para meditar (não pode ser sofá)
+- Preciso de bancada ampla na cozinha porque cozinho todos os dias
+- Preciso de espaço para yoga, exercícios físicos
+- Preciso de local para guardar pranchas de surfe, bicicletas
+
+#### O exercício do dia a dia
+
+A melhor forma de levantar necessidades é **anotar sua vida atual**. Pegue o bloco de notas do celular e vá registrando:
+
+- Acordei. Odeio levantar da cama porque ela é colada na parede.
+- Não tem tomada ao lado da cama para carregar o celular.
+- A luz do quarto não tem interruptor perto da cama — tenho que levantar para apagar.
+- Fui lavar louça. A pia é muito baixa, dói as costas.
+- Não tem área para secar louça ao lado da pia.
+- Meu espaço de trabalho não tem iluminação natural, trabalho o dia todo com luz artificial.
+- A sala é pequena demais para o tamanho da família.
+- A área de serviço fica exposta, as visitas veem a bagunça.
+
+**Anote o que irrita.** Seres humanos identificam problemas muito melhor do que reconhecem o que está funcionando. Use isso a seu favor.
+
+#### Tamanhos de referência
+
+Quando você tiver a lista de ambientes, precisa estimar tamanhos. Algumas referências básicas:
+
+- **Sala de estar/jantar:** 4m × 5m = 20m² (bom tamanho)
+- **Quarto:** 3m × 4m = 12m² (confortável)
+- **Quarto pequeno:** 2,5m × 3m = 7,5m² (compacto, mas funcional em apartamentos)
+- **Banheiro:** 2m × 2m ou 2,5m × 2,5m
+- **Cozinha:** varia muito, mas 3m × 4m = 12m² já é boa
+
+Você encontra essas referências em:
+- **Livros:** Manual da Arquitetura Escassa
+- **Plantas baixas de apartamentos** que você já visitou ou morou
+- **Google:** pesquise "tamanho mínimo de sala para 6 pessoas" ou "layout de cozinha para família de 4"
+
+> [!dica]  
+> Meça sua casa atual. Meça a casa de amigos quando visitar (com licença, claro). Use o aplicativo **Medida** no celular — iPhone tem nativo, Android tem vários disponíveis. Você pode até medir a palma da mão (normalmente 15-20cm) e usar como régua improvisada.
+
+#### Somando as áreas
+
+Depois de listar ambientes e estimar tamanhos:
+
+**Ambiente** | **Dimensão** | **Área (m²)**
+--- | --- | ---
+Sala estar/jantar | 4m × 5m | 20
+Cozinha | 3m × 4m | 12
+Quarto 1 | 3m × 4m | 12
+Quarto 2 | 3m × 4m | 12
+Banheiro social | 2m × 2,5m | 5
+Área de serviço | 2m × 3m | 6
+Circulação (15%) | — | 10
+**Total** | | **77m²**
+
+Adicione sempre **15% de circulação** (corredores, passagens). Isso é fundamental e muita gente esquece.
+
+#### O confronto: necessidade vs orçamento
+
+Agora você tem:
+- Lista de ambientes
+- Área total necessária
+- Orçamento disponível
+
+**Exemplo prático:**
+
+Você precisa de 150m². Seu orçamento é R$ 300 mil.
+
+R$ 300.000 ÷ R$ 3.000/m² = **100m²** (convencional)  
+R$ 300.000 ÷ R$ 1.800/m² = **166m²** (aplicando CBCS)
+
+Se você aplicar o método de baixo custo com disciplina, consegue construir o que precisa. Se for pelo convencional, vai ter que cortar 50m² — um quarto inteiro, a área gourmet, o escritório.
+
+> [!atencao]  
+> Se a conta não fechar nem aplicando economia, você **não anda**. Não adianta contratar arquiteto, não adianta comprar terreno. Você resolve o nó primeiro: consegue mais dinheiro, diminui a casa, ou divide em etapas.
+
+#### Hierarquia de necessidades
+
+Nem tudo é igualmente importante. Classifique:
+
+**Essencial (não dá para morar sem):**
+- Cozinha funcional
+- Banheiro
+- Pelo menos um quarto
+- Sala mínima
+
+**Importante (piora muito a vida sem):**
+- Segundo quarto
+- Área de serviço separada
+- Varanda
+
+**Desejável (melhora, mas dá para deixar para depois):**
+- Terceiro quarto
+- Closet
+- Área gourmet
+- Piscina
+- Sauna, jacuzzi
+
+Se o dinheiro apertar, você corta de baixo para cima. E pode construir por etapas: mora no essencial, amplia quando juntar mais recursos.
+
+#### Ferramentas para estimar
+
+Você pode fazer isso:
+- **À mão**, em papel ou caderno de exercícios (tem no acervo)
+- **Em planilha Excel**
+- **No ChatGPT** (próxima aula ensina isso em detalhe)
+
+Tire foto das anotações e mande pro ChatGPT somar. Ele também pode sugerir tamanhos se você descrever suas necessidades.
+
+#### Recapitulando o fluxo
+
+1. **Liste necessidades** (pessoas, ambientes, funções)
+2. **Estime tamanhos** (consulte referências, meça casas)
+3. **Some as áreas** (não esqueça os 15% de circulação)
+4. **Calcule o orçamento necessário** (área × custo/m²)
+5. **Compare com o orçamento disponível**
+6. **Ajuste** até as duas pontas se encontrarem
+
+Só então você parte para buscar profissionais e terreno. Esse é o **primeiro passo inviolável**. Pular ele é receita para projeto engavetado, obra parada, dinheiro jogado fora.
+
+---
+
+**Próxima aula:** Como usar o ChatGPT para estimar necessidades e orçamento na prática.
 
 ### 4. Estimando Necessidades e Orçamento com Chat GPT
 
-Acesse o ChatGPT clicando aqui.
+O Chat GPT é uma ferramenta de inteligência artificial que pode auxiliar significativamente no planejamento inicial da construção. Não é possível ignorar essa tecnologia — ela está no mesmo patamar de inovações como energia elétrica, internet, computador e antibiótico.
+
+#### Acessando o Chat GPT
+
+Para começar a usar:
+
+1. Acesse `chatgpt.com` (ou `.com.br`)
+2. Cadastre-se gratuitamente
+3. A versão gratuita é suficiente para o planejamento de construção
+
+A ferramenta funciona como uma conversa. Você descreve sua situação e ela processa as informações para gerar respostas úteis.
+
+#### Levantando Necessidades da Casa
+
+##### Exemplo Prático de Conversa
+
+Em vez de fazer manualmente a lista de necessidades (como visto na aula anterior), você pode pedir ajuda ao Chat GPT:
+
+**Prompt exemplo:**
+
+> "Chat, eu tenho... Eu e meu marido trabalhamos em casa. Queremos estimar o tamanho de uma casa para construir, para atender nossas necessidades. Não sabemos quais são as nossas necessidades. Precisamos de dois escritórios, podendo ser reversível para suíte de visita. Faça banheiro social que atenda toda a casa. Gostamos de uma cozinha grande, queremos quarto com closet e banheiro. Queremos varanda e área de serviço. Me dê uma lista de ambientes com medidas mínimas e máximas em cada dimensão e áreas. E os somatórios."
+
+##### O Que a Ferramenta Retorna
+
+O Chat GPT vai processar e retornar:
+
+- **Lista de ambientes** com dimensões sugeridas
+- **Sala de estar e jantar integrada:** mínimo 6×4m, máximo 8×5m
+- **Suíte master** (com closet e varanda)
+- **Quarto 1** e **Quarto 2:** tipicamente 3×4m (mínimo) até 4×5m
+- **Closet:** 2×2m ou 2,5×2,5m
+- **Banheiro:** 2×2m ou 2,5×2,5m
+- **Varanda:** 2×3m a 2,5×4m
+- **Cozinha, área de serviço, dispensa**
+
+**Totais calculados automaticamente:**
+- Área mínima: ~82m²
+- Área máxima: ~132m²
+
+> [!dica]
+> Peça ao Chat GPT para adicionar 15% de circulação sobre essas áreas, pois corredores e circulações aumentam a área construída real.
+
+#### Estimando Custos Iniciais
+
+##### Convertendo Área em Custo
+
+Depois de ter as áreas, você pode estimar o custo total:
+
+**Prompt:**
+
+> "Custo de construção de R$3.000 por metro quadrado."
+
+O Chat GPT vai multiplicar as áreas pelos valores e retornar estimativas como:
+- Casa mínima: ~R$300 mil
+- Casa máxima: ~R$450 mil
+
+> [!atencao]
+> Esses R$3.000/m² são uma **média de mercado convencional** (valores de 2025). Aplicando técnicas CBCS, você pode reduzir significativamente esse custo.
+
+#### Calculando o Caminho Inverso: Do Orçamento para a Área
+
+##### Quando Você Tem o Dinheiro, Mas Não Sabe o Tamanho
+
+**Prompt exemplo:**
+
+> "Chat, eu tenho 250 mil reais para construir minha casa. Me ajude. Em quantos metros quadrados eu consigo construir? Sabendo que eu moro em Fortaleza, no Ceará. Já com custos indiretos inclusos. Tenho o terreno já. Meu terreno tem desnível de 1 metro. Falta eu fazer os muros e o portão de entrada. O terreno tem 240m². A casa quero de 2 andares. Leve tudo isso em consideração na estimativa dos custos."
+
+**O que o Chat GPT vai considerar:**
+
+1. **Custo por metro quadrado em Fortaleza:** R$2.500 a R$3.000/m²
+2. **Terreno com desnível:** adiciona 5-10% para nivelamento e fundações
+3. **Área do terreno:** 240m² com necessidade de afastamentos
+4. **Muros e portão:** deduz parte do orçamento (estimativa ~R$18 mil para desnível de 1m)
+
+**Resultado típico:**
+
+- Orçamento restante para construção: ~R$232 mil
+- **Área construível:** 70 a 85m²
+
+Variação depende de:
+- Acabamentos escolhidos (mais simples = maior área)
+- Eficiência do projeto
+- Técnicas CBCS aplicadas
+
+> [!exemplo]
+> Se priorizar acabamentos simples e técnicas econômicas, você pode chegar aos 85m². Se quiser acabamentos médios, ficará mais próximo dos 70m².
+
+#### Gerando Layouts e Visualizações
+
+Você também pode pedir ao Chat GPT para gerar esboços de layout. Embora a qualidade técnica ainda não seja profissional, serve para primeiras ideias:
+
+**Prompt:**
+
+> "Desenhe o layout para essa casa de dois andares, otimizando a área e as necessidades."
+
+**Limitações atuais:**
+- O desenho não tem precisão técnica (perspectivas distorcidas, detalhes incorretos)
+- Não substitui projeto arquitetônico profissional
+- Serve apenas para visualização inicial de conceito
+
+#### Pontos Importantes
+
+**O Chat GPT não substitui:**
+- Profissionais da área (arquitetos, engenheiros)
+- Levantamento detalhado no terreno
+- Projeto executivo
+- Orçamento executivo com preços da sua região
+
+**O Chat GPT auxilia em:**
+- Estimativas iniciais rápidas
+- Organização de ideias e necessidades
+- Comparação de alternativas
+- Primeira triagem de viabilidade
+
+**Margem de erro:**
+- As estimativas têm erro de **±35%** (ordem de grandeza)
+- Servem para saber se você está "no tamanho certo" do sonho
+- Não são valores precisos para compra de materiais
+
+#### Recomendações de Uso
+
+1. **Seja específico:** quanto mais detalhes você der (localização, terreno, necessidades), melhor a resposta
+2. **Itere:** converse, ajuste, peça alternativas — é uma conversa, não uma consulta única
+3. **Documente:** salve as conversas importantes para referência futura
+4. **Valide:** use os resultados como ponto de partida, não como verdade absoluta
+5. **Combine fontes:** cruze as estimativas do Chat GPT com planilhas do acervo e consultas a profissionais locais
+
+Quando múltiplas fontes (Chat GPT + profissional + planilha SINAPI) convergem para valores próximos, você tem maior segurança na estimativa.
+
+---
+
+**Próximo passo:** Na aula seguinte, você verá mais casos práticos de uso do Chat GPT, incluindo análise de orçamentos recebidos e aplicação da curva ABC para identificar os maiores custos.
 
 ### 5. Estimando Necessidades e Orçamento com Chat GPT 2
 
-*Descrição não disponível para esta aula.*
+Esta aula complementa o uso do ChatGPT para orçamentos, agora focando em **casos reais de reformas e análise crítica de orçamentos recebidos**.
+
+#### Orçando reformas com projetos existentes
+
+Quando você já possui um projeto ou uma lista de serviços a executar, o ChatGPT pode estimar custos rapidamente — mesmo sem expertise técnica.
+
+**Caso prático:** Uma aluna enviou lista de serviços que desejava executar em sua reforma:
+- Demolição de paredes
+- Construção de novas paredes
+- Instalações diversas
+
+Em vez de digitar tudo manualmente, é possível **tirar print da lista e enviar a imagem diretamente ao chat**. Ele reconhece o texto e trabalha com ele.
+
+**Prompt usado:**
+> "Estime quanto sairiam esses serviços [lista anexada]"
+
+O ChatGPT retornou estimativa inicial de **R$ 24.500**. Esse valor pareceu baixo, então o próximo passo foi refinar a análise.
+
+#### Refinando estimativas com áreas do projeto
+
+Para tornar o orçamento mais preciso, envie também o **projeto arquitetônico em PDF**. O chat consegue ler plantas baixas e extrair informações.
+
+**Prompt:**
+> "Quantos metros quadrados tem esse projeto?"
+
+Ele somou todas as áreas e retornou: **~70 m²**.
+
+A partir daí, foi possível solicitar estimativas específicas:
+
+**Exemplo — Assentamento de porcelanato:**
+> "Estime o assentamento de porcelanato nessa área de piso."
+
+O ChatGPT detalhou:
+- Mão de obra
+- Materiais (argamassa, rejunte)
+- Desperdícios estimados
+- **Total: R$ 4.000 a R$ 7.000**
+
+#### Orçando com projetos de marmoraria
+
+Quando há projeto complementar (ex.: marmoraria), envie também esse arquivo.
+
+**Prompt:**
+> "Levante quanto sairiam os mármores conforme este projeto."
+
+Ele estimou custos de:
+- Demolição (se necessário)
+- Assentamento
+- Marmoraria (bancadas, soleiras)
+- Pintura e acabamentos
+
+**Resultado:** A estimativa de pintura bateu **exatamente** com o orçamento real recebido pela cliente — R$ 5.000.
+
+#### Comparando orçamento recebido vs. estimativa do ChatGPT
+
+Aqui está o grande valor: **identificar onde o orçamento de terceiros está fora da curva**.
+
+A cliente tinha orçamento profissional em mãos. Ao comparar item por item com as estimativas do ChatGPT, descobriu que:
+
+- **Elétrica estava superfaturada:** R$ 22.000
+  - Razão: Incluso novo padrão de entrada da concessionária, custando sozinho mais de R$ 10.000
+  - Esse era o ponto crítico onde ela precisava negociar ou buscar alternativas
+
+Outros itens orçados (porcelanato, pintura, bancadas) estavam dentro da faixa esperada.
+
+> [!dica]
+> Use o ChatGPT para **auditar orçamentos recebidos**. Ele identifica rapidamente onde estão os custos mais altos e se eles fazem sentido.
+
+#### Pedindo revisões e otimizações
+
+Após enviar **todos os projetos** (arquitetônico, elétrico, hidráulico, marmoraria), solicite:
+
+**Prompt:**
+> "Refaça a estimativa completa considerando todos os projetos enviados."
+
+Agora a estimativa ficou mais próxima do orçamento real, porque incluiu todas as disciplinas.
+
+**Novo prompt:**
+> "Identifique os maiores custos nesse orçamento. Quais itens posso modificar para economizar?"
+
+O chat retornou os **itens mais caros** (aplicando a curva ABC automaticamente):
+1. Instalação de porcelanato
+2. Novo padrão de energia (Enel)
+3. Reparo em parede do vizinho
+4. Bancada em granito
+5. Pintura completa
+6. Gerenciamento de obra
+
+E sugeriu alternativas econômicas:
+- Porcelanatos menores (40x40 cm em vez de 60x60 cm)
+- Entender melhor a necessidade do novo padrão Enel
+- Negociar reparo com o vizinho
+- Substituir granito por alternativas (madeira, concreto polido)
+
+#### Validando somas e cálculos do orçamento
+
+Orçamentos manuais frequentemente contêm **erros de soma ou multiplicação**.
+
+**Prompt:**
+> "As somas deste orçamento estão corretas? Verifique todas as contas."
+
+O ChatGPT confere linha por linha e aponta inconsistências.
+
+#### Usos adicionais sugeridos
+
+**Para profissionais da área:**
+- Gerar orçamentos automáticos para clientes
+- Cobrar por projeto e usar o chat para agilizar levantamentos
+
+**Para clientes:**
+- Estimar quanto pagar por projetos antes de contratar
+  - Ex.: "Quanto devo pagar por projeto de alvenaria estrutural para casa de 120 m²?"
+- Solicitar análise crítica de projetos recebidos
+  - "Existem erros ou melhorias possíveis neste projeto?"
+- Pedir sugestões de materiais alternativos
+
+**Prompt modelo:**
+> "ChatGPT, vou fazer uma casa de [X] m², em [cidade/estado]. Estime quanto devo pagar pelos seguintes projetos: arquitetônico, estrutural, elétrico, hidráulico."
+
+#### Limitações a considerar
+
+- As estimativas têm margem de erro (sempre confira com preços locais)
+- Ele não substitui visita técnica ou análise in loco
+- Materiais e mão de obra variam por região — use como **ponto de partida**, não verdade absoluta
+- Sempre confronte múltiplas fontes: ChatGPT + fornecedores locais + profissionais + planilhas do acervo
+
+#### Combinando ferramentas
+
+O método mais robusto é:
+1. **ChatGPT** para estimativa rápida
+2. **Planilhas do acervo** (bases regionais, composições de serviços)
+3. **Profissional local** (experiência de campo, conhecimento de fornecedores)
+4. **Fornecedores** (preços reais atualizados)
+
+Quando todas essas fontes convergem para valores próximos, você tem alta confiança na estimativa.
+
+> [!atencao]
+> Nunca tome decisões de investimento alto baseando-se em **uma única fonte**. Use o ChatGPT como ferramenta de checagem rápida e ponto de partida — não como oráculo final.
+
+---
+
+**Deixe nos comentários:** Que outros usos você encontrou para o ChatGPT em construção? Compartilhe para ajudar outros alunos.
 
 ---
 
 ## Transcrição
-
-### Gravação 1
-
-Sejam muito bem-vindos ao acervo de construção de baixo custo sustentável Olá, eu sou a Amanda. E eu sou o Fernando. Nós somos engenheiros civis e a nossa missão aqui é te ajudar a construir sua casa sustentável até 50% mais econômica. Então, parabéns pra você por ter escolhido esse caminho do conhecimento. Eu te garanto que você vai ver, isso vai te gerar muitos e muitos frutos. Você vai se agradecer lá na frente por ter feito esse investimento em conhecimento, em planejamento e ter tirado esse tempinho pra estar aqui com a gente.
-
-Vai servir não só para sua casa, que deve ser o principal agora, mas para várias situações de comprar imóveis, avaliar imóveis, reformas, construir com os familiares, precisar de ajuda. Até começar novo empreendimento, ponto comercial, construir kitnets. É conhecimento que uma vez que você adquire, até nós que somos engenheiros não sabíamos construir uma casa. Até quando saímos da faculdade de engenharia não sabíamos construir uma casa. Essa é a realidade do mercado porque a engenharia é uma faculdade muito ampla. Todo mundo constrói. Você também vai construir com a gente.
-
-Imagina estudar bem antes. Estruturado. É tudo sobre isso. Eu tenho certeza que tem assunto na sua vida que dia você não soube nada sobre ele e hoje em dia você domina completamente e você sabe qual o caminho que a gente tem que seguir para poder sair do ponto zero, que eu não sei nada sobre construção, até ter a confiança para fazer o investimento e construir de fato. Então não desiste nas primeiras aulas, que é meio informação demais mesmo, mas depois de umas 10 ou 20 você vai ser outra pessoa. Espero que vocês curtam o curso.
-
-A gente fez tudo com muito carinho pensando como se fosse para a gente mesmo. E de novo, ele é pensado. E para durar também. Para durar anos e anos. Na verdade, a gente pensou ele especialmente para pessoas leidas, então a gente vai a partir do absoluto zero, mas ele também é excelente para profissionais da área que estão precisando se especializar, se atualizar, querem entender sobre construção sustentável. A gente sabe que a faculdade não ensina tudo o que a gente precisa para atuar no mercado, ainda mais nesse nicho.
-
-Que é o nicho de pessoas que têm menos recursos financeiros, então tenho certeza que meio que vocês já saibam Sobre. Construção, vocês vão aprender muita coisa aqui com a gente. Então, já pode ir para a próxima. Aula que agora a gente vai te. Explicar em detalhes o que é o acervo. Precisa ter orçamento, precisa ter o planejamento e o controle de obra. Então, quando a gente abre esse módulo. É só uma casinha vou fazer uma papelada de planejamento de orçamento para.
-
-Que precisa gente você vai aprender nesse módulo aqui como fazer orçamento da estimativa inicial até o executivo então a gente vai partir do absoluto não tem o projeto quero saber quanto consigo construir com o meu orçamento mesmo sem projeto até meu projeto estar executivo, como é que funciona o orçamento executivo, e também como orçar alguns serviços, como é que eu faço para saber quanto é que o serviço vai custar, quanto tempo vai demorar, tudo você vai aprender nesse módulo aqui.
-
-A gente também ensina como é que você compra de fábrica materiais para tirar a loja do meio, quadro de concorrência para você poder fazer comparativo de onde comprar esse material, custos indiretos, que são custos que estão associados à obra, mas não são material em mão de obra, E além disso, a gente tem dois estudos de casos, ou seja, na prática, executando como é que funciona, junto com diário de obra, acompanhamento na obra todos os dias do que está acontecendo, como é que você faz esse acompanhamento, como é que você faz o controle financeiro da sua obra.
-
-Então, tudo está explicadinho aqui, tanto teórico quanto na prática, com planilhas orçamentárias também de casos reais. Essas planilhas, arquivos e as coisas escritas, elas vão representar a realidade. Para ser uma representação da realidade. Porque ela sai muito mais barato a gente ter essas representações em arquivos hoje em dia no computador, antigamente no papel. E a partir desses planejamentos aqui é que acontece economia. Você encontra os locais onde vaza dinheiro e consegue economizar. Eu vou falar bastante de terreno também. Essas aulas mudam bastante.
-
-A lógica de uma casa Funciona muito assim, de terreno, projeto, orçamento, controle de obra. Isso aqui é uma parte mais teórica. Aí vai ter a parte mais prática da casa, que são serviços preliminares lá na obra. Preparar todo o canteiro de obra, gabaritar e acertar movimento de terra.
-
-Para poder começar a levantar as primeiras estruturas da casa, as fundações, as elevações, a cobertura, porque assim, a cobertura não seria a estrutura mesmo da casa, tem gente que bota a cobertura na estrutura da casa, parte da cobertura na estrutura da casa, tem gente que bota, não bota, aí a gente tem, a nomenclatura é sempre assim.
-
-Instalações residenciais muito importante que é elétrica, hidro sanitário e outros tipos de instalações que tem instalação de ar-condicionada, instalação de drenagem pluvial a partir daí a gente teria outras instalações de lógica internet ou com câmeras de segurança outros tipos de sistemas coberturas vou falar dos tipos de cobertura que tem para casa então uma casa meio que vai de baixo para cima você percebe orçamentos vocês vão ver nas aulas de orçamentos eles também se estruturam assim os orçamentos você vai dividindo as coisas em tópicos para poder tirar cada uma com calma não dá para engolir tudo uma vez a gente vai falar das aberturas esquadrias, que é elemento que entra nas elevações, e os acabamentos que dá para fazer em todas as partes.
-
-Aqui está bem sintético e rapidamente se expande as coisas. Cada dos itens que a gente vai falando, a gente vai falar dos básicos, fundações mais básicas, as fundações É. Tipo tem aula tem que estar escrito fundações não é uma aula de fundações ou tipo umas 10 aulas de fundações não é porque ia ficar muito grande aqui o Whimsical né. A gente está tentando só mostrar aqui a estrutura que a casa de baixo para cima tem a parte mais teórica menos obra né. A gente vai ter a parte mais de obra os elementos da obra certo.
-
-Você vai ver lá a aula que não acaba mais falando do básico do convencional e mostrando alternativas. Comparando onde é que essas alternativas brilham, a gente tenta utilizar o mínimo de esforço possível. Se a gente pudesse não fazer esforço nenhum em nenhuma casa, era esse o objetivo, mas não dá. Então a gente tenta usar o mínimo. Ver como é que usa o melhor do terreno, como é que usa o melhor do projeto, do planejamento, porque a ideia de projeto e planejamento não é uma obrigatoriedade que você tem que pagar. Ali na prefeitura, por qualquer motivo.
-
-Não, a ideia é que você use e abuse desses elementos aqui, porque muitas pessoas só simplesmente pedem projeto, pedem orçamento, não entende o que está acontecendo, não sabe o que pode pedir. É que vocês vão ser treinados arduamente para poder chegar nos profissionais e exigir o máximo deles, poder identificar. não sabe nem do que eu estou falando. Esse aqui. Tá entendendo o que é que eu tô falando? É isso aqui que vai munir vocês para construir uma casa convencional e ter economia. E também aplicar até segurança para aplicar alternativas.
-
-Aí a gente vai mostrando a alternativa a gente se aprofundou em dois tipos de alternativas e se aprofundou tanto que a gente fez cursos próprios delas deles e a de bio e auto construção e o de tijolo ecológico. Esse bio e auto construção são técnicas que utilizam materiais mais rústicos são naturais rústicos naturais são técnicas utilizadas milenarmente antes de surgir e ser popularizado o cimento póstulo e o aço. São técnicas que a gente pode puxar o custo assim ao mínimo possível.
-
-Então se você está buscando o mínimo de custo possível, vale a pena aprender algumas dessas técnicas e aplicá-las. São as técnicas que mais tem capacidade de colocar a mão na obra, você poder entrar com sua auto construção. E também são as técnicas que mais geram benefícios no quesito saúde para a sua casa. A gente sempre vai bater muito nessa tecla. Tem muito sobre o solo, madeira e pedras, que são os elementos naturais que a gente vai estar utilizando.
-
-E muitas técnicas, palpite, taipa de pilão, cobre, telhado verde, paredes e muros de arremes de pneu, pisos e argamassas de solo cimentício, reboco natural, calcifite, sistema cobra, geotintas, tijolo de adobe. Tá faltando alguns aqui, sempre tá faltando essa tabelinha aqui, é só pra ter uma ideia. Bioconstrução estaria nesse lixo, estaria nesse âmbito. Então a gente tem outro curso que a gente aprofunda de Geoecologia. Foi o método que a gente escolheu porque ele une a bioconstrução com a indústria.
-
-Então ele é uma forma da gente ter uma bioconstrução que já vem mais pronta, mais industrializada, que a gente não precise fazer em obra. Ele traz as vantagens da bioconstrução com as vantagens do capitalismo. E você poder comprar algo mais pronto pra você usar, né. Então a gente traz comparativos com outros blocos pra você entender as vantagens e desvantagens e também preços, traz projetos e ligações com outras estruturas, então tijolo ecológico, estrutura metálica, concreto armado, madeira, fabricação, pra você quer fabricar, normas pra você.
-
-Possibilita você virar fabricante, assim, limune das coisas o suficiente pra você começar a explorar isso de fabricar tijolos. Comprovação científica, então a gente mostra com estudos científicos as vantagens do tijolo ecológico. E aí a gente tem os treinamentos em autoconstrução, porque sim, o tijolo ecológico você mesmo pode construir, inclusive essa parede atrás da gente aqui, eu e o Fernando fizemos várias fiadas delas, e da sala também.
-
-Além disso, a gente te explica todos os acabamentos que você pode utilizar, como comprar o tijolo ecológico, patologias para você evitar no tijolo ecológico. Aí tem uma aula maravilhosa para quem quer fabricar os próprios tijolos, quer saber se vale a pena essa economia, que é o estudo de viabilidade de fabricação de tijolos ecológicos. Aqui tem inclusive uma planilha exclusiva nessa aula, que vai te mostrar se vale ou não a pena você fabricar os seus próprios blocos, e quanto é que vai ter o retorno sobre o investimento de você montar essa fábrica de tijolo ecológico.
-
-E agora a gente tem também curso exclusivo aqui do Acervo de Cálculo Estrutural de Tijolo Ecológico, especialista na área. Esse curso é muito bom pra quem é profissional da área e tá aqui, querendo se especializar mais em tijolo ecológico. Não é curso exatamente para você leigo, tá bom? Então, essa aula você pode pular, caso você só esteja aqui pra poder gerenciar a sua obra. Mas se você for profissional da área, essa aula vai te ajudar muito. Para profissionais. De profissionais para profissionais. A gente tem casa financiável, baixo custo.
-
-Então, financiar, pegar o dinheiro do banco, como é que a gente faz. Tanto no convencional como em técnicas diferentes. Ou seja, dá para financiar em tijolo ecológico, dá, termos que termos se aplicam. Você tem que ver como é que faz aqui nessas aulas. Vou botar tijolo ecológico dele, sanduíche, rádio de concreto polido. E os outros tipos de alvenarias estruturais são aceitas, de bloco de concreto, bloco de cerâmico estrutural. De.
-
-Então a gente mostra aqui nessa parte de financiamento o que você vai precisar para conseguir o seu financiamento, principalmente na Caixa Econômica Federal, mas os outros. Bancos também, que são ainda mais fáceis. E a gente também te ensina o passo a passo.
-
-Qual é, como é que você sai do ponto zero até o ponto de estar na sua obra financiada, já rodando, e como é que funciona, uma obra financiada, como é que você recebe esse dinheiro, que horas fazer o projeto, quais projetos você vai precisar, quais profissionais você vai precisar, quais requisitos técnicos, financeiros e legais você também vai precisar, como é que eu digo, É isso aí, entendeu? Quais você vai precisar. Está ok. A burocracia também. E muito mais. E também quais técnicas você consegue financiar. Tem muita técnica de baixo custo sustentável para financiar.
-
-Então sempre que me perguntam, Amanda, dá para financiar uma casa ecológica de baixo custo? Com certeza, meu amigo. Com toda certeza do mundo. E a gente ensina nesse curso aqui. E como financiar 100% da obra, certo? E sem problema nenhum. Sem ter que discutir, sem brigar, nada. Além disso, você vai ter acesso a planilhas. A gente tem uma planilha de estimativa de custos, que tem algumas comparativas lá. E essa planilha, ela usa os insumos, ela usa uma base da Cenfru Ceará. E ela faz. A gente tem várias composições de serviços, por exemplo, como fazer uma alvenaria.
-
-Uma alvenaria precisa de tijolos, precisa do pedreiro, precisa de argamassa, certo? E precisa de quanto de areia, quanto de cimento, quanto de tijolos, quantas horas do pedreiro. Tá tudo lá, a gente traz da própria base da CINFA, só que conecta isso com os insumos. Aí se você trocar o preço do cimento, trocar a hora do seu pedreiro, trocar o preço da areia, a planilha recalcula todas as composições para o seu caso. Além disso, tem alguns comparativos nela e outros recheios interessantes que ela tem. Tem várias aulas também ensinando a utilizar a planilha, tá gente?
-
-Não é só a planilha e boa sorte não. Tem várias aulas ensinando a usar. A planilha de custos simplificados é uma evolução dela. É uma evolução, certo? E ela tem mais comparativos de uma forma mais simples da gente visualizar na primeira página. E também uma forma mais simples de eu ver quais são os itens mais caros de cada daqueles serviços para poder focar neles. É a mão de obra, ou é o pedreiro, ou é o tijolo, ou aço. É A o cuva ABC é aplicada aos serviços. Aplica a cuva ABC aos serviços. Só que eu tenho ideias para amplificar isso aqui.
-
-E essas planilhas, elas são muito bem utilizadas quando você usá-las junto com o seu profissional da área, tá bom? Para conferir que não estão esquecendo nada em nenhum serviço. Uma maneira assim de você tentar chegar no custo, tentar saber, será que esse preço que eu tenho, ele é representativo? Vai acontecer mesmo, porque eu estou estimando que eu vou gastar dois mil reais ali naquela parede, naquela fundação, naquele servidor, eu vou gastar dois mil reais. Mas como é que eu vou saber se esse valor é real?
-
-Quando você une várias informações diferentes, elas acabam convergindo para valor, uma média de valor. Então você tem uma planilha dessa aqui com a base de dados da CENF. O construtor, ele tem outra base de dados, outra experiência de custos. Você pergunta também com as inteligências artificiais, que a gente ensina também nas aulas de entrada do projeto. Você vai unindo essas informações e elas convergem. Não, se os três estão apontando aqui pra mais ou menos tal média, eu tenho uma chance muito maior de você. De ser tudo representativo. Essa informação ser real.
-
-Então, as planilhas ajudam nisso. A gente tem a planilha também da. A gente fez a planilha aqui das duas casas que a gente fez aqui. Com o diário de obra, pra você ver como foi o diário de obra e copiar pro seu caso, porque você precisa ter diário de obra. Mas, Fernanda, a Amanda não sei o que é diário de obra. Vai aprender. Você vai aprender nas aulas, tá ensinado qual é a importância dele, como usar ele, pra quê que serve. Não é só negócio pra você preencher e você ganhar uma nota, sei. Lá, ganhar diploma. É muito importante, é. Não é.
-
-Pra você, é uma ferramenta, é tipo uma espada, martelo, pra você usar e abusar. Livros também, tem trabalho de conclusão de curso da Amanda, tem exercícios, tem. Pra você que é a Amanda, quer checklist pra saber que não tô esquecendo nada sobre essa aula, tem caderno de exercícios pra você exercitar as aulas mesmo. Vai ter aulas de casos reais, a gente trabalha também com casos reais de alunos, a gente pega assim caso, olha teve essa dúvida, teve cinco dúvidas aqui parecidas sobre desnível, sobre muro, sobre piso granulite, sobre lençol freático.
-
-Aí a gente junta elas, olha, você vai ver essas perguntas aqui, lençol freático é isso aqui, desnível é isso aqui, melhor maneira de você fazer Então a gente pega e vai complementando com aulas rápidas que são baseadas em casos reais. Sempre está sendo atualizado. Não tem só esses casos reais, tem as gravações das mentorias que a gente fez já. E essas reuniões, o Ken, essa lente delas aqui, É que os casos se repetem. Se repetem demais. E você também passa a se questionar coisas que você não sabia que era pra você se questionar. E eu nem pensei que eu tinha esse problema.
-
-Então você vai vendo casos reais de outros alunos que entraram por os mesmos motivos que você entrou aqui no Acevo. A gente vai ver o que eles enfrentaram na hora de aplicar o método, as dúvidas que surgiram. Então, basicamente, é o método aplicado aqui com 50 exemplos do método sendo aplicado na prática em obras reais. Aí cortes. A gente tem os cortes também. Cortes das mentorias. Por quê? Porque as mentorias têm duas horas, certo? E você vai ter que procurar o tema. Apesar de que a gente bota no título todos os vários temas que aconteceram nas reuniões, certo?
-
-Mas os cortes a gente pega separado os casos e as perguntas e nomeia eles para você poder pesquisar eles mais rapidamente. Eu quero saber sobre tijolo ecológico. Você vai só clicando em coisa que tem tijolo ecológico. Tijolo ecológico, financiamento em Ceará, projeto de casa, declínio. Envaso com declínio, certo? Pronto. Aí você vai poder pesquisar. A gente vai mostrar aqui a plataforma por dentro. A gente está só mostrando a estrutura aqui para vocês, certo? Bônus. Não eram bônus, Amanda Fernandes, não eram bônus. A gente tem vários outros bônus. Mais aulas gravadas.
-
-Não, eu não aguento mais aulas gravadas. Agora você vai assistir essas aulas. Você vai assistir, vai construir e a gente vai devolver o seu dinheiro. Vamos. É desse jeito que vai ser. INSS, como economizar no INSS. Eu tenho que pagar a obra, tem INSS e ainda dá pra economizar. Dá pra economizar até 100% do INSS, gente. E aí são com especialistas na área. A gente traz outros profissionais especialistas, que a gente não tem como saber tudo, né. Então eles nos auxiliam aí, trazendo conhecimento específico deles.
-
-A gente tem os vídeos da construção das duas casas, e eles saem no YouTube, só que saem uma versão cortada, menor, pra ser mais bonitinho pro YouTube. Aqui ela é mais limpa e maior, com mais detalhes técnicos. A gente tem que cortar os detalhes pra ir pro YouTube, porque não dá tanta visualização lá. E pra cá o pessoal tem mais tempo, o pessoal tá comprometido, vocês se comprometeram. Aí assiste bem e absorve os dados melhor.
-
-Então aqui são aulas em canteiro de obra, então obra real, aqui você vai ver todo o passo a passo, como é que a Amanda executou o radier, como é que o Fernando fez aquela parede, como é que o container chegou no lugar, tá tudo descriminado aqui em detalhes aprofundados. Parte 1, parte 2, por 1.
-O rejunte tem aqui a receita, cimento queimado, a tinta base de cal, a preparação do radier, a fundação, tudo do gabarito tá escrito aqui. O reboco, o cimentice, a estrutura do telhado. Execução mesmo. Método construtivo ICF. Especialista na área também.
-
-Eu não sei o que é ICF, você vai descobrir o que é ICF aqui em várias aulas. A gente tem a Casa Paz, que é projeto de autoconstrução sustentável na prática. É uma casa aqui do nosso condomínio que foi feita com as próprias mãos por pessoas que também não são da área e ela aborda várias técnicas construtivas maravilhosas como adobe, o bambuque, bambucreto, parede de garrafa, parede de latinha, parede de pneus. Então são técnicas aplicadas na prática de bioconstrução também para você vê-las numa casa real aqui do nosso condomínio, nosso vizinho.
-
-É o arquiteto Bernardo que também tem mais algumas aulinhas aqui só sobre projetos com ele. Aí tem a lista Green aí também, que é para você encontrar fornecedores sustentáveis no Brasil todo, inclusive de tijolo ecológico, profissionais e outros serviços de sustentabilidade. É uma listagem mesmo desses fornecedores e materiais. Tiago, não, Paulo Trigo, você conhece o Paulo Trigo? Ele também tem aqui uma conversa com a gente. Uma obra dele, ele mostrando detalhes da obra dele.
-
-Que não saiu no YouTube, esses detalhes, essa aula com todo esse conhecimento que o Paulo Trigo tem específico sobre a área. Inclusive aqui a gente está colocando alguns tours estendidos, então aquelas partes mais interessantes do tour a gente corta para o YouTube e deixa no YouTube só uma versão bem resumida e aqui você tem acesso ao tour completo, com todos aqueles bizus e segredos da construção mesmo que a gente guarda aqui para vocês no Acerva Sete Chaves.
-
-É muito grande esse acervo mesmo, pois é, você ainda não viu nada, vamos lá. esse curso da B&B Autoconstrução com Tijolos Ecológicos, eu acabei de falar que o B&B Autoconstrução com Tijolos Ecológicos, maravilhoso também, são aulas tanto em campo quanto teóricas sobre pessoas que não são pedreiros, não são serventes, como é que elas estão fazendo a própria casa com as próprias mãos. Então pra você quer autoconstruir, são aulas sobre autoconstrução e fabricação na prática, assim, em todos os bisus também, como é que duas pessoas leigas estão construindo a própria casa com as próprias mãos.
-
-Esse reality show está incrível, reality show. Tem projetos prontos pra você poder baixar em arquivos, tanto em PDF como arquivo editável no Revit. De 1, 2, 3, 4 quartos, casa de 85 metros quadrados, 150, 200, 240, sobrados, famílias de Revit, pra você que trabalha com Revit, ter bloco de tijolo ecológico, ter alguns, a gente sabe que bloco é difícil de encontrar no Revit. Então pode pegar todos os que a gente já colecionou ao longo dos anos, é tipo figurinha de WhatsApp. Você quer pouquinho pra profissionais, mas também pra.
-
-Mas se você quer uma casa simples, aí tem projetos de casa simples que você já pode utilizar. Também tem as gravações também de outros intensivões aqui, se você quiser assistir. E a gente tem a comunidade. Que tem uma aula só sobre ela. Talvez seja até melhor do que todo o resto aqui. Mas a gente vai ter uma colaboração entre. Agora a gente vai ter aula sobre a comunidade. Vamos ter aula sobre a comunidade. Tá bom. Vamos lá. Aí ele vai abrir a página, certo? Aí você bota seu e-mail, sua senha e entra. Outra forma de entrar é pelo aplicativo de iPhone e de Android.
-
-Você pode baixar o aplicativo daqui e bota seu login, sua senha, de cadastro e vai aparecer para você entrar no Acervo. É isso aqui ó, você tem botãozinho para entrar no Acervo, certo? Aí você entra clicando no botãozinho para entrar. Você vai estar nessa paginazinha verde rolando as aulas e os módulos que você vai estar podendo acessar.
-
-Por enquanto você está aqui assistindo uma aula de introdução do Acervo, inclusive, essa aula é específica, toda essa introdução foi reagravada especificamente para a sua turma, porque a sua turma é a que tem acesso ao Construir ou Ganhou, isso não aparece para outras turmas, é realmente exclusividade aqui para vocês. E aí você pode assistir a introdução do Acervo, que te explica a usar o Acervo completamente, conhecer os grupos e entrar nos grupos tanto na comunidade no Telegram quanto no grupo de avisos no WhatsApp, é essa aula aqui.
-
-E o Construir ou Ganhou, que é a nossa promoção exclusiva aqui para a turma de vocês. Descendo a tela, a gente vai ter os cursos abertos. A gente tem escrito ali no topo, curso, casa baixo custo sustentável, aí descendo mais custo tijolo ecológico, descendo mais bio e auto construção, casa financiável baixo custo sustentável, casos reais. Então, cada uma dessas seções é basicamente curso, conjunto de cursos. E vocês estão vendo que dentro desse conjunto de cursos tem várias seções, que são os módulos desse curso.
-
-Como, por exemplo, aqui a gente tem o módulo fundação, o módulo projeto, o módulo orçamento. Vamos clicar em fundações. E aí a gente tem, quando a gente entra no módulo, acesso às aulas. E quando você clica em uma das aulas, do lado direito você vai ter acesso a todo o conteúdo desse curso específico. Atenção, não são todas as aulas do acervo. Aparece desse lado direito todas as aulas desse curso, separado em módulos. Quando você assistir a aula, você dá o ok ali no cantinho, mostrando que assistiu essa aula. Dá uma notinha pra gente do que você achou da aula, por favor.
-
-E pode deixar o seu feedback abaixo aí nessa parte de comentários, tá bom? E também dê uma olhada sempre nessa parte aí, porque a gente geralmente deixa materiais pra download e outras coisas também que a gente acha que sejam legais. Planilhas, tudo fica. E as aulas também. O PDF das aulas. Tudo fica descrito aí na parte de materiais. Quando tem o material. Aqui o material da aula. E a gente também tá trabalhando pra sempre deixar, tem uma pessoa da nossa equipe trabalhando pra sempre ir recheando ainda mais essas aulas.
-
-Junto com PDFs pra download, resumo, mini resumo do que você vai aprender na aula. Então, a gente sempre tá estruturando a servei da melhor forma. É isso. Não, não, não. A gente tem essa parte aqui também de ajeitar a qualidade e a velocidade. Você pode assistir em dois, duas vezes. Ou quatro vezes, se você for alienígena. É, tela cheia e tudo, certo? Aí você ir voltando pro início, ver todos os módulos. Esse aqui é o de casa, baixo custo sustentável. Próximo módulo aqui, igualzinho como estava lá na estrutura. Custo de tijolo ecológico, todos os cliques aqui.
-
-Custo de bioautoconstrução, os cliques aqui. Custo de casa financiável, esses aqui. Aí casos reais, aquele lá de cortes de mentorias e aulas rápidas. Aí o caso do lago, que é em execução. Só clicar e assistir. Clicar e assistir, tá tudo aí. Enrolando aqui mais, a gente tem biblioteca de projetos, arquivos, as planilhas. Lembrando de sempre clicar ali pro lado e tal. As vezes tem mais coisa pra direita e pra esquerda. Essa aqui tá mais nova. Aí quando eu volto tem que rolar de novo. INSS. Aí a B&B tá com conteúdo excelente aqui. Muito bom também.
-
-Casa Paz, Construção e Reformas e o tour aqui da Viviane. A gente tá adicionando mais tours aí. Claramente o do Paulo Trigo tá faltando aqui. Vamos já atualizar isso aqui. Pequenos probleminhas técnicos, mas o broço tá aqui, certo? Pessoal, muito obrigado. E qualquer dúvida, se você não encontrar uma aula específica lá do Mindmap ou tema específico, manda em fernando.com.br barra suporte. Ou pergunta lá na parte da comunidade do Telegram, tira dúvidas. Vira aquelas pessoas que você convive, você é levado pela aquela enxurrada, pela aquela vontade.
-
-Então acho que é uma coisa que motiva muito a gente diariamente. São pessoas que estão passando pelos mesmos problemas e dificuldades que a gente. Então eu acho que é tesouro. Essa comunidade aqui é o que mais faz diferença no dia a dia pra gente se manter motivado, inspirado e com esperança de construir nosso sonho. Vamos conhecer nossa comunidade por dentro. É, pra você chegar aqui, nessa tela, esse aqui é o Telegram. Telegram é aplicativo de celular que nem o WhatsApp, só que é melhor. Aí ele permite você trocar mensagens e tudo.
-
-E a gente veio pra cá porque a gente não perde o histórico das coisas e outras várias vantagens, como enviar vídeos de qualquer tamanho, arquivos de qualquer tamanho. Como é que a gente chega aqui, Fernanda? Como é que eu vou chegar aí? O que é que eu faço? Você fala com o nosso suporte e eles vão te guiando, certo? Amandafernando.com.br barra suporte. Você fala com ela no whatsapp, você fala com ela vai lhe dar link do telegram e você vai no telegram, você vai ter que se cadastrar no telegram com o seu número de telefone da mesma forma que você faz com o whatsapp.
-
-Aí você manda o seu e-mail pra nossa assistência lá, a gente chama de assistência, que é uma assistência técnica, que é uma pessoa que vai estar moderando aqui a comunidade de construtores inteligentes. Vamos ver ela por dentro. É esse botão aqui, essas são minhas conversas, vocês não veem isso aqui não, é o que vocês vão clicar. Esse verdinho aqui, comunidade de construtores inteligentes. Pô! Tá mostrando aí tua privacidade, hein, Fernando? É, então vamos roubar minhas coisas aqui. Aí. Vai aparecer monte dessas coisinhas aqui. Eu estou dentro da comunidade. Ela fica aqui no título.
-
-Estou dentro de monte de coisas aqui embaixo. Monte de coisa pra onde é que eu começo. Bem aqui em cima tem cinco coisas que estão pregadas aqui em cima e não vão se mexer. As de baixo é que elas ficam se mexendo. Infelizmente eu queria que elas não se mexessem, mas elas se mexem. Aí eu te dou uma maneira de contornar. Vocês vão ver. Primeiro, bem. Boas-vindas. Esse boas-vindas aqui, vocês vão receber bem-vindo nele, certo? E nada mais. É isso. E sempre olhem aqui em cima. Quando você clica aqui, essa aqui é a aba de conversa. Aqui em cima tem mensagens que estão fixadas.
-
-Elas não estão fixadas, é à toa. Estão por motivo, certo? Então vocês cliquem e vão dar uma bolida. Quando clicou aqui tem uma mensagem. Eu fui jogar para uma mensagem que estava fixada. Aí vai falar o objetivo do grupo, como é que está dividido o grupo, quais são as regras, links úteis, links de suporte, certo? Então, muitas vezes até a resposta de várias perguntas é só enviar essa mensagem aqui. Aí, próximo tópico. Aqui são chamados tópicos. Quando a gente falar, fale lá no tópico São Paulo. Tópicos é cada desses quadradinhos aqui. Sumário.
-
-Sumário é uma forma de ficar mais simples a navegação. Eu queria ir para estado. Aí está aqui o nome do estado. Como assim estado? Vamos ver o que tem aqui nessa comunidade. A gente vai ter As boas-vindas e esse sumário para ajudar a navegação, as regras da comunidade de novo. Aí tira dúvidas, que é para você poder enviar dúvidas. Aí o pessoal conversa muito, normalmente os alunos conversam entre si, aparecem profissionais aqui. Também tem a nossa equipe técnica, que no momento. Não, sempre vai estar falando pela assistência a CBCS. Essa bolinha aqui, ó.
-
-Assistência a CBCS, esse é o número da assistência a CBCS. Profissionais da área que são treinados por nós para responder suas dúvidas e te ajudar no acervo a encontrar o que você estiver procurando lá no momento. Eles também se comunicam com a gente para confirmar alguns casos. Então, tira dúvidas. Esse técnico vai estar respondendo vocês. E vocês mesmos podem conversar entre si, alunos. E os profissionais também vão estar conversando aqui. A gente vai ter uma aba de avisos para você receber avisos. Avisos de novas aulas, avisos de novos materiais no acervo. Mudanças.
-
-Vou mudar essa estrutura aqui, porque a gente ficou mudando muita coisa aqui, melhorando. Sempre vai melhorar. A gente vai ter tópicos também de divulgação livre, vou contar aqui o que foi melhor até. Tem feirão de projetos, que a gente recebe solicitações de projetos sempre, todo dia, e a gente não faz projeto, a gente não executa obra, a gente não pega os serviços de engenharia. O que a gente faz? A gente joga eles aqui no feirão de projetos, que os profissionais podem lá captar esses clientes. Você também pode enviar a sua solicitação de projeto, execução, fornecedor de tijolo, Você.
-
-Que é profissional da área aqui, você lota a sua agenda de clientes. Você manda aí, se quiser, 5 ou 10 lançamentos por dia para pessoas interessadas no método. É, divulgação livre, é local livre para divulgações gerais. Podem enviar coisas aqui, até memes. Só não vamos passar em política. Vamos ficar em coisa de construção, certo? Tá nas regras da comunidade. Aí a gente tá criando assuntos, pra ter assuntos específicos, colocar espaço pra assuntos específicos, a gente por enquanto tem kitnet, chalé e financiamento. Mas a gente deve adicionar também reforma no futuro.
-
-Você quer sugerir melhorias, tem tópico de sugestão de melhorias, aí você fala qual que é a melhoria que você acha que a gente possa fazer aqui e a gente vai tá levando em consideração. Já vimos todos aqui esses itens e a gente também tem a separação por estados, então você pode conversar com as pessoas do seu próprio estado. Por exemplo, aí isso aqui são botões, você clica e vai pras coisas, você vai por exemplo pra. São Paulo. Exato, tô procurando, cadê o S? Aqui é SP, porque aqui tá em ordem alfabética, aqui do lado fica perdendo a ordem. Doido, não recipei. Pronto, fomos para São Paulo.
-
-Então em São Paulo aqui, o bate-papo em São Paulo é daquele jeito. 300 Mensagens. Daquele jeito. E quando você entrar, você tem acesso a todo o histórico. Você não vai começar do zero, não. Você vai poder rolar aqui pra cima e pesquisar à vontade. Volta aqui pro Sumário. Eu adoro essa comunidade. É, a gente. Vamos pra. O financiamento foi criado agora, não deve ter nada lá. Não. Deve ter comentário. Sumário. É, é Sumário. Aviso. Sumário, entendeu? É assim que navega. Eu quero ir pro Tira Dúvidas. É Sumário. Quero ir pra ver a divulgação livre. O que eles tão divulgando? Filemon, Arquimanu.
-
-Eu fiz projeto, não sei o quê. É. Sumário. É isso. Xalé. Também, a pessoa não falou nada. A galera está criando agora aqui a comunidade. Não, esses tópicos são coisas novas aqui. Só tinha os Estados. Esse aravinha falou alguma coisa aqui. Olha aí. Sumaru. Sumaru. É assim que navega aqui, tá bom? E aí você pode ver, tem algum aviso que eu perdi? Essa é a melhor forma de estar navegando aqui, certo? Bom, tu não tem muito segredo. Tem que instalar o aplicativo do Telegram. Pode usar no computador ou no celular.
-
-A gente usa o Telegram porque ele permite a gente essa organização muito melhor que o WhatsApp e você, quando entra, tem acesso a todo o histórico. O WhatsApp, a gente sabe que quando você entra num grupo, você não tem acesso ao histórico do grupo. E também quando você troca de conta, etc., você perde tudo aquilo que você tinha e o Telegram não. Cd, graças a Deus que eu chamei pro Telegram, que é facinho, porque a gente podia ter levado pro Discord, a gente poderia ter ido mais fundo. Não vou permitir, vou proteger vocês disso. Até mais. Até mais, pessoal. Olá, avisos por WhatsApp.
-
-Amanda, Fernanda, eu queria receber avisos pelo WhatsApp. Tem como, tem como. A gente manda avisos pelo WhatsApp. Atualizações, novas aulas. Como é que você acessa? Aqui embaixo da aula tem link. Clique aqui para entrar no aviso do WhatsApp e você clica lá. É uma comunidade lá no WhatsApp que você não tem como mandar mensagem. Você só vai receber mensagens nossas. E é isso. Aproveite. E se você tiver algum problema, claro, sempre amandofernando.com.br barra ajuda. Não, barra ajuda não, barra suporte. Barra suporte. Amandofernando.com.br barra suporte. Ok. Obrigado.
-
----
-
-### Gravação 2
-
-Sejam muito bem-vindos ao nosso curso de casa de baixo custo sustentável. esse é o primeiro curso que você deve começar aqui no Acervo. Ele é o curso onde a gente vai te explicar tudo sobre a construção de uma casa. Tudo mesmo, assim. A gente vai partir do absoluto zero. Os slides são pra mostrar pra vocês isso aqui. Quando você iniciar esse curso aqui, provavelmente você não sabe nem direito identificar o que está nesses elementos dessa casa, como é que essa casa foi construída. Ou tem lacunas de conhecimento também.
-
-E a gente espera que no final você possa olhar essa mesma foto, que é a nossa primeira casa, e identificar com raios de construção todos os métodos que permitiram que essa casa saísse 60%, sim, 60%, mais econômica do que uma casa convencional. Inclusive, é bem legal esse nosso primeiro estudo de casa, que essa é a nossa primeira casa, porque ela foi construída ao lado de outra casa construída pelo método convencional, que saiu por R$ 2.200 a casa do lado, na mesma época sendo térrea, e a nossa que saiu, se eu não me engano, foi R$ 600, R$ 700, metro quadrado, absurdo.
-
-Isso no ano de 2017, tá bom?
-
-Então, obviamente, a gente tem que fazer uma correção Algumas técnicas vocês já devem ter até visto, se vocês assistiram o intensivão da construção, que foram utilizadas nessa casa, como cimento queimado, a teira de sanduíche, eliminando a necessidade de laje e forno na maior parte da casa, a tinta de terra maravilhosa, linda demais, essa tinta feita com terra, o uso de estrutura de concreto modular, ou seja, todos os moldes são do mesmo tamanho, os pilares, as vigas, se repetem, repetindo a forma, à vista essa estrutura de concreto, então não foi passado reboco, chapiço, nada.
-
-Tijolo aparente. Tijolo aparente. Balanço. E foi eliminado o pilar, porque o pilar mais barato é aquele que você não constrói. Planta pra estirar a casa. Mantevemos, acho que até é muito importante, a gente fez projeto que manteve os dois ca. Então, só de você fazer curso de como construir uma casa, você já vai economizar bastante em relação a comprar uma casa, porque construir já economiza bastante em relação a comprar. Se você aprender a construir, que a gente vai mostrar aqui como construir mais do convencional do começo ao fim, só isso aí já gera bastante economia.
-
-Saber de alternativas que podem aumentar ainda mais essa economia, vai ajudar bastante a tirar o seu sonho do papel, mesmo com o dinheiro limitado, certo? E vamos ver os objetivos, então, pra gente ver bem o que a gente mira quando a gente quer chegar com esse curso aqui, que é mais ou menos o que a gente tá falando aqui pouco. Como o Fernando falou, a gente vai ensinar pra vocês tudo sobre a construção convencional e também sobre métodos construtivos não convencionais.
-
-A gente vai ter outros cursos aqui no acervo que abordam mais aprofundadamente esses métodos de bioconstrução, autoconstrução, alvenarias estruturais, mas o objetivo do curso de casa de baixo custo sustentável é partir mesmo da construção convencional, ensinar toda a construção convencional pra vocês como é que ela acontece, e a partir daí te dar opções mais econômicas, mais fáceis de serem aplicadas, mais rápidas, materiais mais eficientes, e você escolhe quais trocas você quer fazer ou não, mas só de você construir uma casa pelo método correto, você já vai estar traçando o caminho pra casa mais econômica possível, mesmo que você não faça nenhuma modificação em relação a como todo mundo constrói, usando tinta, só de você seguir o passo a passo correto e.
-
-Também investir mais em planejamento, com as técnicas de planejamento que a gente vai mostrar aqui, porque tem muito pouco planejamento na construção de casas aqui no Brasil. A gente vai mostrar tudo isso aqui, mas só olha aqui como é que o pessoal constrói com métodos alternativos. Isso aí é lá em. O pessoal vai dizer, mas é muito difícil encontrar essas residências. Isso aí é lá no Piauí, na praia de Barra Grande, uma praia pequenininha, porque esse método, vocês vão ver, é mais simples do que parece pra gente aplicar. E a gente tem uma parede de imperador com telhado ecológico.
-
-Bom, não perder a linha que vai ter bastante tempo pra isso, que a gente tá falando sobre os objetivos do caso de baixo custo sustentável, que a gente tem a sigla CBCS, a gente fala muito assim no grupo do Telegram em todo lugar, CBCS, UACBCS. Primeira parte detalha todas as etapas da construção de uma casa, você nem vai ter na mente como é que se constrói uma casa do começo ao fim, que é tradicional e até alternativo.
-
-Então a gente vai falar de todos os materiais e como eles são utilizados e a gente vai falar de custos dele, custos no básico, já tradicional, no convencional, já que não é o caso dessa casa aqui, essa casa não é nada convencional. A gente sabe que o custo varia de estado para estado, mas como a gente vai estar comparando o custo de materiais com a mesma base, uma cerâmica com porcelanato, mais na sua região, seja pouco mais caro a cerâmica e o porcelanato pouco mais barato, sempre vai haver ali uma diferença proporcional entre a cerâmica e o porcelanato.
-
-Esse a gente vê se repetindo, que vocês vão ver, a gente tem uma planilha atualizada, que vai sanar esse problema de vez e você vai saber quanto é que custa na sua região. Exemplo desse é o saco de cimento aqui nordeste, em quantidade hoje, em 2024, R$35,00, R$40,00. No Sul tem cantos ainda que tá R$25,00, R$30,00.
-E tem locais, por exemplo, mais difíceis de serem acessados, norte do país. Você sabe que esse evento chega a custar R$80, mas esse evento mais barato eles vão ver aqui que a gente nem usa.
-
-A gente vai detalhar as etapas da obra a ponto de você poder fazer várias das contratações e saber questionar as pessoas que vão estar trabalhando na sua casa. Porque você vai ter os conhecimentos e a gente vai falar de onde acontecem os maiores prejuízos pra você conversar com as pessoas que vão estar trabalhando. Isso vai fazer parte do planejamento, da forma como você se planeja pra construir a sua casa.
-
-Porque você percebe como vai conseguir identificar as pessoas que vão trabalhar, os construtores, o pessoal que vai botar a mão na massa, o engenheiro, o técnico, que solicitar deles e ver se eles estão aptos pra fazer do jeito que você está querendo. Porque a gente fala com muitas pessoas. Então tem gente que Então a gente vai abrir o leque pra pessoa que não tem nada, não começou nada, não começou com engajamento e não sabe nada sobre construção, porque serve pra tudo.
-
-E a gente também vai te mostrar quais serviços são necessários pra você ter profissional da área te acompanhando, engenheiro, arquiteto, e quais você pode contratar você mesmo, no caso de uma reforma, uma tintura, que é totalmente dentro da lei, tá bom? Você realiza vários serviços da sua casa, contratar somente o grosso ali da equipe, da mão de obra mais especializada, e puxar muita coisa pra auto-construção, pra você mesmo gerenciar equipes. Pode parecer, mas eu posso fazer uma pintura na casa, algo assim. E esse tipo de questão é cultural, bastante cultural. Onde a mão de obra é cara?
-
-Estados Unidos, Europa, Japão. Nesses locais canadais, as pessoas botam mais a mão da massa, porque é caro comprar pra alguém. Porque a mão de obra lá é mais cara. Aí você vai lá e o pessoal faz. Então aqui a gente tem muito isso, a gente já que a mão de obra é barata, fica chamado pra fazer qualquer coisa. Então já é uma maneira de economizar e você aprender a técnica da aplicação. É, muita gente que chega aqui pra gente gosta de pôr a mão na massa, gosta de auto-construir, então a gente também aborda essa parte de auto-construção.
-
-Como é que faz você mesmo alguns dos serviços que você pode fazer com segurança. Caso queira economizar a mão de obra. Se não quiser também. O Serginho era nosso guia aqui. Mas enfim. Como é que eu vou medir serviço, a aplicação de cerâmica? Como é que eu meço ela? Por metro quadrado. Como é que eu contrato ela?
-
-Como é que você levanta esse quantitativo de todas as partes que envolvem a construção, porque com essas quantidades você pode multiplicá-las pelo preço unitário do serviço, e a gente vai estar falando disso no curso também, como é que a gente consegue preços unitários básicos no Brasil, e como é que você consegue esses preços unitários também no seu mercado específico, fazendo ligações para as fornecedoras e fazendo quadros de concorrência entre eles.
-
-Com isso, você vai estar apto a fazer o seu orçamento, pelo menos, pra você ter uma ideia do seu orçamento, num nível de estimativa de viabilidade. Você vai conseguir estimar se é viável o seu projeto ou não. É a partir dessa primeira composição. Você não vai conseguir chegar aqui num ponto de fazer orçamento executivo. O orçamento executivo entra em nível ainda maior detalhes. Essa vem por engenheiro executor da obra, provavelmente. É a pessoa que vai executar. Essa faz o executivo, que envolve levantar certos detalhes, que na estimativa de viabilidade, basicamente, a gente joga 20% a mais.
-
-Isso cobre esses. Cobrem a margem de erro. Mas a gente vai falar muito de orçamento. Não vou falar muito de orçamento. Porque a gente não vai entrar de jeito nenhum. É assim, eu quero saber calcular a estrutura, se ela vai resistir ou não, quais são os esforços, qual é o tamanho do pilar que eu preciso. A gente vai falar de pré-dimensionamentos, que é a parte que o arquiteto usualmente aprende, que é quanto de pilares eu vou ter que jogar aqui pra fazer meu desenho, quanto de vigas, qual é a maior função delas.
-
-Você vai conseguir imaginar ela numa proporção que é executável, só não vai chegar no detalhe de dizer quantas barras de ferro e aonde vai entrar em cada completo. Beleza, e aqui, já entendendo tudo do convencional, a gente vai explorar a alternativa. E essa exploração das alternativas, a gente vai comparando elas, uma a uma, contra o convencional, quais funções, a gente vai estar trabalhando as funções delas, elas exercem, e os custos relacionados.
-
-Então você vai Então a gente vai estar trabalhando sempre qual é o caminho mais eficiente, qual é o caminho de menor resistência, que vai lhe dar menos trabalho, com mais resultados. É sempre assim que a gente vai estar pensando aqui no curso. E a gente também vai mostrar materiais que fogem do convencional, utilizados de forma não eficiente. Ou seja, não adianta você ter o melhor material, o melhor método, se você não aplicar ele da forma correta. E olha, a gente vê muito isso por aí. Exato. Eu adoro o tijolo ecológico, mas na sua situação pode ser uma situação terrível pra ele.
-
-Pra ele, exatamente. Adoro caipira de pilão, mas vou construir em pilotismo a casa de dois andares? Provavelmente não é o melhor método pra você. Pode até não entender agora, mas vai entendendo no decorrer do curso. Por isso que a gente não tem como passar uma receita pronta. Pra você construir X, Y e Z. Vai. Então, basicamente, tem também outros itens diversos que a gente vai estar abordando por volta do acervo. Alguns até que são relevantes para o custo, são bastante relevantes. E, às vezes, ficam meio desaparecidos, você esquece completamente de levantar. Por exemplo, muros.
-
-Muros são caros. Muros são bem caros. Você vai construir muros e você vai construir uma casa. Os dois, eles são cada. É quase uma coisa só. Mas piscinas também são caras. Também. Mas a gente também vai abordar o finíssimo acabamento, porque nem só de custos, a gente vive uma casa. E a gente vai mostrar pra você a parte do finíssimo acabamento, como é que ela transforma vivência e o valor final dessa casa. A gente não quer que você construa só uma casa econômica, mas uma casa também com valor, linda. O nome da casa eu diria que é linda, uma casa assim que você chega e uau, o efeito uau na casa.
-
-Então, a gente vai abordar também estilos, quais são os estilos mais em conta, como atingir estilos que você já gosta, com o mínimo de recurso necessário, ergonomia pra uma casa funcional e confortável, isso é tão importante, a ergonomia é ponto que a gente vai bater muito na tecla também, muros confinados e outros, como piscina, paisagismo e vários outros itens que compõem a casa como todo no final, inclusive imobiliários de baixo custo. Imóveis também, vocês vão ver, é alto investimento. A gente vai estar sempre tentando trabalhar com exemplos pra ser bem visual, didático.
-
-Aqui, por exemplo, essa casa. Vamos dar exemplo. Esse telhado aqui, ele pode ser extremamente bom se o oeste da casa tiver pro lado de lá. E no fim da tarde, o sol vai bater nesse telhado que, da forma como ele tá aqui, vai criar uma sombra imensa desse lado. Muito maior do que se eu tivesse baixado esse telhado. E se essa casa fosse ao contrário, seria horrível, porque esse sol de fim de tarde estaria batendo diretamente nos vidros e esquentando os ambientes dentro e impossibilitando o uso da varanda no fim do dia, que é a hora mais legal.
-
-Mas a mesma casa poderia estar excelente ou terrível só de gelo. E o sol girando 90°.
-180°.
-180°. Então o nosso objetivo é esse. A gente vai estar sempre à disposição também pra atender vocês, pra tirar todas as dúvidas etapas de construção de uma casa. Uma casa é objeto muito grande. Então, pode ser muito amedrongador a gente tentar entender todo de uma vez. O que a gente faz nessa situação? A gente separa em pequenos pedaços e vai tacando as opções pra cada pedacinho por vez. É uma garfada de cada vez. Exatamente. Então, são várias peças que no final vão compor lindo quebra-cabeça.
-
-Não tem várias etapas, a gente tem várias imagens na internet que você pode estar pesquisando sobre etapas de construção, cada uma delas vai separar a casa de uma forma diferente e a casa, ela é construída de baixo pra cima, certo? A gente faz uma base pra casa, depois faz uma estrutura pra segurar os pesos da casa, faz alguns fechamentos na casa, isso aqui, na minha concepção, é estrutura, uma laje. A gente faz telhado pra casa, bota instalações elétricas, hidráulicas, dá acabamentos e se muda. Seria, é só isso as etapas de construção de uma casa?
-
-É só isso que você está me falando sobre a construção de uma casa? Não, não, não. Então a gente vai falar de muito mais etapas do que essas aqui, que eu acho que é até mais importante do que essas etapas que estão desenhadas aqui, porque essa questão é da obra mesmo. A casa surge muito antes que é. Uma das etapas mais negligenciadas, porque o que a gente vê? Isso aí, vamos usar o módulo mais comum. Uma obra sem orçamento. Se a sua obra não tem orçamento, você não sabe quanto é que ela vai custar.
-
-Mas o plano de tal diz que o preço aqui na região é R$2.200,00 m², R$3.000,00 m², R$3.500,00. se você for por esse caminho, o que a gente vê e recebe de pessoas é ou a opção A, o rapaz entrega acabamento péssimo na casa, que o valor a pessoa poderia ter investido muito melhor, ou a opção B, o rapaz simplesmente some e não consegue finalizar, a pessoa contratada não consegue finalizar a construção da casa com aquele valor e o prejuízo fica pra você.
-
-E nenhuma das duas opções, a gente indica você ali, porque não tem como você comprar produto, investir em produto, se você não sabe quanto ele vai custar. Você simplesmente vai pegando o dinheiro da sua vida e apostando esse dinheiro. Exponde esse dinheiro a altos riscos, que a construção, mesmo muito planejada, ela ainda tem muitos riscos envolvidos. É investimento de alto risco. Então, todo planejamento nessa hora é pouco. Eu vou até criar essa frase. Todo planejamento na construção de uma casa é pouco. Pronto.
-
-O orçamento é negligenciado, porque as pessoas deixam quando fazem o orçamento, pra fazer com o projeto pronto. Por quê? Porque é uma prática terrível no mercado. Você chega pra engenheiro, arquiteto, pergunta quanto é que minha casa vai custar. Aí ele pergunta, cadê o projeto? Não faça o projeto antes de saber quanto sua casa vai custar, porque você pode investir num. A gente tem muitos alunos e esses alunos, muitos deles chegam. dá uma olhada no meu projeto. Aí a gente vai olhar o projeto e o projeto já está todo detalhado, nos mínimos detalhes.
-
-Aí a pessoa fala o orçamento, o aluno fala o orçamento pra gente e não cabe, não cabe no que tá desenhado ali. Aí qual é a solução? Vou mexer nos projetos. Mas quando a gente já tá com o projeto 100% detalhado, basicamente você tem que pagar o projeto de novo. Projeto é conjunto desenhos. Então, só invista nesse conjunto desenhos que é essencial, nesse passo a passo essencial, uma vez que você sabe que pode pagar pra construir esse projeto. E isso é por norma. A gente vai te mostrar no módulo de orçamentos, na parte que a gente vai abordar mais.
-
-Sobre orçamento detalhado, o que é o estudo de viabilidade financeira, o que é que ele está presente na norma e porque você pode exigir, pode e deve exigir ele do seu arquiteto e engenheiro antes de investir em projeto, tá bom? Então, cê vai saber quanto vai custar a sua casa, quanto cê vai investir antes mesmo de investir num projeto. Muito de orçamento, muito. Então, se habituem com essas tabelas. Tem medo que vocês não entendem nada dela. Mas elas vão ficar bastante familiares, vocês vão olhar pra elas e já, não, gostei, não gostei, entendo perfeitamente.
-
-Isso aqui vai virar aquela cotinha do supermercado, que a gente olha assim, vejo tudo, passo a passo, eu já te gastei demais nisso aqui? É que nem restaurante, ó, filé, aqui as caipirinhas. Nossa, eu pedi setenta e seis mil reais em caipirinhas, vou beber menos? Não, mas nem era essencial assim. Até que tava no salmão. É, talvez no frango na próxima, não é? Pra equilibrar. Aí soma, vira esse aqui. A gente vai falar muito desse tipo de tabela. Então, nos aguardem. Como é que a gente vai levantar esses orçamentos? Então, nos aguardem. Vai chegar o momento. Vai chegar o momento.
-
-A gente vai falar bastante de terreno também. O terreno é momento espetacular, por causa que muitas pessoas ganham muito dinheiro com terrenos. Comprem e vendem terrenos. O Sombra, por exemplo, teve caso que comprou terreno de R$ 80 mil. Vendeu por R$ 220 mil. Isso aconteceu mesmo. Em poucos anos. Imagina, não tem renda fixa aqui. Não, e a gente também. A gente viu vários terrenos aqui na região. De Aquiraz, Cumbuco, Fortaleza. E a gente encontrou terreno que a gente sabia que o preço estava abaixo do mercado. A gente conseguiu identificar.
-
-Então, o terreno ele saiu por R$ 55 de cinquenta e cinco pra cento e setenta, que é o que tá sendo vendido aqui, os vizinhos. Então, que tipo de retorno você tem? Que tipo de investimento você tem retorno tão bom. Mas, claro, você tem que saber escolher terreno.
-
-Não só escolher terreno, cê tem que saber como utilizar esse terreno pra tirar o melhor do clima daquela região e isso nem influencia no custo de construção em si, concorda. você pode construir a mesma casa no mesmo terreno pelo mesmo custo, porém, se você não souber como posicionar essa casa, como fazer essa casa da forma correta, ela vai ser uma casa que vai te gerar ou custos mensais altíssimos para todo sempre, quando eu falo para todo sempre, você não tem como reconstruir A casa depois não tem como. Então, assim, vai ser uma casa sempre cara de manter.
-
-Ou você tem como construir a mesma casa pelo mesmo custo. E essa casa praticamente não te custa nada pra você utilizar ela no dia a dia. Tem uma casa com baixa manutenção, que é uma casa sustentável. Então, por isso que o custo não é só uma casa de baixo custo. A gente também aborda a sustentabilidade. E a questão de você ter uma casa econômica a longo prazo também. Porque essa é a economia mais importante. E ela é até maior do que a economia na construção. A casa vai estar vivendo e trabalhando junto com o entorno dela. E não contra o entorno dela. Tentando brigar com o entorno dela.
-
-Trabalhando pro seu conforto e minimizando problemas que ela poderia apresentar em pouco tempo. Patologias, principalmente da região. Então, é como se a gente já pensasse numa casa pra ser, pra ambiente Também outras análises que a gente. Vai falar são análises aqui de taxas e índices de aproveitamento do terreno, que tá ligado à burocracia, à legislação da prefeitura. Quais são os sistemas que estão disponíveis. isso aqui é tão importante. A infraestrutura, tão importante. Porque, assim, imagina, muita gente chega pra gente, mano, eu comprei terreno. Tu lembra daquele rapaz?
-
-Aquele senhor que comprou uma fazenda e construiu uma casa. Aí, na hora que foi ligar a energia, ele tinha que fazer toda uma rede, além de uma subestação. era mais caro fazer uma subestação com uma rede de distribuição de energia que você tem que colocar postos, caveamento, tudo que vocês imaginarem. Vocês imaginam o custo disso. E construir uma casa ali no final, sai mais caro do que construir a própria casa. Então, muitas vezes, esse terreno, por não ter energia, por mais que parecesse econômico no início, é terreno muito mais caro.
-
-Terreno, por exemplo, que você precisa de água, é terreno numa montanha. pra furar poço profundo numa montanha, se você não encontrar uma fonte natural de água, pra coletar, é muito difícil. Se não tiver uma rede de água, é muito difícil. Da mesma forma, se você vê terreno e ele parece pouco mais caro do que outras opções suas, mas só que o terreno é rochoso, você vai gastar pouco com a fundação, então você já vai economizar na fundação ou.
-
-Então o terreno já tem calçamento, tem pavimentação, tem rede de água, tem rede de esgoto, tem rede de luz, já tem internet, tem tudo, tem segurança, é terreno com muito mais infraestrutura. Vamos falar muito de terreno ainda pela frente. Vamos entrar em absolutamente todos os projetos, a gente vai falar desses projetos aqui, ensinar o que cê tá vendo. Como ler esses projetos. Porque não adianta de nada você pagar os projetos, se você não puder ter os projetos em mão, chegar na sua obra e conferir, crachá, crachá, crachá, crachá, crachá, crachá, porque isso daqui vai ser o seu guia, entendeu?
-
-Será que tão fazendo direito com o meu dinheiro? Aí, você vai conseguir olhar, vai dizer, ó, isso aqui tá caro, meu amigo, isso aqui não vou aceitar, não. Então, isso aqui vai te empoderar pra você poder é soltar o cachorro na obra e mandar as pessoas fazerem da forma correta como é pra ser feito. Então, você vai conseguir fiscalizar sua obra e com isso, você vai ter mais segurança de que o seu dinheiro tá bem investido. Pode parecer pouco assustador no começo.
-
-Parece mesmo, é muito símbolo, muito tudo, muitas informações, mas você vai se acostumar com essas informações e vai aprender a lê-las. Vai destrinchar uma a uma. O que é isso? O que tá acontecendo? Armação das ligas. Nossa senhora, o que é isso? A gente vai chegar lá, certo? Você vai chegar, a gente vai dar aulas e duvidar pra profissionais que podem trabalhar com você. É raro, mas acontece sempre com os nossos alunos. Cronograma, quando vai acontecer o que na construção da sua casa. Outro item raríssimo das aulas. Raríssimo, raríssimo.
-
-Outra coisa, você vai contratar uma pessoa pra construir sua casa, se essa pessoa não te apresenta cronograma, ela não sabe quando ela vai terminar. Porque se ela não tem o cronograma, ela não sabe. Ela pode chutar. Ela pode dar chute educado e dizer assim, vai durar seis meses. Vai durar ano. Quem garante? Você confia na palavra dessa pessoa tanto assim? Eu confio mais no cronograma. Passa três meses, o cabra disse que é ano. Passa três meses. Aí, fez a estrutura. Aí, tá atrasado ou tá ajeitado? Você não sabe. Ele não sabe.
-
-Então, pra você dormir tranquilo e acompanhar a sobra e saber que a sobra tá andando corretamente. E vai terminar pra você. E tomar as decisões necessárias, caso não esteja. Além de você saber o caminho crítico. Quais são os serviços da obra que não podem parar? Desformam algumas, senão minha obra atrasa. Porque tem vários serviços que são paralelos, que não tem problema atrasar. Mas existe o caminho crítico. E o caminho crítico é o que a gente vai tá focando na parte do cronograma pra sobra também ser super rápida.
-
-Porque quanto mais demorada uma obra, mais custo indireto Antes de começar a obra,. A construção de uma casa é uma indústria, é diferente da indústria de sapatos, por exemplo, de outras mercadorias. Porque quem se move é a fábrica. A fábrica se move para o seu terreno, constrói a casa e depois a fábrica sai do seu terreno. Então, a gente vai precisar estudar a fábrica que constrói casas, que é o canteiro de obra. O layout do canteiro de obra, como é que os materiais vão chegar, onde é que vão ser armazenados. A gente vai ter que pensar também a questão de funcionários.
-
-Então, a infraestrutura para esses colaboradores que estão trabalhando na sua obra, o que você precisa fazer. Então, tudo isso aí vai estar em serviços preliminares. A construção, como o Fernando disse, a fábrica antes de começar a obra. Inclusive com o mapeamento do terreno, que vai ser a sondagem, que são os estudos que a gente vai ter que fazer, de topografia, a construção dos depósitos, dos tapumes, as instalações provisórias, como eu falei, a limpeza do terreno e o gabarito, que é basicamente a gente mapear o terreno.
-
-A gente vai começar a desenhar, pegar o projeto e transferir o projeto pro mundo real, por meio do gabarito. É, bom, o gabarito é a ponte entre o projeto e a terra. É, como você viu, a gente desenha o projeto em papel, desenha no AutoCAD, imprime. Pra gente imprimir em 3D. Botar no chão, a gente faz esse desenho, o gabarito, que são várias linhas, que são as mesmas linhas do papel. Tá tudo lá, você tem seus projetos, você tem seu cr. Muitas vezes a gente faz a movimentação de terra antes do gabarito.
-
-A gente vai botando os piquetes pra saber que tá ali no nível, porque a movimentação de terra pode quebrar. Então, tem várias obras que vai variar isso daí, mas normalmente é a movimentação de terra. Se for necessária, é serviço que é feito antes. É, a gente mostra aqui numa ordem que faz sentido, mas entrando no outro. Às vezes ainda tá ajeitando o canteiro, já começa a movimentação de terra e esses serviços vão entrando pelo outro. Por isso que é importante o caminho crítico.
-
-Mas, se a gente for pensar assim, etapa por etapa, a gente começa a mover a terra pra poder ajustar, vai entrar a fundação. A movimentação de terra é muito cara, a gente vai falar várias formas de evitar essas movimentações. Quais são as formas que têm menos custos quando se move a terra? A gente vai falar sobre opções de. Fundação, qual é a função dela, qual é o tipo de fundação mais caro, qual é a mais barata, em quais casos. Ela é a conexão da casa com o solo, então ela transmite o peso da casa pro solo, essa é a função da fundação, é a base.
-
-Então a gente tem os pesos da casa, essas setinhas, que são como se fossem o peso da casa andando, entendendo pra cá a ideia. Aqui é uma treliça, aqui é uma tesoura que eles chamam também, é uma treliça. Aí essa tesoura, ela passa os esforços, o peso dela, ela carga para a laje distribui para as vigas e as vigas mandam pros lados, que chegam nos pilares, os pilares mandam pra baixo, a gente ainda tem forças horizontais, quando a gente tá trabalhando principalmente com prédios altos. E os Se a pessoa fosse aquele. Sapato de quem anda no gelo, se a pessoa andasse só com a bota.
-
-Ele afundaria dentro daquele mar de neve. Quando ele anda com aquele sapato funciona como uma fundação e transmite o peso, da pessoa pra neve de forma que ela não afunde porque ela larga. Ela transmite de forma, diminuindo o peso e a neve aguenta. Pega mais área de solo. Aí tem mais solo pra empurrar pra cima. Feita a fundação, eu levanto minha estrutura. Aí aqui que às vezes a vedação e a estrutura, ou a vedação e. A estrutura são. Só, que é coisa. Que a gente trabalha muito. Já que a gente vai construir uma estrutura e uma vedação, muitas vezes a gente faz uma vedação estrutural.
-
-Que já é acabamento também. Também, muitas vezes, já juntando acabamento também, que é aí que sai mais econômico, que a gente tá juntando vários serviços em só. A estrutura, é ponto que pode sair muito, muito caro numa obra e ela vai depender especialmente da arquitetura da casa. Então, a gente vai te mostrar formas de economizar nessa estrutura a partir de escolhas arquitetônicas e vai te mostrar também formas de você economizar ainda mais nessa estrutura, juntando ela a outros serviços.
-
-Mas, basicamente, a estrutura mais utilizada no Brasil é a de concreto armado e a gente vai também explicar o que é o concreto armado, forma, etc. Vai ter aula só sobre estruturas. Uma coisa assim que a gente fala muito é que tem monte de coisa aqui que não vai ficar na obra. Isso aqui é indignante. Muita coisinha vermelha não vai ficar na obra. Essas madeiras pretas, esses sarrafos, esses sargentos aqui, eles não vão ficar na obra. Tem monte de coisa aí que não vai ficar na obra. Isso é bem indignante. Tem que trazer o material, deixar no lugar, depois desmontar e levar embora.
-
-É muito trabalho. Então a gente também tem a cobertura, que é a parte da casa que recebe os esforços que vem de cima, que principalmente é o sol e a chuva. O mais utilizado no Brasil é a telha cerâmica, com madeiramento. Também tem a telha de concreto, a gente vai falar de várias outras coberturas, falar das inclinações, como onde é que acontecem as infiltrações, que é o pior problema da cobertura, entra água, a ideia toda da Então a gente vai falar bastante antes de como economizar.
-
-Como vedar a casa, a gente tem vedações, mas tem vedações que são esse tipo de alvenaria, que é botar bloco a bloco. Esse bloco aqui que tá desenhado já é bloco bem diferenciado. É bloco acústico. É bloco acústico. Já tem aqui o bloco. Esse é o convencional. Esse é o que a gente chama de. Esse daí é o francês da construção. É o francês. Que é o tijolote fuso baiano presente em todas as obras. Mas você vai ver que, às vezes, pão artesanal de longa fermentação pode sair mais econômico de fazer melhor do que pão francês.
-
-A gente vai dispostar diferentes opções de vedação, algumas como a gente diz estruturais, e quando elas saem econômicas e quando é que elas saem caras. Aberturas também, que a gente vai estar se referindo a tudo. Portas, janelas, que são as esquadrias da casa. A gente vai estar falando também de aberturas permanentes, como o Cobogó. O Cobogó com a falta do Cobogó, abertura entre telhados. Diversos tipos de comunicação do meio interno com o meio externo. Das vedações. E também outro item que pode sair muito caro numa obra, mas que também pode agregar muito valor.
-
-Então aqui, por exemplo, você vai entender quando é que vale a pena a gente usar aqueles paredões de vidro e quando é que não vale a pena a gente utilizar o vidro. Que é material mais caro, é material mais nobre, mas que vale muito a pena investir. Tanto que vocês podem ver pelo tipo de arquitetura que a gente normalmente trabalha. A gente faz com finíssimo acabamento, com bastante vidro, que ele vai economizar. Instalações é ponto que não há uma grande gama de economias em comparação às vedações com estrutura, que é dos maiores pontos de economia.
-
-Acabamento de piso é dos maiores pontos de economia e cobertura. Mas aqui tem grandes prejuízos que podem ser causados. Então, se você não tem prejuízo, isso não é uma economia. Em fazer os sistemas de forma errada, faltar os sistemas. E os sistemas ficariam ineficientes, como por exemplo, uma casa sem pressão, uma casa onde o esgoto, por exemplo, eu já vi casas onde o esgoto foi construído abaixo do nível da rua, então não tinha como jogar pra rede de esgoto, imagina como é que vai bombear o esgoto pra lá, tem que ser criado uma nova rede de esgoto só pra aquela casa.
-
-É, também sem projeto elétrico, por exemplo. Você vai ter com certeza problema com seus equipamentos. A gente vai falar de instalações também, sobre partes, não nesse curso aqui de casa e baixo custo sustentável, mas de bioconstrução, instalações hidrossanitárias principalmente, que são mais ecológicas. A gente vai falar sobre manejo de águas de uma forma geral, gente.
-
-Tanto a captação de água das chuvas, no custo de bioalconstrução, que é mais aprofundado lá, como o reuso dessas águas, opções de tratamento de águas que você tem, tanto pra águas cinzas quanto pra águas imundas, que são de baixo custo e são mais ecológicos também. Então, toda essa parte de manejo de águas vai ver até como você pode usar água que você já usou pra ter laguinho de carcaça, uma coisa assim maravilhosa, essa parte de manejo de água que vocês vão amar. É, é isso que a gente tem de instalações, que é se fazer direito e identificar problemas muito antes deles acontecerem.
-
-Porque instalações, elas são mais prejuízos por erros do que. Ganham potencial de economia. É, tipo, a multiplatar o sistema que Uma de forros, por exemplo, é item. Na verdade é item que não é tão custoso o forro, mas tem como ter muitas camadas de cobertura que acabam sendo camadas demais. Quando eu falo forros aqui, a gente vai ter a coberta, a gente vai ter a estrutura que segura a coberta, a gente vai ter uma laje e a gente vai ter ainda forro de gesso por baixo, vai ter a pintura também do forro de gesso.
-
-Então são várias camadas e a gente tem formas de fazê-las com menos serviços entre elas. Diminuindo o tempo de obra, mas a gente vai abordar todos os tipos de forros suecidos do mercado, que a gente já, é, ouviu falar. Forro PVC, forro de gesso, forro de madeira, forro de APS, tudo mais pra frente em forros. Forro racústico. Vinílico. E o comparativo de custo deles, claro.
-
-E também, acabamentos de paredes, uma área que dá pra economizar muito é a área de acabamento, a gente, se você assistiu o terceiro vídeo da construção, a gente abordou essa parte de acabamentos pouco por lá, porque o que a gente vê na construção civil são as casas terminando ou na alvenaria, ou no chapisco, ou no embolso, ou no reboque, geralmente é porque o dinheiro da pessoa acaba todo indo pra aí e ela não se planejou pra ter tantas etapas e tanta mão de obra.
-
-A gente sempre vê as casas claro, que a gente vai ter opções, de acabamento de mais baixo custo, que no serviços, no etapas também, e que dê finíssimo acabamento no final. A gente vai falar tanto de revestimentos convencionais, como cerâmicas, porcelanados, azulejos, pastilhas, como a gente vai falar também de pinturas, texturas, opções de reboco, natural e industrializados, vamos mostrar o mundo de opções de acabamentos pra você. É, uma das coisas que a gente mais estudou pra poder criar economia, tem muita economia em acabamentos.
-
-E acabamentos, usualmente a gente vai de cima pra baixo, forro, parede e piso, porque o forro, a parede e o piso, e o piso encerra o problema. Então, acabamento de piso, a gente vai falar de vários pisos cimentistas que economizam bastante, vai falar do. Como, por exemplo, ter uma cara de porcelanato, mas, na verdade, pagar o preço de uma cerâmica também. Como é que seria aquela estética do porcelanato com o custo da cerâmica, que eu vou mostrar pra vocês. Acabamento que talvez você não conheça, como vinílico, laminado. Diversas outras opções.
-
-Inclusive, o porcelanato líquido que vocês vão ver não é o nosso favorito. É, até taco de madeira. Tem resina líquida no chão. Tem resina epóxi. Vocês vão entender tudo que é opções de piso, gente. Beleza, acabou o teto da parede e o piso. Vamos dar acessórios. A gente vai encaixando os acessórios. E também tem muito potencial de economia em acessórios. Eu dou várias dicas de como conseguir comprar esses acessórios a preço melhor. E quais acessórios você falar de cubas, torneiras, esses acessórios de banheira, bem completo mesmo essa parte.
-
-Vamos falar também sobre bancadas, então vocês estão vendo que realmente são todas as etapas de uma casa que a gente vai abordar aqui passo a passo com todas as opções pra você.
-
-Bancadas, a gente vai falar de bancadas de cozinha, de banheiro, os materiais, dicas pra essa bancada sair mais econômica, como fazer essa bancada de forma funcional, então a gente vai falar também da ergonomia dessas bancadas, além da triangulação, por exemplo, aqui a gente tem uma bancada perfeita pro dia a dia, ó, que ela tá com triângulo aqui, entre o fogão, a pia e a geladeira, então é uma bancada muito fácil de se utilizar no dia a dia e aqui nesse banheiro a gente tem uma bancada de madeira, tem uma bancada de baixo custo de ser feita e que fica muito bonita no final.
-
-Muito caras em outras, locais que vendem uma madeira super linda, realmente, por centenas de reais e outros lugares que vendem por menos de cem. E Cubas também, vamos falar pra você como pensar fora da Cuba. Aqui em Marcenaria, a gente não vai falar muito, vai abordar pouco, mas eu queria deixar aqui porque é uma das etapas de obra, a gente ainda chama isso aqui de uma etapa da casa, que já tá começando a não virar mais a obra, não tem mais canteiro de obra enquanto isso aqui tá ocorrendo.
-
-Mas a Marcenaria, ela é essencial pra vivência na casa, ela depende, ela tá completamente interligada aos projetos, à bancada, pra não ter nenhum tipo de conflito entre as instalações e a Marcenaria, que depois você teria quebrar e refazer a cozinha porque não tem uma tomada onde precisa, não tem revestimento onde precisa de área de splash, então tudo isso aqui a gente como é que se faz móvel de macenaria. E a gente não vai ensinar como é que se parafusa, ou como é que esse móvel é construído, nada do tipo, não. Vai dar ali geral pra você. A parte da contratação, como fazer uma contratação.
-
-E saber o que pedir também. Quais desenhos você precisa, a compatibilidade, como tu falou. Não pode faltar uma tomada. Também dicas pra essa macenaria sair mais econômica. O mobiliário, também vou falar de estilos, porque a gente, você vai encaixar esses móveis dentro da casa, então a casa tá sendo toda construída pra recebê-lo. Então, se você não tem os mobiliários decididos lá no planejamento, como você constrói a casa e depois você fica, mas aqui não cabe. Pra você ter ideia,. Você tem que, antes de iniciar o projeto elétrico, saber qual fogão você vai usar.
-
-Porque o fogão que você vai usar vai ter que ter disjuntor no quadro elétrico, vai ser fogão a gás, que vai ter que ter na arquitetura, uma respiração pra esse gás. Então, os elétricos domésticos têm que ser levantados já antes de você começar o projeto. E se você vai levar móveis, se você já tenha, vai levar sofá, você também tem que detalhar tudo que você vai colocar nessa casa pra arquiteta já planejar o arquiteto, já deixar tudo ergonomicamente pra receber esse móvel. Tem muito potencial de economia no planejamento.
-
-Esse planejamento do pessoal no Brasil não costuma fazer o convencional, nem ter projeto nenhum, planej. Computador. A obra, a obra é como se fosse ali balé. Que você, o ensaio, o verdadeiro trabalho tá naquele ensaio dos bailarinos todos os dias, naquela preparação, pra só se apresentar uma vez. A obra é como se fosse aquela grande apresentação, mas que você não tem como fazer essa grande apresentação se você não tiver o ensaiado, ensaiado e o trabalho é o ensaio. A gente acha que nada tá acontecendo, mas pra acontecer o espetáculo, tem que ter muito ensaio por trás.
-
-Então, não se enganem, até a gente teve dois anos de planejamento pra construir setenta metros quadrados. Sem vergonha nisso. Pois é, o que a gente já fez, os 70 metros, pensando nos outros 130 para encaixar os dois é muito interessante. Mas a gente também vai ter pouco porque a Amanda gosta. E a gente vai falar também de outros problemas que vão ter em obra, por exemplo, os muros. Muros são necessários. Todos os outros sistemas de esgotamento, de entrada de água, a gente vai falar também. Muros tem potencial de economia bastante.
-
-Piscina, também a gente tem algumas ideias interessantes, a Amanda tem umas ideias boas para a piscina. Falar também de piscinas naturais, essa é uma piscina convencional. Mas vamos falar também sobre piscinas naturais, porque quem segue mais tempo sabe, que eu gosto muito da ideia da piscina natural, do lago natural, artificial, mas que, enfim, a casa tá dando natural. E a gente vai abordar pouquinho disso aí pra vocês também. Por mais que não faça parte da casa, faz parte também de uma casa. Então, a gente tá tentando entregar o conteúdo o mais completo possível.
-
-Então, quando vocês tão vendo, é muito assunto pra gente abordar. Então, a gente conta com você pra assistir cada uma dessas aulas, dessas etapas devagarzinho. Não tem pressa de novo, vá fazendo suas anotações, é uma construção de uma vida e quanto mais você se dedicar, mais bonita vai ficar no final. Parabéns por ter chegado ao fim de mais uma aula e a gente se. Vê na próxima aula sobre necessidades e supérfluos.
-
-O que é mais necessário, quais funções realmente uma casa precisa ter e quais são mais dispensáveis, porque a gente precisa eliminar ou reduzir o máximo que a gente puder pra encaixar uma casa dentro do orçamento. A primeira que é eliminada é essa aula. Essa aula, a banheira, a piscina. Até a próxima aula. Até mais. Necessidades. Hoje a gente vai falar sobre o que é essencial, o que não é tão essencial na hora que pesa no bolso.
-
-Então, essa aula de necessidades é muito importante para guiar a gente no que a gente vai construir, porque a gente tem que pensar em construir algo que atenda ao que a gente espera, o que a gente almeja da nossa casa, então os quartos que a gente precisa, mas que também não exceda, porque tudo que é excedente sai muito caro. Então a nossa ideia aqui é construir o necessário, somente o necessário, porque o extraordinário pode sair caro demais e é uma coisa que a gente vê se repetir à torta e à direita, é construir uma casa muito maior do que tinha necessidades.
-
-Inclusive, a gente cometeu esse erro também. Nossa primeira casa tem 240 metros quadrados, que é essa aí que vocês estão vendo aí na esquerda. Ela tinha três quartos, dos quais a gente acabava usando só dois mesmo. Tinha duas varandas gigantes, além de dois jardins gigantes. E a gente percebeu que a gente não precisava disso tudo. Inclusive, a segunda casa que a gente construiu é uma casa de só 200 metros quadrados, então é uma casa menor e que atende hoje em dia a todas as nossas necessidades. A primeira casa ainda tinha super mesa lindo também.
-
-Então, como é que você vai responder essa pergunta. Você tem que alincar suas necessidades, uma a uma. Como é que você começa a se perguntar das necessidades de ambientes que você precisa na sua casa? Qual é a primeira pergunta? Quantas pessoas vão ficar na casa? É bom jeito de começar. Inclusive tem no caderno de exercício também pra você literalmente preencher a mão, tá lá nos e-books. É, a primeira pergunta seria quantas pessoas vão estar na casa. Então se você tem filhos, se você tem idosos que vão morar com você. E a divisão de quartos e suítes pra acomodar essas pessoas.
-
-Se você tem três filhos, cada filho vai ter quarto? Ou os meninos vão dividir quarto? Ou todos vão dividir quarto? É. Quantos banheiros vão estar associados? Porque quantos banheiros já dizem que é suíço. Aí, visitas. Como é que é as visitas? Você recebe muita visita? Ou não? Aí também a gente tem que falar de prioridades, hierarquia. O quão é necessário esses ambientes, principalmente num primeiro momento. Nós falamos com pessoas com limitações financeiras severas. E, em certas ocasiões, olha, eu preciso sair da casa dos meus pais, eu preciso sair do aluguel.
-
-Logo, rápido, a gente teve uma aluna que até eu vi que a Patrícia precisava acabar a casa antes do filme acertar. Deu tudo certo, gente. Então, o que é realmente necessidade e o que pode deixar pra depois, a gente vai falar também de prioridades aqui. Por animais também. Quais são as necessidades de espaço. Se você tem cachorro, a gente tinha cachorro muito grande, por exemplo, na época, que ficava inviável fazer uma casa pequena pra cavalo se movimentar dentro dela, literalmente, era dog alemão. E o cachorro, você sabe, que vive com a gente pelo menos uma década.
-
-Então, a gente tem que levar, sim, os pets em consideração. E aí, outros ambientes. Cozinha, sala de estar, dispensa pra quem tem muita louça, área de serviço pra quem sempre precisa fazer aquela área de serviço especial. Não, mas tem gente que precisa de uma área de serviço super grande, que sempre vê que tem volume de lavagem de roupa muito grande. Tem gente que não. Tem gente que vê que tem volume pouco e a área de serviço é pouco utilizada. Então, isso aí é uma coisa muito pessoal. Mas tem uma área aqui pra. Gosto muito da ideia também, apesar da gente não ter. Talvez até várias dispensas.
-
-Uma de alimentos, depósito para alimentos e outros depósitos para outras atividades. Então, momentos especiais. Você não pode viver sem, por exemplo, eu preciso de uma cadeira confortável para meditar, então na minha sala ela tem que ter uma poltrona, não pode ser sofá. Aí é uma coisa que você já escreve. Porque você tá tentando ver quanto espaço você precisa. Aí você vai misturar pouco com quanto espaço você quer. O que é necessário, o que é desejo, o que é sonho, e encaixar tudo nesse projeto dessa casa.
-
-Uma boa base, onde você já mora hoje, você sempre fala isso, anota todo o seu dia a dia, todas as funções que você faz, e durante dia na sua casa já pode fazer isso sem tirar real do bolso. Então, acordei, levanto da cama, odeio levantar da cama porque minha cama é colada na parede. Já escreve, não quero cama colada na parede. Odeio que minha cama não tem mesa de cabeceira para carregar o celular, não tem tomada ao lado, a luz, eu não consigo desligar a luz quando eu deito na cama.
-
-Cada detalhe desses, vocês têm que ir escrevendo para poder construir a casa perfeita que atenda essas necessidades pra que não errar na condição da sua casa. A Por exemplo, vai lavar a louça, minha pia é muito baixa, minha pia não tem área pra secar a louça, não gosto gente tem. Da louça à vista, queria a louça num armário aéreo, embutido. Então, meu espaço de trabalho não tem uma iluminação natural, não tem uma vista de qualidade, eu não tenho lá qual apos-cheats que eu queria, tudo isso vai amontando, tô dando ideias. É, e a gente percebe, seres humanos?
-
-O que irrita a gente muito mais do que o que tá dando certo. O que tá dando certo a gente ignora completamente. E o que é problema, dor de cabeça, irrita, a gente consegue perceber melhor. Tem que anotar os dois. É muito mais fácil anotar o que irrita. Escritório, você trabalha em casa. Quanto é que tem de trabalho em casa? Eu já percebi, por exemplo, que a gente precisa de dois escritórios. Porque muitas vezes a gente vai entrar em reunião e eu fico sem poder gravar, sem poder mandar aula. E aí a gente precisa de dois escritórios. A gente vai botar uma parede aqui no ventre.
-
-Não, a gente já construiu a casa com dois escritórios. Aí cozinha, o tamanho dessa cozinha. Tem que estar conectado com os familiares ou não. Ou seja, tem que ter integrações. A partir daqui as perguntas vão ficando cada vez mais variadas. Cinema, home theater. Às vezes você é grande fã de filmes e precisa de uma parede inteira pra guardar seus DVDs de coleção e a gente não sabe. Lembrar de atividades físicas, se colocar pranchas, pra bicicleta. A gente aqui precisa de local pra minha yoga e eu preo GT pra ter localzinho pra estender o tapetinho de yoga. Quanto de armários, clothes, dispensas.
-
-Depósitos. Mobilidade, se alguém precisa. Por exemplo, depósito. O Matheus, que é nosso aluno, ele construiu galpão pra ser depósito dele, porque ele precisava mesmo, gente. Ele tinha umas 15 impressoras 3D. Imagina aquilo dentro da casa. Impressoras 3D, as visitas, a frequência, o churrasco, na área de lazer, a edícola. Essa área de serviço aqui é. Separada,. Integrada à cozinha, é uma coisa muito pessoal. É, e pedir mais ideias. Então escreva tudo isso aí antes de falar com arquiteto, engenheiro, antes de procurar terreno. Pronto. Tamanhos. Qual é o tamanho ideal?
-
-A Amanda recebia aqui anteprojeto do meu arquiteto. Será que os tamanhos são bons? Será que tá grande demais? Será que tá pequeno? Quantos metros quadrados será que eu vou precisar projetar? tamanhos se repetem. Então, tamanho bom de sala é uma sala 4x5, 4 metros por 5 metros, 20 metros quadrados. Tamanho bom de quarto é quarto de 3m por 4m, 12m². A gente já sabe que vai caber tudo ali. Eita, no meu projeto tem quarto de 2,5m por 3m.
-
-A gente já sabe que é quarto pequeno, mas a gente sabe também que muitos apartamentos tem esse tamanho de quarto e dá pra resolver com esse tamanho também, dependendo da função do quarto. A gente pega aquela lista que a gente tá desenvolvendo de necessidades e a gente vai multiplicar por esses tamanhos. Passou mal de tamanhos, essa é a ideia. Você tem que ter as bases nesses tamanhos. Uma maneira de conseguir as bases é por livros, manual da arquitetura escassa, ele dá algumas bases de quais esses tamanhos. E outra maneira também é ver outras plantas baixas.
-
-Então o próprio apartamento que você mora, a casa que você mora, tenha uma noção do espaço dela e vê se os seus móveis ali estão entulhados, se você quer espaço maior, quão maior, pode medir a casa que você tá. Morando Aí é bom também trazer, assim, o mínimo, dá pra resolver com isso, a partir do quanto tá apertado minha vida a pé real e o quanto é que eu queria. Tem que ter o espectro Nessas horas,.
-
-O Google sempre é grande ajudante, porque você pode ver vários layouts de sala de estar, pode ver layout de cozinha, pode ver tamanhos mínimos, pode ver tamanhos de acordo com a medida de sala para sofá de 4 de 3 metros. Você tem sofá de 3 metros, qual será o tamanho de uma sala que comportaria esse sofá legal? E por aí vai. Medidas de uma sala para atender uma família de 5 pessoas. E por aí você vai vindo e pesquisando. De acordo com o tamanho da sua família, com o seu tamanho dos ambientes também, né gente?
-
-Não adianta fazer uma casa super grande para duas pessoas, e nem uma casa super pequenininha para uma família de 5 pessoas, 6 pessoas. Você não está falando de eficiência. Então devia ir de casa já, como a Amanda tem falado aí, medir toda a sua moradia hoje. E por que não, das pessoas que você visita? Você visita. Com licença, eu posso medir sua sala? Eu adorei desse tamanho. Nossa, essa é a sua ilha? Era tudo que eu precisava. Deixa eu só ver quantos metros aqui ela tem. Olha. E você está sem treina. Isso não é problema. Você pega a treina e mede pouco o seu corpo, certo?
-
-Você mede assim o braço dela. Dá quantos? Você mede metro. Outra forma, uma ferramenta no celular, que ela mede. Você clica, bota a câmera, clica num ponto, clica em outro, e aí ele mede quanto é que tem de ponto a outro pra você. Aplicativo, medida e computador. Aplicativo, medida e celular, exatamente. Tem aplicativo aqui, chamado Medida, no iPhone, ó. Deixa eu botar aqui pra vocês verem, ó. Você nunca mais vai ficar. Aqui é ao vivo, ó. Ao vivo, atenção, hein? Tá aparecendo aqui, ó, Medida. Aí você clica aqui em Medida. Aí ele vai abrir a câmera, ó.
-
-Eu vou fazer aqui ensaio, que justamente eu vou pegar aqui rapidinho, ó, dois pontos daqui, até. Aqui em cima. Ó, eu peguei aqui uma medida, que não vai aparecer pra vocês. Bate o print, bate o print. pode ser. Deixa eu ver se só faz E aí ele mostra pra você a medida desses dois pontos. Tá aparecendo aqui do sofá? E vinte? E é exatamente o que tem no sofá. Então ele é bem fidedigno nesse aplicativo do iPhone. Você pode usar pra medir os ambientes sem passar tanta vergonha. Palma da mão também. Medir a palma da mão é muito bom. Vinte centímetros. A palma da mão feminina. Aqui são quinze.
-
-Aqui são dez. Aqui é tudo muito útil. Vamos. E aí somar essas áreas. Toda essa ideia é a gente chegar em áreas. Porque a partir dessas áreas a gente tem as primeiras estimativas. Aquela estimativa inicial pelo índice do CUBE mais os custos diretos. E depois a gente vai utilizar essas áreas também. A partir dessa primeira estimativa é que vai dimensionar a casa. Porque é a partir daqui que você vê, nossa senhora, não dá nem perto. Por exemplo, a gente teve uma pessoa aqui que é constituída em uma casa de quatro quartos, com uma área gourmet externa e perguntou se uns 50 mil reais dava.
-
-Vamos ver sobre isso na próxima aula. História real, história real. Aí você soma e multiplica, se você tiver feito num papel, você pode bater uma foto e mandar pro GPT de som, você pode somar na mão, você pode fazer uma tabela Excel, você pode fazer onde você se achar mais confortável. E a partir daí, você vai ter custo financeiro, a gente pode adiantar custo financeiro de 3 mil reais por metro quadrado. Seria uma média da média do geral de como seria para construir uma casa já com custos indiretos. Se a gente fosse botar valor. Da fundação até o acabamento da casa com as bancadas.
-
-Aí não entra maçonaria nesse custo, por exemplo. Não, aí não entra monte de coisa. Não entra muros, não entra captação de água, de fogo, de poços. Movimentação de terra, fazer muro de jarrim, não entra essas coisas não. É casa assim, da fundação até o acabamento, a pintura. 3 Mil reais seria no convencional. Aí, aplicando o método CBCS, a gente puxa esse valor, tenta puxar, assim, não sei o limite, não dá pra construir sem nada.
-
-A gente conseguiu mil reais por quadrado aqui, menos de mil reais por quadrado, mas a gente é os mestres. tem aluno nosso que consegue abaixo disso, e a gente tem uma boa média de alunos aí, que fica entre mil e oitocentos, dois mil e quinhentos, que são alunos que aplicam, assim, o método, o grosso do método. Isso dá direito a luxos também. E que isso você também, não, só quero manter, isso você aprende bastante no curso aqui, e consegue manter, porque você jogar na mão e pedir assim, vou fechar a chave na mão, só vou lá visitar quando a casa estiver pronta. Aí é R$4.000 pra cima, é muito.
-
-Só de você ir lá visitar a obra e fazer acompanhamento, fazer as perguntas, as pessoas acordam. É o olho dono que engorda o gado. É, e aqui no caso é o olho dono que economiza na obra. E aqui é uma questão que eu tô falando que é priorizar, porque você vai se escortando itens que não são necessários assim. Tipo uma aula. Pense bem, se você precisa de uma sauna aqui em Fortaleza. É, sauna, jacuzzi, também você pode botar pra esses elementos virem depois, no seguinte atalho. Tem várias outras estratégias, a gente vai discutir essas estratégias mais pra frente. Então, muito obrigado.
-
-Precisa aula, necessidade. Olá, seja bem-vindo a uma aula muito nova, porque essa tecnologia tá saindo do forno agora. E a gente precisa apresentar pra vocês, porque não tem mais como, deixa eu falar, não tem como ignorar. Você não tem como ignorar a energia elétrica, a internet, o computador, o antibiótico. Você não tem como ignorar essas novas tecnologias. E é uma nova que é a Inteligência Artificial, o ChetPT. E ele funciona pra fazer pesquisas hoje em dia, e fazer modelagens com textos, e muitas coisas. Mas é muito caro, você tem que ter tipo de certificado pra usar, alguma coisa.
-
-Você vai lá, aqui em nova aba, quando você vai pesquisar no Google, qual que é a coisa que você vai pesquisar na sua vida, você escreve chatechpt.com.br. Mas você vai ser levado pra esse site, que é site gratuito, tá bom, gente? Então isso é a famosa inteligência artificial. É, tem que se cadastrar e conversar com ele. É o mesmo que você for usando, você pesquisa mais e se aprofunda mais. Mas a gente quer trazer a parte de construção de casas. O que você vai fazer? Lembra da nossa última aula que a gente viu sobre necessidades. Digamos que você não quis fazer aquela aula à mão. Escreve aí.
-
-Chat, eu tenho. Eu e meu marido, eu e meu marido, trabalhamos em casa. Trabalhamos em casa. Não precisa acertar, porque não tem nada não. É, e queremos estimar o tamanho de uma nova. De uma casa. Queremos estimar o tamanho de uma casa pra construir, pra atender nossas necessidades. Atender nossas necessidades. Nós não sabemos quais são as nossas necessidades. Precisamos de dois escritórios. Dois escritórios, podendo ser reversível para suíte de visita. Aí vírgula. Aí, na verdade, não suíte, faça banheiro social que atenda toda a casa. Toda a casa. Eu não entendi, eu preciso acertar também.
-
-Deixa eu ver o que é mais aqui que eu posso escrever. Gostamos de uma cozinha grande, queremos quarto com closet e banheiro. Queremos quarto com closet e banheiro. Queremos varanda, isso. R$. Aí você vai dando o máximo de informações aqui que você quiser. Aí você pergunta quantos metros quadrados. Lembra da distância e área de serviço. E área de serviço. Aí assim, faz negócio tipo assim. Me dê uma lista de ambientes com medidas mínimas e máximas em cada dimensão e áreas. E os somatórios. Algo do tipo. Trabalho, vai, trabalho. Chicoteia ele. Aí ele vai começar a brincar aqui ó.
-
-Sala, destaque, com jantar integrado. 6X4 seria o mínimo. Ele já tá somando com a cozinha. Máximo, 8x5. Grandinho. É a nossa aqui. É, Sweet Master. Exatamente a nossa aqui, é 8x5. Sala e cozinha integrada, que é grande. Grandíssimo. Sweet Master, mas tem corredor no meio também aqui. Sweet Master, closet e varanda. Sweet Masterzona. O quarto, pequeno, 3,5x6.
-É o 9, pequeno.
-4,5X4, nem botou 4x5 no máximo aqui. Mas é uma boa dimensão. É 3x4 em média, ele botou aí entre 3x4 mesmo.
-2X2, o closet, ou 2,5x2,5, banheiro 2x2 ou 2,5x2,5, varanda 2x3, 2,5x4.
-Quarto 1.
-Primeiro quarto.
-
-Vamos ver se ele vai acelerar. Quarto 2, banheiro social, cozinha. Aí soma, expensas. Aí mínimo. Áreas mínimas, aí ele soma as áreas mínimas, 82 metros quadrados. Aí soma as áreas máximas, 132. Então graças a Deus ele deu uma resposta coerente, porque às vezes ele não dá uma resposta coerente, mas que é bem coerente. 80 Metros quadrados. Pô, por que eu não pedi aí a diferença da nossa casa? A gente não botou uma sala de jantar grande e nem área de jantar rasqueira, que a nossa casa Terreno, ele já dá uma medida mínima do terreno, caso seja a casa térrea. Adicione 15% de circulações.
-
-E adicione também, bota aí, adicione também sala de jantar grande pra 8 pessoas, que é o que a gente tem aqui, e área de churrasqueira. Eu ia dizer pra ele multiplicar os custos. Tá bom então, vamos começar a abrir os custos. Custo de construção de R$3.000 por metro quadrado. Não, não, não, tá bom. É porque eu gosto de pedir pra. Ele estimar quanto vai sair. Depois eu peço. É, só pra eu ver quanto é que vai dar o máximo e o mínimo.
-
-Só porque eu não queria escrever esse valor aqui e multiplicar por R$3.000. Mas eu mandei aumentar 15%, ou seja, eu podia botar esse número, botar na calculadora, apertar ponto, 1.15 vezes, aí depois de 3 mil vezes. Aí aqui a gente teria o custo máximo mínimo, a gente tá falando de 300 mil a 450 mil. A gente já sabe que se a gente chegar com o comentário daquela moça que ela me perguntou, se ela tivesse jogado esse comentário dela aqui no chat de EPT, ela já teria a resposta de que com 50 mil ela não conseguiria construir a casa dela. Tá, vamos ver aquela conversa agora.
-
-Não, aí vamos aqui fazer o contrário. Vamos fazer agora a estimativa. Chat, eu tenho 250 mil reais. Mil reais. Quero construir. Para construir. Para construir minha casa. Minha casa. Aí virgula. Me ajude. E Chico, em quantos metros quadrados eu consigo construir? Sabendo que eu moro em Fortaleza, no Ceará. Já com custos indiretos inclusos. Eu posso botar assim, tem o terreno já, tem o terreno já. Meu terreno. Tem desnível de 1 metro. Nossa, então meu terreno tem desnível de 1 metro. Aí botei, quero casa. Falta eu fazer os muros e o portão de entrada. O terreno tem 240m². Tem 240m².
-
-A casa quero de 2 andares. Leve tudo isso em consideração. Leve tudo isso em consideração. Na estimativa dos custos. Pode dar o enter aí. Tem como a gente jogar esse comando antes no prompt pra ele dar uma melhorada ainda pro chat vir mais certinho, mas eu não vou me aprofundar nessa área não. Eu acho que ele tem que falar aqui da questão de que o que eu quero é a lista de cômodos e os tamanhos. E o custo também. Me dê o custo. Mas não dê a área, Didi. Não, tu deu o orçamento. Tu tá entrando com o orçamento. Me dê o custo por metro quadrado. Pode ser, por metro quadrado.
-
-A gente quer saber quantos metros quadrados a gente vai projetar. Presta atenção na aula da Uplay. Quantos metros quadrados vamos projetar. É assim que eu perguntei? Tu já perguntou lá em cima, mas pode repetir a pergunta assim.
-
-Então, o calcular é o máximo que você pode construir, considerando o orçamento de 250 mil, custo indireto em Fortaleza e a necessidade de muro com portão, custo por metro quadrado em Fortaleza, vale de 2.500 a 3.000 reais por metro quadrado, terreno com desnível, ele estima 5 a 10% a mais para questão de nivelamento e fundações, áreas externas para o terreno de 240 metros quadrados, ele já se preocupa pouco com afastamentos, quintal, ele faz pouco os cálculos desse.
-
-Então, deduzir uma porcentagem para muros importão, considerar o impacto, claro que você pode pedir para ele alterar as coisas de acordo com o que você vai lendo, que ele está calculando aqui. Ele colocou aqui algumas adaptações do desnível. Inclusive, razoável, porque o nosso desnível realmente sairia R$ 18 mil para corrigir. E era de metro também, então assim, bem próximo. Mas ele está aqui até hoje, firme e forte o desnível. É mesmo, o desnível é mais barato do que aquele que você não mexe. Então assim, orçamento restante para construção.
-
-Aí ele colocou aí uma área construível de mínima de 70 metros quadrados e no máximo 85 metros quadrados. Varia entre R$ 2.500 a R$ 3.000 no metro quadrado. Também achei bem razoável esse valor. Então, se priorizar acabamentos mais simples, R$ 85 metros quadrados. E o que é o que você quiser. Entendeu? É seu trabalho, seu escravo aí. Agora não sei se ele desenha layout. Não sei se ele desenha. Esse aqui é ao vivo, hein? Vou te mostrar já já aqui também outra. Outra estimativa. Só minuto. Esse aqui foi uma conversa sobre. Volta lá, volta lá. Olha que bonito. É, não é. Aqui está o.
-
-Layout para sua casa de dois andares, otimizando a tendência das necessidades. Não sei se essa casa tem 70 metros quadrados. Provavelmente não. Então, assim, ele ainda possui suas limitações, Patinho. Então, com certeza, não tem 70 metros quadrados nessa casa. Totalmente. O desenho não tem nada técnico. Tem uma certa perspectiva. Mas ele tentou, vamos dar uma olhada. Olha aqui, tem quantas cadeiras ao redor dessa mesa. Quando você vai ver os detalhes da geração de imagem deles. É, a geração de imagem é o que eu falo. A geração de imagem ainda não tá lá essas coisas. Mas olha que legal.
-
-Recebi de uma cliente esse orçamento aqui. Na verdade, a gente vai parar essa aula aqui e vamos criar outra com reforma. Com esse caso de. Continuando a inteligência artificial aqui pra orçar pra você, trabalhar pra você. O que eu recebi aqui de uma aluna? Ela queria fazer esses serviços demolição, construção de novas paredes. Eu peguei a lista de serviços que ela me mandou, print, pra não precisar nem copiar, e coloquei aqui no chat, até porque ela queria saber se o orçamento que ela recebeu estava caro. Então, joguei aqui, pedi pra ele estimar quanto é que sairiam esses serviços.
-
-Então, ele deu aqui algumas informações iniciais. 10, 10. Fez uma estimativa dos serviços e estimou aqui em R$24.500,00. Achei muito barato. Então, eu fui levantar melhor. Peguei o projeto, mandei o projeto aqui, perguntei quantos metros quadrados tem esse projeto, que eu não ia somar isso à mão. Então, ele estimou Sumou aqui tudo pra mim e me deu que a soma total dos valores era por volta de 70 metros quadrados. Aí eu pedi pra ele estimar o assentamento de porcelanato nessa área de piso. Amanda, eu quero trocar o piso da minha casa. Quanto é que vai sair essa troca de piso?
-
-Não sei nem quantos metros quadrados tem a minha casa. Joga o projeto aí que você tem, desce, pede pra fazer a estimativa aqui, ó, e ele já vai fazer a estimativa pra você da mão de obra, dos materiais, dos desperdícios, e vai dar cálculo aqui geral de quanto é que vai sair. No total ele botou aí, ó, com rejunte, com argamassa, com mão de obra. E ficou num total aí de 4 mil a 7 mil. Aí eu mandei o projeto completo da marmoraria, que isso aí, se eu clicar, não sei se ele abre, mas é o projeto que mostra a quantidade de mármore que tem na cozinha.
-
-Aí eu mandei esse projeto e pedi pra ele levantar pra mim quanto é que sairia, esse mármore, ó. Inclusive, isso aqui é uma aula que tá no acervo. Aí desce aí, ó. Aí ele estimou também, ele estimou o custo dessa obra. Aí ele estimou demolição, assentamento, marmoraria, pintura. Claro que eu vou conferir com os preços que eu tenho na minha região, o máximo que eu puder. Inclusive, pintura e acabamento ele acertou na mosca, com o orçamento da filha. Na mosca, gente. Foi exatamente 5 mil reais que tava lá no orçamento dela. E aí, o que eu fiz?
-
-Eu peguei esses custos que ele tinha levantado e bati com o orçamento que a cliente tinha recebido. E aí, eu fui vendo quais pontos, que o orçamento dela estava fora da curva. Deles era elétrica. A elétrica estava somando 22 mil reais. Por que a elétrica estava somando 22 mil reais? Porque tinha uma geração de novo quadro de energia, com novos padrões, que só esse novo quadro estava 10 mil e poucos reais. Você lembra que eu te mostrei? Então, esse já é ponto onde ela tem que voltar a atenção dela pra melhorar o custo. Também fiz uma aula completa aqui sobre esse caso.
-
-Aqui nosso Erwin Estudo de Caso de Projeto. Análise de projeto, tá lá. E aí eu fui conversando com o chat, fui fazendo algumas modificações e dei várias dicas na aula de como é que eu economizei, economizaria nesse projeto, né. Mas aqui é só pra mostrar pra vocês como a gente pode utilizar ele, ó, pra fazer novas estimativas, com novos totais, faço modificações. Uma hora eu corri no banheiro e na cozinha, porque eu mandei só projeto, mas são duas cozinhas, esse projeto se repete duas vezes, então eu dei uma atualizada aqui.
-
-Pedi dicas, eu me dei dicas pra baratear a obra, então ele me deu algumas dicas aqui, eu dei mais dicas ainda na aula, né. Deixa eu ver o que mais que eu pedi aqui. Eu pedi pra mudar o preço do granito, mandei aqui todos os projetos totais, pedi novas estimativas, então vou conversando com eles várias e várias vezes aqui. Depois que eu mandei todos os projetos, e não só a lista de serviços, a gente já tem total máximo mais próximo da realidade do que foi realmente orçado.
-
-Outra coisa legal pra fazer aqui, aí pode voltar a tela toda, é mandar o orçamento que você recebeu, pra você não ter que conferir de por manda o orçamento em PDF e pede, chat, esse orçamento aqui, os cálculos estão corretos? As somas, as multiplicações estão corretas? Quais são os maiores custos que você identifica aqui nesse orçamento que a gente pode mudar? Pra eu, literalmente, eu tô pedindo pra ele aplicar a curva ABC aqui no orçamento. Primeiro tá utilizando pra ele corrigir, procurar erros, Não, não tem erros de digitação. Tem, é corrigido.
-
-Aí depois, agora faça uma curva ABC, mostra quais são os itens que dá 80% do meu custo. Aí ele soma esses itens, se identifica rapidamente. Bom, é bom jeito, acelera bastante o que a gente tá fazendo. Demais. Porque antes a gente tinha que fazer isso na mão, jogar na planilha. Hoje é mais simples, mais acessível. Tem como conversar com a máquina, no caso, de forma. Sem precisar fazer a linguagem do computador, porque a linguagem do computador é não ter que digitar cada dos valores dentro das caixinhas certas. Aqui não, você joga materiais mais brutos pra ele e consegue fazer refinamento.
-
-Então eu peguei depois e mandei o orçamento da cliente e falei, identifiquei os itens mais caros. E aí os itens mais caros identificados no documento são instalação de pocelanato, materiais para o novo padrão da Enel, novo padrão de energia, reparo na parede do vizinho, bancada em granito São Gabriel, pintura completa das paredes, R$ 4.8000,00 para o investimento da estimativa e gerenciamento de obra.
-
-E aí eu pedi dicas aqui pra mudar esses custos e foi exatamente o que eu tava falando pra ela, pocelanatos com tamanho menores, entender o que é esse novo padrão da Enel, ver como é que eu poderia negociar com o vizinho e por aí vai. Mas a ideia aqui, aí depois eu pergunto, as somas estão todas certas? Aí ele verifica já pra mim todas as somas, verifica as coisas do orçamento. A medida que a gente for também melhorar a utilização dela, a gente está montando até uma que ajuda a interagir com a C, mas é para o futuro, então vai estar sempre em atualização.
-
-Vou trazer só algumas ideias aqui que me vêm à cabeça. Você é arquiteto e engenheiro, você pode pedir para o chat fazer orçamentos automáticos para você. Meu cliente quer orçamento, chat, de serviços X, Y, Z, H, projeto tal, tal, e aí eu cobro tanto por cada projeto, joga lá. E você, cliente, pode chegar lá e perguntar, chat, vou fazer uma casa de tantos metros quadrados, tal local, o máximo de informações possível. Estime pra mim quanto é que eu devo pagar nesses projetos. Chat, quanto é que custa projeto de alvenaria estrutural pra uma casa de tantos metros quadrados?
-
-Você pode jogar o próprio projeto lá e pedir pra ele ver erros no projeto, pedir pra ele ver melhorias no projeto, e é isso. Me dê mais ideias aqui embaixo nos comentários, do que fazer com o ChatRPT, porque essa ferramenta é incrível, não? Só eu me empolgo com isso. É isso. Vamos falar de projetos? Vamos começar, gente. O projeto vai ser módulo completo aqui desse curso, Casa de Baixo Custo Sustentável, porque é muito importante o projeto. A gente não faz nenhum bolo sem receita, quem dirá, projeto. Ainda com receita, a gente ainda erga o bolo. Quanto mais projeto, mais planejamento, melhor.
-
-Começando, a gente vai explicar pouquinho, uma introdução sobre o que são as etapas de projeto. Então, pra começar, quais são os projetos que vão ser necessários. Existem projetos que são indispensáveis e existem projetos que são opcionais. A gente também vai ter uma aula, se não se desespere, sobre como conseguir projetos gratuitos se você não tem condições de investir em projetos.
-
-Mas pra quem quer uma coisa personalizada, layout personalizado que atenda às próprias necessidades, tem esse sonho, você vai precisar de projeto arquitetônico, que basicamente vai ter plantas baixas, os cortes, as elevações, que a gente também vai explicar o que mais pra frente, e vai definir o layout, a estética e a funcionalidade de cada ambiente. Você vai ter projeto estrutural. Esse, o projeto estrutural mais barato, mais caro, é aquele que você não faz, porque errou na estrutura, não tem o que dizer.
-
-Então, ele vai calcular fundações, pilares, vigas e lajes e vai garantir a estabilidade e segurança da sua casa e também é obrigatório pra aprovação das casas na prefeitura. Projeto elétrico, dimensionando os circuitos pra você não ter nenhum problema de, minha geladeira tá desligando, minha FIA não funciona, isso tudo acontece no projeto elétrico e também ter segurança. Quando você não faz projeto elétrico, você acaba gastando mais em cabo, você acaba gastando mais em mão de obra e acaba também, é, com muitos problemas na casa no final.
-
-Projeto hidrossanitário, que é o projeto que vai fazer toda a rede de água da casa, de esgoto, coleta de águas pluviais também, é opcional, mas é bastante recomendado que você coloque, posicionamento de torneiras, pias, chuveiros e ralos também, se você, às vezes, a altura de chuveiro, a altura de uma pia, esquece ralo, é retrabalho, custo, então a ideia do projeto é sempre ele retornar pra você como investimento. Vai ter também projeto de prevenção contra incêndio, mas esse aqui é mais casos isolados. Prédios comerciais, condomínios, prédios em geral, não é pra casa.
-
-Casas isoladas não tem projeto de prevenção contra incêndio. Mas não é porque a gente trabalhou só fazendo esse tipo de projeto que a gente ganhou dinheiro. Porque era obrigatório pra prédio comercial. Comercial tem que ter. E condomínio. Condomínio de casas. O condomínio tem que ter hidrantes e tem que ter os extintores de incêndio. E a documentação legal, que também, apesar de não ser projeto, você vai precisar de alvará de construção, aprovação na prefeitura e as responsabilidades técnicas. É, não é projeto, mas é uma parte de papelada. Detalhe, uma pequena correção.
-
-O projeto estrutural, ele não é obrigatório pra aprovação de alvará na prefeitura. Depende da prefeitura. E depende do tamanho da casa. Normalmente, a prefeitura, o que é mais normal, a prefeitura pedir o arquitetônico e básico. É arquitetônico legal que E ela quer saber também pra onde é que entra água e sai água, certo? É o principal serviço aqui pra provar em prefeitura, certo? Nenhum elétrico, elas querem saber onde que tá a entrada de energia, só. Elas querem saber que tá tudo dentro das leis de uso e ocupação do solo da prefeitura.
-
-Dá pra reduzir bem, esse pacote de projetos, mas o ideal é a gente se informar na sua prefeitura, porque cada prefeitura realmente é única. Projetos que são opcionais. Projetos de interiores. Projeto que é o que vai editar quais são os móveis. Mas assim, na minha opinião, esse é extremamente indicado que se você tiver condições fácil, que é o que vai dar aquela diferença de casa cor e vai diminuir muito dor de cabeça na hora de você decorar e mobiliar a casa. Porque a casa não é só a gente reconstruir. Tem que também ter os móveis. O projeto de paisagismo. Isso daí até você mesmo pode fazer.
-
-Você pode dar uma olhada aí na internet em alguns vídeos. Eita os paisagistas agora. Não, como assim? Tem que ter. Mas é por aí. Você pode. Não é projeto assim que vai botar a vida de ninguém em risco. Você pode dar nessa no seu próprio jardim. Claro que vai ficar mais profissional se você contratar profissional. A gente vai falar mais pra frente de profissionais versus não profissionais. O projeto é automação residencial, se você caiu aqui nesse custo de baixo custo por algum erro. Não tô brincando, gente.
-
-Mas é porque a gente sabe que no baixo custo a gente economiza em vários locais pra poder investir em outros. Então, se for uma prioridade pra vocês, investidores inteligentes, investam nesse projeto. Geração de energia, que é basicamente esse painel solar ou mini eólicas. Por que mini eólicas? Nosso vizinho tem uma mini eólica, gente. É melhor só solar. Nós estamos em 2024, certo? Nosso vizinho tem mini eólica. Solar tá quente. Então assim, é pra quem gosta. Vamos pular a eólica.
-
-Projetos de sustentabilidade, que são opcionais, que é a captação e reuso de água, eu não entendo porque o telhado verde entrou aí. Mas, enfim, projetos de sustentabilidade. Projetos de climatização, sim, muitas vezes as pessoas não colocam os ar-condicionados, especialmente quando são grandes obras, o projeto de climatização é a parte. Mas, normalmente, caso o pessoal já inclua os ar-condicionados no elétrico, concorda? É, sim. Confira com o seu projetista, que ele tá colocando os ar condicionado, que eu já vi projetos sair sem ar condicionado e aí eu dou de cabeça.
-
-Projeto de segurança, caso você queira. E projetos de áreas externas, que geralmente são por fora também, que são piscinas, áreas por verdex, varandas, alguns arquitetos já incluem, pelo menos, a previsão, mas não dão detalhamento da execução dessas estruturas. E acessibilidade, caso você necessite, de rampas, vendas adaptadas e corredores mais largos, especialmente pra quem tem idoso ou pessoa que precisa de mais acessibilidade. Essa lista aqui é bastante útil já pra você lembrar de todo, de checklist do que pensar sobre uma casa, do que é que precisa de planejamento.
-
-Essa parte aqui, é onde todo mundo erra. Geralmente, a pessoa começa bem ali, ó, execução da obra. Pré-obra não existe. Desenvolvimento dos projetos, todo mundo pula. Vai direto pra execução da obra. Vocês sabem que a execução da obra já é depois da metade da etapa desenvolvimento do processo. Isso aqui, inclusive, é uma coisa que a gente sempre fala nas aulas gratuitas. Você tem que começar com a estimativa de custo. O primeiro passo é o estudo de viabilidade. Inclusive, o módulo do orçamento é tudo sobre isso. Estudo de viabilidade. Porque investir num projeto é caro.
-
-Então, pra você pagar por projeto, você tem que ter certeza que você consegue executar aquele projeto. Projeto. Como eu vou saber o preço sem o projeto? Vamos ter uma aula de chefe de IPT com isso. É, mas não precisa ser chefe de IPT, você escreve em qualquer lugar como ter o custo de uma casa, da minha casa, sem o projeto. Tem muitas formas de estimar. Você estima, mas não vai sair exato o custo. A questão aqui não é ser exato, na unha, no pelo, na. É pra você ter uma ideia de que você tá sonhando no tamanho certo.
-
-E tem uma aula aqui também no Acerno, no módulo de orçamento, estimativa inicial ao final. Então você começa por lá, que você. Vai estimar de acordo com o seu B. Mas a gente vai falar pouquinho mais também, em outra aula aqui nesse módulo também. Quando a gente vê aqui, nessa estuda de viabilidade, que não é só estuda de viabilidade financeira, você vê assim, o dinheiro vai dar. Ou o dinheiro vai dar, mas eu vou ter que fazer financiamento. Ou eu vou ter que dividir em dois.
-
-Ou eu vou ter que, não, o dinheiro não vai dar, eu tenho que dar jeito aqui, minhas necessidades não cabem, o que eu vou fazer? Dar jeito de economizar com técnica CBCS. Então, aqui não anda, não anda enquanto não tiver solucionado esse problema de, olha, já dá pra pagar. Aí pagando, tenta subir pra viabilidade. Se tem Aí a gente vai ter,.
-
-Depois do estudo de viabilidade, que a gente vai aprofundar na próxima aula, o orçamento com o projeto da prefeitura, e aí sim a gente vai ter o grande desenvolvimento dos projetos, que só acontece a maior parte dele depois da prefeitura aprovar o seu projeto básico. E aí você, antes de começar a obra, tem que estar em mãos do orçamento com o projeto executivo. E aí vai ter o pré-obra, que é a preparação, com esses papéis em mãos você vai se preparar, pra aí sim ter a execução da obra, onde vai acontecer o controle dos custos, e aí vai ter a entrega, que é o. Basicamente você vai. Tudo que.
-
-Foi ensaiado aqui vai acontecer aqui, grande show. Exatamente. E a gente pode até botar X, mas basicamente é cuidar da casa, manutenção, as estruturas obras que você deixou pra fazer em outra etapa. Vamos agora falar sobre projeto arquitetônico, tá gente? Tipo específico de projeto. Como é que geralmente funciona? Dá panorama geral ali. Ali a gente falou panorama geral das etapas desenvolvimento de projetos.
-
-Cada desses projetos, provavelmente, você vai ter fluxo agrumar parecido com o que acontece no projeto arquitetônico, que é o primeiro contato com a empresa, depois vai ter uma reunião para levantamento dos seus dados, vai receber o orçamento do projeto, não o orçamento da obra, de quanto é que custa o projeto da obra. Você vai aprovar ou não esse orçamento. Aí você vai ter estudo preliminar e percebam que cada etapa dessa possui uma revisão. Estudo preliminar, tem uma revisão se não for aprovado. Projeto básico, revisão se não for aprovado.
-
-Compatibilização do projeto, revisão se não tiver aprovado. Projeto legal, revisão se a prefeitura não aprovar. Projeto executivo, não há alteração. Projeto executivo é para entregar para o cliente e acabou. Ninguém mexe no projeto executivo. Quer dizer, só quando extremamente necessário para viabilizar a obra. Aí vamos para a esquerda. Isso que acontece em praticamente todos os projetos. Normalmente não tão detalhadamente. O de arquitetura é o que mais se aprofunda nisso. Cada escritório tem seu fluxograma. Esse é exemplo.
-
-E atenção, para a quantidade de revisões que você fecha com esse escritório. Porque cada. Três revisões. Até três revisões. Estudo preliminar? Estudo preliminar. É, monitorjeto básico. Quanto mais no início, melhor. Quantos metros quadrados pode mexer nessa revisão. Tem que estar bem detalhado. Atenção para a compatibilização de projetos, que é ponto crítico. Crítico, que é o quê? Você faz projeto de arquitetura e o projeto elétrico coloca interruptor onde não há parede. Essa é a falta de compatibilização. Mas isso acontece mesmo.
-
-Por que a pessoa do elétrico desenhou interruptor onde não tem uma parede? Porque provavelmente, às vezes, vai projeto antigo para o elétrico, aí a arquitetura atualiza, o elétrico não atualiza. E acontece esse tipo de coisa, gente. Atenção para o nível detalhamento que você quer. A gente vai falar disso mais pra frente. E atenção para quais projetos estão inclusos. Complementares que a paginação de piso, então a gente vai falar de cada dos projetos. Esse aqui vai ser a próxima aula da gente, porque a gente falou ali fluxograma bem chuto.
-
-Só que não é chuto dessa forma, a gente não queria assustar todo mundo já na primeira aula. Já deve ter muita gente assustada. É, então aqui a gente vai ter fluxograma passo a passo mais detalhado, pra você poder ter ele em mãos e seguir direitinho e não se perder nessa hora. E a ideia aqui não é fazer as coisas só por fazer, é porque pensar aqui nesse momento, a gente vai falar disso, pensar nesse momento aqui no projeto, economiza. Não é por outro motivo, é porque falta dinheiro, então tem que pensar mais. Se não tivesse dinheiro infinito, faz na obra.
-
-Isso aqui é pra sair o mais econômico possível. Estamos usando o nosso melhor ativo. Mais baixo custo. Passa pra frente. Então o projeto arquitetônico, vocês viram, ele vai ter uma evolução do estudo preliminar pra outro projeto, pra projeto básico, pra projeto executivo. E como é que essas etapas desenvolvimento, a gente acha que é o quê? Chegar, desenhou, você vai, no momento que a gente chega com o projeto, desenhando o papel, fala pro arquiteto, ó, já sei o que eu quero.
-
-Só detalhe pra mim, é como se você desenhasse esse cavalo aí, ó, desenhou as pernas, desenhou o cabelo e pede pro arquiteto adicionar pequenos detalhes. Não é assim que funciona desenho, gente. Por mais que você seja super bem-vindo pra desenhar o que você quer, você percebe que a gente não consegue dar esse salto. Então, não existe eu já sei o que eu quero, só detalha pra mim. Passa pra frente. Porque você não sabe desenhar cavalo. Geralmente, essa é a etapa desenhar cavalo profissionalmente. Isso aqui quem vai saber mesmo é o arquiteto. E como é que funciona também, isso aqui é meme.
-
-Tá escrito o início do projeto e a entrega, mas eu costumo, eu queria até modificar esse meme, eu trouxe ele pra gente falar sobre o que? Os níveis de projetos que existem. Os projetos, eles podem ter detalhamento muito ruim ou detalhamento muito bom. E claro, esse também representa o início do projeto e a entrega, porque muitas vezes no início do projeto a gente tá aquele. Detalhando e tal, aí o cliente começa a perrear, precisa do projeto, e aí na entrega sai aquela patinha de cavalo e não conseguiu fazer nada, então perdeu-se, o desenho.
-
-Mesma coisa aqui, projeto é tudo igual? são três desenhos de cavalo, vocês concordam? Dá pra perceber que são cavalos, os três. Os três são cavalos. Então, da mesma forma que esses três cavalos, a gente consegue visualizar. São três níveis diferentes de acabamento no cavalo e detalhamento. Projeto é do mesmo jeito no mercado. Você vai encontrar o projeto como o primeiro cavalo, o projeto como o segundo cavalo e o projeto como o terceiro cavalo. Claro quem vai decidir o nível que você precisa do projeto é você.
-
-Mas você sabe que o terceiro cavalo é muito mais bonito, muito mais finíssimo em acabamento do que o primeiro. Então, o projeto é reflexo da sua casa. Então, por isso a importância de investir num bom projeto. E daí a diferença também entre preços de projeto e de mercado. Por exemplo, olha esse nível detalhamento aqui. Tem projeto que vai te entregar uma planta baixa da casa. E tem projeto que vai te entregar o detalhamento de uma calçada, por exemplo. Uma borda de jardim interno, que por exemplo, seria jardim que foi feito dentro da casa.
-
-E aí vai ter cada detalhezinho, ó, daqui na 45 graus, o porcelanato, a camada de argamassa, o contrapiso com a altura, já pra ver a altura da argamassa, com a distânciazinha, com o lasto em concreto magro, com todo o detalhamento que você vai precisar. E normalmente eles trazem isso pra diversas áreas da casa. Então esse daí seria aquele cavalo bem mais desenhado. E é isso. É isso. Esse aqui realmente é o nível detalhamento máximo. Vamos pra próxima aula, que são tipos de projeto. Vamos começar a falar sobre tipos de projetos. projetos, não é tudo igual, mano? Não é só projeto? Vamos lá!
-
-Já até mostrou na aula anterior vários nomes de projetos, vamos entrar pouquinho neles aqui pra falar pouquinho de cada deles. Mas vamos abrir os principais, mostrar eles o que é o projeto, não só definições do que é o projeto, vamos mostrar o projeto. Tem projeto arquitetônico, é o que mais tem divisões, ele tem a parte de estudo preliminar, anteprojeto, projeto legal, projeto básico, projeto executivo, certo? O que é isso. Por que a gente divide em cinco, não é só projeto arquitetônico, não é só uma casa. Cada deles tem uma função específica, estudo preliminar.
-
-Qual é a ideia do estudo preliminar? É que nem aquele desenho do cavalo, a gente vai detalhando o cavalo. No estudo preliminar, a gente vai ter inclusive uma aula separada, mais voltada para arquitetos e engenheiros, sobre como ele acontece na prática, como você, arquiteto e engenheiro, pode desenvolver bom estudo preliminar. Mas para você que é cliente, você precisa saber que nessa etapa vai acontecer levantamento de dados, que é briefing, que é basicamente conversar com você para entender quais são as suas necessidades. Vai ter uma análise do terreno.
-
-Inclusive, se você não tiver terreno, não tem problema. Inclusive, você pode buscar o terreno de acordo com as suas necessidades, que é o que a gente vai falar também no fluxograma. Pesquisa contextual, que é para entender melhor a sua situação, o seu estado, suas flexibilidades. E definição das diretrizes, que vai ser. As diretrizes, a casa vai ser desenhada. Faço home office. Eu viajo muito, preciso ter segurança. Tem cachorro em casa, tem criação de galinha. Aqui é o primeiro momento, levanta esses dados. Isso, estudo de viabilidade.
-
-É uma análise técnica que vai ver se é possível construir isso daí. Tipo assim, dá pra fazer essa casa que você quer na parte de baixo, sem nenhuma parede, na parte de cima, com todos os ambientes? Será que dá pra construir isso? Estudo legal, que é pra saber o quê? A prefeitura permite você construir nesses parâmetros? Quanto do terreno que a gente pode usar? Qual é a altura máxima que essa casa pode ter na região? Recursos, a janela posso virar pra esse lado? Tudo isso vai estar no estudo legal.
-
-E a análise financeira, a mais importante, que é pra saber, você consegue pagar pra essa construção? Hoje, em 2024, por exemplo, a gente tá com o maior número. 2025, É. No começo de 2025, a gente tá com o maior número de leilões de casas, de financiamentos. Casas que foram financiadas e foram pra leilão porque não foram pagas. Então houve problema ruim aqui no financeiro. Porque a casa tá em pé, foi aprovada pela prefeitura, teve a engenharia levantou a casa e o financeiro deu problema. Não conseguiu manter o financiamento, vai assistir o curso de financiamento. É, vai se programar.
-
-Também nessa etapa, que depois dos estudos de viabilidade. A gente não tá tirando isso aqui do coração. Tá na norma. A gente tem os esboços e ideias iniciais do CAL. Então você pode exigir isso do seu arquiteto, isso que é legal. Muita arquiteta nem sabe isso e você vai saber mais que a arquiteta. Então. Uma coisa que acontece muito com os nossos alunos é darem aulas para os profissionais. Infelizmente. Vocês que estão estudando, eles não, gente? Então vai ter os croquis, que é basicamente os desenhos raviscados mesmo. Croqui é esboço.
-
-É aqueles primeiras bolinhas do cavalo lá, que a Amanda mostrou, as primeiras bolinhas. Não, apaga, joga fora. O mundo do cavalo ficou muito grande. Não, bota ele pra cima, apaga as bolinhas e faz de novo. Aí a gente vai ter o estudo de layout, que é basicamente onde vão ficar os ambientes. Vai ter o partido arquitetônico, que é basicamente a estética, o tamanho das aberturas. Gosto muito de plantas, eu quero uma casa azul. Os materiais também. Eu quero estilo bem gótico, eu gosto de uma varanda enorme, eu quero perfeito cubo. Que a gente vai começar a trabalhar ali.
-
-E aí a gente vai ter o pré-projeto, que vão ser já algumas plantas e cortes preliminares. Vão definir os setores e vão definir também os materiais. Vão ter ali a materialidade do projeto em si, então você já sai com o projetinho em mãos dessa etapa. A gente não vai entrar muito no que é uma planta baixa, o que é corte, o que é perspectivo, o que é uma isometria, que são esses nomes, são partículas, são dos desenhos, certo? É só você escrever por aí e rapidamente você aprende. Não tem aula separada pra isso. Tu vai dar essa aula, então. Eu acho que a gente deveria focar em economizar em casa.
-
-Vai ter aula de tudo aqui no acervo. Claro, vai ensinar tudo. É o Manual do Mundo 2 aqui. Então, estudo do Projeto Arquitetônico. Tá com pressa? Projeto Arquitetônico, estudo preliminar. É exatamente isso que vocês estão vendo, ó. Umas maquetes, não tem móveis na casa, são as paredes rusticamente desenhadas, linhas. Então, a gente vai ter sol sendo estudado, vai ter vento sendo estudado. Lembrando que vai ter outra aula para arquitetos e engenheiros, mais pensada em como fazer esse estudo na prática. Passa. Eu falo mais voltado para arquitetos e engenheiros.
-
-Bem-vindo para você, para você analisar o projeto. O cliente tem que ver o dono. É mais detalhado, mais passo a passo. Então, isso aqui também é estudo. Não, você tá me dizendo que esse colorido aqui que meu filho faz é estudo preliminar. Esse colorido é o que você já tá fazendo. É pra você dizer onde é que você quer as coisas, onde é que o terreno tá acontecendo com o que ele quer as coisas dele, entendeu? É aqui ó, o seu escritório fica aqui, entendeu?
-
-Esse é o momento aqui de ter 5, 10 ideias, que você já visse negócio desse aqui, umas 10 delas diferentes, ele fica olhando, dorme, acorda, mostra pros amigos. Esse você pode fazer hoje e só projetar daqui a 3 anos. E é o que eu tô fazendo. E jogar fora isso aqui, qual é o custo de jogar fora negócio desse aqui? Baixíssimo, baixíssimo. É impossível desenhar o projeto da próxima casa, só vai acontecer daqui a 3 anos, ele tá nesse nível aí. Aqui você vai ter também fluxo. Aqui esse fluxo já tá bem mais elaborado, aqui já tá bem mais. Mais estudo preliminal, mostrando aqui como é que funciona.
-
-Então ali a gente tem os ambientes sendo representados por círculos mesmo, entendeu? Com a circulação entre eles, com as setas mostrando as aberturas. E desse estudo aí preliminal, que vai nascer o pradietar tetônico de fato. Então aquelas bolinhas do cavalo que vão ser detalhadas. Oh, interessante. A cozinha até mudou pouco. É, ficou menor. Exatamente. Vejam que as cores, elas setorizam os ambientes. Então áreas molhadas estão em verde, que é mais interessante a gente colocar as áreas molhadas juntas.
-
-As áreas íntimas estão em azul e as áreas compartilhadas, não, as áreas sociais são compartilhadas. Estão em laranja. Então você pode também usar, está aí embaixo, social, serviço, apoio. Então pode passar para frente. Aí sim, o que você precisa sair desse projeto arquitetônico estúdio preliminar tendo? A configuração inicial, que é basicamente isso daí. Essa planta baixa aí. O estudo de viabilidade dos espaços. A disposição e identificação no terreno, então não só a planta, mas a planta implementada.
-
-A definição dos acessos, circulações e jardins, que não tá aparecendo aí, que é no terreno em si. E mobiliários e equipamentos. Então tem que ter layout básico dos mobiliários também, já. É, isso aqui. Besteira não, isso aqui. Tem mobiliário, vou ter airfryer, vou ter uma lava-louça. Esses nomes aí de seis lugares, você fez uma sala pequena. Mas como assim? Eu já tenho que pensar nisso nesse momento? É, porque é aqui que você pode apagar o projeto.
-
-Você pode apagar e fazer de novo E isso é que gera a economia, isso é que resolve a parte financeira, porque a pessoa vai lá construir em vez de fazer esse tipo de pensamento aqui, e é aqui que acontece a economia.
-
-Digamos que você já tem parte dos móveis, por exemplo, você tem uma bancada de escritório, você tem uma mesa de jantar na família, você tem sofá que você quer reutilizar, tudo isso daí você já tem que ter os tamanhos antes desse estudo preliminar, pra entregar lá no briefing, pra poder serem utilizados aí, vai reciclar a esquadria, vai reciclar a porta, vai reciclar materiais e bancadas que tem, também já tem que estar tudo no estudo preliminar pra poder, no layout, que é esse, tem que estar tudo no briefing pra poder no estudo preliminar eles já estarem inseridos.
-
-Disposição da casa no terreno, edificação, se você errar negócio desse aqui, não, vamos mudar na obra Isso aqui não é, vou fazer porque a coisa é certa a fazer, vou fazer porque o seu bolso agradece, se você pensar aqui, não é por outro motivo. Senão, a gente, monte de coisa a gente não tá falando porque não interessa de economia. Aí muita gente acha que é tudo ali e já é o projeto pronto. Não, meu projeto tá pronto. É, o meu projeto tá. Aí dali é só estudo preliminar, que ainda pode ser passado por alterações. Aí a gente vem com o anteprojeto, que é o quê?
-
-A gente começa a desenhar essas plantas baixas, de forma mais técnica. Daqui pra frente você não vai pegar e mudar quarto de lugar, por exemplo. Você não vai mudar essas áreas. O anteprojeto você tem que mudar coisas bem menores. Porque geralmente são coisas que vão ser necessárias mudar. Por exemplo, o arquiteto vai fazer esse detalhamento inicial para poder apresentar esses projetos, aí vão ser feitos alguns estudos, que é, por exemplo, de conforto ambiental, soluções sustentáveis, acessibilidade, vamos ver se tá tudo ok nesses estudos. E aí a gente vai ter uma compatibilização.
-
-A gente vai ter o arquitetônico começando a conversar com outros projetos, que é o elétrico, hidráulico, estrutural, quer dizer o quê? Eu desenhei aquele projeto, aí o estrutural vai chegar pra mim e vai falar, olha, vocês desenharam algo que não dá pra executar. Vai precisar de pilar aqui, é o arquiteto. Meu coração, meu coração. Vai estragar tudo. Aí é essa a etapa que começa, tira o pilar, bota o pilar, tira a viga, bota a viga, desce fogo não vai dar certo isso aqui, entendeu? E a selvagem vai ficar vista? Vai ficar vista como? De quem? Se o presidente passar o cano aqui na direita.
-
-Prever forro. Então aqui, pedacinho de forro, por exemplo. Então aqui começam a identificar os conflitos. Agora tentando o pessoal fazer dar certo o projeto. Fazer isso sair do papel. Não é mais questão de vou mover quarto, aumentar banheiro, vou adicionar água, vou virar a casa. Isso aqui acabou. Você não pode fazer mais isso daqui pra frente. E também vamos começar com projeto legal, que é exatamente esse projeto que a gente vai, com esse detalhamento, mandar lá pra prefeitura, conforme o município pede. Tem várias normas e regulamentos que mudam de município a município.
-
-E é só ligar na prefeitura e perguntar. É, normalmente o arquiteto já tá aprovando monte de projeto lá, ele já conhece a dança da prefeitura própria. E olha o detalhamento agora de anteprojeto, a gente tem definição de tamanhos, bem milimetricamente assim, de centímetros, a gente tem as medidas, a gente tem o tamanho das paredes, a grossura, aberturas de portas, a gente tem níveis dos ambientes, a gente tem cortes que são essas bolinhas ali embaixo, ó, representam os cortes, onde é que tá passando o corte, e a gente vai explicar o que é corte depois.
-
-Essa bolinha que tem no centro da sala, ela diz qual é o tipo de piso, qual é o tipo de acabamento de parede, qual é o tipo de acabamento de forro, como se fosse uma legenda. A gente também tem o pé direito. Dos ambientes, as áreas, e vários detal. Não é necessário agora nosso projeto, mas você já colocou, não tem problema nenhum. Aí passa pra frente. Isso aí já é detalhe executivo. Passa pra frente. Então já é projeto bem mais detalhado, com a planta de circulação, que é onde é que essa casa está inserida no ambiente. Então. Você nem dizia, mas tá aqui.
-
-Essa daí é porque eu acho que é uma grande edificação. É uma grande edificação..Implementada. E a planta de cobertura ali, ó. Opa. A planta de cobertura é uma planta que vai mostrar os tipos de telhados da casa. Então pode ir pra frente. Essas setas aqui são o caimento do telhado. E o executivo, detalhamento fino, final. O que foi aprovado na prefeitura, em nome de nada. É. A compatibilização dos elétricos, estrutural, hidráulico. É, tá nos últimos detalhes, você já sabe onde que vai ter os furos, shafts. Ele vai fazer o que ele quiser na obra. Ninguém disse o que ele vai fazer.
-
-Eu vou encaixar o que eu tenho que entregar no meu trabalho. Você não faz projeto. Você para a obra para fazer o projeto em obra. Porque não tem como executar sem você saber como vai ser executado. Isso é dinheiro. Isso é dinheiro e torrado. A gente ainda erra. Por exemplo, a gente faz projeto e não detalha até certo nível. Quando chega na hora de executar pequeno coisa que faltou detalhamento, a gente tem que parar e fazer detalhamento. Eu e Fernando. Tem aqui, sempre tem. Não dá pra prever tudo.
-
-Mas aqui, a cultura aqui no Brasil, pra casa, até mais aqui nordeste que a gente tem mais contato, tem muito espaço pro planejamento ainda. Tem muita gente jogando fora por causa somente de falta de pensamento antes. Olha aqui o detalhe das janelas, gente. Percebam como a gente tem os perfisinhos, onde é que vai o vidro fixo. Isso é corte. Isso é corte, exatamente. A gente cortou a janela na vertical pra olhar ela como se a gente estivesse no meio da janela, no meio da parede.
-
-Então tem o detalhamento da bandeira, o número da janela, J2 quer dizer que é a janela de número 2. Aí você vai lá no projeto, ela vai ter escrito J2 em algum lugar, porque ele não veio com muita qualidade. Tem alguma janela, J1.
-J1. Aí cada janela tem o seu tamanho desenhado, uma folha de correr, uma folha de tela mosquiteira. Uma coisa é dizer que tem uma janela, outra coisa é ela detalhar qual é o tipo de janela que tem ali, qual é o tamanho dessa janela, qual é o detalhamento das esquadrias dessa janela. Desce.
-
-E esse detalhamento aí, ele pode ir mais a fundo ainda com o detalhe do alumínio da janela. Então esse daí a gente vai detalhar naquele segundo pavalo. Porque quando o projeto é realmente assim, detalhado, ele puxa. Até esse detalhe aí do. Eu vou trazer na aula de projeto executivo. Projeto estrutural, que vai basicamente calcular quanto concreto, aço, traço você vai precisar utilizar em cada uma dessas estruturas da sua casa e formas também. Se você não investe nele, você paga mais caro em concreto, aço, forma, ferro.
-
-Porque a ideia de calcular, não é só garantir a segurança, mas é garantir a economia. Porque senão a gente pode sair colocando. Se for na bola de cristal, existem duas formas de acontecer. Qual é o ferro e a armadura e o concreto que a gente vai colocar nessa biga aqui? Ou você erra pra mais ou você erra pra menos. Se você errou pra mais, você pagou mais caro. Se você errou pra menos, você vai ter problema com a segurança. Então, na bola de cristal, só tem como sair assim. A não ser que seja método já normatizado por possível cálculo estrutural tabelado.
-
-É, o projeto elétrico ele é pouco assustador, porque tem muitas linhas aqui, mas ele só tá dizendo pra onde é que passa os condutores e os eletrodutos, esse pontilhado aqui, ele tá dizendo que tá numa tubulação enterrada, que vai pra algum lugar, e essas linhas aqui que são fixas, tá vindo pelo forro, ou pode estar concretado na laje, então vem por cima.
-
-E esses números aqui, é os CIOs que tão dentro, aqui tem terra, fase, neutro, fase e neutro do circuito 2, do circuito 3, aqui uma caixinha que vai ser ligada pelo número D, aí tá aqui o interruptor com o número D, então tem vários símbolos, desenhos técnicos, e o que você precisa saber mais aqui é sobre os pontos elétricos, que não é esse projeto, esse que é o projeto elétrico, e o projeto elétrico ele energiza os pontos elétricos, ele dá jeito de energizar com segurança e qualidade os pontos elétricos, mas os pontos elétricos são definidos pelo arquiteto, usualmente é definido pelo arquiteto e tá lá nos projetos dele que ele vai definir os pontos elétricos e os pontos hidráulicos.
-
-Aqui tem sanitário, aqui tem uma pia, dá jeito de chegar agora nesse negócio. E falando do projeto luminotécnico, aproveitando que a gente tá falando elétrico, luminotécnico seria uma evolução da iluminação básica de projeto arquitetônico. No arquitetônico ele vai ter uma iluminação básica, vai jogar as luzes, só que ele não calcula quantos lumens, o quanto tá sendo iluminado cada ambiente, quanto tem de luz natural pra poder compensar com as luminárias, não define sempre todas as luminárias, enfim, ele não calcula. O luminotécnico é projeto que ele busca só trabalhar. Só pra luz, só pra luz.
-
-Então se você quer assim uma. A casa, a iluminação é tudo pra você, vale a pena investir num luminol técnico. Esgoto é a parte da água, projeto hidro sanitário. De novo, o arquitetônico é que define onde é que tá a lava-louça, a lava-roupa, os tanques. E quem faz com que tenha o esgoto, tenha a água, porque o que a gente tá vendo aqui é projeto de esgoto, certo? Os esgotos tem esses canos mais grossos, eles são até bem desenhados na planta baixa, o que a gente tá vendo aqui é uma planta baixa, aí o arquitetônico é esse cinza clarinho.
-
-E a gente vê que o projeto hidro sanitário, ele vai e desenha por cima. Aí acontece o quê? Do projeto arquitetônico mudar pouco, alguma coisa, aí não chega no hidro sanitário, não tem a compat E o legal,.: Gente, também de ter esses projetos é que o seguinte, você vai ter que comprar esse cano, você vai ter que comprar esse união, você vai ter que comprar esse sifão. Imagina se você tiver que estar lá na obra pensando quantos são. Você vai comprar errado, vai ter que voltar na loja depósito, vai sobrar.
-
-Quando você investe num projeto, você recebe não só o projeto, mas você recebe os quantitativos. Então você pode, no lugar de perder dias da sua vida comprando e retornando o material, pegar quadro que vai vir nos projetos e mandar pra loja. Ó, é isso aqui que eu quero. E aí você tem certeza que está comprando só o material necessário da sua obra. E outra coisa, você consegue chegar na obra e conferir. Cadê?
-
-Deixa eu ver essa tubulação aqui, tá tudo ok mesmo?: Foi usado aqui o cano de 50, foi usado aqui o de 100, a união foi colocada aqui.: Até você conversar com as pessoas que você vai estar contratando. Cadê? Você fez o isométrico do banheiro? Isso você sabe o que está pedindo? Você saber pedir? me dê a tabela do quantitativo dos materiais para fazer as compras do hidro sanitário.
-
-Você puxa o melhor dos profissionais e sabe identificar esses profissionais, porque alguns vão ficar embananados com o que você está falando. esse aqui não tem a qualidade que eu preciso.: E a gente vai ter aulas específicas sobre cada desses projetos para poder a gente dizer o que cada desses projetos realmente deveria ter. Por exemplo, no hidro sanitário, o que é uma caixa de espuma, o que é uma caixa de gordura. O acervo ele nunca tem fim.: É, uma coisa também sobre compras, é sobre não comprar as coisas exatas. Tem no quantitativo que vai precisar de 100 cuvas.
-
-Você compra sempre 10. Não vai comprar as coisas exatas não.: Porque sempre tem na obra vortex.: É, vai desaparecer coisa, quebra-se, perde, conta errado, a pessoa coloca. Reserva técnica. Colocando errado. Tem que ter reserva técnica. Mas eu vou gastar dinheiro a mais. É muito mais custoso você perder o seu tempo indo em loja comprando coisa. Projeto de interiores.: Projeto de interiores, basicamente, ele vai deixar, a casa, ele vai trabalhar o mobiliário da casa, vai trabalhar também a iluminação, e vai trabalhar as texturas, materiais, bancadas, eletrodomésticos, ergonomia.
-
-Se você for investir em projeto de interiores, saiba que ele começa junto com o arquitetônico, tá Luminotec, que eu acabei me adiantando. Foi.: Bota os pontos lá, aqui vai ter cortineiro, aqui vai ter três spots. Esses spots devem ter em algum lugar dizendo qual é a potência deles. E aqui, esse vipão é telefone, não. Aí bota aqui no dormitório. Esse círculo aqui também quer dizer alguma coisa, o quê? Luminária de embutido no foro falso. Luminária de embutido aqui, luminária de embutido. Os spots indo lá de fora. Esse quadradão quer dizer alguma coisa também, vamos ver aqui.
-
-Ponto de luz fluorescente no teto. Ele indica melhor onde é que estão as luzes. Paisagismo são as plantas.: Não são só plantas. Não, não são só plantas. São os caminhos, onde é que vai ter grama, onde é que vai ter espaços de relaxamento. E é dos meus projetos favoritos. E também pode ser desenhado à mão, que é bem gostoso.: Ele é todo colorido.: É, ele é lindo.: As plantas, olha que eu vou botar.: É, pode passar.: Automação é quando a minha casa precisa de comando.
-
-Normalmente não tem isso, não.: Ainda mais numa casa de baixo custo, é a mais rara que a gente vê.: É, isso aqui é pra abrir portão, descer. Luminárias que. Aí apaga a luz. Não tem, como é que se diz o negócio descer aqueles. Alexa. Projetor, projetor.: Mas também da Alexa. Alexa, ligar a luz da sala.: Não, não precisa de projeto pra comprar uma Alexa. Se você comprar, deixa lá a Alexa. Você precisa de projeto de automação quando você quer ligar caixas de som, câmeras de segurança.: Não tem realidade aí num projeto de automação.: Isso aqui é difícil de chegar numa.
-
-Aqui a gente tá falando de casas com padrão alto, padrão alto, aí tem que ter.: E a planilha alimentar é que não pode faltar. Não é projeto, mas não pode faltar.: É, não é projeto. Tá deixando isso.: É isso, o que vocês acharam dessa aula, que é pouquinho mais longa, comenta aí embaixo, vai pra próxima Fluxagrama. Não, não tem mão nessa aula, por favor.: É, vamos pedaço por pedaço, parte por parte.
-
-A ideia aqui é sanar uma dúvida nesse fluxo do zero na sua casa, porque é uma dúvida aqui recorrente, aparece sempre. eu não entendi, Amanda, Fernanda, eu não entendi por onde é que a gente deve começar a nossa casa. E o primeiro problema daqui é que a gente trabalha com vários alunos diferentes em várias situações diferentes. Em cada situação pede jeito diferente de se mexer. A gente vai mostrar aqui e falar das adaptações. Esse aqui é o zero do zero, certo?
-
-Esse seria o melhor trajeto se você não sabe o que precisa da casa, não tem terreno, não sabe o que é uma casa, não sabe que elementos compor uma casa, Então é o passo a passo completo.: Mas eu já sei isso, mas eu já tento enrenar, mas eu tenho construtor lá, eu tenho uma fábrica que pertence.
-
-Essas coisas vão se encaixando nesse quebra-cabeça até virar a sua casa.: Vamos começar do zero.: Então aqui é fluxo da esquerda para a direita, necessidades, orçamento, profissionais, terreno, aí tem o estudo preliminar com a viabilidade, uma conversa franca, aí o desenvolvimento do projeto, e a execução da casa. Não está tão completo ainda quanto pode.: Ser, claro, mas a gente está tentando trabalhar ele ao longo do tempo.
-
-Por exemplo, a agência da execução também teria preparo, mas a gente é infinito, o tamanho que a gente pode deixar esse fluxograma, a verdade é, quanto mais a gente fazia, maior fica. A gente pode botar aí o pré-execução, que é os suprimentos da obra, depois pode botar o pós-execução, tem o durante, que é o cronograma, enfim, então você não tem fim. Não, vamos deixar a parte da execução depois, vamos focar em projetos, que é pra onde o. É, vamos a qualquer momento parar de mexer nesse infografo.: Tá bom.: Obrigado.: Vamos lá.: Necessidades e orçamentos. Então, como é que você vai começar?
-
-Você vai começar com esse nó. Definir as suas necessidades, N, e definir o seu orçamento. Ó, esse é o nó que você vai perceber, porque as suas necessidades provavelmente não vão bater com o seu orçamento. Como é que eu sei disso? Muitos anos já nessa carreira, eu não sei quantas vezes eu recebo pessoas dizendo, Amanda, preciso construir uma casa de 3 quartos, 2 andares, sendo 200m². Meu orçamento é de 100 mil reais. Meu orçamento é de 100 mil pra uma casa de 200m².
-
-Então, você quer construir uma casa com 85% de economia.: É difícil. 85% Abaixo da média do mercado.: É difícil, tipo, não é querer. Não é querer, eu também quero. Querer eu também quero. Mas assim, esse é o nó, o que acontece quando essas necessidades não batem no seu orçamento. Primeira coisa que a gente vai precisar fazer, é definir o tamanho da casa em área construída a metro quadrado. Por quê? Cada metro quadrado é dinheiro. E geralmente, quanto maior a casa, mais caro. Mais caro as pragécias, mais caro tudo. Quanto menor a casa, mais barato.
-
-Quer dizer, Amanda, que eu preciso construir uma casa bem fininha? Não. Você pode estudar alternativas. Ó, passa pra frente aí. Como é que você vai estudar essas alternativas? Financiamento, dividir em etapas, ou o percentual de economia que você precisa aplicando as técnicas de construção de baixos custos sustentáveis, o CBCS.: E como é que eu vou saber, Amanda, o tamanho da área que eu vou conseguir construir com o meu orçamento? A gente vai te ensinar uma forma fácil de calcular logo depois dessa aula, usando o chat EPP, que também vai estar na parte de orçamentos aqui do curso.
-
-Então essa aula vai estar em dois locais.: Essas necessidades aqui, só relembrando, é a parte de quantidade de quartos que você precisa na casa. Cozinha, banheiro, serviço, outras áreas. E qual é o tamanho delas? Qual é o tamanho de cada uma das garagens, qual é o tamanho de cada uma dessas áreas? E a soma dessas áreas vai dar o tamanho que você precisa da casa.
-
-Mas acontece problema antes da gente definir a fer não cabe no orçamento desse tamanho aí você ou dá jeito, você tem que dar jeito de mexer nessas necessidades aqui no orçamento até os dois chegarem no acordo pra você ter a sua definição de metro quadrado. Aí anda.: Pronto, coube no orçamento, estudando as alternativas, mas corre ordem de grandeza. Porque a gente vai estimar quantos metros quadrados você vai construir e vai estimar quanto é que vai sair pra construir esses metros quadrados no seu estado.
-
-Claro que, como é uma estimativa, a gente tá trabalhando aí com 35% de erro, de acordo com o que eu já vi, pra cima ou pra baixo. Então, pode ser uma casa de 35% maior, 35% mais cara, 35% menor, 35% mais barata, mas já é uma grande diferença entre você ter 50 mil pra construir uma casa de 200 metros quadrados e você ter 400 mil pra construir uma casa de 200 metros quadrados, concorda? Ou você ter 600 mil. São ordens de grandeza diferentes. Entre 400 e 600 é uma coisa mais possível.: Já com 50 mil, a gente sabe que já tá muito fora de uma realidade.
-
-A gente precisaria realmente de.: Esses valores são de janeiro de 2025 e é importante corrigir ao longo do tempo, certo? Profissionais.: Agora você já sabe quantos metros quadrados você quer construir, você vai buscar arquiteto, certo?: Mas por que eu não busco ele antes? Porque você vai dizer o quê? Você vai dizer o quê? Você tem que já chegar com coisas da casa que você queira construir. Você tem que ter informações. Eu preciso de tantos quartos, o meu orçamento dá pra ir em torno de tantos metros quadrados.
-
-Já levando em consideração, aqui 35% que vai mexer.: O próprio arquiteto, ele faz briefing com você, vai ser exatamente o que você respondeu já na área verde. Então você já vai preparado pro briefing com o arquiteto.: E você vai utilizar o máximo desse briefing. Porque não é, eu paguei o arquiteto, eu resolvi o meu problema. Eu paguei o engenheiro, eu resolvi o meu problema. Não, o que tem que resolver esse problema do começo ao fim é você. E você vai usar e abusar do arquiteto.
-
-Aí você vai pra briefing, tem gente que vai pra briefing de arquitetura, e ele diz, oi, me diga o que eu quero pra lhe dizer. Aí, não sei, será que eu vou ver. Apesar de dois, você vai perdendo tempo do arquiteto, você tem uma hora de briefing com ele.: Aí você vai perdendo tempo. Será que eu quero quarto de visita?: É, será que eu boto esse quarto de visita?: Será que eu quero escritório? Esse escritório tem que ser grande ou não tem? Então isso aí tudo você já tem que ter pensado antes.: Antes.
-
-Você vem com uma apresentação de slides pra ele.: Inclusive, eu indico que você já use o seu dia-a-dia que você vive hoje pra buscar as coisas que você quer melhorar. Como é que seria o seu dia-a-dia perfeito? Vai lavar uma louça, o que te incomoda ali? Já escreve, ó. Eu vou lavar a louça, a outra da bancada me incomoda. Não tem água molhada pra secar o prato, me incomoda. Solicitei, tem faz escrito. Eu vou trabalhar, eu não tenho uma luz natural, me incomoda trabalhar com luz artificial. Não tenho ventilação, me incomoda. Então, tudo isso você tem que escrever.
-
-Minha sala eu acho muito pequena pro tamanho da minha família. Então, já escreve tudo o que te incomoda de acordo com a sua vivência hoje. Você só precisa viver pra completar esse primeiro passo. É só viver, até no bloco de notas do celular.: Vai anotando aqui, por exemplo, uma coisa que eu errei nessa casa central de carregamentos de equipamentos. E são necessidade, ó, minha e do Fernando. Então, assim, o arquiteto não vai adivinhar isso. Você tem que levar isso pra ele já no briefing. Vai com todas as informações possíveis, anotações, isso.
-
-Peça exemplos de projetos pro arquiteto, pra ver se você vai entrevistar vários arquitetos. Essa fase é a do ConstruTinder. Essa fase é a do ConstruTinder, gente. Você vai casar com a primeira pessoa que você sai? Imagina isso, que loucura. Então, imagina construir uma casa, que é uma coisa caríssima. Às vezes você constrói uma casa na sua vida, se você der sorte de construir mais. Imagina fazer isso com o primeiro arquiteto que você encontrou. Só porque você não se planejou com anos de antecedência.: Por isso que a gente manda entrar no acervo com tanto tempo de antecedência.
-
-Porque você tem que fazer várias entrevistas para vários arquitetos, porque é uma das partes mais difíceis é encontrar esses profissionais que entendam o que você quer. Eles existem no mercado, tem até a lista de profissionais do acervo, mas não é fácil, gente. É que nem médico. Eu tive que ir em cinco médicos ao longo de dois anos para finalmente encontrar médico que encontrou o meu problema de saúde. Então, arquiteto e engenheiro vai ser da mesma coisa. Você vai ter que buscar uns 10 arquitetos, vai ter que buscar uns 10 engenheiros, por isso você precisa de tempo para se planejar.
-
-Mas esse profissional, ele é chave, porque é ele que vai dar a cara da sua casa e vai definir quanto sua casa vai custar. É o arquiteto.: Também é, a gente botou aqui arquiteto, mas quando você vai falar com todos os profissionais que vão trabalhar com você na casa, ou quando você vai falar com qualquer profissional de negócios, na sua vida, você não chega num local, numa negociação, você não chega vazio, você tem que chegar munido de informações pra todo lado. Então é por isso que você abre todas as informações aqui pra poder entrevistar os seus arquitetos, engenheiros.
-
-No caso, você começa com o arquiteto. É mais simples começar com o arquiteto e partir para os outros profissionais que vão estar dentro da sua casa. Há possibilidade, existe a possibilidade, e acontece, alguns dos nossos alunos, acontece muito no mercado, do arquiteto fazer todas as partes que você precisa da casa.: Quando a casa é mais simples, especialmente.: Porque quando a casa é simples, projeto simples não precisa de tanta especialização e o arquiteto resolve os complementares todos, estrutural, hidrosanitário, elétrico.: E resolve com parceiros, tá gente?
-
-Não é aquele cálculo de estrutura não, ele provavelmente já tem ali no escritório dele quem faz, ele terceiriza essas partes, mas entrega tudo. Então assim, você vai perguntar pro seu arquiteto, lembra que a gente na outra aula falou sobre o fluxoograma do projeto de arquitetura? O primeiro passo é aquela reunião inicial antes de você receber o orçamento de quanto vai custar aquele serviço do arquiteto. O que você vai perguntar pra ele antes dele fazer esse orçamento pra você? Você executa a obra? Provavelmente não, porque ele tá fazendo projeto. Mas você tem executores parceiros?
-
-Aí provavelmente sim. Você faz projetos complementares, aí você já busca o executor parceiro que é mais fácil a comunicação entre os dois. Se não, você busca o outro executor.: Se você faz projetos complementares, faça ou não, você tem que procurar por fora, é mais complicado. Se ele fizer e tiver escritórios parceiros de engenharia, mais fácil, senão você busca os complementares. Você faz instituto de viabilidade financeira? Não, não faça. Então você vai buscar orçamentista. O orçamentista, ele geralmente pode ser a mesma pessoa que vai executar a obra. Por quê?
-
-Porque quem vai executar a obra vai comprar os materiais. Quem vai comprar os materiais vai ter que orçar os materiais, saber quanto é que custa cada pra poder te cobrar a obra. Então ele já deve entrar nesse primeiro início, no lugar de entrar lá no final, que ele vai entrar de sua forma. A gente só vai iniciar o trabalho dele antes.: Ele vai iniciar junto com o projeto arquétipo único pra gente poder ter certeza que o projeto que a gente tá desenhando vai ser viável financeiramente.: É, a gente tá puxando isso porque não é uma coisa muito comum do arquiteto segurar os custos.
-
-Porque, e olha, a culpa não é do arquiteto que não segura os custos. É uma questão assim de, você tá lá nos briefings de arquitetura, você tá conversando com o arquiteto e, olha, bota uma banheira aí.: No calor do momento.: No calor, você tá sonhando, é, deixa que acontece. Bota meu sonho, bota o que a minha família merece, bota esse quadro de rugby aí, não sei, bota esse porcelanato, eu quero aquela mesa.: Eu vou querer esse eufro. Dex pra todos os lados.: Bota pergolado, vai ter tudo pergolado aqui.
-
-Você fica animado, você tá lá sonhando e o arquiteto, não, vai ficar lindo, vai ficar pouquinho mais caro.: Você vai fazer esse revestimento aqui, vamos revestir tudo?: Aí fica muito solto o orçamento. É esse o problema. Então é bom ter aqui o orçamentista olhando a branca.: Você quer fazer balanço de seis metros aqui no quarto da frente. Você quer que o quarto da frente flutue seis metros. Você tem certeza? Aí, não, eu quero sim. Tá bom, custa isso. Realmente, tá aqui a flutuar.
-
-Mete dois pilares aí no final, vai tá lindo.: Olha esses pilares aí, essas colunas gregas.: Essas colunas gregas, sempre gostei de colunas gregas. Colunas verdes, assim, pilar todo rodeado de eras, que coisa maravilhosa. É nesse momento que o orçamentista vai te ajudar a segurar a mão ali do arquiteto. E cuidado! Cuidado com arquitetos, que tem uma prática no mercado, a gente tem que falar sobre isso, que é comissões. Então muito arquiteto vai querer tirar da sua ideia a cabeça de construir uma casa de tijolinho, uma assista à vista, para revestir tudo em tijolinho.
-
-Porque a maioria deles recebe porcentagem das coisas que ele indica você comprar. Investimentos, então já desconfie.: Vamos chamar de maioria, vamos chamar de. Há uma prática no mercado. Acontece, nós já ouvimos vários relatos de que o pessoal fica empurrando, vai lá na minha loja ali, vai naquela loja ali, compra esse investimento, esse, porque eles ganham comissão.: E esse não é só arquiteto.: É, a não ser que seja do seu gosto. Você pode gostar de dar, eu quero uma cadeira assinada pra não sei quem, projeto assinado pra não sei quem. Aproveite, aproveite, é a sua vida.
-
-Mas quem quiser economizar, isso é uma forma de economizar. Fugir desse tipo de prática.: Outra coisa, contratos, contratos, meus amigos, contratos. Façam contratos de tudo, leiam os contratos, contatem com contratos, tem que ter contratos de tudo.: Mais coisa aqui pro ano. Mais coisa aqui pro ano.: E agora, a gente tá entrando com a equipe jurídica pra ajudar a gente nessa parte aí de fazer contratos aqui pra vocês, porque contrato é muito importante, gente. Não existe contrato de boca a boca, não.: É, os contratos eles têm que estar definidos.
-
-Isso aqui é pra conversar o que tá incluso, o que não tá incluso.: E vou falar em orçamentista. Amanda, a gente tá aqui achando arquiteto, eu já tô falando com orçamentista, ele vai falar como é que eu vou orçar pra você se você não tem projeto. Aí você vai mostrar pra ele essa tabelinha bem aqui embaixo.: Eu também posso puxar mais coisas, mas.: O que a gente quer de você é o que? Primeiro, você mesmo vai fazer o item 6, que é o ordem de grandeza 35%. Você vai fazer conosco no chat e PT. A partir daí, é o seu orçamentista.
-
-Na viabilidade, que o arquiteto vai conversar com você, que a gente já mostrou várias vezes, que tem, por norma, viabilidade financeira no estudo preliminar, nessa viabilidade, o orçamentista tem que acertar aí 30% do valor. Então, você viu que no estudo preliminar, a gente tem projetinho simples, no final. Nesse projeto, ele consegue levantar as de piso, parede e teto, e aí ter uma noção de custos, especialmente pela volumetria da casa, pelo tipo de obra.
-
-Com o projeto esquemático, pode descer pra até 20, 25%.: Não vai estar nesse orçamento aqui, vai girassol, ele vai dizer, ele vai botar piso e piso de porcelanato, é preço, preço genérico por piso de porcelanato.: E aí a gente, à medida que for avançando, ou seja, tem anteprojeto pronto, vai pra prefeitura esse projeto, o orçamentista já tem que estar com esse projeto mapeado, 20% de custos. Aí você vai ter o projeto básico, que já tem que estar em 15%, que aí é o momento que você, se for mexer alguma coisa de investimento, de bancada, é agora.
-
-Porque no projeto executivo, já é pra estar com o orçamento executivo e nenhum dos dois se mexe mais.: Agora, o que é que, qual é a prática de mercado? É, faz aqui o orçamento. O arquiteto entregou o projeto executivo, eu vou fazer o orçamento, aí você vê que não dá pra construir a casa e pronto, acabou a Já aí o que a gente tá aqui propondo ser feito, que é a tentativa de solucionar isso aqui, que ajudou muita gente aqui e tem a capacidade de ajudar o Brasil todo. É fazer esse orçamento aqui a mais.
-
-E esse aqui é você mesmo fazer, esse aqui você mesmo faz.: Você faz esse primeiro pra saber o que você consegue construir na sua realidade. O segundo, você vai contratar o que chama EVF, o Instituto de Viabilidade Financeira, nele você vai pedir pra aplicar a curva ABC e é pra identificar os itens mais caros que tem nesse projeto, pra você poder alterar esse projeto, daí ele evoluir pra o.
-
-Só isso aqui.: Já é suficiente, já vai melhorar muito a sua vida, pra na hora do executivo não sair totalmente do controle, e ainda vai sair, viu, que não dá.: Então, fez o EVF aí, aplicou a curva ABC no EVF, faz as alterações que forem necessárias, pra aí sim você ter o anteprojeto que você vai aprovar na prefeitura. E aí, todos definidos? A gente vai falar agora? A gente tá rindo?: Vai, a gente vai falar agora, na próxima aula, pra.: Não ficar tão longa.: Pra todo.: Continuando a nossa aula sobre o fluxo a grama.
-
-Faça a aula completa, do zero até a execução.: A gente já viu as necessidades, os profissionais, vamos falar sobre o terreno.: Terreno, gente. Por que o terreno tá vindo depois de profissionais. Na verdade, ele podia vir em paralelo. Mas a ideia é o quê? Que esse profissional que você tá contratando te ajude a escolher o terreno ideal pra você. Porque se você já tem o terreno, beleza. Vamos trabalhar com o terreno que você tem, a não ser que a gente precise trocar porque é terreno que ficou inviável de ser muito caro construir ali. Eu gostaria de dar uma forma aí como tu.
-
-É, entra no outro mesmo, exatamente.: Por quê?: É, entra no outro. Porque os profissionais têm que fazer parte da escolha do terreno. Porque eles vão ver coisas ali no terreno que você não vai conseguir identificar, certo? Desníveis, problemas no solo, vícios que pode ter ali na região, problemas com a vizinhança. Ele já Então, se você vai fazer investimento alto, que é a compra de terreno, custa pouco você investir em uma consultoria, que já pode inclusive estar inclusa nesse pacote de projetos, pra escolher o terreno.
-
-Por que eu acho bom escolher o terreno depois de conversar com o profissional? Porque uma vez que ele entende as suas necessidades. Eu preciso de uma casa térrea, por exemplo, porque eu vou envelhecer e eu não quero ter que subir escada. O profissional já tem que se ligar.: Se você quer uma casa térrea, você vai precisar de terreno com mais área pra essa casa poder caber. Se você comprar lote pequeno, de 6x20, e você quer uma casa super ventilada com monte de jardim térrea. Que não tá compatibilizando. Porque o terreno é pequeno, logo pediram uma casa de dois andares.
-
-Então, a escolha do terreno, ela é mais bem pensada, tipo, eu comprar terreno de 300 metros, de 360, de 250, de 200, de 500, ele faz mais sentido a escolha desse terreno, uma vez que você tem as suas necessidades levantadas e sabe a metragem quadrada da casa que você quer construir.
-
-E aí, o arquiteto vai te ajudar nessa escolha também, a saber, será que esse terreno aqui é melhor do que esse?: Tem muito isso nas nossas consultorias, de alunos que vão escolher os terrenos sozinhos e não conseguem identificar, eita, de onde tá vindo o sol, de onde tá vindo o.: O que é que eu deveria estar olhando?: O que é que eu deveria estar olhando aqui pra esse terreno? A gente, claro, vai ter aulas aqui de terrenos, pra ajudar vocês, mas nada como o auxílio de profissional, de bom profissional da área na escolha junto com você.
-
-Então, na hora que você vai comprar o terreno, você vai comprar alternativas, inclusive, eu vou mostrar na aula de estudo pra eliminar, projeto, por exemplo, que foi feito antes da compra do terreno. Foram feitos dois anteprojetos, por terreno Y e por terreno X, já acordado em contrato, pra poder escolher qual dos dois terrenos o projeto ia ficar mais bonito. Vai ter essa aula aí bem bacana também.
-
-Então, na hora que você comprar alternativas, veja o checklist do ACBCS, que tá lá no caderno de exercícios.: Eu não vou escrever aqui, mas tá típico.: Eu vou dar o exercício pra você preencher, ter certeza que nas visitas você não esqueceu de perguntar nada. E veja o impacto no orçamento que esse terreno vai ter. Além de que, o que influencia muito é a topografia, geralmente do terreno, tipo de solo também, e o financiamento. Se você for financiar, você pode financiar a compra do terreno também. Então, o financiamento entra nessa parte aí, já. Junto com. Antes da obra.
-
-Antes da compra do terreno. Porque se você for financiar, você tem que financiar antes de comprar o terreno. Não dá pra financiar a obra e o terreno depois de comprar o terreno.
-
-Até dá, mas assiste as aulas de financiamento pra entender.: É, eu diria assim, do terreno, o que mais influencia na construção do preço, no custo da construção da casa, na sua Aí a gente também tem outros fatores, eu acho que localização influencia bastante, porque se você estiver longe de onde você trabalha, escola, essas coisas, você vai gastar muito no trânsito e é custo enorme.: Eu vou te pedir até pra copiar a topografia, pra baixo de SPT, pra gente ter o estudo topográfico também.: O quê?: É, copiar mesmo. Porque ele vai ter que ver a topografia.
-
-Então gente, escolhemos o terreno, certo? O que a gente vai fazer agora? Começar estudo preliminar da distribuição dos espaços nesse terreno, a implantação, ver as vistas e as vizinhanças que a gente vai querer explorar.
-
-Às vezes o terreno tem desnível que dá uma vista muito bonita, então quais ambientes eu quero colocar pra essa vista, quais materiais eu vou usar na casa, como é que vai ser o estilo da casa, vai ser borrô, vai ser biofílico, vai ser uma coisa mais industrial, brutalismo, clássico, luxo, isso aqui vai ser definido.: Veja a quantidade de revisão que você tem no contrato, clima, claro, orientação solar, ventilação, tudo que a gente mostrou nos 10 minutos do estudo preliminar e que vai ter uma aula mais detalhada também com isso aqui na E também é aqui que entra o ensaio de solo, que é o SPT.
-
-Amanda.: Eu já pergunto sempre, quando eu deveria fazer o ensaio de solo? Quando o terreno é seu e você sabe onde tá a casa.: Até que eu alocaria ele entrando pouquinho na compra do terreno, porque muita gente vai comprar terreno, faz o SPT antes, conversa com o dono e divide o valor do SPT, que seria o ideal, na minha opinião. Dividir o valor do SPT, porque muito terreno pode ter o solo ruim. E aí é muito chato isso, porque sai muito caro pra gente fazer fundações de grandes casas. Pequenas casas não influenciam tanto, mas casas grandes, o SPT pode ser fator.
-
-Então se você vai fazer uma grande casa, vale a pena fazer o SPT antes, na hora do. Da compra do terreno, porque ele pode definir aí uma fundação entre 100 mil, a 50 mil, a 30 mil. Agora, se você vai fazer uma casa pequena, aí tudo bem, faz o SPT mesmo durante o estudo preliminar que o terreno já é seu, concorda?: É, eu concordo. É, dá pra dizer que se for projeto muito grande, vale a pena fazer antes, aqui antes mesmo de comprar o terreno e com essa divisão com o dono do terreno.: Preferencialmente. Mas a gente vai falar também sobre quanto é que custa cada desses estudos em outras aulas.
-
-E claro que junto com o estudo preliminar, lembra que você já contratou ali o estudo de viabilidade que vai estar acontecendo.: É, aqui a viabilidade é onde ela brilha mais, não é mais aqui pra frente. Aqui na frente a gente vai estar desenvolvendo o desenho, então já é pra ser viável, você não vai desenhar o negócio, os detalhes nesse primeiro estudo preliminar. E aqui vai ter croquis também, vai ter essa distribuição de espaços. Então, você tem uma lista de espaços, elas vão sendo distribuídas, vai ter área de piso, parede e teto.
-
-Com área de piso e parede e teto, dá pra você fazer o estudo de viabilidade. Obviamente, desculpa, tem que ter as áreas e tem que ter os materiais e métodos que vão ser utilizados.: E agora que a gente vai definir os materiais e métodos, porque a gente vai ter a volumetria, a gente vai ter as áreas que tem grandes, vão, os livres, por exemplo, se não tem parede em local, eu vou ter que usar uma viga de madeira, uma viga de metal, uma viga de completo.
-
-Então, isso tudo tem que ser estudado aqui na viabilidade, qual o método construtivo, qual é a forma que a gente vai executar.: Mas eu nem procurei o fornecedor ainda. Esse é o momento de procurar. Se não tiver fornecedor determinado material, você não encontra é viávelmente, tecnicamente não é viável. É isso que eu queria dizer.
-
-Mas eu queria muito, assim, se você tem capacidade financeira, você pode conseguir frete de longe, conseguir mão de obra de longe, aí você tem capacidade financeira.: Eu quero deixar que frete de longe é mais de 800, 900 quilômetros.: Mil quilômetros já tá longe.: Mil quilômetros. Em média, 600 quilômetros é super viável.: É, bem viável, R$ 500, foi pro.: Rio Grande do Norte. Foi de Rio Grande do Norte aqui pro Ceará, pra Fortaleza.: Foi, muitos alunos é isso, R$ 400.: O Tijolo é ecológico, outros blocos você pode trazer de outros estados. Inclusive, casas pré-fabricadas também dá pra trazer.
-
-A ideia aqui é encontrar fornecedores, encontrar mão de obra, que seja viável não só tecnicamente, quanto financeiramente também, ou seja, vale a pena. É aqui que a gente estuda os métodos.: Aqui tem como até deixar esse pessoal pra ir contratado, assim, pra sua época de construção. vou construir daqui a ano. Vou construir em fevereiro de. Você bota até deadline pra você mesmo. Vou construir em fevereiro de não sei quanto. Te dou sinal agora pra tu não botar ninguém na tua agenda.: Inclusive, os melhores fornecedores, você precisa dessa lista de espera pra receber o material.
-
-O tijolo ecológico, não é toda fábrica que você chega e ele tem estoque e pronta entrega. Você tem que encomendar a sua casa, dizer quanto é o seu pedido e ele vai ali colocar na linha de produção. Porcelanado, se você vai comprar de fábrica, galpões, estruturas pré-moldadas, pré-fabricadas, se você vai usar formas de concreto, você tem que ver com a data que as formas vão estar disponíveis.
-
-Então, tudo isso daí, a gente vai, claro, trazer várias opções de métodos construtivos aqui no acervo e você vai estudar essas opções nesse momento, junto com o estudo preliminar, junto com o seu orçamentista e o seu arquiteto. Por isso que aqui é bom aprender umas três revisões, no mínimo.: É, no mínimo. Bota cinco. Bota.: Bota 3 e bota outro.: Bota 3 assim, extras. Eu gosto deixar o negócio bem folgado.: E sempre, planilha, solução, planilha, solução, planilha.: Pois é, então aqui vai ter toda essa briga.
-
-Isso aqui é como se fosse uma compatibilização muito da realidade.: Do projeto com o dinheiro, com os materiais.: Com os materiais, com o teclado.: E a parte mais difícil também.: Aqui ainda dá pra você pegar e deletar quarto. Se você deletar, excluir do projetão, não vai ter aquele quarto mais não. Vai dividir em dois. Aqui ainda dá pra você financiar, entendeu? O que mais? Não, não vai ser mais sobrado. Vai ser terra a casa. Não vai dar certo, não. Vai ser terra. Porque o SPT é muito ruim. Dá pra fazer aqui. Esse é o momento que até agora você pode fazer essas coisas.
-
-Você não vai poder fazer esse tipo de coisa, mas é aqui pra frente.: Uma vez que você entra na parte cinza, que é o desenvolvimento do projeto, a gente já pede que você se meta o mínimo possível. Se contenha, mas amanda. Eu quero muito modificar ali meu quarto com o closet, não ficou no layout que eu queria. Você tem certeza que você quer fazer essa modificação? Por isso, só avance pra parte cinza depois de tempo. Bem, dê tempo pra si mesmo. Olhe bem o projeto, porque a partir daqui os desenhos vão começar a ser detalhados. E aí, é muito caro pra gente ficar modificando, gente.
-
-Aí se você pedir pra o cavalo tá olhando pra lá. Não, não gostei não, tá o cavalo olhando pro outro lado. Vou ter que apagar tudo e refazer todo o esboço, não é fácil. Para os profissionais.: Então, para evitar atrito entre os profissionais e você, a partir de outro projeto, mexe o mínimo possível. Mexe em revestimentos, tamanho de bancada, detalhes pontuais. A bancada do banheiro era granito. Poxa, vamos mudar aí para madeira? Pode ser? Para ficar mais barato? Pronto. É esse o tipo de modificação. O nicho estava em pedra, granito. Vamos colocar o nicho no próprio revestimento do banheiro?
-
-O revestimento do banheiro estava em porcelanato. Poxa, tem como a gente mudar aí para cimento queimado? Pronto, é esse o nível de alteração que a gente considera aceitável aqui nesse ponto do desenvolvimento dos projetos.: É econômico. O negócio tá apertado, como é que você usa, você espreme o que dá pra fazer aqui nesses projetos. Esses projetos aqui não são pra gente ter coisas bonitas, ou fazer. Você tem que fazer projeto que é o certo pra fazer. Não, é porque você não tem dinheiro, você quer economizar.
-
-É por isso.: Então, como é o desenvolvimento aqui dos projetos, você já vai ter as visualizações, as planchas vão ser desenhadas pra prefeitura, e na prefeitura, esse projeto sendo aprovado, inclusive você nem deve modificar mais, porque uma vez que ele é aprovado na prefeitura, você não pode mais modificar tamanhas diárias. Ou você vai ter que remandar projeto pra prefeitura e tirar outro, avarar e pagar novas taxas.
-
-Então, aprovou projeto em prefeitura, modificações só de acabamentos, ou que não modifiquem tamanhos e aberturas, nada do tipo, nem área construída, nem beirais, nada do tipo pode ser alterado. Inclusive, a alteração que ocorre aqui, normalmente, é coisa que a prefeitura pede, que tava fora do projeto.: É, é isso aí. Exatamente. A prefeitura mesmo que vai pedindo aqui pra ter correções. Meu projeto voltou. É normal, uma prefeitura não autoriza isso.: Às vezes é uma área que faltou e quarto tá escrito, a prefeitura manda o projeto de volta.
-
-E, claro, você vai ter mais rapidamente seu projeto aprovado se você for pessoalmente lá, com saco de manga. Tem prefeitura que só anda pessoalmente, gente. Infelizmente, tem prefeitura que é toda online, mas tem prefeitura que você tem que ir lá Aí o projeto básico.: Aí o pessoal já inicia os complementares, até porque precisa do ídolo sanitário pra poder aprovar na prefeitura. Depois de aprovados os complementares, vão se compatibilizando todos, vão resolvendo o problema.: O projeto básico já tá compatibilização.: Aí passou cano, outro passou uma viga, a gente tem que agitar os dois.
-
-E nesse projeto básico aqui, vai criando definições e detalhamentos que vão virando projeto executivo. Não é bem a ferra e fogo, onde aqui acabou e começou o outro, certo? Isso aqui é processo.: Mas o projeto executivo é aquele projeto que a gente não muda.: Tem projeto executivo. Aqui orçamento, executivo, que é onde se faz os orçamentos, ele tem uma margem de 5% de erro. Apesar de que quando é muito normal o pessoal pedir aditivos de bem mais que isso aqui.
-
-Mas porque a obra demorou pra iniciar a obra, os preços da construção mudaram.: Antes da execução, tem o preparo pra execução.: Tem, aqui tem cronograma, no momento de executar. A gente tem as aulas de como executar direitinho. Porque a execução, ela é pra ser o que foi tudo ensaiado aqui atrás. Você imaginou a casa, imaginou. Todo mundo aqui desenhou. Então aqui a gente só vai executar. Não é pra modificar e você vai querer modificar.
-
-Você vai querer fazer mudanças aqui, né.: Quando você tá com projeto executivo, que você tá com o orçamento executivo junto com esse pacote de projetos, esse orçamento ele vai te guiar nas compras, que são os suprimentos da obra. Esses suprimentos é exatamente quais materiais você vai precisar, onde você vai encomendar esses materiais, com que antecedência, quanto tempo você precisa comprar eles antes. E essa parte dos suprimentos é muito negligenciada e ela pode parar uma obra. Se faltar material-chave, a obra toda para.
-
-Então vale a pena também tirar tempo só para preparar os suprimentos e você passar aquela lista de que todos os materiais estão pelo menos encomendados, que quando foi feito o orçamento já foi perguntado o prazo de entrega desse material, por exemplo.: Se eu já estou aqui perguntando quanto é que está custando o ferro, eu já estou perguntando também qual é o prazo de entrega deles, com quanto tempo de entrega deles eu tenho que mandar o meu pedido, se eu quiser o ferro já dobrado, por exemplo.: Quem paga o frete também é importante.: Quem paga o frete.: E quem paga o carrega, eu descarrego.: E o layout de obra também.
-
-O layout do canteiro de obra também tem que estar sendo preparado, é projetinho à parte, antes da execução. Que é o que? Onde é que vai ser armazenado esse material? Qual é a logística da obra? O ferro vai ficar aqui, o cimento vai ficar ali, os materiais pequenos vão ficar aqui, os canos vão ficar ali, pra não ter nada impedindo a execução em si. Pra estar tudo ensaiado, tudo em seu devido lugar. Então se for assim, você vai preparar bolo, você já separa todos os ingredientes antes do lugar de ficar.: É o mesmo classe.: Tipo farinha de trigo, aí bota lá. Aí cacau em pó, uma xícara.
-
-Aí você vê depois que você colocou a farinha com ovo, que você só tinha meia xícara de cacau. Aí você faz o quê?: Chora.: Você chora, você para o bolo, você faz o bolo errado. Você podia ter feito metade do bolo, se você viu que você só tinha meia xícara de cacau. Ou comprar cacau a tempo, antes de fazer. Então a ideia é essa, você tem que estar com todos os materiais já alinhados. Além de, claro, ter previsões de ligações. A gente tem ligações, por exemplo, de luz, que demoram assim. Tempos. Demoram tempos.
-
-Tem outorgas pra acabar posto, às vezes, que por algum motivo na sociedade demoram meses. Não é pra demorar. Mas quanto mais bem preparado você estiver, melhor. E é isso, acho que essa aula pode parar agora por aqui.: Com certeza.: E claro que como a gente tá explicando, a construção, vocês estão vendo, é algo muito complexo. A gente tá tentando dar aqui passo a passo, mais prático, com pontos-chave que a gente acredita ser os pontos mais importantes, mas por mais bem preparado que você esteja, nenhum plano resiste a encontrar inimigo. Então.
-
-Prepare-se pra algo dar errado nessa hora.: Tem que improvisar aqui.: É os estoicos, o estoicismo, não é o que acontece, é como você reage a isso, tá bom? E tudo na vida tem solução.: Tem aula lá de execução de obra, com diário de obra e ciclo PDCA, pra você saber como lidar com o momento da execução. Muito obrigado e até a próxima aula.: Olá, seja bem-vindo a mais uma aula. Estamos começando aqui o módulo Projeto. Vamos fazer uma introdução do que é o Projeto.: É, o que é Projeto.: Esse módulo vai estar bem legal, gente.
-
-Eu acho que vai ajudar muita gente, até quem é da área vai ajudar também. Porque Projeto é uma coisa que a gente acha que é super simples, mas que na verdade não é. E uma obra sustentável, uma obra econômica, ela acontece no Projeto. A obra em si, ela é só mero.: Não, mero não. É a execução do que foi ensaiado no projeto. O projeto é o ensaio.: Assim como a gente não tem como, por exemplo, Circuito Soler, eles passam 99% do tempo ensaiando, aprimorando, e 1% do tempo apresentando. Então a ideia do projeto e obra é pra ser a mesma coisa.
-
-Você vai passar o máximo de tempo possível nas etapas de projeto pra poder na obra fluir tudo o mais rápido possível. Porque obra é uma coisa cara e projeto é mais barato da gente ficar modificando. É como se a gente estivesse construindo no papel. Literalmente a gente vai estar construindo no papel milhares de vezes pra construir só uma vez pra valer no mundo real.
-
-Que essa é a forma mais barata de fazer.: É, então a ideia do projeto aqui que a gente pensa, se fosse para eliminar o projeto, a gente eliminava, porque a gente elimina.: E vai estar, a gente vai baixar mais na frente.: A gente fala assim, o que é preciso para construir uma casa, ter uma casa, o mínimo possível, porque isso não é uma necessidade própria nossa, penso que vocês já devem conhecer nossa história, e quando a gente, uma coisa que a gente passou muito tempo fazendo era projetando, por quê?
-
-Porque não gasta dinheiro você ficar projetando, até mesmo, quando fala projetando, não é ali o arquiteto desenhando a casa, não, é pensando em todas as etapas que a gente vai precisar cobrir para ter até a nossa casa. A gente passou, no último ano da faculdade, fazendo estudos, tinha o trabalho de conclusão de curso da Amanda que está até para baixar aí. Eu vou ter que fazer essa cadeira.
-
-Vou fazer essa cadeira estudando como fazer a minha casa.: Estudo monte de métodos diferentes de construir e como desenhar a casa, quais eram os mínimos ambientes que dá pra fazer, qual a função desses ambientes, porque a gente vai sempre puxar a sardinha mais pra funções do que pra estética. Estética ou algum glamour.: Vai cair e se sobrar o dinheiro.: Então a ideia desenhar antes não é ter coisas bonitas, é ter informações.: Mas conjunto desenhos, né gente, é planejamento, é uma receita detalhada, é guia que vai te mostrar. Se você tentar fazer bolo sem uma receita, ele não dá certo.
-
-Se você faz o bolo com a receita, às vezes ele ainda não dá certo. Então você imagina uma casa, que é muito mais complexo do que bolo. Então a gente vai considerar aspectos econômicos, técnicos, funcionais. A gente também vai levar em consideração aspectos estéticos, mas claro que eles vão ser limitados de acordo com a sua criatividade. A falta de recursos financeiros é apenas uma limitação criativa. Uma limitação financeira, mas que se torna uma limitação criativa. E também legais. Porque não adianta a gente querer construir o que a gente quiser se a gente não puder.
-
-A gente tem leis, infelizmente, mas felizmente temos leis. Então, essa vai ser o seu passo a passo.: Tem uma questão. Mas, Amanda, eu nem sei o que é uma casa, quais elementos constituem uma casa. Como é que eu vou me planejar elemento que compõe a casa se eu não sei que elementos são?: Fazendo aquilo a seu, vamos passo a passo.: Exatamente. Então, fica uma coisa assim, eu deveria estudar projeto primeiro ou deveria estudar. Tudo sobre casas primeiro. É pouco dúbio isso. Dúbio.
-
-Você poderia estudar todos os elementos da casa primeiro pra depois voltar projeto, mas eu acho que é uma questão de ir e voltar num e outro. Se você quiser começar projeto. Se você tem alguma idade dos elementos que constrói uma casa. Fundação, piso, parede, etc. Você vai aqui projetar e desenhar o piso, a parede, etc. Pensar em outras coisas também, como fundações e outros detalhes.: Qual o objetivo, desse projetado todo? De tanto projeto. É otimizar os custos inicialmente na economia, reduzir gastos.
-
-Especialmente, não só gastos durante a construção, mas gastos futuros com manutenção e energia, que é uma coisa que muita gente não leva em consideração na hora de estar construindo. É quanto é que essa casa vai custar pra manter ao longo dos anos, principalmente manutenção.
-
-Funcionalidade, atender as necessidades dos moradores, obviamente isso é necessário, não adianta você construir uma casa que não vale atender.: Também tem uma briga aqui, o que é necessário e o que é desejo, que é capricho, a gente vai ter que desenhar uma linha em algum lugar.: Segurança, basicamente você tem que, obviamente, garantir a estabilidade, a resistência das estruturas, não vai construir nada pra quebrar, cair, não ter estabilidade, não ter segurança. Conforto, tem que estar em ambiente confortável, agradável e eficiente.
-
-Legalidade, porque precisa seguir as normas locais, as regulamentações locais. Se você pisa na bola em uma norma dessas, você muitas vezes tem que demolir e reconstruir, e não é isso que a gente quer. Por falta de conhecimento, imagina você ter que demolir parte da sua casa, pagar a multa, pagar a construção nova, horrível. Então vamos à leitura de projeto. A sala de introdução ficou muito pequena, então vamos já emendo aqui na de leitura de projeto.: É isso mesmo. Como eu lembro de projeto, pra quem já é da área, vamos revisar.
-
-Pra quem nunca viu isso, vamos fazer pela primeira vez.: A cerveja é pensada pra quem não sabe nada sobre construção. Então, o que acontece? O que é planta baixa, corte e fachada, que são as mais básicas vistas, digamos assim, de projeto.: Sempre tem.: A gente tá tentando representar objeto em 3D em desenhos planos. Ou seja, se eu vejo essa caneca assim reta, ela tem aqui a fachada da caneca. Quando eu viro ela aqui, já tem outra fachada lateral da caneca. Se eu virasse ela aqui pra cima, eu teria a planta baixa, digamos assim, da caneca. Não vou virar porque tem café.
-
-Então, basicamente, quando a gente tem a casa, a gente vai ter a planta baixa da casa, que é como se a gente cortasse a casa a 1,10m de altura e olhasse ela. Tem gente que fala que é de cima pra baixo, tem gente que fala que é de baixo pra cima. Eu acredito que é de cima pra baixo. De cima pra baixo. Então, é como se a gente olhasse ela de cima pra baixo, ela cortada a 1,10m. No caso, isso é a planta.: Ui, isso é a planta. O corte é como se eu cortasse a casa no meio, certo? Tanto vocês vão ver que tem o corte longe do jinal ou no comprimido. Ou, desculpa, no oposto.
-
-E tem a fachada é como se eu visse de frente, certo, a casa? Então, assim, é bem auto-explicativo, mas claro que tem gente que não vai saber, por exemplo, a diferença de uma fachada e corte. E a gente vai mostrar pra vocês agora. Então, a casa, basicamente, ela tem quatro fachadas. Os lados. Pode ter mais. Pode, pode ter mais.: Não é quadrado. É verdade.: Mas, normalmente, a casa tem quatro fachadas, é quase pra frente. E cortes, a gente vai colocando na medida da. Uma planta baixa. Por andar.
-
-E cortes, a gente vai colocar na medida que a casa vai ficando mais complexa, a gente vai colocando mais cortes. O que a gente vê nas plantas baixas, na hora de ler? A gente vai ver as paredes, a gente vai ver as dimensões, a gente vai ver onde tem janelas e portas também, ó. Janelas e portas. As janelas, normalmente, é traço completo. E a porta, ela tem já o desenho da abertura, ela já é desenhada como é que funciona. E também a gente já tem a representação na planta baixa de alguns, eu ia dizer imóveis, mas não são imóveis. Acessórios fixos da casa, como pias, como chuveiros, sanitários.
-
-A gente tem alguns desenhos.: Até dos layouts a gente já pode ter na planta baixa também, onde vai ficar uma mesa. Mas normalmente as plantas baixas mais simplificadas vão ter pelo menos esses acessórios de áreas molhadas, instalações em geral. No corte, é como se a gente tivesse mesmo cortado a casa no meio, do mesmo jeito que a gente corta bolo pra ver o recheio. Nesse corte a gente vai ter a altura das paredes, a altura do teto, vai ter a vista das estruturas também, das fundações, e enfim, deve-se identificar também no corte os materiais que vão ser usados.
-
-Por exemplo, aqui no telhado vai ser usado sapé, que é tipo de palha. Ou vai ser usado telha cerâmica, aqui a gente vai ter uma figa de concreto, aqui a gente vai ter uma parede de adobe, então já pode especificar no corte esses materiais.: E aí a gente vai ter o corte transversal e o corte longitudinal. Essa palavra que tá me faltando, transversal. Transversal, basicamente, a gente tá cortando na parte menor da casa e o longitudinal na parte mais longa da casa. No mínimo, uma casa tem que ter dois cortes, tá bom? Num projeto. Então, Amanda, recebi meu projeto, só tem corte.
-
-Pode cobrar outro corte, no mínimo são dois cortes. E você vai identificar o corte na planta baixa a partir desse desenho aqui, ó. O que esse desenho significa? Com triângulo. Esse triângulo tá dizendo a direção que a gente tá vendo esse corte. Então, no caso, ó, a gente tá vendo esse corte pra cima, como se fosse olho mesmo olhando aí pra cima. A gente tá vendo a letra do corte, que é o que? O corte A.: Então, se esse é o corte A, quando eu tiver vendo o desenho, vai ter que tá escrito lá, corte A. Aí eu vou na planta baixa e vou ver.
-
-O corte A tá passando aqui, porque tá aqui a bolinha escrito A. E vai ter o número da plancha também que vai tá apresentado.: E a linha onde passa o corte?: Isso.: Essa linha aqui, ó.: Vai ter aí no próximo slide, pra gente ver melhor. Então como é que ele é representado numa planta baixa? Aqui, aquele triângulo do corte A, mostrando que o corte A, a gente tá vendo a casa cortada nessa linha, na direção pra cima. Então é como se eu estivesse olhando pra sala e pra essa parede do banheiro que tem o chuveiro, o sanitário, a pia.: O que é que eu vou ver?
-
-Eu vou ver o chuveiro, o sanitário, vou ver a pia, vou ver essa porta aqui certinho, que eu consigo ver daqui pra cá. Eu não vou ver nada da sala, porque tem uma parede na frente.: Exatamente. Normalmente, os cortes, a gente prioriza passar eles nas áreas molhadas, que são os dois mais complexos. E escadas. E aí, o corte B, ó, é corte longitudinal, o corte A é transversal, o corte B é longitudinal, que tá mostrando agora pra mim. Corte passando na sala, no banheiro e no terraço, certo? E os dois tão na prancha 1. O que é a prancha? Basicamente, é o conjunto desenhos onde eles vão tá.
-
-Porque a gente vai ter várias pranchas. São tantos desenhos que não cabe todos os desenhos em só papel, então a gente vai dividindo.: Papel, uma prancha é dos quartéis.: A gente tá no papel número 1, tá no papel número 2, isso. Todas essas linhas, que tem projetos e detalhes, elas seguem a ABNT 8403. Então, você que é da área, tem que ler essa ABNT e seguir, na hora de executar os seus projetos, a pena que a agro surja.: Mas eu não quero, eu acho feio, eu não quero seguir, eu não quero seguir essas normas.
-
-Qual é o problema se eu não seguir?: Você tem nível arbítrio.: Não, não, não tem se você fizer. Isso aqui são desenhos técnicos, desenhos técnicos. Eles seguem uma nomenclatura, imagina você falar. É português que só você inventou, suas próprias palavras.: A gente não quer colocar o seu projeto em pé, isso.: Não, o meu metro é maior. Do que o normal. Minha hora dura mais tempo. Como assim? Você vai ficar mudando as convenções sociais? Isso é uma convenção.
-
-As pessoas chegaram num consenso.: Vamos seguir o consenso.: Vamos seguir o consenso.: Então, na dúvida, que linha eu uso nos meus projetos? Amanda, vai na NBR, pergunta pro chat GPT, joga no Google, mas faz corretinho.: É por isso que a gente se baseia muito nos projetos do Kube. Porque é consenso que foi feito aqui no Brasil.
-
-Ao invés de a gente ficar inventando uma planta baixa nossa, que a gente fica fazendo.: É, você tem que mandar essa planta aqui no Kube.: A gente vai lá, 20% de economia, 40% de economia é baseado no Kube.: E eu vou deixar link aqui na descrição, que é uma aula bem rápida, né gente? Não tem muito segredo. Você vai aprender a ler projeto conosco aqui na prática também nas próximas aulas. Esse aí foi só uma introdução à projeto. Eu vou deixar. Perdão.
-
-Vou deixar link aqui na descrição, que é uma aula mesmo pra você ler mais aprofundado no tema, caso você queira estudar pouco mais esse tema por aqui.: Obrigado. Até a próxima.: Comenta baixo o que você achou. Olá, antes de matar todos vocês do coração com a próxima aula, que é quanto custa projeto, eu já até preparo todos, pra segurar o coração nesse momento da próxima aula. Antes a gente vai falar se o projeto vale a pena, porque a gente tem medo de falar depois do custo e vocês nem entendeu, não vão olhar não. Então, primeiro o projeto, ele vale a pena fazer projeto?
-
-Vamos ver aqui o porquê que você deve investir em projeto, porque é importante. Basicamente, o projeto, a gente já tem vários estudos, a humanidade já errou, já fez relatórios sobre o que errou e quem acertou, que são esses estudos. Então, a gente tem estudos que mostram que quanto maior o investimento no projeto, menor o custo que a gente vai ter no tempo, do empreendimento, certo?: Então, quando a gente tá no mercado de construção civil, o que a gente vê?
-
-Pouco tempo investido em projeto, ou seja, essa linha aí, ó, pouco dinheiro investido em projeto e pouco tempo investido em projeto, que resulta em mais custo do empreendimento ao longo do tempo. Tá vendo, ó, essa curva aí, ó, é a curva do custo mensal do empreendimento. Então, digamos que eu for construir uma casa.: Primeiro, vamos olhar só pra linha fina, não vamos olhar pra essa linha grossa não.: Digamos que eu vou construir uma casa. Eu investi ali Nesses 5 mil, eu já terminei os projetos mais cedo e já comecei a obra.: 3 Meses.: Isso.
-
-Aí já comecei a obra e aí começou a vir custos de falta de planejamento, começou a vir problemas, depois que a obra estava pronta, uma obra mais cara de manter, uma casa mais cara de manter. E nisso, à medida que o tempo vai passando, eu vou gastando cada vez mais esse dinheiro, seja em retrabalhos, seja numa casa que não foi pensada para aquele clima e que tem uma manutenção mais cara. Digamos que não. Eu fiz o acervo, me conscientizei, previ o futuro, vi o futuro, me mostraram o futuro e decidi, não, vou investir 15 mil reais em projetos.
-
-Meu Deus, eu já perdi toda a economia que eu ia fazer nessa casa. Já era, economia não tem mais. E no lugar de passar 3 meses no projeto, eu vou passar 5 meses projetando.: Meu Deus, já perdi também 2 meses a mais aí que eu aluguei. Mas olha, agora tu risca entre os dois gráficos, a quantidade de dinheiro que eu tô economizando. Toda essa diferença aí, ó, que vocês estão vendo, é a economia gerada por ter investido mais dinheiro e mais tempo no projeto, certo? E ela acontece, como eu tô explicando, ao longo do tempo. Só que inicialmente parece que a gente tá no vermelho.
-
-O início muda cor, muda cor, muda cor. Inicialmente parece que a gente tá gastando mais. Perdemos aqui as anotações, mas inicialmente parece que a gente tá gastando mais. Só que realmente a gente tá gastando mais no início.: Então gasta mais.: Agora olha o volume desse gasta mais no início, versus o volume da economia que a gente vai ter. Que é exatamente esse volume. O que vale mais a pena pra você? É economizar esse vermelho no início e gastar o azul? Ou investir no vermelho e economizar o azul? Lembrando que não fui eu que fiz esse gráfico. E tem a fonte dele aqui embaixo. Obrigada, Mikau.
-
-Vamos pra próxima aí.: Você pode baixar Mikau 2006 e procurar que ele aparece.: E por que gera essa economia, gente? É como construir mil vezes num mundo virtual a custo baixíssimo, porque é muito mais barato a gente mover uma linha do que a gente mover uma parede. É muito mais barato eu trocar revestimento de porcelanato de 1,20m por 1,20m por de 40x40m num projeto do que na construção. Então a ideia é você poder errar à vontade. Imagina se eu compro esse porcelanato de 1,20m por 1,20m e vejo que não vou ter dinheiro pra fazer a elétrica da minha casa. E aí eu perco minha obra.
-
-Minha obra fica parada. Por quê? Porque eu não me planejei. E se eu tivesse comprado porcelanato menor, 40x40m, eu conseguiria comprar a elétrica da casa também.
-
-Pra mim não seria uma grande perda, digamos.: Então são essas decisões que o projeto vai nos possibilitar, a gente modificar quantas vezes necessário, torneiras, acabamentos, áreas, até a gente encontrar o produto perfeito pra gente construir ele no mundo real somente uma vez, sem quebra-quebras.: Então, em origem de problemas patológicos das construções de Motel e Knud, 1989, eles foram ver problemas na construção e qual era a origem deles. Por quê? Se a gente pegar o mal pela raiz, a gente resolve o problema. Onde a raiz das patologias. As trincas, umidades, infiltrações, é.
-
-Arroa excessivo, bio excessivo. Isso é boa também. Aí.: Durabilidade, fachada que tem que ficar pintando todo ano, isso não é o correto.: Então, tem várias calças, tem 11% que ficaram. Uma maior parte ficou no projeto. Os 60% daria pra ter resolvido modificando o projeto. Enquanto que 25% acontece ali na execução.
-
-E 11% tem outros que eu não entendi dia.: E se a gente foca em dois itens, que é a concepção, projetos e a construção, A gente já mapeou aí 80% dos custos da obra, 85% dos custos da obra, dos problemas patológicos da obra, se a gente presta muita atenção em projetos, 60% em projetos e 25% em construções. isso é muito real. Pra gente que constrói, a gente sempre sabe que o problema é no projeto. E não vou dizer que vocês vão conseguir fazer projeto perfeito.
-
-Mas a gente vai tentar fazer o melhor projeto possível pra diminuir ao máximo o risco de existir projeto perfeito.: A ideia é que aqui no Brasil, principalmente, tem a cultura mesmo de fazer muito pouco planejamento e muito pouco projeto. Tem uma margem muito grande, pouquinho a mais vai gerar muito ganho, pouquinho a mais de atenção no projeto.: Isso aqui é gráfico interessante, porque até pra você projetar, você tem que projetar da forma correta, certo? Existe uma janela onde você tem a possibilidade de interferência no projeto.
-
-E existe uma janela onde você não deve mais interferir no projeto. O que é?: O que custa menos interferir no projeto.: O que é? O custo de. No estudo de viabilidade financeira, você pode interferir no projeto.: 100% Do projeto, praticamente, com 0% de custo.: O custo é essa linha aqui, certo? A roxa, certo? E a possibilidade de interferência, ou seja, quanto você pode interferir, é essa linha laranja.
-
-Então, no estudo de viabilidade, você pode interferir à vontade, praticamente.: Praticamente, com custo mais baixo.: No fim do estudo de viabilidade, você ainda pode interferir 99% e o custo vai estar baixíssimo.: Que é a maneira de economizar. O que a gente pensa, estudando a viabilidade? Derreta esses quartos, vamos dividir em etapas, vamos mudar o terreno. Vamos mudar o terreno porque não vai dar pra fazer nesse terreno. Vamos mudar o material, o fornecedor. Então, você está estudando a viabilidade aqui. Você tem como trocar praticamente tudo a custo muito baixo.
-
-E à medida que você começa a entrar e bater o martelo nos primeiros itens já da concepção de projeto, A possibilidade de interferência já baixa pra metade, 50%. Então você pode mexer em muito menos coisas no projeto, apesar de que ainda o custo tá baixo. Aí no projeto, o custo vai estar pouco mais elevado, a gente vai estar chegando aqui a 25% na escala aqui de custo, pra fazer alterações. E as alterações vão ficando cada vez menores as possibilidades.: E quando a gente começa a execução da obra, aqui é o começo da execução da obra, a última coisa que você quer é fazer alterações.
-
-A última coisa, principalmente aqui, é decisões de acabamentos. Mudar a cor da pintura, dá pra fazer, certo?: Mudar a parede de lugar, não dá pra fazer.: Não dá pra mudar a parede de lugar, a gente não vai deletar a quarta aqui, não vai botar na banheira, certo? Principalmente aqui, quando começa a executar, aí você executa com o método tradicional, que até sobe rápido, as alvenarias sobem bem rapidinho, você vê que a casa já subiu tudo isso.: Aí você começa a ficar animado, vamos aumentar esse banheiro, vamos colocar banheiro nele. quando ele se pensa, vai espiar na sua cabeça.
-
-Não, eu vou aparecer na sua cabeça nesse momento, vou aparecer lá.: O que eu deveria fazer na obra? Seguir o projeto, é isso que você deveria fazer, seguir o projeto.: Mas não ficou como eu queria, vai aqui na casa, depois você reforma.: Reforma depois.: Depois você faz outro projeto, reforma, aí reforma mais. É isso. Não tem muito o que ser dito. É isso. E se você mudar, a gente avisou. E aí vamos ao construindo na bola de cristal. Isso aqui é muito famoso. Aqui no Brasil a gente tem o famoso projeto bola de cristal.
-
-É projeto onde a gente adivinha ali na obra, onde é que vai o ferro, onde é que vai o concreto, qual a quantidade, de que forma vai estar dimensionado, espalhado. Então a gente vai no sentimento, a gente baixa ali o Chico Xavier, espírito do engenheiro calculista, que não preza nem no computador, e na hora ali vai decidir o que vai ser executado. Resultado.
-
-Que a gente já sabe, porque isso já foi feito várias vezes em outras obras.: Aquele valor que você economizou em projeto estrutural, você acaba pagando muito mais em material e fica com falta de segurança Então, aqui, teve 21% a mais de custo do que a estrutura projetada, chegando a uma diferença de mais de 30 mil reais. Então, assim, quando vocês olharem, eu vou dar 3 mil reais num projeto estrutural, lembre-se que você pode acabar pagando 30 mil reais a mais numa estrutura, ou seja, você pagou 10 vezes mais caro porque você quis economizar num projeto estrutural. E isso não é o pior.
-
-O pior é que você vai ter ferro de mais onde não precisa, e concreto também, e ferro de menos onde precisava, que aí, pra ter problema, uma patologia.
-
-Isso não é possível.: Se você for ler aqui esse estudo, você vai ter que ver, viga executada com consumo de forma 15% superior, concreto 12% superior, pilar da estrutura executada com seção inferior a mínima especificada, consumo de armadura transversal inferior ao necessário devido ao diâmetro especificado por norma, espaçamento insuficiente, e aí depois que tá concretado e tá insuficiente, tá perigoso, como é que eu vou corrigir esse problema, gente? Não tem como, entendeu?
-
-Então se a estrutura começar a fissurar, se a casa começar a ter recalque diferencial, tudo isso daí é muito mais caro a gente corrigir do que a gente fazer de forma correta.: É, a sapata da casa, 180% a mais de aço, 60% a mais de concreto, que é uma coisa que o pessoal faz muito na fundação.: Caprichar.: Capricha. Capricha porque não fez o cálculo e não tem segurança. E aí, você capricha e ainda fica com medo, porque você não sabe se.: Porque não é só caprichar, gente.
-
-Se fosse só tacar ferro, e o pior, estruturas com ferro demais, eu nem trouxe isso, mas estruturas com ferro demais são as mais perigosas que tem, porque elas nem avisam que elas vão ruir. A estrutura, quando tem ferro de menos, ela fissura. Mostra ali, dá sinais. Quando tem ferro demais, ela só vai abaixo.
-
-Ela não fissura, não acontece nada, ela só tchau.: A ideia do projeto estrutural é colocar o mínimo de estrutura que sustente a casa de forma segura, de acordo com as normas, porque elas têm uma margem de segurança.: Eu lembro de uma coisa que a gente foi na casa de pai de uma amiga nossa, que ele falou. Essa casa aqui, ela tem, não sei, o triplo de barra de ferro do que colocam nas casas aí ao redor. E eu, não dizia isso, pelo amor deus. Eu fiquei morrendo de medo, muito mais perigoso, porque a casa podia cair a qualquer momento, não ia nem avisar. E ele crente que a gente tava abalando.
-
-Ele crente que a gente tava abalando essas estruturas, mas não da forma ideal. Não da melhor forma, basicamente. É isso, eu fiquei traumatizada. E aí agora vocês vão se traumatizar. Próxima aula, quanto custa?: Olá.: É hoje. A partir de cá a aula, quanto custa? Muita gente vai sair daqui com raiva da gente, meu Deus. Não posso ter investido nesse acervo para eles me dizerem que eu preciso gastar todo o meu dinheiro em projeto. Não é todo o seu dinheiro. Mas é uma conscientização, essa aula é uma conscientização de quanto custa de verdade projeto.
-
-Porque muitos de vocês, todos vocês, têm uma concepção errada de quanto custa projeto de arquitetura e por isso vocês não fazem projeto, porque vocês acham que o projeto está caro. Então vamos entender quanto é que custa projeto para construir uma casa. De arquitetura. A gente já falou sobre os tipos de projetos. Quanto é que custa projeto de arquitetura?
-
-Por metro quadrado, ele vai variar.: A gente vai nessa aula separar entre residências simples, que você pode considerar até 100 metros quadrados, residências de médio padrão, que seriam de 100 a 200 metros quadrados, e residências de alto padrão, que seriam acima de 200 metros quadrados. Claro que uma vai entrar dentro da outra. não deu como traçar uma linha, partir daqui a alto padrão, daqui pra baixo padrão. Então, depende do grau de complexidade do projeto. Aqui a gente tem algumas médias por metro quadrado.
-
-Então se eu tô falando de residência simples, R$50 a R$100, e residência de alto padrão de R$200 até R$400, percentual sobre o custo da obra. Também tem gente que cobra no lugar de mérito quadrado, percentual sobre o custo da obra que vai ser construída.: Esses valores são de janeiro de 2025.: E podem variar, vão variar de região a região?: É porque a gente precisa botar algum valor. A gente precisa botar algum valor, e muitas pessoas assistem aqui e aí pra algumas as vezes os valores vão estar altíssimos, pra outras as vezes os valores vão estar baixos.
-
-Então assim, a gente tem que escolher algum valor pra poder começar as estimativas.: Então, exemplo prático, num projeto de arquitetura para uma casa de 100 metros quadrados, com custo de uma obra de 300 mil reais, uma residência simples, com seu B, com custos ali da casa que vão ter, a gente vai ter o custo por metro quadrado que seria de 5 mil a 10 mil reais, o projeto de arquitetura. Todo mundo em casa já ficou tipo, caro. Aí, calma, tem que ser só o primeiro.
-
-E se for sobre o percentual, sobre o custo da obra, pode variar também, ó, de 9 a 15 mil, porque tem gente que cobrando pelo custo da obra, não é o percentual do custo da obra, sai mais caro. Eu prefiro a cobrança por metro quadrado, certo? Mas cada escritório faz a cobrança da forma como prefere.: É, tá muito popular hoje em dia o custo pelo projeto, dando uma margem de quantos metros quadrados podem ser adicion.: Aí vamos ao projeto necessário, que é o estrutural. Residência simples também, 20 a 50 reais, e alto padrão vai subindo aqui o preço.
-
-E também tem gente que cobra, como eu disse, pelo valor estimado da construção.: E também o valor pelo empreitado. Eu entendi as necessidades do projeto, meu preço é esse. Não é que está diluído por metro quadrado, porcentagem da construção total. Pode ser preço fechado.: Então, para aquela casa de 100 metros quadrados, a gente vai ter aqui de 5 mil a 8 mil, ou de 3 mil a 6 mil, se o pessoal estiver cobrando porcentagens.
-
-O hidrossanitário, 10 a 25 reais, residencial médio padrão, alto padrão, percentual, por caso de 100 metros quadrados, hidrossanitário, 2 mil, 5 mil, ou 3 mil, 6 mil, são valores bem próximos. Aí vem o projeto elétrico, também 15 a 30 reais, ou percentual sobre o custo da obra, também aí fica por volta de 3 a 6 mil. O projeto de interiores, que ele é opcional.
-
-Mas que ele é muito indicado, se você tiver condições, e quiser uma casa com finíssimo acabamento.: E você vê que, apesar da gente achar esse projeto inicialmente caro, tipo 15, 30 mil reais, se você volta aqui, você vai ver que ele é 2 a 5% do valor total da obra, então assim, não é o grande custo, digamos assim. E aí a gente tem o luminotécnico, que esse é completamente opcional, inclusive ele é o primeiro a ser eliminado. Na verdade ele não é nem normalmente feito.: Ele só é cogitado em alto padrão.: Pois é, ele não é nem normalmente feito.
-
-Então aqui exemplo de quanto é que ele ficaria.: Só pra deixar a iluminação da casa perfeita.: Compatibilização de projetos, esse eu acho indispensável, tá bom?: Compatibilização de projetos, se tem setor separado, é quando você tem projeto bem complexo. Quando o projeto é bem simples, você já embute-se pra isso no arquitetônico e bota na parte que tem que estar escrito quem é que vai estar, porque pode não ser o arquitetônico responsável pela compatibilização.
-
-Compatibilizar é porque você tá desenhando umas coisas aqui na arquitetura, aí o pessoal do hidro sanitário quer começar, o pessoal da estrutura quer começar, você já tem os primeiros desenhos, você manda. Os desenhos da arquitetura pro estrutural, pro hidro sanitário, pro elétrico. Aí eles começam a fazer os desenhos, vão jogando as coisas dele. Aí o elétrico bota o quadro de luz onde ficam os disjuntores, bota ali atrás de uma porta. Mas o arquitetônico tava precisando daquela parede atrás da porta pra fazer alguma coisa. E isso vai dar problema.: Porque as duas funções não vai dar.
-
-O arquitetônico, não, moveu uma parede, deslugava essa parede aqui.: Foi eliminada.: Ela vai ser de material que não dá pra embutir, quadro elétrico. O pilar aqui vai ter dente, não pode ter esse dente aqui na arquitetura. Então, o que acontece? Alguém tem que estar responsável por ficar olhando os projetos enquanto eles se atualizam, porque muda completamente. Muda até uma caixa d'água de lugar. Não, a gente vai ter que botar em outro lugar essa caixa d'água aqui. Os projetos vão mudando a medida que ele vai desenvolvendo as soluções e alguém tem que ficar responsável.
-
-Quando o projeto é pequeno, simples, o arquitetônico fica responsável e tem que estar escrito lá que ele é responsável pelo quê? eu vou verificar o elétrico, o hidrosanitário, o estrutural pra ver se eles não tem problemas aqui de compatibilidade.: Não é que o arquitetônico vai verificar se o estrutural calculou direito, se o hidrosanitário, a água tá com pressão boa, se o elétrico, todos os circuitos estão ligando, ele não vai.: Ele só vai conferir que não tem cano passando no meio da viga.: Ele vai conferir que não tem.: Interruptor e onde tem uma porta.: O projeto é simples, não tem nada, não tem prédio não, tem que ter setor só pra isso aqui.
-
-Setor só olhando todo mundo trabalhando e arrumando os problemas aí.: Assim, a arquitetura mudou uma coisa, já tem que atualizar todos os projetos que estão sendo trabalhados na elétrica, na hidráulica.: Aí tem que ter setor só nisso.: Mas o que a gente quer passar aqui, da compatibilização de projetos é, se você contrata arquitetônico em escritório, interiores em outro escritório, estrutural em outro escritório, elétrica e hidráulica em outro escritório, provavelmente você vai ter que contratar uma compatibilização de projetos à sua parte. Por quê?
-
-Porque vai acontecer falta de comunicação entre todas essas partes que vão prejudicar o seu projeto. O interiores vai prever uma geladeira onde tem uma viga que não cabe na geladeira porque o estrutural não recebeu o estrutural, só recebeu o arquitetônico. A elétrica não recebeu o interior, só recebeu o arquitetônico, então não estava com os pontos de alimentação dos eletrodomésticos onde o interior mandou, estava só com o layout básico da arquitetura. Então assim, isso acontece sempre.
-
-Será que é sempre?: Então assim, já que a gente sabe o que acontece, faça o correto, faça a compatibilização de projetos e se você contratar tudo em só escritório, confirme com eles que os projetos vão estar compatibilizados por contrato. Isso aqui é ponto chave de erro de obra, é isso aqui.
-
-Quanto é que custa.: Inclusive tem slide gigante sobre isso, que é exatamente isso aqui que a gente acabou de falar nos slides da Razooli, mas ele vai avaliar todos os projetos complementares para identificar incompatibilidades, vai corrigir os conflitos, sobreposições de divergências, passagem de tubulação em viga, como eu falei, fiação elétrica em porta, fiação elétrica com fiação hidráulica, vai fazer modelo revisado que tem todas as alterações, ou seja, ele vai entregar o projeto compatibilizado e vai prever, isso vai gerar redução de custos, porque ele vai prever retrabalhos que isso aí vai acontecer em campo. a tomada do elétrico estava aqui, chegou o projeto de interiores, vai ter quebrar agora de novo para mover a tomada de lugar para bater com interiores, entendeu?
-
-Que é o que acontece muito.: Mas Amanda, esse negócio de projetos não era só pagar e. Tudo que.: É resolvido num dia barato.: Construir a casa não é só pagar e o pessoal construir a casa. Pois é, a maneira de economizar realmente é você tendo de olho em todas essas partes e pensando muito mais, gastando neurônios ao invés de estar gastando dinheiro. Esse é o truque. E o que mais?: Porque é importante investir na compatibilização, que reduz erros, que podem gerar custos adicionais e atrasos.
-
-Melhor execução, porque os projetos vão estar tudo alinhados e aí não vai ter problema e na obra parou a obra porque os projetos estão divergentes. E evitar os retrabalhos, já está redundante, podemos dizer assim. E aí a gente vai entrar na parte que não são projetos em si, mas fazem parte do planejamento. Então eu diria que são projetos.: Isso aqui é uma parte do planejamento, não é desenho. É uma parte de cálculo, de financeiro. Que é a parte que eu acho que tem o maior potencial de gerar economia. Que é como é que o pessoal faz no mercado. Primeiro é, vai construir a casa.
-
-Constrói sem projeto. Fala com o pedreiro, fala com o mestre de obra, pega papel, faz uns rabiscos, vai levantando a casa. Aí isso dá monte de problemas e monte de incertezas. Às vezes, algumas vezes, isso acontece em.: Uma sala de casa. É mais complicado.: Aí tem o próximo passo. Eu vou contratar o projeto arquitetônico. Aí como é que você faz? Eu tenho orçamento, 300 mil, alguma coisa assim, 100 mil, 500 mil. Eu vou construir a casa. Quanto é o tamanho da casa que eu posso construir? Aí o arquiteto vai lhe dizer algum valor coerente, alguma ordem ali de 100, 150 metros pra fazer.
-
-Vai se basear nos valores de mercado. A medida que você vai andando pouco com o projeto, e tem as primeiras concepções de projetos, tem os primeiros volumes, você já tem uma área de piso, uma área de paredes e uma área de cobertas, tetos. Você já pode entrar aqui com esse estilo de viabilidade financeira, que normalmente não é feito, em grande maioria não é feito. E acontece o que?: Acontece que o projeto vai andando e você vai aumentando a área de casa, vai se animando.
-
-E quando vai executar a casa, finalmente, com todos os projetos desenhados na unha, lá no projeto executivo, você vai fazer o orçamento executivo, aí você vê que ficou o dobro do que você achava no começo, você não tem verbo. O que acontece? O projeto fica parado. Como é que o projeto ficou o dobro? Você ficou durante o projeto só imaginando, sonhando e gostando do que estava vendo? Com o arquiteto e parando de se perguntar quanto custa.: Tem outro caminho que as pessoas pegam, que é o que?
-
-Recebe orçamento executivo, vê que tá o dobro, e aí procura pedreiro, que acha que a construtora ou o engenheiro tá cobrando muito caro aquele projeto. E vai começar só com o pedreiro porque o pedreiro dá pra ele valor irreal. Valor que não existe. A pessoa iludida acha que vai conseguir. O que acontece, gente? É dor de cabeça. O pedreiro vai empregar a obra na metade porque o dinheiro não deu, vai botar a culpa em você de diversos problemas.
-
-Vai acontecer o que a gente vê se repetindo a cada minuto aqui no Brasil, que é a obra só dá dor de cabeça, os profissionais da construção são todos horríveis. Será que os profissionais são ruins ou você contrata pedreiro pra fazer uma casa sem orç.: Esse instrumento aqui de estudo de viabilidade financeira é algo que pode resolver esse projeto arquitetônico sair de proporção.
-
-Quando você já tiver desenvolvido as primeiras concepções do projeto, você tem áreas de pisos, térreos, superiores, áreas de paredes, áreas de coberta, você tem como levantar estudo de viabilidade financeira, já pensando no tipo de acabamento. Mas eu não tenho estrutura, eu não tenho os acabamentos 100% definidos. Mas isso não impede de você estudar viabilidade tendo taxas de gerais, como você vai fazer a casa. Não, eu tenho os métodos construtivos que eu vou utilizar, são esses.
-
-E os acabamentos vão ser esses aqui no geral, vai ser porcelanato, não sei qual porcelanato eu vou usar, mas tem uma variação de preço porcelanato, tem.: Tem concreto polido, inclusive a planilha que a gente está desenvolvendo vai ajudar exatamente nessas escolhas aqui.: Então pronto, o estudo de habilidade financeira é instrumento para o arquitetônico não se perder no custo. Eu acho que é elemento para se adicionar que vale muito a pena.: E qual é o custo desse estudo? 0,5% a 1% do custo da obra.
-
-E pode ser a diferença entre a sua obra ser executada ou não.: A gente fala mais dele em profundidade em outras aulas.: Mas aí eu falo, o estudo de viabilidade financeira, a pessoa recebe orçamento, nossa, 3 mil reais só pelo estudo de viabilidade financeira? A primeira coisa que a pessoa faz é pular fora, pra ela não ver valor nesse estudo.
-
-Mas gente, o trabalho intelectual, ele demanda tempo, ele demanda.: É, aqui nesse estudo de viabilidade financeira tem que levantar os fornecedores e o preço com os fornecedores, então você vai sair de preços de estimativas, de tabelas e bancos de dados que se tem em instituições. Em vez de estar em banco de dados, você vai ver o que é que você tem na sua cidade mesmo. Aí na sua região, ele liga para as lojas e para as fábricas e vê quanto é que vai sair o seu material mesmo.: Inclusive a gente tem módulo aqui, nesse curso de Casas de Baixo Custo Sustentável, que é só sobre orçamento.
-
-É o EVF até. Da estimativa inicial até o orçamento executivo. Então a gente apresenta o nosso EVF na prática dessa primeira casa aqui. Então se você quiser se aprofundar mais nessa parte de orçamento, você já tem aula sobre isso. Também tem aula sobre orçamento básico, nessa aula que eu expliquei, ele é mais opcional, esse orçamento, ele é como se fosse orçamento intermediário, certo? Quando a gente fechou o projeto básico, vai apresentar pra prefeitura, a gente já pode ter orçamento básico pra começar a fazer nossas compras.: Esse aqui em particular eu acho que é pedido demais.
-
-Só pedir pra fazer IVF já é.: E outra coisa, a gente tem os custos deles aí por metro quadrado, mas se você já tem IVF, você pode entrar com esse IVF pro orçamento básico, e aí ele diminui, dá o desconto, digamos assim. Por exemplo, se o orçamento executivo é de 10 a 25 reais, mas você já tem orçamento básico, ele pode fazer o desconto do orçamento executivo, porque parte do trabalho já tá feito.
-
-Esse valor aí seria pra fazer do zero o orçamento, se você não t.: E o orçamento executivo é o que se faz, é o que o pessoal faz, é o seguinte, você já acabou todo o projeto arquitetônico, você tá com o arquitetônico executivo, você chega pro engenheiro e pede pra ele, olha, em quanto é que você faz esse projeto aqui, em quanto é que você executa, ele vai lhe dar orçamento executivo. Muitas vezes é até de graça o seu orçamento executivo.: Pra ganhar obra, o engenheiro não cobra esse orçamento.
-
-Mas assim, é perigo altíssimo você fazer o projeto e tentar orçamento executivo de graça, porque imagina, seu orçamento executivo no final ficou muito acima, como o Fernando falou várias vezes aqui, do que você podia pagar. Por mais que você tenha orçamento executivo grátis, você não tem projeto executável.: Esse orçamento também, quando você recebe ele gratuito, ele não é tão.: Ele é digno.: Não, ele não deixa os detalhes abertos de forma a você poder fazer modificações simples. Ele indica o que vai ser executado e os valores do que vai ser executado.
-
-Em vez de ficar, de uma forma assim, no estudo de viabilidade financeira, a ideia dele é você conseguir fazer alterações nele. Então, tem outros tipos de dados nele. Mas é isso. O projeto executivo é o que o pessoal faz. Então, o que está incluído em cada serviço? Tem no estudo de viabilidade financeira as análises de custos e a viabilidade econômica do projeto, se cabe no seu bolso. Onde a identificação de lucros e retornos sobre o investimento. E essa identificação de retorno sobre investimento é quando você vai vender, você vai alugar.
-
-Então a ideia é ter, tomar decisões.: Mas depois assim, quero fazer prédio de kitnet com seis kitnets. Quanto é que vai sair esse prédio com seis kitnets? No estudo de viabilidade financeira você já sabe quanto é que ele vai ser pra construir. E o retorno sobre investimento é de, eu consigo alugar cada kitnet dessa mensalmente por mil reais, então eu vou ter retorno desse valor que eu vou construir em tantos meses, entendeu? Então você já escolhe, vale a pena construir as kitnets ou não vale a pena construir as kitnets? Airbnb, ponto comercial?: É, é o que a gente falou.
-
-A gente também falou porque investindo nesse serviço. A ideia não é você pagar negócio que você, eu tô comprando negócio, tô comprando tênis. Você está buscando se planejar mais para reduzir o seu custo? Se você não vai conseguir averiguar essas coisas todas, você precisa se planejar mais, abrir mais tempo para o seu projeto, algo do tipo.: É importante algumas observações gerais. Pacotes combinados, que são escritórios que já fazem todos os projetos. Estrutural, elétrico, hidráulico, interiores, arquitetônicos. Prefira eles, porque geralmente sai mais barato e sai mais compatibilizado.
-
-Com complexidade de personalização. Quanto mais detalhamento, mais solução customizável, mais custa o projeto. Eu quero na minha casa uma piscina natural, deck, uma garagem, rooftop para subir com escada para poder visualizar todo o. Ou, sei lá, o mundo. Enfim, cada coisa que você vai adicionando. Energia solar, boiler, vai aumentando a complexidade, triturador de lixo, orgânico, enfim, não tem limites. Vai ficando mais caro o projeto.
-
-Localização geográfica também, porque a gente sabe que projeto no Sul é muito mais caro do que projeto aqui nordeste, então leve isso também em consideração, mas em compensação vocês recebem mais também no mundial. Então, fica uma coisa pela outra, galera.: E sempre busque vários orçamentos, por favor, vários, antes de contratar. Que isso aqui também é ponto-chave. Acabou? Não. Vamos chorar mais pouco aqui rapidamente no final, que além dos custos de projetos, a gente tem taxas e outros custos que podem aparecer. Alvará, uma licença especial.
-
-O alvará não é tão caro, ele fica aí entre 300 a 3 mil reais. Anotação despachante. O despachante é cara que você paga pra poder levar os projetos pra prefeitura e outros órgãos. Ele é opcional, você pode você mesmo levar lá, mas é serviço cobrado à parte normalmente. Aqui inclusive a gente pagou mil e poucos reais despachante. Taxa de abitse, que é o certificado de conclusão da obra, e ART, anotação de responsabilidade técnica, que é a parte mais em conta, que geralmente já está até embutida no preço do projeto.: A gente tem ART de projeto e de execução, tá bom, gente?
-
-E aí a gente tem o ITBI, que é pra caso você vá comprar o terreno de alguém ou vá vender o seu imóvel concluído ou vai vender terreno. Isso acontece na transmissão de bens. Mas como muita gente vai comprar o terreno, é importante a gente falar dessa parte também que tem, que não é só o custo do terreno, vai ter o custo também do imposto sobre a compra do terreno. Acabou, os custos. Então, total. Quanto é que ficou essa brincadeira, Amanda?
-
-Na próxima aula, a gente vai mostrar uma planilha linda que o nosso querido engenheiro preparou aqui pra gente, Olá, sejam bem-vindos a mais uma aula aqui do nosso Modo de Projetos.: E hoje a gente vai estar falando sobre construir uma casa sem investir em projeto ou investir no mínimo possível. Será que é possível a gente construir uma casa sem investir em projeto? De cara, o engenheiro falando isso. Parece algo muito errado. Mas vamos entender o que isso quer dizer. O que essa frase quer dizer. Passa pra frente. Como a gente tem falado desde o início.
-
-A questão do dinheiro é uma limitação criativa. Então, se você tem poucos recursos financeiros e não quer investir num projeto, você vai ter que abrir mão da criatividade do layout personalizado que você teria se você pudesse investir num projeto pra atender especialmente as suas necessidades. Por quê?: Existem métodos construtivos que quando você opta por eles, que são casas pré-fabricadas e pré-moldadas, elas já têm o projeto meio que embutido ali naquele valor que você tá comprando na casa. Por quê?
-
-Porque quando uma casa é feita numa fábrica, a fábrica, ela pega aquele mesmo projeto que ela fez o investimento uma vez, digamos que ela investiu 10 mil reais pra fazer aquele projeto. E ela faz 100 casas com aquele mesmo projeto, o preço sai tão diluído que é praticamente como se a empresa não repassasse pra você o custo do projeto. E as empresas pré-fabricadas e pré-moldadas também, elas buscam sempre o melhor custo-benefício. Essa é a ideia da fábrica. Repetir processos de forma que eles baixem os custos pra ficar competitivo no mercado. E realmente funciona.: Funciona.
-
-Praticamente zera, o custo marginal é zero, no infinito, se eles fizerem infinitas casas dessas, o custo do projeto foi zero, porque foi diluído por todas as casas.: Exemplo desses são galpões. A gente trabalhava numa fábrica de pré-moldados de galpões e a gente já tinha projetos prontos de galpões, então o cliente que chegava pra gente, ele não precisava investir em projeto. Ele te dizia.: E a gente já.: Tinha todo aquele dimensionamento, então isso economiza muito para o cliente.
-
-E aí em casa pré-fabricada e pré-moldada a gente tem diversos materiais, tem de madeira, de concreto, wood frame, steel frame, container.: É, a mais em conta costuma ser madeira. A de concreto também, mas a de madeira traz mais isolamento térmico.: Os projetos gratuitos, a gente tem também projetos que as próprias prefeituras disponibilizam pra você e algumas empresas também, como por exemplo a Caixa Econômica, o SEBRAE, algumas empresas elas disponibilizam projetos gratuitos.
-
-Tem aqui na biblioteca do acervo cinco projetos gratuitos, já lá de casas de dois quartos, três quartos, quatro quartos, são projetos de habitação de interesse social, então são casas pequenas, você não vai encontrar lá projeto gratuito de uma casa de quatro quartos com ofurô, academia, sala de yoga, por favor, né gente.: A gente tá falando aqui de interesse social, realmente.: A gente tem aqui no acervo já esses projetos baixados pra você dar uma olhada, tá lá na parte de biblioteca de arquivos.
-
-Qualquer dúvida, você pode pesquisar aqui na lupinha do acervo, ou você pode assistir as aulas de introdução que a gente mostra, ou, no último caso, acionar o nosso suporte que vai te ajudar a encontrar.: Tem alunos em todas as situações, tem alunos que estão em situações que exatamente o que eles precisam é saber que na prefeitura disponibiliza projeto, ou saber que tem projeto pra baixar na Caixa Econômica Federal. Ou que tem casa pré-fabricada, existem casas pré-fabricadas. A última coisa que eu queria era personalizar minha casa, só preciso me mudar.
-
-A gente teve muitos alunos que se beneficiaram bastante disso aqui, muito bom saber.: No início a gente também disponibilizou o projeto da nossa casa de Parnaíba, da nossa casa atual aqui também que a gente tá. E de outros projetos que a gente fez, então tá tudo na nossa biblioteca de projetos. Aqui também são todos 100% editáveis pra você poder adaptar junto com o seu arquiteto e engenheiro a sua situação.
-
-Então a gente tá tentando ao máximo viabilizar o projeto pra vocês de forma gratuita.: Outra dica que eu dou é o seguinte, por exemplo, se vocês virem alguma casa que eu apresento lá no Instagram, no YouTube e gostaram do projeto daquela casa, entra em contato com o arquiteto ou engenheiro que fez e pergunta pra ele se eles não vendem pra você o projeto, como por exemplo a casa do Francisco, que é arquiteto, ele vende o projeto da casa, ele construiu ela por 110 mil reais, são 2 quartos, 80 metros quadrados, se não me engano, no total, atende muito bem a maioria das famílias e ele vende esse projeto a preço mais acessível, claro, do que se você fosse comprar projeto do zero personalizado.: E ele adiciona personalizações.
-
-Eu quero exatamente esses com quarto a mais, aí tem tudo, a que manda é o seu bolso, é a sua. Capacidade. Mas é isso, realmente. Tem cabanas também, cabanas a frame, projetos se repetem demais. Então, como é que eu encontro uma fábrica que faz pré-fabricados? A gente viu muito numa viagem no sul que a gente fez.
-
-Mas é só pesquisar casa pré-fabricada, você pode botar o material que você está procurando, pode botar região, sei lá, em Goiás, em Bahia.: Mas o legal é que os kits prontos, eles são muito compactos, eles conseguem enviar pra maior parte do Brasil, porque vem a casa inteira em ou dois caminhões. E pra Juliana, a gente tem uma aluna que ela gastou 100 mil reais pra construir uma casa de dois quartos, 100 metros quadrados a casa, já com custos indiretos de projeto, de movimentação de terra inclusa, porque ela optou por método de casa pré-fabricada desse.
-
-Então, quando chegou na É, as porras.: É uma possibilidade excelente, assim. Recém-casados que estão morando na casa dos pais, é uma felicidade tremenda. É melhor se mudar logo.: E outra coisa, quando você compra kit desse pequeno, nada lhe impede de uma vez que você esteja morando naquele estúdio, você ampliar. Manda sair do aluguel. Pronto, agora junta dinheiro. Faz agora projeto personalizado para o resto do terreno, o que você queria fazer. E integra essa parte inicial que você fez com o resto do terreno. Quem fez isso foi aquele cara dos investimentos.
-
-Me faltou o nome dele agora, mas ele começou com uma casa pré-fabricada de madeira. Depois fez a expansão em outro método. Sem Pratas. Sem Pratas. Acho que é o nome dele, canal Sem Pratas. Tem lá nosso canal do YouTube conversando com ele.: Então tem vários sites com preços muito atrativos.: Por exemplo aqui, esse site. Eu falei sites aleatórios da internet, tá gente? Eu não.: É, não tá indicando nenhum específico.: Por favor, mas por exemplo aqui, como é que funcionam esses sites.
-
-A gente pode abrir esse daí?: Não.: Eles são clicáveis.: São clicáveis?: Ó, aqui a gente tem por R$12.744 uma casa pré-moldada com placas de 3cm, 43m². Como eu disse, uma casa pequena, mas é interessante pra quem vai num primeiro momento, se mudar e depois quer expandir a casa, nada impede você de fazer isso. Só que vocês, ao comprar essas casas prontas. Essa aula não é sobre fabricar casa pré-moldada, a gente tem outra aula sobre isso. Mas só pra mostrar pra vocês que ao comprar essas casas prontas, é importante vocês verem o que está incluso, tá bom, gente? Não vem incluso a casa inteira.
-
-Falta elétrica, normalmente, hidráulica Eles vendem meio que o esqueleto, a estrutura, a vedação. Normalmente faltam portas, faltam janelas. Por isso que fica 12 mil reais uma casa dessa.: Não é que a casa inteira vai ficar pronta por 12 mil, mas 12 mil você já economiza boa parte do projeto, já tem a parte da estrutura da casa pronta, e aí pode cobrir, botar janelas e se mudar. Então a gente tá buscando aqui viabilizar ao menor custo possível.
-
-Então sempre dê uma lida quando você tá navegando por esses sites, o que está incluso no kit.: Certo.: E se quiser saber mais sobre kits bronze, a gente tem uma aula sobre pré-fabricados, pré-moldados. A gente fala de light wall, wood frame, light steel frame, pré-fabricado de madeira, de concreto, que são essas casas que já vêm prontas só no ponto de montar. E aí a gente. Boa parte delas também são financiáveis, gente? E aí a gente tem projetos gratuitos, por exemplo, de tijolo ecológico. Aqui a gente tem da Pipa Casa, que eles disponibilizaram.
-
-Eu deixei o link aí na descrição aqui dessa aula. Por quê? Porque realmente foi disponibilizado por eles. Muito obrigada, Pipa Casa. No site deles, esse site aí. Você entra, coloca seus dados, coloca seus e-mails, cadastrando na lista deles. E eles enviam pra você não só esse projeto, como o orçamento desse projeto, o. Como é o nome daquilo, meu Deus do céu?: É.: Abre aqui rapidinho o link deles. Eu abri aqui pra vocês. Aquele link do Drive. Que é bem legal, porque além do projeto pronto, o projeto. Tá no Whatsapp. Além do projeto modelo que a gente tem, eles têm também.
-
-Não só os quantitativos da casa, como tem outros comparativos também bem legais pra gente explorar pra vocês. Lembrando que esse material não é nosso, gente? Ele foi disponibilizado pelo Pipa Casa quando eu me cadastrei nesse site. Então, por favor, no lugar de clicar no link diretamente aqui embaixo que eu peguei, se cadastra na lista deles. É. Eu acho que é o mínimo que a gente pode fazer pra pessoal.: Eu estou disponibilizando o link para se cadastrar.: Pronto, então vai deixar só o link para se cadastrar, vocês vão até acessar essa pasta aqui que eles mandam para quem se cadastra.
-
-E aí tem orçamento de muro, tem passaporte de construção em PDF, tem os manuais de especificação e lá em cima o projeto pronto, projeto modelo, 69 metros quadrados. Então tem o elétrico, tem o hidráulico, tem o orçamento, eu cliquei no orçamento. Lembrando que você tem que atualizar esse orçamento para a sua região junto com o seu engenheiro, mas você pode aproveitar todos os quantitativos. Modificando. Aí eles vendem essa parte aí também, clica ali. Tem a composição dos preços e eles vendem.
-
-A parte, se você quiser, editável desse projeto.: Digamos que esse projeto não é editável, mas se você gostou e quer modificar algumas coisinhas, você pode estar comprando com eles, custa R$260,00 nessa data atual, o modelo InRevit editável. E você encontra a venda lá no site deles. Passo pra frente.
-
-Aí a gente tem projetos gratuitos, aqui saiu só errado o nome em cima ali, do site, que na verdade não é do Pipa Casa, esses aqui são da Caixa Econômica.: Caixa Econômica Federal.: E mais uma alternativa, além desses projetos de graça que vocês viram, que ou está o projeto embutido no preço do kit que você vai comprar pronto, ou é projeto pronto aqui que a gente disponibilizou do acervo, ou é projeto pronto de outras instituições como o Pipa Casa, a parte econômica, você ainda pode comprar projetos prontos a preço bem econômico, não são de graça esse, mas comparado a projeto que a gente já mostrou pra vocês, o preço fica na faixa de milhares de reais, projeto personalizado, é projeto bem mais econômico, pelo menos aí você economiza de 10 a 20 vezes o valor.
-
-Normalmente, nesses projetos prontos, você vai ter uma. Tem uma infinidade de sites na internet, é só botar projeto pronto..Que.: Oferecem de formas diferentes, com elétrico, hidráulico, com estrutural, sem isso, só arquitetônico, com arquitetônico, com possibilidade de adicionar itens, de você fazer alterações, personalizações, aí fica mais caro, né. Então tem de todos os sabores na internet.: Aí o trabalho aqui é o que? Juntar arquiteto e engenheiro, escolher o projeto que melhor se adequa ao seu terreno, às suas necessidades e adaptar esse projeto para o seu terreno.
-
-Implementar ele da melhor forma no seu terreno. Isso vai economizar, claro, muito ainda tempo de arquitetura, mas ainda vai demandar também investimento extra. Nesses próprios sites, normalmente, o pessoal que vende essas plantas também já faz esse processo de implementação no lote, que é necessário até pra provar na prefeitura. Então você pode já comprar esse projeto pronto e ver se eles têm lá embaixo a opção deles implementarem no seu lote. Ou fazer isso com arquiteto local.: Vários sites, só projetos.com.br.: O que eu buscaria nesses projetos, gente? Que você goste da estética.
-
-E que o método que você vai escolher case com o layout do projeto. Porque, assim, você comprando esse projeto, você vê projeto de arquitetura, aí eu quero construir esse projeto em alvenaria estrutural. Por mais que você tenha o projeto de arquitetura, você vai ter que investir ainda em projeto de compatibilização com a alvenaria estrutural, que é o quê? No caso, você não compra o projeto de estrutura, estrutural convencional, e aí você pede para arquiteto, engenheiro da sociedade fazer a modulação.: É, engenheiro estrutural faz a modulação e já faz o cálculo.: Exatamente.
-
-Então, meio que você compra o pacote de arquitetura, mas não compra o de. Pode até comprar o elétrico e hidráulico, mas não compra o de estruturas.: Modulação, lembrando, modulação é desenhar o tijolinho a tijolinho. No módulo, o módulo do tijolinho se repete. Quantos tijolinhos vai se repetir nessa parede? Pode ser o tijolo ecológico, pode ser o de bosta concreta, o bloco cerâmico. Todos eles vão precisar ser adaptados. Aí o projeto arquitetônico vai se mexer pouco pra se adaptar ao módulo do bloco que você tá escolhendo.
-
-E arquitetos fazem essa modulação às vezes e o cálculo estrutural só faz o cálculo pra ver se fica de pé. Enquanto que também tem outras vezes que não. O arquiteto não olha muito pra essa parte e deixa pro engenheiro estrutural. Isso é uma questão de contrato, é uma questão de mercado. Os dois têm total competência pra fazer a parte de modulação. Aí já que você já vai ter o projeto, você faz a modulação com a pessoa que vai fazer o cálculo estrutural.: E aí você tem a agilidade, e você vai ter uma grande variedade. Porque o que não falta na internet é o projeto à venda.
-
-Mas sempre necessário estudar a implementação, como eu sempre digo e repito, no lote, tá bom?
-
-Você vai já estar economizando em projetos, você tem que pagar pelo menos uma consultoria de profissional da área, não só pra implementar no lote, mas também pra ele ter a responsabilidade técnica sobre o projeto.: É, tem que saber bem as perguntas.: Muito arquiteto não vai querer assinar projeto de terceiro, mas muito arquiteto também não vai ter problema nenhum, vai dar uma olhada no projeto, vai ver que é projeto simples de arquitetura, tá tudo ok e pronto, passa pra frente.: Ele vai verificar acessos, vai verificar iluminação, Então tem que verificar bem se esses projetos se encaixam.
-
-As medidas. Se as medidas são totalmente aprovadas pela prefeitura, pelas regras que a prefeitura tem. Entra no que é a implementação.: A própria prefeitura também já tem projetos pré-aprovados lá, que é só você pegar o projeto e construir igual, que são gratuitos pela própria prefeitura. Adapta ao clima e ao terreno. Às vezes você tem que espelhar uma planta, às vezes tem que rotacionar uma planta, inclinar uma planta. E aí você faz esses pequenos ajustes.: A planta no caso é a casa, não são umas árvores.: Não é planta.: Aí nos próprios sites tem muita abertura para personalização.
-
-Tem uma coisa que a Amanda queria falar, que é sobre esses blocos de tijolos ecológicos aqui, que dá pra conseguir lá no site da Pipa Casa.: Entra aí o link pra clicar, custa só 70 reais esse daí. Esse daí não é o do Pipa Casa.: É de outro.: Mas tem muita gente que já manda, eu criei o bloco do tijolo ecológico.
-
-Não só tem esse bloco nosso projeto dessa casa atual em Revit, lá na nossa biblioteca, então você pode pegar esse bloco desse projeto, copiar e jogar no seu novo projeto, como você pode também comprar uma família de blocos se você quiser.: O nome lá da aula é Casa R 200m².: Isso, que você vai encontrar esse projeto. Ou você pode comprar também, por exemplo, template já completo de tijolo ecológico do Pipa Casa. Isso aqui é pra quem, arquitetos, engenheiros, queiram aprender a projetar passo a passo com tijolo ecológico.
-
-Se você achou que as aulas que a gente mostrou lá de tijolo ecológico não foram completas o suficiente sobre Cursos completos sobre como fazer o projeto com tijolo ecológico também. E deles é aqui do Clip Casa, o Template. Como eles fizeram já o favor de nos disponibilizar tanta coisa, eu trouxe aqui também o curso deles aí pra quem quiser. Em último caso. Em último caso.: Quando a gente tá falando de auto-construção, de botar a mão na massa, você pode querer mexer pouco em projetos também, fazer primeiros desenhos de como uma casa pode ser, primeiros sons e tal.
-
-Ou pode até estudar bastante e se especializar nessa parte. Então a gente sempre se baseia nos desenhos e nas ideias do Manual do Arquiteto Descalço.: São dois livros, tanto do Arquiteto Descalço como de auto-construção. Eles meio que ensinam você, bem entre aspas, a fazer uma casa do zero, certo?
-
-Então eles incluem a parte de projeto como maquetes, mas gente, isso aqui é só pra uma que você sabe que pode não ficar da forma como você gostaria no final, porque você está baseando-se numa maquete, que ainda vai dar o trabalho fazer a maquete, então você não vai fazer sem projeto, é você fazer o projeto de forma rudimentar. Então, existe isso, Amanda.
-
-Existe porque todo mundo projetou casas desde o início da humanidade sem Autocad, sem Revit, sem comprar projeto pronto, mas como eu disse, é o último caso, porque tem que ter muita experiência, expertise pra isso ver que dá certo.: Pra evitar monte de erros que aparecem se não estiverem no projeto.: É isso, bons estudos.
-
----

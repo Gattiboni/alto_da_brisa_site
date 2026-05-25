@@ -26,17 +26,66 @@ Ordem: mais recente no topo.
 
 ## Decisões Registradas
 
----
+### [2026-05-25] D015 — Conteúdo do portal: leitura ativa por módulo, não leitura linear
 
-# Inserts para DECISION_LOG.md
+**Contexto:** Os componentes D014 foram implementados e integrados às 88 aulas.
+Validação visual no browser revelou que o resultado, embora estruturalmente
+correto e tipograficamente refinado, é fundamentalmente **leitura passiva**:
+parágrafos sequenciais com poucos pontos de entrada visuais. O leitor entra na
+página, rola, lê tudo — ou abandona.
 
-Cole as 4 entradas abaixo no `DECISION_LOG.md` **no topo da lista de Decisões
-Registradas** (logo após o `## Decisões Registradas` e o primeiro `---`, antes
-da D010 atual).
+A intenção original do portal sempre foi outra: oferecer **densidade variável de
+consumo**. Pacote de 7 minutos no topo (cards, infográficos, linhas de tempo,
+comparativos visuais), com aprofundamento textual disponível por clique.
+Referência mental: experiências como NotebookLM, onde o usuário escolhe o nível
+de imersão.
 
-Ordem cronológica de cima para baixo: D014 primeiro (mais recente), D013, D012,
-D011. O DECISION_LOG está em ordem "mais recente no topo", então D014 vai mais
-acima.
+D014 entregou a fundação tipográfica e os 4 componentes universais (Callout,
+Citacao, Tabela, ProcessFlow) que permanecem válidos como elementos básicos. Mas
+o portal precisa de uma camada superior: **recursos visuais variados,
+específicos por natureza de conteúdo**, que sirvam como pontos de entrada antes
+da leitura corrida.
+
+**Alternativas consideradas:**
+
+- Implementar a camada visual avançada como sistema único de componentes "para
+  todos os módulos": cria componentes genéricos demais, casa mal com módulos de
+  naturezas distintas (M2 conceitual, M6 técnico-processual, M10 decisorial)
+- Refazer toda a base visual de uma vez: caro, arriscado, perde a Foundation que
+  já funciona
+- Reformulação módulo a módulo, com pesquisa de padrões específicos por módulo,
+  prototipagem visual em wireframe markdown antes da implementação, validação
+  iterativa
+
+**Decisão:** Reformulação módulo a módulo, documentada em
+`docs/design_system/reformulacao_modulos.md`. Cada módulo é abordado como
+projeto próprio:
+
+1. Leitura completa do conteúdo do módulo
+2. Identificação de pontos de conteúdo que pedem visualização (timeline,
+   comparativo, matriz de decisão, processo, etc)
+3. Proposta de wireframe em markdown (componentes específicos do módulo + reuso
+   dos D014 onde fizer sentido)
+4. Aprovação do Tech Lead
+5. Implementação
+6. Validação visual
+7. Padrões emergentes são extraídos para reuso em módulos seguintes
+
+**Racional:** Cada módulo tem natureza editorial diferente. Generalizar
+prematuramente produziria a mesma "leitura passiva" que D014 está entregando
+hoje. Iteração módulo a módulo permite aprender o que cada tipo de conteúdo
+pede, e extrair padrões reusáveis a posteriori, não a priori.
+
+D014 permanece válido como **camada base tipográfica e dos 4 componentes
+universais**. D015 não revoga D014 — adiciona uma camada acima dela, específica
+por módulo.
+
+**Pós-decisão:** Próximo ciclo começa pelo Módulo 1 (Introdução) como piloto.
+Resultado do piloto informa abordagem dos demais 11. Pendências de navegação
+intra-aula (botões "tópico anterior" / "próximo" / "voltar ao topo") e Claudinho
+contextual entram como itens paralelos, não bloqueantes da reformulação.
+
+**Responsável:** Alan Gattiboni **Status:** Ativa
 
 ---
 

@@ -17,956 +17,2762 @@ Você descobrirá como escolher e instalar metais, louças e cubas sem compromet
 
 ### 75. Forros
 
-*Descrição não disponível para esta aula.*
+O forro é um elemento de acabamento instalado entre o teto estrutural (laje ou estrutura do telhado) e o ambiente interno da casa. Sua função principal é criar uma superfície visualmente agradável no teto, além de contribuir para o isolamento térmico e acústico do ambiente.
+
+#### Função e Importância do Forro
+
+O forro desempenha múltiplas funções em uma construção:
+
+- **Estética:** Cria acabamento visual mais agradável do que deixar exposta a estrutura bruta (laje de concreto, madeiramento ou telhas)
+- **Isolamento:** Funciona como camada adicional de proteção térmica e acústica
+- **Ocultação:** Esconde instalações elétricas, tubulações e imperfeições estruturais
+- **Versatilidade:** Permite criar diferentes níveis de altura e efeitos de iluminação indireta
+
+#### Quando o Forro é Necessário
+
+Em construções convencionais com telha cerâmica ou de concreto — que não possuem isolamento térmico ou acústico próprio — o forro se torna praticamente obrigatório. A sequência típica inclui: telhas, ripas, caibros, linhas, tesoura, laje e, finalmente, o forro.
+
+> [!atencao]
+> Essa multiplicação de camadas (telha + estrutura de madeira + laje + forro) representa um dos pontos de maior custo em construções convencionais. Cada elemento precisa ser executado separadamente, aumentando tempo e custos de mão de obra.
+
+#### A Alternativa: Eliminação do Forro
+
+É possível eliminar o forro quando a cobertura já desempenha as funções de impermeabilização, isolamento e acabamento simultaneamente. Exemplos incluem:
+
+- Telha sanduíche (termoacústica) com face inferior decorativa
+- Telhas ecológicas ou de PVC deixadas aparentes em espaços adequados
+- Lajes secas de madeira com acabamento
+- Telhado verde sobre estrutura apropriada
+
+**Economia real:** Em uma casa de 100m², eliminar o forro pode representar economia de R$ 3.000 a R$ 13.600, dependendo do tipo de forro que seria especificado.
+
+> [!dica]
+> A economia do forro só se concretiza quando a solução de cobertura escolhida já resolve isolamento térmico, acústico e acabamento. Simplesmente remover o forro de uma telha cerâmica convencional resultará em casa quente e barulhenta.
+
+#### Tipos Principais de Forro
+
+O módulo de acabamentos abordará detalhadamente as opções de forro disponíveis no mercado, incluindo:
+
+- **Gesso convencional:** O mais utilizado no Brasil, em placas suspensas
+- **Gesso acartonado (drywall):** Mais leve e durável, resiste melhor a trincas
+- **PVC:** Econômico e resistente à umidade
+- **Madeira:** Alto padrão, mais caro e com maior necessidade de manutenção
+
+#### Elementos Complementares do Forro
+
+Alguns recursos podem ser incorporados ao forro para agregar funcionalidade e estética:
+
+- **Sanca:** Rebaixamento perimetral que permite iluminação indireta
+- **Tabica:** Espaçamento entre forro e parede que evita trincas por dilatação
+- **Cortineiro embutido:** Espaço no forro para esconder trilhos de cortina
+
+#### Forro x Laje Aparente
+
+Uma alternativa ao forro rebaixado é o **reboco de gesso** aplicado diretamente na laje. Esta solução:
+
+- Elimina o espaço entre laje e forro (reduzindo custos)
+- Exige que pontos elétricos sejam previstos durante a concretagem da laje
+- Resulta em acabamento mais econômico (cerca de R$ 17/m² vs R$ 30-65/m² de forro rebaixado)
+- Não permite alterações futuras fáceis na posição de luminárias
+
+> [!atencao]
+> O reboco de gesso não deve ser usado em áreas molhadas. Água destrói o gesso, causando manchas, fungos e deterioração acelerada.
+
+---
+
+**A escolha do tipo de forro — ou a decisão de eliminá-lo — deve considerar o sistema construtivo completo, o clima da região, o orçamento disponível e as necessidades de manutenção a longo prazo.**
 
 ### 76. Pisos
 
-*Descrição não disponível para esta aula.*
+O piso é um dos elementos de maior impacto no custo e na estética de uma construção. Representa grande área da casa e oferece diversas alternativas técnicas e estéticas, desde as mais econômicas até as mais sofisticadas.
+
+#### Piso Industrial
+
+O piso industrial é uma das opções mais econômicas disponíveis. Consiste basicamente no polimento da própria laje de concreto, eliminando camadas intermediárias.
+
+**Como funciona:**
+- Aproveita a concretagem da laje estrutural
+- Recebe polimento direto sobre o concreto
+- Pode incluir armadura de ferro para maior resistência
+- Aceita panos de até 5 metros sem trincar (com boa ferragem)
+
+O polimento pode ser executado por máquinas específicas, com custo entre R$ 12 e R$ 26 por metro quadrado. É a mesma técnica utilizada em shoppings, supermercados e estacionamentos.
+
+**Vantagens:**
+- Custo reduzido (cerca de 25% do valor de uma cerâmica tradicional)
+- Dispensa contrapiso em muitos casos
+- Durável e resistente
+- Permite pigmentação para cores variadas
+
+**Manutenção:**
+- Necessita aplicação periódica de cera (encontrada em supermercado)
+- Pode apresentar manchas se não limpo imediatamente
+- Possibilidade de trincas finas características (podem ser controladas com juntas de dilatação)
+
+> [!dica]
+> Se você já fará uma concretagem de laje, aproveite para polir e transformá-la diretamente em piso. A economia é de aproximadamente 75% comparado à cerâmica tradicional.
+
+**Juntas de dilatação:**
+- Podem ser feitas em quadriculados de até 5 metros
+- Geralmente preenchidas com azulejos hidráulicos para efeito decorativo
+- Menores e mais espaçadas que no cimento queimado
+
+#### Granilite
+
+Piso similar ao industrial, porém com fragmentos de pedra (mármore, granito, vidro ou quartzo) misturados ao concreto. Apresenta acabamento diferenciado e mais decorativo.
+
+**Características:**
+- Efeito visual com peças aparentes de diferentes tamanhos
+- Versões com agregados grandes são mais caras
+- Versões minimalistas (agregados pequenos) são mais comuns e econômicas
+- Pode utilizar cimento branco estrutural para base mais clara
+
+#### Cimento Queimado
+
+Técnica tradicional que voltou à moda com o estilo industrial. Apesar da popularidade, apresenta desafios técnicos importantes.
+
+**Composição:**
+- Argamassa tipo "farofa" (com mínima água)
+- Espessura de 3 a 5 centímetros
+- Não leva brita na composição
+- Não utiliza armadura
+
+**Aplicação:**
+- Massa muito seca aplicada sobre contrapiso
+- Cimento salpicado por cima
+- Alisamento com desempenadeira
+- Acabamento artesanal (apresenta ondulações e espatuladas)
+
+**Limitações importantes:**
+
+> [!atencao]
+> O cimento queimado é extremamente sensível à qualidade da mão de obra. Uma argamassa muito úmida compromete completamente a resistência final.
+
+- Necessita mão de obra muito especializada
+- Difícil encontrar profissionais capacitados
+- Juntas de dilatação a cada 1-2 metros (no máximo)
+- Trinca e desplaca mais facilmente que o industrial
+- Remendar é muito complicado
+- Apresenta manchas e irregularidades naturais
+
+**Para juntas:**
+- Comum utilizar azulejos hidráulicos como divisores
+- Combinação estética tradicional
+
+> [!dica]
+> Antes de contratar, veja trabalhos anteriores do profissional. Visite ambientes que ele executou e verifique a qualidade anos depois da aplicação.
+
+#### Ladrilho Hidráulico
+
+Revestimento artesanal tradicional, de origem portuguesa, que retornou à moda nos últimos anos.
+
+**Características:**
+- Cada peça é única e pigmentada separadamente
+- Processo artesanal (cada peça tem forno próprio)
+- Variações naturais de tonalidade entre peças
+- Disponível em diversos estilos e desenhos
+
+**Aplicação:**
+- Pode encontrar-se diretamente com outros pisos
+- Elimina necessidade de soleira quando bem executado
+- Importante: nivelar contrapisos para espessuras diferentes
+
+> [!exemplo]
+> No encontro de ladrilho hidráulico com outro piso, pode-se fazer recortes entrelaçados em vez de usar soleira. Isso elimina a perda de material em cortes e dispensa a compra e instalação de pedra adicional.
+
+**Custo:**
+- Valorização significativa nos últimos anos
+- Indicado para uso pontual (detalhes, divisões de ambiente)
+- Pode ser imitado por cerâmicas industriais
+
+#### Piso Vinílico
+
+Revestimento de PVC autoadesivo, semelhante a papel de parede para o chão.
+
+**Instalação:**
+- Remove-se película protetora e cola-se no piso
+- **Exige piso extremamente nivelado**
+- Necessita produto nivelador específico sobre contrapiso rugoso
+
+**Custo real:**
+O piso em si é barato (R$ 20 a R$ 40/m²), mas o nivelamento pode custar R$ 73/m². Isso torna o vinílico caro quando aplicado sobre contrapiso.
+
+**Quando usar:**
+- Reformas (aplicar sobre piso existente)
+- Sobre piso industrial (que já está nivelado)
+
+**Vantagens:**
+- Fácil instalação
+- Sensação menos fria ao toque
+- Conforto térmico em regiões frias
+- Variedade de estilos (imita madeira, cimento queimado, cores sólidas)
+
+**Restrições:**
+
+> [!atencao]
+> Não utilizar em banheiros, varandas ou áreas externas. A umidade compromete a cola e causa descolamento.
+
+- Móveis com pés pontiagudos podem danificar
+- Arrastar móveis pode marcar
+- Apenas para áreas secas
+
+#### Piso Laminado
+
+Réguas rígidas de madeira conglomerada (não maciça) com acabamento decorativo superior.
+
+**Tipos de instalação:**
+
+**Laminado de clique:**
+- Mais caro
+- Peças encaixam com sistema macho-fêmea
+- **Pode ser desmontado e reutilizado**
+- Ideal para ambientes alugados ou temporários
+
+**Laminado colado:**
+- Mais econômico
+- Instalação permanente
+
+**Vantagens sobre o vinílico:**
+- Não exige nivelamento tão rigoroso
+- Utiliza manta embaixo (não cara)
+- Pode ser aplicado direto sobre contrapiso
+- Manta ajuda no conforto acústico
+
+**Características:**
+- Imita madeira convincentemente
+- Mais quente que cerâmica
+- Fácil instalação (pode fazer você mesmo)
+- Variedade de estilos e texturas
+
+**Limitações:**
+- Não resiste a sol direto
+- Não pode ser usado em áreas molhadas
+- Não usar em varandas ou banheiros
+- Menos durável que porcelanato
+
+> [!dica]
+> Você pode instalar mantas acústicas extras além da manta obrigatória para melhorar isolamento térmico e acústico.
+
+#### Pedra Natural
+
+Pedras naturais são porosas e absorvem água, característica que pode ser vantajosa.
+
+**Aplicações ideais:**
+- Áreas de piscina (não forma poças)
+- Banheiros
+- Jardins de inverno
+
+**Exemplos regionais:**
+- Pedra castelo (comum no Nordeste): a partir de R$ 14/m²
+- Ardósia (pedra preta)
+- Seixo com cimento
+
+**Vantagens:**
+- Custo muito acessível em regiões com disponibilidade local
+- Material natural e sustentável
+- Antiderrapante quando molhada
+- Agrega valor estético rústico
+
+> [!exemplo]
+> Em jardim de inverno sob escada: elimina necessidade de contrapiso (economia de concretagem), permite drenagem natural, necessita apenas manta bidim para separação e pedras ornamentais.
+
+**Versatilidade:**
+- Pode ser usada em paredes como revestimento
+- Detalhes decorativos (atrás de TV, escadas)
+- Construção de paredes estruturais em algumas aplicações
+
+#### Madeira
+
+A madeira maciça pode ser aplicada de duas formas principais no piso:
+
+**Réguas (assoalho):**
+- Peças compridas e finas
+- Sistema de encaixe macho-fêmea
+
+**Tacos:**
+- Peças menores e mais largas
+- Formato mais quadrado
+
+**Preço:**
+- R$ 150 a R$ 180/m² (região de referência)
+- Varia muito conforme disponibilidade local
+
+**Manutenção:**
+- Material natural reage com ambiente
+- Sensível a água, fogo, produtos químicos
+- Necessita manutenção periódica
+- Pode ser revitalizado (raspagem e calafetação)
+
+> [!dica]
+> Em reformas, se encontrar piso de taquinho antigo, considere revitalizar em vez de substituir. O custo da revitalização é muito menor que instalação de novo piso.
+
+**Vantagens:**
+- Estética atemporal
+- Valor agregado significativo
+- Sensação de aconchego
+- Piso "quente" (bom para climas frios)
+- Auxilia inércia térmica
+
+#### Granito e Mármore
+
+**Granito:**
+- Pedra natural de baixa porosidade
+- Não mancha facilmente
+- Muito durável (gerações)
+- Resistente e robusto
+
+**Preços variáveis por região:**
+- Verde batuba: R$ 300/m² (exemplo regional)
+- Preto São Gabriel: próximo a R$ 1.000/m² (mesma região)
+- Bege paonda: acessível
+- Predação gabriel: 4x mais caro que verde batuba
+
+> [!dica]
+> Pesquise os granitos disponíveis na sua região. Granitos locais têm preços muito melhores que os importados ou de outras regiões.
+
+**Mármore:**
+- Menos resistente que granito
+- **Mais poroso** - mancha com facilidade
+- Mais bonito (desenhos mais elaborados)
+- Mais caro
+
+**Cores populares:**
+- Branco Carrara
+- Branco Piguet
+- Breque
+
+> [!atencao]
+> Mármore perde brilho com produtos de limpeza pesados, mancha com ácidos (limão, vinho) e requer cuidados constantes. Considere porcelanato que imita mármore como alternativa mais prática.
+
+#### Porcelanato
+
+Material cerâmico de alta qualidade, entre as opções mais caras mas muito versáteis.
+
+**Preço de referência:** R$ 90 a R$ 100/m² (tabela SINAPI), mas pode ser encontrado a R$ 39/m² comprando direto de fábrica.
+
+**Tipos de acabamento:**
+
+**Polido:**
+- Maior brilho
+- Obtido por polimento da peça
+- Aspecto mais sofisticado
+
+**Esmaltado:**
+- Brilho médio
+- Esmalte aplicado sobre a peça
+- Boa resistência
+
+**Acetinado:**
+- Brilho mais fraco
+- Textura aveludada
+- Imita cimento queimado
+- Bom para estilo industrial
+
+**Aplicação:**
+- Necessita contrapiso nivelado
+- Requer argamassa colante
+- Necessita niveladores durante instalação
+- Rejunte entre peças (exceto retificado)
+
+**Perda estimada:** 5% para peças comuns, 10% para peças maiores que 1 metro.
+
+#### Porcelanato Líquido e Resina Epóxi
+
+Acabamento de resina aplicada sobre o piso, criando superfície vítrea e brilhante.
+
+**Composição:**
+- Resina epóxi
+- Endurecedor
+- Mistura aplicada líquida
+
+**Características:**
+- Brilho espetacular (efeito vidro líquido)
+- Monolítico (sem divisões)
+- Possibilita efeitos decorativos (adesivos por baixo, cores, golfinhos...)
+- Pode ser transparente ou pigmentado
+
+**Camadas necessárias:**
+1. Contrapiso nivelado
+2. Nivelador específico
+3. Primer (evita que resina seja absorvida)
+4. Resina epóxi
+
+**Custo:** Competitivo com granito e mármore, surpreendentemente acessível para o resultado obtido.
+
+**Aplicação:** Alto custo de mão de obra especializada, mas resultado único.
+
+#### Comparação de Custos por Camadas
+
+As diferentes soluções de piso têm custos que dependem muito da quantidade de camadas necessárias:
+
+**Piso industrial:**
+- Laje concretada
+- Polimento (R$ 26,60/m²)
+- **Economia: ~75% em relação à cerâmica**
+
+**Cerâmica tradicional:**
+- Laje
+- Contrapiso de regularização
+- Argamassa colante
+- Cerâmica
+- Rejunte
+- **Custo total: R$ 98/m²**
+
+**Porcelanato:**
+- Mesma base da cerâmica
+- Material mais caro
+- Resultado mais sofisticado
+
+**Piso vinílico (sobre contrapiso):**
+- Contrapiso
+- Auto-nivelante (R$ 73/m²)
+- Piso vinílico (R$ 20-40/m²)
+- **Caro pela preparação**
+
+**Piso vinílico (sobre outro piso):**
+- Apenas o vinílico
+- **Muito econômico para reformas**
+
+#### Opções Especiais
+
+**Tijolinho maciço:**
+- Colocado diretamente sobre base nivelada
+- Areia por cima para intertravamento
+- Excelente para áreas externas
+- Permeável
+- Muito econômico
+
+**Carpete:**
+- Indicado para regiões frias
+- Aplicado sobre contrapiso
+- Conforto térmico
+
+**Soleiras:**
+- R$ 92 por porta (80cm)
+- **Podem ser eliminadas** quando os pisos se encontram no mesmo nível
+- Economia de R$ 500 a R$ 1.000 por residência
+
+---
+
+**Escolha do piso ideal:**
+
+A decisão deve considerar:
+- Orçamento disponível
+- Área de aplicação (interna/externa, seca/molhada)
+- Estilo desejado
+- Disponibilidade de mão de obra especializada
+- Capacidade de fazer você mesmo
+- Necessidade de manutenção futura
+
+> [!dica]
+> Para áreas grandes, uma diferença de R$ 50/m² pode significar economia de milhares de reais. Faça as contas considerando toda a área da casa antes de decidir.
 
 ### 77. Pisos 2
 
-*Descrição não disponível para esta aula.*
+O piso de granilite é construído com fragmentos de pedras como mármore, granito, vidro ou quartzo misturados ao concreto, resultando em acabamento diferenciado. Existem duas variações principais: uma com agregados grandes e visíveis, que exige maior quantidade de materiais nobres e ligante mais claro (geralmente cimento branco estrutural), saindo mais cara; e outra versão mais econômica e comum, com agregados menores e distribuição mais uniforme.
+
+#### Cimento Queimado
+
+O cimento queimado ressurgiu como tendência após anos sendo associado a construções mais simples. Voltou à moda com o estilo industrial, mas mantém os mesmos desafios técnicos de sempre.
+
+**Características técnicas:**
+
+- A massa deve ter consistência de farofa, com mínima quantidade de água
+- Espessura de 3 a 5 centímetros
+- Não necessita armadura
+- Acabamento obtido salpicando cimento sobre a base e alisando com desempenadeira
+- Composto de argamassa (sem brita na composição)
+
+**Desafios de execução:**
+
+> [!atencao] A maior dificuldade está em encontrar mão de obra capacitada para preparar argamassa com pouquíssima água mantendo a trabalhabilidade.
+
+O acabamento final apresenta manchas naturais e irregularidades sutis por ser processo artesanal feito à mão. Essas "espatuladas" são características do material — ao observar de ângulos diferentes, percebe-se ondulações que confirmam a execução manual.
+
+**Limitações estruturais:**
+
+- Menos resistente que o piso industrial (não contém armadura)
+- Requer juntas de dilatação mais frequentes (no máximo metro entre juntas)
+- Trinca e desplaca mais facilmente
+- Reparos são extremamente complicados — não existe técnica consolidada para remendar que fique ideal
+
+**Juntas decorativas:**
+
+Azulejos hidráulicos são tradicionalmente usados nas juntas de dilatação, combinando perfeitamente com o estilo. Apesar de serem artesanais e valorizados atualmente, são caros — recomenda-se utilizá-los apenas em pontos estratégicos devido à supervalorização do mercado.
+
+**Custo-benefício:**
+
+Desde que executado por mão de obra especializada e aplicado sobre contrapiso pronto, continua sendo piso muito econômico. O desafio está justamente em localizar profissional qualificado — a melhor estratégia é visitar ambientes com cimento queimado bem executado e contratar o mesmo profissional.
+
+> [!dica] Para testar a qualidade da execução antes da contratação, molhe o piso com gasolina para verificar o nivelamento e possíveis imperfeições.
+
+#### Ladrilho Hidráulico
+
+O ladrilho hidráulico é o tipo de azulejo mais antigo, tradicionalmente artesanal. Cada peça é única, pigmentada separadamente, com queima individualizada. Esse processo artesanal encarece significativamente o produto quando usado em grande escala.
+
+**Características visuais:**
+
+- Tons variam naturalmente entre peças (cinzas diferentes, variação no branco e preto)
+- Essa variação é inerente ao processo, não intencional
+- Disponível em diversos estilos e desenhos contemporâneos
+
+**Alternativas econômicas:**
+
+Cerâmicas industriais que imitam a pintura do ladrilho hidráulico permitem obter o visual desejado com custo reduzido. Para grandes áreas, essa é a solução mais viável.
+
+**Aplicação estratégica:**
+
+Quando usado em pequenas áreas ou detalhes, pode-se investir no ladrilho hidráulico autêntico. Um exemplo interessante é a transição entre pisos: em vez de soleira de granito separando dois materiais, o ladrilho pode fazer esse encontro de forma integrada.
+
+**Encontro entre pisos diferentes:**
+
+No encontro direto entre piso de ladrilho hidráulico e outro material (como mostrado no exemplo com hexágonos), elimina-se:
+- A necessidade de soleira de granito
+- Custos de pedra extra e instalação
+- Perda por corte de peças
+
+O recorte é feito de modo que um piso "entre" no outro, aproveitando peças inteiras do ladrilho e mantendo ambos os pisos no mesmo nível.
+
+> [!atencao] Atenção ao nivelamento: se os pisos têm espessuras diferentes (X e Y), o contrapiso deve compensar essa diferença — onde o piso é mais fino, o contrapiso fica mais alto, garantindo que as superfícies finais fiquem alinhadas.
+
+**Valorização estética:**
+
+O ladrilho hidráulico é:
+- Atemporal
+- De alto valor estético agregador
+- Artesanal (cada peça com características únicas)
+- Durável
+
+Pode criar divisões visuais no ambiente sem necessidade de paredes, funcionando quase como tapete permanente que delimita espaços.
+
+#### Piso Vinílico
+
+O piso vinílico é fabricado principalmente em PVC e funciona como papel de parede para o chão — possui face adesiva que gruda diretamente na superfície.
+
+**Requisito fundamental:**
+
+> [!atencao] O piso deve estar **extremamente nivelado**. O vinílico reproduz todas as imperfeições do substrato.
+
+Diferente de cerâmica ou porcelanato, que permitem corrigir imperfeições de até um centímetro com argamassa colante, o vinílico exige base perfeitamente plana.
+
+**Preparação do contrapiso:**
+
+Quando aplicado sobre contrapiso rugoso, requer produto de nivelamento rápido (autonivelante), que custa aproximadamente 73 reais por metro quadrado. Esse é o grande problema econômico do vinílico: ele é barato como material, mas a preparação da base é cara.
+
+**Quando é vantajoso:**
+
+- Reformas (aplicação sobre piso existente liso)
+- Sobreposição em cerâmica ou porcelanato antigos
+- Áreas internas secas
+
+Nesses casos, elimina-se o custo do nivelamento, tornando-o solução econômica.
+
+**Vantagens:**
+
+- Instalação fácil (faça você mesmo)
+- Custo relativamente baixo do material
+- Conforto térmico (não gela como cerâmica)
+- Adequado para regiões frias
+- Diversos estilos: imitação de madeira, cimento queimado, cores sólidas, texturas variadas
+
+**Restrições de uso:**
+
+- **Não** utilizar em banheiros (umidade solta a cola)
+- Lavabos: apenas se houver pouca umidade
+- **Não** utilizar em varandas (chuva danifica)
+- Móveis pesados com pés pontiagudos podem marcar
+- Evitar arrastar móveis
+
+**Facilidade de manutenção:**
+
+A substituição é simples: remove-se a régua danificada e cola-se outra no lugar, sem necessidade de quebrar ou reformar toda a área.
+
+#### Piso Laminado
+
+O piso laminado é similar ao vinílico no sistema de réguas encaixáveis, mas construído com conglomerado de madeira (não madeira maciça) com película decorativa superior. Existem duas versões:
+
+**Sistema de clique:**
+
+- Réguas com encaixes macho-fêmea que "clicam"
+- Mais caro entre os laminados
+- **Vantagem única:** totalmente removível e transportável
+- Ideal para ambientes alugados (escritórios, imóveis temporários)
+- Permite desmontar e levar para outro local
+
+**Sistema colado:**
+
+- Fixado com adesivo
+- Mais econômico
+- Permanente (não pode ser removido)
+
+**Principal diferença em relação ao vinílico:**
+
+O laminado **não exige piso perfeitamente nivelado**. Utiliza manta por baixo (custo acessível, instalação simples) que acomoda pequenas irregularidades do contrapiso. Essa manta é obrigatória, não opcional.
+
+**Vantagens:**
+
+- Instalação direta sobre contrapiso (sem nivelamento caro)
+- Material de madeira (mais resistente que PVC)
+- Fácil instalação faça-você-mesmo
+- Custo acessível
+- Variedade de estilos e texturas
+- Sensação de aconchego (mais quente que cerâmica)
+
+**Restrições:**
+
+- Não resiste a sol direto
+- Não resiste à umidade
+- **Não** usar em áreas molhadas
+- **Não** usar em áreas externas
+
+**Isolamento adicional:**
+
+Além da manta obrigatória, podem-se usar mantas extras para:
+- Melhorar isolamento térmico
+- Reduzir transmissão de ruídos
+- Diminuir eco
+- Aumentar conforto acústico
+
+**Durabilidade:**
+
+Menos durável que porcelanato, mas significativamente mais barato. O custo-benefício compensa para quem busca visual de madeira sem o investimento em madeira maciça.
 
 ### 78. Pisos 3
 
-*Descrição não disponível para esta aula.*
+Nesta terceira parte sobre pisos, apresentamos os revestimentos mais sofisticados e especializados disponíveis no mercado, além de uma análise comparativa de custos para auxiliar nas suas escolhas.
+
+#### Porcelanato Líquido e Resina Epóxi
+
+O porcelanato líquido é uma aplicação de resina epóxi sobre o piso que cria um acabamento vítreo e monolítico. Apesar do nome comercial, não se trata de porcelanato, mas sim de uma resina de alta performance.
+
+**Características:**
+- Acabamento brilhoso espetacular, como vidro líquido
+- Superfície monolítica (sem divisões ou juntas)
+- Pode ser transparente para mostrar desenhos aplicados no piso
+- Permite cores sólidas ou efeitos decorativos diversos
+
+**Aplicação:**
+1. Base em contrapiso nivelado
+2. Camada de nivelador (argamassa autonivelante)
+3. Primer (sela o piso para evitar absorção)
+4. Resina epóxi (camada final)
+
+> [!atencao]
+> O nivelamento é crítico. Qualquer imperfeição do contrapiso será replicada na superfície final.
+
+**Vantagens:**
+- Qualidade estética superior
+- Durabilidade excelente
+- Facilidade de limpeza
+- Sem juntas para acumular sujeira
+
+**Desvantagens:**
+- Alto custo inicial
+- Exige mão de obra altamente especializada
+- Processo de aplicação complexo
+
+**Custo:** A partir de R$ 200,00/m² instalado (pode variar significativamente conforme região e complexidade)
+
+#### Comparação de Custos: Análise Prática
+
+Para dimensionar o impacto financeiro de cada escolha, vamos analisar cenários reais com diferentes soluções de piso.
+
+##### Exemplo: Área de 100m²
+
+**Piso Industrial:**
+- Material + polimento: R$ 26,60/m²
+- Total: R$ 2.660,00
+- **Economia:** 75% em relação à cerâmica tradicional
+
+**Cerâmica Tradicional:**
+- Contrapiso + cerâmica + aplicação: R$ 98,00/m²
+- Total: R$ 9.800,00
+
+**Porcelanato:**
+- Contrapiso + porcelanato + aplicação: R$ 131,00/m²
+- Total: R$ 13.100,00
+
+> [!exemplo]
+> Na construção mostrada no curso, 100m² de piso industrial custaram R$ 2.000 (R$ 20/m² de polimento). A mesma área em porcelanato (80m² de sala, cozinha e varandas) custou R$ 8.000 no total — sendo R$ 4.000 de material (comprado direto de fábrica) e R$ 4.000 de mão de obra.
+
+##### Jardim de Inverno: Alternativa Criativa
+
+Uma solução econômica para áreas específicas é eliminar o contrapiso tradicional:
+
+**Solução aplicada:**
+- Área permeável direta no solo
+- Base de brita ou pedra
+- Manta bidim (separação)
+- Cobertura em grama artificial
+
+**Economia:** Todo o custo de contrapiso + revestimento (aproximadamente R$ 131/m²)
+
+**Benefícios adicionais:**
+- Drenagem natural
+- Facilidade de manutenção
+- Possibilidade de criar jardim real
+- Iluminação e ventilação natural
+
+#### Granilite
+
+O granilite incorpora fragmentos decorativos (mármore, granito, vidro, quartzo) na mistura do concreto, criando um acabamento único.
+
+**Composição:**
+- Base de concreto
+- Agregados decorativos grandes
+- Ligante (pode ser cimento branco para efeito mais claro)
+
+**Dois tipos:**
+
+1. **Com agregados abundantes** (foto esquerda do material)
+   - Peças grandes e evidentes
+   - Mais caro devido à quantidade de agregados
+   - Efeito visual impactante
+   - Requer ligante claro (cimento branco estrutural)
+
+2. **Minimal** (foto direita)
+   - Agregados menores e mais espaçados
+   - Mais econômico
+   - Aplicação mais comum
+   - Pode usar cimento convencional
+
+**Aplicação:** Similar ao piso industrial, mas com a adição dos fragmentos decorativos na massa antes da aplicação.
+
+#### Tabela Comparativa de Estruturas
+
+As diferentes soluções de piso possuem camadas distintas, o que impacta diretamente no custo:
+
+| Solução | Camadas | Custo Relativo |
+|---------|---------|----------------|
+| Piso Industrial | Laje + Polimento | Mais baixo |
+| Cerâmica | Laje + Contrapiso + Argamassa + Cerâmica + Rejunte | Médio |
+| Porcelanato | Laje + Contrapiso + Argamassa + Porcelanato + Rejunte | Alto |
+| Vinílico | Contrapiso + Nivelador + Primer + Vinílico | Médio-alto |
+| Laminado | Contrapiso + Manta + Laminado | Médio |
+| Porcelanato Líquido | Contrapiso + Nivelador + Primer + Resina | Muito alto |
+
+> [!dica]
+> Quanto mais camadas, maior o custo de material e mão de obra. O piso industrial economiza por aproveitar a própria laje como acabamento final.
+
+#### Perdas e Sobras
+
+Ao orçar materiais em placas (cerâmica, porcelanato, vinílico, laminado), considere:
+
+- **5% de perda** para peças de até 1m
+- **10% de perda** para peças maiores que 1m
+
+Essa margem cobre:
+- Cortes necessários
+- Quebras durante instalação
+- Ajustes de paginação
+- Peças para reposição futura
+
+#### Manutenção e Durabilidade
+
+**Piso Industrial:**
+- Requer aplicação periódica de cera (cera comum de supermercado)
+- Pode manchar se não limpar imediatamente
+- Durabilidade superior ao cimento queimado
+- Manutenção simples e de baixo custo
+
+**Porcelanato Líquido:**
+- Praticamente livre de manutenção
+- Alta resistência a manchas e produtos químicos
+- Durabilidade excepcional
+- Limpeza facilitada pela ausência de juntas
+
+**Laminado e Vinílico:**
+- Não resistem a sol direto prolongado
+- Não devem ser usados em áreas externas
+- Vinílico: mais suscetível a marcas de móveis
+- Laminado: mais resistente que vinílico, permite manta embaixo
+
+#### Considerações Finais para Escolha
+
+A decisão sobre qual piso utilizar deve considerar:
+
+1. **Orçamento disponível:** Diferenças de até 75% entre soluções
+2. **Uso do ambiente:** Tráfego, exposição à água, necessidades específicas
+3. **Estética desejada:** Cada material oferece aparência única
+4. **Manutenção futura:** Tempo e custo de conservação
+5. **Prazo de execução:** Alguns pisos aceleram a obra
+6. **Possibilidade de faça-você-mesmo:** Alguns permitem aplicação própria
+
+> [!atencao]
+> O piso representa grande área da construção. Uma economia de R$ 10-15/m² pode resultar em milhares de reais no total da obra. Avalie cuidadosamente cada opção antes de decidir.
 
 ### 79. Parede
 
-*Descrição não disponível para esta aula.*
+O acabamento de paredes representa uma das maiores áreas de uma residência e, consequentemente, uma das maiores oportunidades de economia. Numa sala padrão de 4x3 metros, apenas as paredes internas podem somar 40 a 60 metros quadrados. Quando multiplicamos a economia por metro quadrado por toda essa área, uma decisão de trocar um acabamento por outro pode gerar economias de R$ 3.000 a R$ 5.000 em um único ambiente.
+
+#### A Árvore de Possibilidades
+
+Quando você utiliza tijolo furado (o mais comum), inevitavelmente precisará fazer regularização, pois esse tipo de tijolo não é uniforme. A parede sempre ficará com imperfeições que precisam ser corrigidas. Essa regularização tradicional passa por várias camadas: chapisco, emboço e reboco.
+
+**Importante:** Se você usar tijolo de melhor qualidade, consegue paredes mais retas. Tijolos que queimaram demais (cores muito escuras) podem ter diminuído de tamanho ou apresentar faces curvas, gerando paredes com muitas imperfeições. Além disso, as quebras necessárias para instalações tornam praticamente impossível evitar a regularização.
+
+Existem três tipos de blocos que permitem alvenaria aparente, dispensando toda a regularização:
+- Bloco cerâmico estrutural
+- Bloco de concreto estrutural  
+- Tijolo ecológico
+
+> [!dica] **Economia Estratégica**
+> Quando você opta por deixar esses blocos aparentes, economiza o custo de chapisco, emboço, reboco, selador, massa corrida e pintura. São nove camadas de mão de obra eliminadas.
+
+#### Acabamentos Tradicionais
+
+##### Pintura Látex
+
+A pintura látex é o acabamento mais utilizado após a regularização. Ela é relativamente econômica (cerca de R$ 83/m²), mas exige manutenção periódica:
+
+- **Durabilidade:** Precisa ser repintada a cada 3-5 anos
+- **Manutenção:** Suja facilmente, pode descascar, desbota com sol
+- **Camadas necessárias:** Selador + 2 demãos de massa corrida + 2-3 demãos de tinta
+
+> [!atencao] **Ponto de Atenção**
+> Existem tintas mais caras (acetinadas, com brilho, laváveis) que sujam menos e permitem limpeza. A látex fosca é a mais barata, mas também a que suja mais facilmente.
+
+**Dica prática:** Em áreas que sujam muito (como atrás da cama, onde se encosta na parede), considere usar acabamentos que disfarcem manchas, como cimento queimado falso ou texturas.
+
+##### Cerâmica e Porcelanato
+
+Muito utilizados em áreas molhadas (banheiros e cozinhas):
+
+- **Cerâmica:** A partir de R$ 98/m² instalada
+- **Porcelanato:** A partir de R$ 131/m² instalado (preço SINAPI)
+
+**Sobre impermeabilização:** O revestimento não é responsável pela impermeabilização. A camada de impermeabilizante deve ser aplicada independentemente do revestimento escolhido, em qualquer área molhada (banheiros, cozinha), seja no térreo ou em andares superiores.
+
+A cerâmica/porcelanato não muda de cor com umidade (diferente do gesso, que amarela) e é fácil de limpar. Você pode subir até o teto na área do box ou fazer meia-parede, combinando com pintura na parte superior.
+
+#### Acabamentos Mais Econômicos
+
+##### Alvenaria Aparente
+
+**A opção mais econômica de todas.** Custos:
+- **Rejuntamento:** R$ 1,89/m² (material) + R$ 9,11/m² (mão de obra)
+- **Selador/impermeabilizante:** R$ 3,50/m² adicional
+- **Total:** Cerca de R$ 14,50/m² (contra R$ 91/m² da regularização tradicional)
+
+**Tipos de alvenaria que podem ficar aparentes:**
+- Bloco estrutural de concreto
+- Tijolo comum maciço (com rejuntamento)
+- Bloco cerâmico estrutural
+- Tijolo ecológico (alguns modelos dispensam até o cimento entre eles)
+
+**Opções de impermeabilização:**
+- Resina acrílica
+- Resina de carnaúba  
+- Silicone líquido (cerca de R$ 17/m² aplicado, o mais impermeável)
+
+> [!exemplo] **Economia Real**
+> Numa sala de 50m² de parede, optar por alvenaria aparente ao invés de pintura tradicional gera economia de aproximadamente R$ 3.500. Se você mesmo fizer o rejuntamento e passar o selador, a economia sobe para cerca de R$ 4.000.
+
+**Variações criativas:**
+- Junta seca (argamassa não vem até a frente)
+- Junta úmida (argamassa aparece entre os blocos)
+- Diferentes padrões de assentamento
+- Muros de arrimo com gabião (grade + seixos)
+
+##### Reboco de Gesso
+
+**Grande economia:** R$ 17/m² (contra R$ 91/m² do reboco tradicional)
+
+Aplicado direto no tijolo furado, dispensa chapisco, emboço e reboco. Numa sala de 40-60m² de parede, a economia fica entre R$ 3.000 e R$ 4.500.
+
+**Restrições importantes:**
+- ❌ Não usar em paredes externas
+- ❌ Evitar em banheiros (o vapor pode amarelar o gesso)
+- ✅ Pode usar em lavabos (em áreas onde não respinga água diretamente)
+- ✅ Ideal para ambientes internos secos
+
+> [!dica] **Solução Mista**
+> No lavabo, use reboco de gesso na parte superior e um revestimento cerâmico/porcelanato na área onde respinga água. Isso mantém a economia sem comprometer a durabilidade.
+
+##### Chapisco Aparente
+
+O chapisco grosso bem-feito pode servir como acabamento final, eliminando emboço, reboco, massa corrida e pintura. 
+
+**Como fazer:**
+- Chapisco feito na peneira (não jogado direto ou com máquina)
+- 2 demãos, a segunda com areia um pouco mais fina
+- Preenchimento dos espaços que ficaram na primeira demão
+
+Usado em nossa escada (jardim de inverno) e em várias fachadas modernas.
+
+##### Acabamentos Cimentícios
+
+###### Cimento Queimado
+
+**Receita básica:**
+- Cimento + água + cola branca (ou bianco)
+- Quanto mais cimento branco na mistura, mais clara fica a parede
+- Pode adicionar pigmentos para cores diferentes
+
+**Aplicação:**
+- Direto sobre reboco
+- Sobre alvenaria estrutural (já retilínea)
+- Espessura de 3-6mm
+- Desempenado com espátula
+- Pode salpicar cimento pó por cima para dar brilho
+
+**Impermeabilização final:**
+- Cera
+- Verniz  
+- Resina acrílica
+- Silicone líquido (melhor resultado)
+
+**Custos estimados:**
+- Material: cerca de R$ 2-3/m²
+- Com mão de obra: cerca de R$ 15-18/m²
+
+> [!atencao] **Cuidados na Execução**
+> - Use POUCA água na mistura (quanto mais água, menos resistente)
+> - Mantenha a mesma marca de cimento em toda a casa (cores podem variar)
+> - Faça panos inteiros de uma vez (sol e vento mudam a tonalidade)
+> - Dias úmidos = parede mais escura; dias quentes = parede mais clara
+
+###### Cimento Vassorado
+
+Base similar ao cimento queimado, mas com pouco mais água. Aplicação:
+- Com pincel ou brocha
+- Textura criada com vassoura enquanto fresco
+- Mais rápido que cimento queimado
+- Rende mais (pela água extra)
+
+Pode ser usado também em pisos. Tutorial completo disponível no canal.
+
+###### Cimento Queimado Falso (Massa PVA Pigmentada)
+
+**Solução extremamente econômica:**
+- Massa PVA (interna) ou acrílica (externa) + pigmento
+- Custo material: cerca de R$ 3/m²
+- Com mão de obra: cerca de R$ 15/m²
+- Você mesmo pode fazer: economia para R$ 3/m²
+
+**Técnica:**
+1. Primeira demão mais escura
+2. Segunda demão mais clara por cima
+3. Lixar levemente para criar efeito manchado
+4. Passar selador (opcional, para não soltar pó)
+
+Pode ser feita sobre:
+- Reboco
+- Gesso
+- Paredes já pintadas
+- Paredes já emassadas
+
+##### Massa Texturizada
+
+Dispensa a camada de massa corrida, sendo ao mesmo tempo massa e pintura (cerca de R$ 12/m² o material).
+
+**Vantagens:**
+- Vem pronta no balde
+- Já vem pigmentada (ou pode adicionar pigmento)
+- Cria textura com espátulas ou rolos especiais
+- Mais resistente à umidade que pintura comum
+
+**Aplicações ideais:**
+- Paredes com infiltração resolvida (mas que manchavam muito antes)
+- Ambientes externos
+- Uma parede de destaque (não use em todas - cansa a vista)
+
+> [!dica] **Faça Você Mesmo**
+> Texturizar uma parede é simples. Existem rolos e espátulas específicas que criam padrões. Você pode fazer quadriculados, ranhuras ou até padrões florais/artísticos.
+
+##### Tinta de Terra
+
+**Uma das soluções mais econômicas:**
+- Material: cerca de R$ 2/m²
+- Com mão de obra: cerca de R$ 12/m²
+- Faça você mesmo: custo próximo a zero (se usar terra do próprio terreno)
+
+**Receita base:**
+- Terra peneirada (quanto mais fina, melhor)
+- Água
+- Cola branca ou bianco
+- Opcional: óleo de linhaça (melhora muito a tinta)
+- Opcional: pigmentos para ajustar cor
+
+**Dicas importantes:**
+- Peneirar bem para separar só os grãos finos (silt)
+- Terra argilosa = melhor cobertura (2 demãos)
+- Terra arenosa = 3-4 demãos, mas cria textura interessante
+- Receita varia conforme o tipo de terra
+
+> [!exemplo] **Aplicação Prática**
+> Usamos tinta de terra no paredão de nossa varanda. Ficou com textura levemente arenosa muito bonita. Em outro ambiente, usamos terra mais fina e conseguimos acabamento mais liso.
+
+#### Técnicas Especiais
+
+##### Efeito Pedra sobre Reboco
+
+O reboco é aplicado e, ao invés de ser alisado com régua, é texturizado manualmente:
+
+- Com a mão (efeito cavernoso/bolinhas)
+- Com colher (criando escamas)  
+- Com madeira (imitando pedras)
+- Com dedos (fazendo desenhos)
+
+Pode ser usado em pisos e paredes. Depois, basta pintar (pode ser com tinta de terra).
+
+##### Parede de Pedras Naturais
+
+**Muito econômica em algumas regiões:**
+- Castela: cerca de R$ 14/m²
+- Ardósia: preço variável
+- Seixos com cimento
+
+**Aplicações:**
+- Paredes externas
+- Detalhes em paredes internas
+- Atrás da TV
+- Banheiros (absorve água, não cria poças)
+
+Pode ser usada para construir a parede inteira (sem alvenaria) ou como revestimento.
+
+##### Tijolinho de EPS (Isopor)
+
+Alternativa ao brick (revestimento de tijolinho que custa R$ 138/m² só o material):
+
+**Como fazer:**
+1. Comprar placas de EPS (isopor)
+2. Cortar em formato de tijolinho
+3. Usar ferro de solda (R$ 30-40) para criar texturas/destruições
+4. Colar na parede
+5. Pintar (vários tons para criar profundidade)
+
+**Custo:** Próximo a zero se comparado ao brick original.
+
+#### Comparação de Custos
+
+| Acabamento | Custo/m² | Observações |
+|------------|----------|-------------|
+| Alvenaria aparente | R$ 14,50 | Mais econômico |
+| Reboco de gesso | R$ 17,00 | Só áreas internas secas |
+| Tinta de terra | R$ 12,00 | Faça você mesmo: ~R$ 2 |
+| Cimento queimado | R$ 15-18 | Material: R$ 2-3 |
+| Massa texturizada | R$ 12,00 | + mão de obra |
+| Chapisco aparente | - | Integrado ao reboco |
+| Pintura látex | R$ 83,00 | Exige manutenção periódica |
+| Cerâmica comum | R$ 98,00 | Áreas molhadas |
+| Porcelanato | R$ 131,00+ | Mais nobre |
+| Reboco tradicional | R$ 91,00 | Base para pintura |
+
+#### Acabamentos Diferenciados (Custo Médio-Alto)
+
+##### Pastilhas
+
+Pecinhas pequenas (vidro ou cerâmica) que geralmente vêm em tela para aplicação rápida. Indicadas para:
+- Pequenos detalhes
+- Nichos de banheiro
+- Destaques decorativos
+
+❌ Não recomendado para grandes áreas (material caro e muita informação visual).
+
+##### Revestimentos de Pedra
+
+**Pedra Cariri e similares:**
+- Material: cerca de R$ 28/m²
+- Similar ao preço da cerâmica comum
+- Ótima opção se disponível localmente a preço competitivo
+
+Usamos pedra natural (castela a R$ 14/m²) em todos os nossos banheiros. Como é antiderrapante e absorve água, funciona perfeitamente.
+
+##### Madeira
+
+Réguas ou tábuas de madeira podem revestir paredes, criando painéis:
+- Madeira maciça (mais cara)
+- Pinus, ripas de pallet (mais econômica)
+- Madeira demolição
+
+Necessita tratamento com hidrorepelente e pode exigir manutenção periódica.
+
+##### Laminado e Vinílico
+
+**Piso laminado na parede:**
+- Sobra de outro ambiente pode ser reaproveitada
+- Simples de aplicar sobre parede pintada/emassada
+- Dá ar de madeira com custo menor
+
+**Vinílico:**
+- Adesivo, cola direto na parede
+- Imita madeira, cimento queimado, etc.
+- Só para ambientes internos secos
+
+##### Gesso 3D
+
+Painéis com relevos decorativos. **Faça você mesmo:**
+
+**Materiais:**
+- Formas (compradas ou feitas com placa EVA)
+- Gesso em pó + água OU
+- Cimento em pó + água
+
+**Custo:** Um saco de cimento/gesso (R$ 35) pode render uma parede inteira, contra R$ 130/m² de revestimento pronto.
+
+##### Papel de Parede e Tecido
+
+**Papel de parede:**
+- Ótimo para reformas
+- Não é a opção mais barata para construção nova
+- Rolos podem custar R$ 300+
+
+**Alternativa econômica: Tecido**
+- Metade do preço do papel de parede
+- Aplica-se da mesma forma (com cola para papel de parede)
+- Mais opções de textura
+
+#### Acabamentos Rústicos/Artesanais
+
+##### Tadalak
+
+Base de cal (em vez de cimento). Características:
+- Maior liberdade de cores (cal é branco)
+- Textura mais fina que cimento queimado
+- Impermeável (pode usar em áreas molhadas)
+- Reboco de cal muito alisado
+
+Nome vem de "alisar". Pode ser usado em pisos, paredes e áreas externas.
+
+##### Cobogó
+
+Blocos vazados que permitem ventilação e iluminação:
+- Diversos modelos e materiais
+- Já vêm prontos, não precisam de revestimento
+- Custo variável conforme modelo
+
+**Alternativa econômica:** Fazer parede vazada com tijolo comum e argamassa, deixando espaços propositais (visto em nossa casa).
+
+##### Reboco de Terra
+
+Elimina ou reduz o cimento do reboco tradicional. Usa:
+- Terra do próprio terreno
+- Areia local (não lavada)
+- Estabilizantes: cimento, cal, esterco ou palha
+
+Cada terreno tem sua receita. Indicado para autoconstrução (economia de material e mão de obra). Exige testes prévios e estabilização adequada.
+
+#### Elementos Estruturais como Acabamento
+
+##### Vigas e Pilares Aparentes
+
+Deixar a estrutura de concreto aparente elimina o custo de revestir esses elementos. Nossa casa: todos os pilares e vigas ficaram aparentes, gerando economia e criando identidade arquitetônica.
+
+##### Instalações Aparentes
+
+**Tubulações externas:**
+- Pintadas para combinar com o ambiente
+- Estilo industrial
+- Economia de quebra e fechamento de rasgos
+
+Temos canos externos pintados de verde. Funciona bem em:
+- Garagens
+- Áreas de serviço
+- Ambientes com pé-direito alto
+- Estilo industrial/rústico
+
+#### Materiais Reciclados e Alternativos
+
+##### Pallet
+
+Réguas de pallet desmontado podem revestir paredes:
+- Custo baixíssimo (pallets são frequentemente descartados)
+- Visual rústico/industrial
+- Necessita lixamento e tratamento
+
+##### Demolição
+
+Materiais de obras demolidas:
+- Tijolos, madeiras, portas, janelas
+- Já testados pelo tempo
+- Custo muito reduzido
+
+##### Tonéis e Barris
+
+Tonéis metálicos cortados podem virar:
+- Revestimento (aberto e planificado)
+- Móveis
+- Detalhes decorativos
+
+##### Garrafas
+
+Garrafas de vidro podem ser usadas na construção de paredes:
+- Funcionam como tijolos
+- Permitem entrada de luz
+- Precisam de argamassa para união
+- Visual único
+
+#### Estratégias de Economia
+
+##### Faça Você Mesmo
+
+Acabamentos que você pode executar sem conhecimento especializado:
+- ✅ Tinta de terra
+- ✅ Cimento queimado/vassorado  
+- ✅ Massa PVA pigmentada (cimento queimado falso)
+- ✅ Rejuntamento de alvenaria aparente
+- ✅ Aplicação de selador
+- ✅ Chapisco aparente (com prática)
+- ✅ Papel de parede/tecido
+- ✅ Gesso 3D (com formas)
+- ✅ Pintura com rolo/pincel
+
+##### Combinação de Acabamentos
+
+Não use o mesmo acabamento em toda a casa. Combine:
+- Alvenaria aparente (economia) + detalhes pintados
+- Cimento queimado em áreas de destaque + pintura simples nas demais
+- Gesso nas paredes internas + outro acabamento nas externas
+
+##### Priorização por Ambiente
+
+**Onde investir:**
+- Áreas sociais (sala, cozinha)
+- Banheiro principal
+
+**Onde economizar:**
+- Quartos (você passa menos tempo acordado neles)
+- Banheiros de serviço
+- Áreas externas cobertas
+
+#### Manutenção ao Longo do Tempo
+
+| Acabamento | Manutenção | Frequência |
+|------------|------------|------------|
+| Pintura látex | Repintura | 3-5 anos |
+| Cimento queimado | Passar cera/impermeabilizante | 1-2 anos |
+| Madeira | Lixar + hidrorepelente/verniz | 2-3 anos |
+| Ferro | Repintura | Conforme oxidação |
+| Alvenaria aparente | Limpeza | Conforme necessário |
+| Cerâmica/porcelanato | Limpeza de rejunte | Conforme necessário |
+| Massa texturizada | Mínima | - |
+| Gesso | Pintura se amarelar | Conforme necessário |
+
+> [!dica] **Planejamento é Economia**
+> Escolha acabamentos de baixa manutenção para áreas de difícil acesso. Reserve acabamentos que exigem manutenção frequente para locais acessíveis.
+
+---
+
+**Resumo:** O acabamento de paredes é uma das maiores áreas de potencial de economia na obra. A escolha entre regularização tradicional (R$ 91/m²) e alvenaria aparente (R$ 14,50/m²), por exemplo, pode gerar economias de R$ 3.000 a R$ 10.000 dependendo do tamanho da casa. Combine acabamentos econômicos como cimento queimado, tinta de terra e massa texturizada com acabamentos tradicionais nas áreas que você deseja destacar. E sempre que possível, coloque a mão na massa — boa parte da mão de obra de acabamento pode ser feita por você mesmo.
 
 ### 80. Paredes Baixo Custo
 
-*Descrição não disponível para esta aula.*
+As opções de acabamento mais econômicas para paredes representam uma das maiores oportunidades de economia em construção, já que as paredes ocupam área considerável — um quarto de 50 m² de parede pode gerar economias de até R$ 4.500 apenas na escolha do acabamento.
+
+#### Alvenaria Aparente
+
+A alvenaria aparente é de longe a opção mais econômica, porque elimina praticamente todas as camadas de acabamento. Quando você constrói com blocos que podem ficar expostos, não precisa fazer chapisco, embolso, reboco, selador, massa corrida nem pintura — nove camadas de mão de obra que simplesmente desaparecem do orçamento.
+
+**Blocos adequados para ficarem aparentes:**
+
+- Bloco cerâmico estrutural
+- Bloco de concreto estrutural
+- Tijolo ecológico
+- Tijolo comum maciço (o tijolinho vermelho tradicional)
+
+> [!atencao] O tijolo furado comum (8 furos) geralmente **não** fica bom aparente, porque é irregular demais e sofre variações de queima que deixam a parede manchada.
+
+##### Tratamento da Alvenaria Aparente
+
+Mesmo aparente, a alvenaria precisa de proteção mínima:
+
+**Para paredes internas:**
+- Rejuntamento opcional (depende do tipo de bloco)
+- Uma demão de selador líquido transparente
+
+**Para paredes externas:**
+- Rejuntamento obrigatório (protege contra infiltração)
+- Material impermeabilizante: silicone líquido (R$ 17/m² aplicado), resina acrílica ou resina de carnaúba
+
+O silicone líquido é a melhor opção custo-benefício: custa R$ 17/m² com aplicação, contra R$ 130/m² de uma parede com acabamento tradicional completo.
+
+> [!dica] Se você mesmo fizer o rejuntamento e aplicar o selador, reduz de R$ 17 para apenas R$ 3,50 por metro quadrado. Em 100 m² de parede, isso representa R$ 1.400 de economia.
+
+##### Criatividade com Alvenaria Aparente
+
+Você pode criar texturas diferentes mesmo com materiais simples:
+
+- **Junta seca:** a argamassa não vem até a frente, criando sombras entre os blocos
+- **Junta aparente:** a argamassa preenche até a face, mais tradicional
+- **Parede vazada:** deixar espaços planejados entre tijolos para ventilação e efeito estético
+- **Gabião:** grade de metal preenchida com pedras roladas (seixos)
+
+#### Chapisco Aparente
+
+O chapisco bem executado pode ser o acabamento final da parede. Não é o chapisco rápido que serve apenas para criar aderência — é um chapisco feito com cuidado, geralmente aplicado com peneira.
+
+**Como fazer:**
+1. Jogue argamassa através de uma peneira contra a parede
+2. A peneira faz a argamassa bater uniformemente na superfície
+3. Aplique duas demãos com areias de granulometrias diferentes
+4. A primeira mais grossa, a segunda mais fina para preencher vazios
+
+O resultado é uma textura uniforme e rústica, perfeita para escadas internas, jardins de inverno ou paredes de destaque.
+
+**Economia:** você elimina embolso, reboco, massa corrida e pintura — mantém apenas o chapisco reforçado.
+
+#### Cimento Queimado
+
+O cimento queimado em parede é uma gola de cimento aplicada sobre reboco (ou sobre alvenaria estrutural bem nivelada). É acabamento extremamente econômico e versátil.
+
+**Receita básica:**
+- Cimento (comum ou branco para tons mais claros)
+- Água (o mínimo possível)
+- Cola branca ou bianco (adesivo PVA) — melhora aderência e impermeabilização
+
+**Proporção:** aproximadamente 1 parte de cola para 10 de cimento (ajuste testando)
+
+A cola PVA funciona como plastificante: permite que a massa trabalhe com menos água, o que aumenta a resistência e diminui o risco de trincas. Ela também ajuda os grãos de cimento a se acomodarem melhor, fechando os poros da parede.
+
+**Aplicação:**
+1. Prepare uma pasta de cimento + água + cola (consistência cremosa)
+2. Aplique com desempenadeira ou espátula
+3. Para brilho extra: salpique pó de cimento seco por cima e alise novamente
+4. Após cura: aplique cera, resina ou silicone líquido
+
+> [!dica] Use cimento branco (comum, não estrutural) na mistura para tons mais claros. Quanto mais cimento branco, mais clara fica a parede. Você também pode adicionar pigmentos para cores: amarelo, azul, verde, o que quiser.
+
+**Custo:** cerca de R$ 18/m² com mão de obra, ou R$ 3/m² se você fizer.
+
+##### Variações do Cimento
+
+**Cimento vassourado:** mesma base do queimado, mas aplicado com pincel ou brocha, deixando marcas de vassoura. Textura mais acentuada, aplicação mais rápida, rende mais (pode usar um pouco mais de água).
+
+**Efeito pedra sobre reboco:** argamassa aplicada com movimentos livres da espátula, criando relevos que imitam pedra natural. Pode fazer escamas, texturas rochosas ou desenhos geométricos — tudo com reboco comum e criatividade na aplicação.
+
+> [!exemplo] É possível até desenhar na argamassa fresca usando madeira, dedos ou ferramentas simples. Algumas construções tradicionais em Barra Grande (BA) têm paredes com textura de bolinhas feitas à mão no reboco.
+
+#### Massa Texturizada
+
+A massa texturizada é vendida pronta em baldes. Ela substitui **duas etapas de uma vez**: o emassamento e a pintura.
+
+**Vantagens:**
+- Elimina massa corrida + selador + pintura
+- Já vem pigmentada (ou você pode pigmentar)
+- Cria textura que esconde imperfeições
+- Mais resistente à umidade que pintura comum
+
+**Aplicação:**
+1. Sobre reboco (pula o emassamento)
+2. Espalha com desempenadeira
+3. Pode criar texturas com rolos, espátulas ou esponjas
+
+> [!atencao] Não abuse. Textura cansa a vista — use no máximo uma parede por ambiente, ou em áreas externas.
+
+**Custo:** R$ 42/m² com mão de obra na tabela SINAPI. Se você aplicar, cai para ~R$ 27/m².
+
+**Grafiato:** é um tipo de massa texturizada aplicada com movimentos circulares que criam ranhuras características. Pode ser feito também direto no reboco e depois pintado.
+
+#### Tinta de Terra
+
+A tinta de terra é feita com o solo do próprio terreno (ou comprado), cola e água. É uma das opções mais baratas e sustentáveis.
+
+**Receita:**
+- Terra (quanto mais fina e argilosa, melhor)
+- Água
+- Cola branca, bianco ou óleo de linhaça como fixador
+- Opcional: pigmentos para ajustar cor
+
+**Preparo:**
+1. Peneire a terra para remover pedras e grãos grossos
+2. Quanto mais você peneirar (peneiras com malhas menores), mais fina e fácil de aplicar fica a tinta
+3. Misture com água até consistência de tinta
+4. Adicione cola (proporção similar ao cimento queimado)
+
+**Aplicação:** pincel, rolo ou brocha. Geralmente 2-3 demãos.
+
+> [!dica] Terras diferentes produzem cores diferentes. Teste pequenas áreas primeiro. Se a terra for muito arenosa, vai precisar de mais demãos — mas ainda cria texturas interessantes.
+
+**Custo:** R$ 10/m² com mão de obra, ou R$ 2/m² se você fizer. Se usar terra do terreno, praticamente zero.
+
+Você pode fazer grude natural (fixador) fervendo goma de mandioca, eliminando até o custo da cola.
+
+#### Reboco de Terra
+
+Similar à tinta, mas usando solo com granulometria maior para criar camada de regularização. Substitui o reboco convencional (que usa cimento) por uma mistura de terra + água + estabilizante.
+
+**Estabilizantes possíveis:**
+- Cimento ou cal (em menor quantidade que reboco normal)
+- Esterco
+- Palha picada
+- Fibras vegetais
+
+Cada solo tem composição diferente — é necessário fazer testes para encontrar a proporção certa. O reboco de terra:
+
+- Economiza material (cimento é caro)
+- Pode usar solo do terreno
+- Exige proteção contra chuva (beiral generoso ou impermeabilizante)
+- Indicado para autoconstrução (não é tóxico)
+
+#### Cimento Queimado Falso (Massa PVA)
+
+Imita perfeitamente o cimento queimado usando massa corrida acrílica (para áreas externas) ou PVA (para internas) com pigmento.
+
+**Como fazer:**
+1. Massa acrílica ou PVA + pouquinho de pigmento preto (ou outra cor)
+2. Primeira demão: tom mais escuro
+3. Segunda demão: tom mais claro
+4. Lixe levemente para revelar camadas e criar manchas naturais
+5. Opcional: sele com cera de carnaúba ou resina
+
+**Custo:** R$ 15/m² se terceirizar, R$ 3/m² se você fizer.
+
+Funciona sobre reboco, gesso, paredes já pintadas ou já emassadas. Super fácil de aplicar — experimente primeiro em um canto.
+
+#### Comparação de Custos
+
+Tomando como base um quarto de ~40-50 m² de parede:
+
+| Acabamento | Custo/m² | Total (50m²) | Observações |
+|------------|----------|--------------|-------------|
+| Pintura tradicional | R$ 83 | R$ 4.150 | Chapisco + embolso + reboco + massa + tinta |
+| Reboco de gesso | R$ 17 | R$ 850 | Só áreas internas secas |
+| Cimento queimado | R$ 18 | R$ 900 | Ou R$ 150 faça você mesmo |
+| Cimento vassourado | R$ 15-20 | R$ 750-1.000 | Mais rápido que queimado |
+| Massa texturizada | R$ 42 | R$ 2.100 | Ou R$ 1.350 faça você mesmo |
+| Tinta de terra | R$ 10 | R$ 500 | Ou R$ 100 faça você mesmo |
+| Cimento queimado falso | R$ 15 | R$ 750 | Ou R$ 150 faça você mesmo |
+| Alvenaria aparente | R$ 3,50-17 | R$ 175-850 | Depende se você faz o rejunte |
+
+> [!atencao] A pintura tradicional exige 8-9 passagens de mão de obra na mesma parede (chapisco, embolso, reboco, massa 2x, pintura 2-3x). Qualquer acabamento que elimine etapas gera economia proporcional.
+
+#### Tijolinho de EPS (Isopor)
+
+Se você quer a aparência de parede de tijolos sem construir em tijolo aparente:
+
+1. Compre placas de EPS (isopor)
+2. Corte em formato de tijolinhos
+3. Use ferro de solda para criar texturas, rachaduras, imperfeições
+4. Cole na parede
+5. Pinte com várias tonalidades (marrom claro, escuro, queimado)
+
+O segredo é a pintura em camadas com tons variados — isso que faz parecer tijolo real.
+
+**Custo:** Muito baixo se você fizer (EPS + cola + tinta). Mais caro se comprar painéis prontos que imitam tijolo.
+
+#### Dicas Gerais de Economia
+
+1. **Faça você mesmo** sempre que possível. Boa parte do custo de acabamentos é mão de obra.
+
+2. **Teste antes.** Qualquer acabamento artesanal (cimento queimado, tinta de terra, massa texturizada) — teste em área pequena primeiro.
+
+3. **Mantenha a receita.** Se fez cimento queimado com cimento Votoran, continue com Votoran. Trocar de marca muda a tonalidade.
+
+4. **Feche panos inteiros por dia.** Diferenças de clima (sol, vento, umidade) durante a cura mudam a cor final. Evite parar no meio de uma parede.
+
+5. **Proteja as paredes.** Beirais de 2-2,5 m protegem paredes externas de chuva e sol, aumentando durabilidade de qualquer acabamento.
+
+6. **Combine acabamentos.** Use o caro (porcelanato, papel de parede) em detalhes pequenos. Use o barato (cimento, tinta de terra, alvenaria) nas grandes áreas.
+
+---
+
+**Economia possível:** Em uma casa de 150 m² de parede, trocar pintura tradicional (R$ 83/m²) por alvenaria aparente + cimento queimado (média R$ 15/m²) = **economia de R$ 10.200** apenas em acabamento de paredes.
 
 ### 81. Paredes Preços
 
-*Descrição não disponível para esta aula.*
+Esta aula apresenta uma análise comparativa dos custos de diferentes acabamentos para paredes, permitindo que você tome decisões informadas sobre onde investir e onde economizar na sua obra.
+
+#### Árvore de Possibilidades dos Acabamentos
+
+Quando você utiliza tijolo furado (o tijolo cerâmico comum de 8 furos), invariavelmente precisará fazer regularização da parede, pois ela ficará irregular. Essa regularização resolve-se com as camadas de:
+
+- Chapisco
+- Emboço
+- Reboco
+
+Você pode executá-las com argamassa tradicional ou com gesso — opção que reduz drasticamente o custo, como veremos adiante.
+
+**Importante:** Quando você utiliza tijolo de melhor qualidade, obtém paredes mais retas e lisas. Tijolos que sofreram queima excessiva (cores muito escuras) podem ter diminuído de tamanho ou ficado com faces curvas, gerando paredes com muitas imperfeições. Além disso, as quebras necessárias para passagem de instalações tornam praticamente impossível evitar a regularização no tijolo furado.
+
+Por outro lado, três tipos de blocos podem ficar aparentes, eliminando completamente a necessidade de regularização:
+
+- Bloco cerâmico estrutural
+- Bloco de concreto estrutural  
+- Tijolo ecológico
+
+Você **deveria** considerar deixá-los aparentes, pois a economia é substancial.
+
+#### Comparação: Regularização em Argamassa vs. Gesso
+
+##### Regularização Tradicional (Argamassa)
+
+A regularização convencional envolve quatro etapas:
+
+1. Chapisco — cria aderência entre tijolo e emboço
+2. Emboço — engrossamento para nivelar
+3. Reboco — camada fina de acabamento
+4. Emassamento — prepara para receber pintura
+
+**Custo pela tabela SINAPI: R$ 91,00/m²**
+
+Este valor serve para paredes internas e externas.
+
+##### Regularização em Gesso
+
+Aplicada diretamente sobre o tijolo furado vermelho (não amarelo), elimina todas as etapas intermediárias.
+
+**Custo pela tabela SINAPI: R$ 17,00/m²**
+
+**Economia: R$ 74,00/m²**
+
+###### Cálculo Prático da Economia
+
+Numa sala simples de 4m × 3m (somente as paredes internas, sem contar portas e janelas), você tem aproximadamente 40 a 60m² de área de parede.
+
+- Com argamassa: 50m² × R$ 91 = **R$ 4.550,00**
+- Com gesso: 50m² × R$ 17 = **R$ 850,00**
+- **Economia: R$ 3.700,00 em apenas uma sala**
+
+> [!atencao] Só com essa informação você já recupera o investimento no curso inteiro.
+
+##### Limitações do Gesso
+
+O reboco de gesso **não pode** ser utilizado:
+
+- Em paredes externas (não resiste às intempéries)
+- Em áreas muito úmidas como box de chuveiro
+
+**Pode** ser utilizado:
+
+- Em todas as paredes internas de áreas secas (quartos, salas, corredores)
+- Em lavabos (aplicado de certa altura para cima, protegendo a área de respingos com revestimento cerâmico)
+
+#### Acabamentos Finais: Custos Comparados
+
+Após a regularização (seja em argamassa ou gesso), você aplica o acabamento final. Aqui estão os custos dos principais:
+
+##### Pintura Látex PVA
+
+**Custo: R$ 83,00/m²** (com emassamento, selador e duas demãos)
+
+É o acabamento tradicional mais utilizado, mas não o mais barato. A tinta látex fosca:
+
+- Suja mais facilmente que tintas laváveis
+- Exige repintura a cada 3-5 anos
+- Representa apenas parte do custo — há muitas camadas antes dela
+
+**Composição do custo:**
+- Emassamento (2 demãos): custo X
+- Selador: custo Y  
+- Pintura (2-3 demãos): custo Z
+
+##### Acabamentos Cimentícios (Mais Econômicos)
+
+Todos mais baratos que a pintura látex e você pode fazer você mesmo:
+
+**1. Chapisco Aparente**
+- Chapisco mais grosso e bem executado
+- Feito com peneira (não na máquina)
+- Duas demãos com areia progressivamente mais fina
+- Pode receber pintura após
+- **Economia em relação à pintura completa**
+
+**2. Cimento Queimado**
+- Pasta de cimento + água + cola branca (ou bianco)
+- Aplica-se direto sobre reboco ou alvenaria estrutural
+- Desempenado com espátula
+- Pode adicionar cimento branco para tons mais claros
+- Pode adicionar pigmentos para outras cores
+- **Custo estimado: não consta na SINAPI, mas aproxima-se do custo do contrapiso + uma demão de acabamento**
+
+> [!dica] O cimento queimado fecha os poros da parede, tornando-a menos porosa e mais resistente à umidade. Por isso funciona bem em banheiros (exceto área do chuveiro).
+
+**3. Cimento Vassorado**
+- Mesma base do cimento queimado, porém mais líquida
+- Aplicado com pincel ou brocha
+- Textura criada com vassoura
+- Rende mais que o cimento queimado
+- Mais rápido de executar
+
+**4. Cimento Queimado Falso (Massa PVA)**
+
+Feito com massa acrílica (área externa) ou massa PVA (área interna) + pigmento:
+
+- Primeira demão mais escura
+- Segunda demão mais clara por cima
+- Lixar revelando a camada inferior em alguns pontos
+- Acabamento aveludado
+- Pode receber selador ou cera de carnaúba
+
+**Custo: R$ 3,00/m²** (material) + **R$ 15,00/m²** (mão de obra) = **R$ 18,00/m²**
+
+Se você mesmo fizer: **apenas R$ 3,00/m²**
+
+**Economia em relação à pintura látex: R$ 80,00/m²**
+
+##### Massa Texturizada
+
+Substitui emassamento + pintura (dois em um):
+
+- Aplicada diretamente sobre reboco
+- Já vem pigmentada ou pode ser pigmentada
+- Dispensa massa corrida
+- Cria texturas com espátulas ou rolos específicos
+- Mais resistente à umidade que pintura comum
+
+**Indicada para:** paredes com histórico de infiltração que retorna periodicamente.
+
+> [!atencao] Não abuse da textura. No máximo uma parede por ambiente ou áreas externas. Textura em excesso cansa a vista.
+
+##### Tinta de Terra
+
+**Custo: R$ 2,00/m²** (material) + **R$ 8,00/m²** (mão de obra) = **R$ 10,00/m²**
+
+Se você mesmo fizer: **R$ 2,00/m²**
+
+Feita com:
+- Terra peneirada (quanto mais fina, melhor a cobertura)
+- Água
+- Cola branca ou bianco (ou óleo de linhaça, ou grude caseiro)
+
+Você pode fazer com terra do próprio terreno (custo quase zero) ou comprar terra com a cor desejada.
+
+**Vantagens:**
+- Extremamente econômica
+- Atemporal
+- Sustentável e local
+- Permite diversas cores conforme a terra
+
+**Dica:** Peneire bem a terra. Quanto menor o grão, menos demãos você precisará (terras argilosas cobrem melhor). Terras arenosas exigem 3-4 demãos mas criam textura interessante.
+
+#### Alvenaria Aparente: A Opção Mais Econômica
+
+Quando você constrói com blocos que podem ficar aparentes, elimina **todas** as camadas de regularização e acabamento.
+
+##### Custo da Alvenaria Aparente
+
+Para paredes externas, você precisa:
+
+**Rejuntamento:** R$ 1,89/m² (material) + R$ 9,11/m² (mão de obra) = **R$ 11,00/m²**
+
+**Selador/Impermeabilizante:**  
+- Líquido selador comum: ~R$ 6,00/m²
+- Silicone líquido: ~R$ 17,00/m² (mais impermeável, aplicação inclusa)
+
+**Total: aproximadamente R$ 17,00 a R$ 28,00/m²**
+
+**Se você mesmo fizer o rejuntamento e aplicar o selador: R$ 3,50/m²**
+
+###### Economia Real
+
+- Alvenaria aparente (faça você mesmo): **R$ 3,50/m²**
+- Pintura látex completa: **R$ 83,00/m²**
+- **Economia: R$ 79,50/m²**
+
+Numa sala de 50m² de parede:
+- Economia de **R$ 3.975,00**
+- Se terceirizar o serviço: economia de **R$ 3.300,00**
+
+##### Materiais Impermeabilizantes
+
+Você pode proteger a alvenaria aparente com:
+
+- Resina acrílica
+- Resina de carnaúba (mais natural)
+- Verniz acrílico
+- Silicone líquido (mais eficaz, ~R$ 17/m² com aplicação)
+
+#### Revestimentos Cerâmicos
+
+Utilizados principalmente em áreas molhadas (banheiros, cozinhas):
+
+##### Cerâmica Comum
+
+**Custo: R$ 98,00/m²** (incluindo contrapiso, argamassa colante, aplicação e rejunte)
+
+> [!atencao] A cerâmica **não é** responsável pela impermeabilização. Você deve aplicar manta ou pintura impermeabilizante antes de qualquer revestimento em área molhada.
+
+A impermeabilização é obrigatória em:
+- Todos os banheiros (qualquer andar)
+- Cozinhas
+- Lavanderias
+- Áreas externas molhadas
+
+##### Porcelanato
+
+**Custo: R$ 131,00/m²** (material + aplicação)
+
+Mais brilhante e menos poroso que cerâmica, mas significativamente mais caro.
+
+> [!dica] Considere comprar direto de fábrica. Você pode reduzir o custo do material de R$ 80-100/m² para R$ 39/m² (caso real documentado no curso).
+
+##### Pedras Naturais
+
+**Custo: R$ 28,00/m²** (material + aplicação)
+
+Praticamente o mesmo preço da cerâmica comum, mas com características próprias:
+
+**Vantagens:**
+- Antiderrapante mesmo molhada
+- Absorve água (não forma poças)
+- Disponível localmente (menor custo de frete)
+- Durável
+
+**Exemplo:** Pedra Cariri encontrada a R$ 14/m² na região dos instrutores.
+
+**Indicação:** Excelente para banheiros e áreas de piscina.
+
+#### Outros Revestimentos
+
+##### Pastilhas
+
+Pequenas peças que vêm em tela, facilitando a aplicação:
+
+- Podem ser de vidro ou cerâmica
+- Perda mínima (corta-se a tela facilmente)
+- **Indicação:** pequenas áreas (nichos, detalhes)
+- **Não indicado:** grandes áreas (custo elevado)
+
+##### Tijolinho Decorativo (Brick)
+
+**Custo: R$ 138,00/m²** (somente material)
+
+Com aplicação: **~R$ 240,00/m²**
+
+Numa parede de 5m de altura (15m²): **R$ 3.600,00**
+
+**Alternativa econômica:** Construa a parede diretamente com tijolo comum aparente e faça rejuntamento. Economia de mais de R$ 3.600,00 em uma única parede.
+
+##### Gesso 3D
+
+Se comprado pronto: custo elevado
+
+**Alternativa:** Faça você mesmo com formas:
+- Compre gesso em pó (muito barato)
+- Compre ou fabrique formas (EVA, moldes prontos)
+- Produza as peças durante a obra
+- Economia de ~R$ 100/m² ou mais
+
+##### Papel de Parede
+
+Ótimo para reformas, pois aplica-se sobre parede já acabada.
+
+**Alternativa mais econômica:** Use tecido no lugar do papel, aplicado com a mesma cola. Preço pode cair pela metade.
+
+#### Serviços Que Você NÃO Deve Fazer Você Mesmo
+
+Apesar da grande economia em mão de obra, alguns serviços exigem profissionais especializados:
+
+**Aplicação de porcelanato retificado:**
+- Requer niveladores e técnica específica
+- Erros destroem material caro
+- Exemplo: piso aplicado sem niveladores fica com desníveis
+
+**Aplicação de revestimentos caros:**
+- Quanto mais caro o material, maior o risco de prejuízo
+- Contrate profissional com portfólio comprovado
+
+**O que você PODE fazer:**
+- Rejuntamento (economiza quase 100% da mão de obra)
+- Aplicação de seladores e impermeabilizantes
+- Pintura
+- Acabamentos cimentícios
+- Texturas
+- Tinta de terra
+- Revestimentos naturais
+
+#### Resumo: Onde Está a Maior Economia
+
+Os acabamentos representam **25% a 45%** do custo total da obra (média de 40%). Desses 40%, boa parte é mão de obra.
+
+**Estratégias de máxima economia:**
+
+1. **Use alvenaria aparente** onde possível (economia de até 75% vs. pintura)
+2. **Substitua argamassa por gesso** em paredes internas (economia de R$ 74/m²)
+3. **Faça você mesmo** acabamentos simples (economia de 50-80% da mão de obra)
+4. **Escolha acabamentos cimentícios** em vez de pintura (economia de R$ 65-80/m²)
+5. **Use pedras locais** em vez de cerâmica importada (mesmo custo, melhor resultado)
+
+**Exemplo de economia total numa casa:**
+
+- 200m² de paredes internas: gesso em vez de argamassa = **R$ 14.800,00**
+- 100m² de alvenaria aparente em vez de pintura = **R$ 7.950,00**  
+- 50m² de acabamento cimentício faça-você-mesmo = **R$ 4.000,00**
+- **Economia total em acabamentos: R$ 26.750,00**
+
+> [!dica] Sempre pegue o quantitativo da sua casa (área de paredes) e multiplique pelas diferenças de custo mostradas aqui. Mesmo diferenças de R$ 10-20/m² resultam em milhares de reais de economia no total da obra.
 
 ### 82. Bancadas
 
-*Descrição não disponível para esta aula.*
+Bancadas são elemento que muitas vezes pode passar despercebido no planejamento de uma construção, mas representam uma parte importante do orçamento e do resultado final da casa. São milhares de reais que podem ser economizados com escolhas adequadas de materiais e dimensionamento correto.
+
+#### Materiais disponíveis
+
+##### Granito
+
+O granito é uma pedra natural bastante utilizada em bancadas, reconhecível pelas pintinhas características em sua superfície. A partir de R$ 260 o metro quadrado, pode chegar até R$ 1.000 dependendo do tipo escolhido.
+
+**Vantagens:**
+- Material durável e resistente
+- Boa variedade de cores e padrões
+- Preço relativamente acessível em alguns tipos
+- Não mancha facilmente (baixa porosidade)
+
+**Considerações importantes:**
+
+A espessura aparente da bancada geralmente é resultado de uma técnica de montagem. A pedra principal tem cerca de 2-3cm de espessura. Aquela borda mais grossa que vemos é na verdade outra peça de pedra colada em ângulo de 45 graus, criando o que chamamos de "saia". Essa saia pode ter de 3 a 5cm de altura mínima.
+
+Para economizar, reduza ao máximo essas áreas extras:
+- Minimize a saia (mantenha entre 3-5cm)
+- Elimine prolongamentos laterais desnecessários
+- Retire o "frontão" (prolongamento que sobe na parede) quando a parede já tiver revestimento cerâmico ou porcelanato
+- Elimine o "pé" (prolongamento que desce até o chão) — elemento decorativo que aumenta muito o custo
+
+> [!dica]
+> Os preços de granito variam muito entre tipos que são visualmente similares. Por exemplo, o Preto São Gabriel pode custar próximo de R$ 1.000/m² enquanto o Verde Ubatuba custa R$ 300/m² na mesma região. Pesquise alternativas com aparência parecida.
+
+**Escolha de cores:**
+
+Combine com o piso. Se o piso for claro, contraste com bancada escura. Se o piso for escuro, use bancada clara. Também funciona trabalhar tom sobre tom (piso bege com granito amarelado/bege).
+
+##### Mármore
+
+O mármore é reconhecível pelos veios e "rajados" em vez das pintinhas do granito. A partir de R$ 600 o metro quadrado, podendo ultrapassar R$ 1.000.
+
+**Desvantagens significativas:**
+- Mais poroso que o granito
+- Mancha com facilidade
+- Perde o brilho quando exposto a produtos de limpeza pesados
+- Baixa resistência a ácidos
+- Requer cuidados constantes
+
+> [!atencao]
+> Limão, suco de uva e outros ácidos mancham o mármore. Mesmo com impermeabilização, o risco permanece. Para cozinhas, o porcelanato que imita mármore pode ser melhor escolha, oferecendo a estética sem os problemas de manutenção.
+
+##### Nanoglass e Marmoglass
+
+Materiais compostos de pó de mármore, pó de pedra e vidro. O nanoglass é suficiente para uso residencial (o superglass é ainda mais resistente, mas desnecessário para residências).
+
+A partir de R$ 600 o metro quadrado em cidades grandes, podendo chegar a R$ 1.600 em regiões menores.
+
+**Vantagens:**
+- Não mancha (muito menos poroso que mármore)
+- Resistente
+- Variedade de cores, inclusive tons claros
+- Durável
+
+**Economia na instalação:**
+
+Aproveite o recorte do cooktop. Esse pedaço circular removido para encaixe do cooktop custa cerca de R$ 400 e normalmente é descartado. Reutilize-o em outra área da bancada, aceitando fazer emendas. As emendas podem ser disfarçadas com bom posicionamento.
+
+##### Quartzo Stone e Silestone
+
+Pedras artificiais que imitam quartzo, mármore e granitos nobres, além de oferecerem cores sólidas.
+
+**Vantagem principal:** não são porosos, então não mancham de forma alguma. São os materiais mais indicados quando se quer garantia absoluta contra manchas.
+
+**Desvantagem:** preço elevado, geralmente acima de R$ 800/m².
+
+##### Porcelanato
+
+Excelente relação custo-benefício quando bem executado. O preço varia conforme o tamanho e tipo da peça escolhida.
+
+**Vantagens:**
+- Menos poroso que mármore
+- Resistente
+- Grande variedade estética
+- Pode incluir cuba esculpida (economiza R$ 200-500 da cuba avulsa)
+- Aceita cores claras sem risco de manchas
+
+**Desafio:** encontrar mão de obra especializada. O porcelanato para bancada é todo recortado e colado artesanalmente. Não tem superfície de suporte por baixo — é o próprio porcelanato com reforços. Algumas fábricas e empresas de granito já oferecem esse serviço.
+
+**Escolha do porcelanato:**
+- Use PEI 2 ou superior (resiste melhor a produtos químicos e abrasão)
+- Prefira retificado (juntas menos visíveis)
+- Evite externo e natural (mais porosos e difíceis de limpar)
+- Polido, esmaltado ou acetinado funcionam bem
+
+> [!exemplo]
+> Com 80m² de bancadas (cozinha + banheiros), a diferença entre porcelanato (cerca de R$ 1.141) e pedra artificial (cerca de R$ 6.000) representa economia de quase R$ 5.000.
+
+##### Inox
+
+As cubas de inox também podem ser usadas como bancadas ou em composição com outros materiais.
+
+**Características:**
+- Fácil limpeza
+- Aceita material quente sem problemas
+- Pode riscar ou amassar
+- Variedade de formatos e preços (de muito acessível a premium)
+- Formatos quadrados e retos são mais caros e elegantes
+
+> [!atencao]
+> Evite cortar direto sobre qualquer bancada. Use sempre tábua de corte para preservar o material.
+
+##### Vidro
+
+Pode ser usado em bancadas de banheiro, home office e mesas de jantar. Menos comum em cozinhas.
+
+**Especificações:**
+- Use vidro temperado
+- Espessura varia de 3mm a 25mm
+- Pode ter acabamento bisotado (opcional, encarece)
+
+**Vantagem:** em algumas regiões compete em preço com granito.
+
+##### Concreto
+
+Bancada de concreto armado pode ser solução econômica e estilosa, especialmente se executada pelo próprio proprietário.
+
+**Composição da bancada:**
+
+A forma representa a maior parte do custo. Após a concretagem, a forma é descartada. O concreto em si é relativamente barato.
+
+**Execução:**
+1. Monte a forma (maior custo do processo)
+2. Posicione ferragem para reforço
+3. Prepare a massa — não use concreto comum
+4. Use caute ou argamassa com massa colante (os polímeros da massa colante dão impermeabilidade e resistência)
+5. Concretagem
+6. Cura adequada
+7. Impermeabilização obrigatória
+
+> [!atencao]
+> A impermeabilização é fundamental. O concreto é poroso e pode manchar. Use resina epóxi (cria camada tipo vidro) ou outros impermeabilizantes de qualidade. A resina epóxi é mais eficaz que a resina acrílica para essa aplicação.
+
+**Aplicação da massa de acabamento:**
+
+Após a forma curada, você pode aplicar uma camada de cimento espatulado por cima para dar acabamento mais fino e liso. Pode ser:
+- Cimento comum espatulado
+- Cimento branco (resultado mais claro)
+- Aplicado enquanto o concreto está fresco ou depois da cura
+
+##### Madeira
+
+Bancadas de madeira são muito utilizadas nos Estados Unidos e podem ser excelente opção de baixo custo no Brasil.
+
+**Requisitos:**
+- Madeira resistente à água (cumaru, ipê, muiracatiara)
+- Espessura mínima de 3cm (evita empenamento)
+- Tratamento com hidrorrepelente
+- Manutenção periódica (lixamento e reaplicação do protetor)
+
+> [!exemplo]
+> Três bancadas de banheiro em madeira maciça: R$ 200 no total (1,40m² de bancada), já com lixamento e hidrorrepelente. Valor de 2017.
+
+**Se não encontrar peça larga:**
+
+Madeiras com 60cm de largura são raras. Compre tábuas de 30cm e mande laminar (unir) em marcenaria. A união bem feita garante que não vai empenar.
+
+**Cuidados:**
+- Não apoiar panelas quentes
+- Limpar imediatamente respingos
+- Manutenção a cada alguns anos
+
+###### Alternativas em madeira industrializada
+
+**Compensado naval:** muito econômico, aceita água bem, requer bom envernizamento. Uma chapa de 2,20m × 1,60m custa cerca de R$ 150. Apenas corte e envernize.
+
+**MDF revestido de fórmica:** material que aguenta água, pode ser usado em cozinhas. Requer acabamento nas bordas expostas.
+
+#### Comparativo de preços (simulação com 3,8m² total)
+
+Valores aproximados considerando as bancadas de toda a casa (cozinha, banheiros e lavabo), com tamanhos já otimizados (sem excessos de saia, frontão ou pé):
+
+| Material | Valor total | Observações |
+|----------|-------------|-------------|
+| Granito cinza andorinha | R$ 989 | Pedra + montagem inclusos |
+| Mármore Carrara | R$ 4.564 | Mancha facilmente |
+| Mármore acessível | R$ 1.400 | Varia muito por tipo |
+| Pedra artificial | ~R$ 6.000 | Não mancha, alta durabilidade |
+| Porcelanato | R$ 1.141 | Inclui economia da cuba esculpida |
+| Madeira maciça | R$ 684 | Com verniz hidrorrepelente |
+| Concreto (faça você mesmo) | R$ 220 | Só material, exige habilidade |
+| Concreto (com mão de obra) | ~R$ 600 | Compete com madeira |
+
+> [!dica]
+> A economia entre escolher granito simples em vez de mármore Carrara para uma casa inteira: R$ 3.575. Em uma decisão.
+
+#### Dicas gerais de economia
+
+##### Elimine prolongamentos desnecessários
+
+O "pé" lateral de uma bancada (prolongamento vertical decorativo) pode ter área similar à da própria bancada. Em uma ilha, dois pés laterais dobram o custo.
+
+**Exemplo:** ilha de 50cm de profundidade
+- Sem laterais: R$ 427
+- Com uma lateral: R$ 654 (+53%)
+- Com duas laterais: R$ 877 (+105%)
+
+##### Aproveite recortes
+
+O círculo removido para o cooktop normalmente é jogado fora. Reutilize em áreas menores, aceitando emendas bem posicionadas.
+
+##### Simplifique os acabamentos
+
+- Saia mínima (3-5cm)
+- Sem frontão quando há revestimento na parede
+- Sem pé decorativo
+- Sem prolongamentos laterais desnecessários
+
+##### Considere o contexto
+
+**Para cozinha:**
+- Inox: funcional, durável, acessível
+- Nanoglass/porcelanato: se quer cor clara sem risco
+- Granito: bom custo-benefício, evite claros demais
+- Evite mármore: mancha com alimentos ácidos
+
+**Para banheiro:**
+- Madeira com cuba de sobrepor: muito econômico
+- Porcelanato com cuba esculpida: elimina custo da cuba
+- Granito: versátil e durável
+
+**Para lavabo:**
+- Criatividade: pode usar materiais reaproveitados
+- Madeira: funciona bem (pouco uso intenso)
+- Soluções menores e decorativas
+
+#### Cubas e válvulas
+
+A escolha da cuba afeta custo e ergonomia da bancada.
+
+##### Tipos de instalação
+
+**Suspensa:** a cuba se fixa direto na parede, sem bancada. Economia máxima.
+
+**Sobrepor (apoio):** a cuba fica sobre a bancada, com beira aparente. Muito acessível, diversas opções de materiais (porcelana, metal, vidro). Atenção à ergonomia — a altura da cuba soma à altura da bancada.
+
+**Embutida:** cuba instalada por baixo da bancada. Mais funcional, facilita limpeza da bancada (empurra água direto pra dentro). Ideal para cozinha e banheiro de uso diário.
+
+**Esculpida:** esculpida no próprio material da bancada (porcelanato, granito). Bonita, monolítica, mas cantos retos dificultam limpeza. Melhor para lavabos que para cozinha de uso intenso.
+
+**Semi-encaixe:** parte fica embutida, parte projetada. Estética interessante, ergonomia confortável.
+
+> [!dica]
+> Para cozinha com bancada de madeira ou concreto, crie área rebaixada ao redor da cuba (área molhada). Essa borda contém respingos e protege o material.
+
+##### Materiais de cuba
+
+**Porcelana:** mais comum, grande variedade, durável, não suja, excelente escolha geral.
+
+**Pedra esculpida:** requer impermeabilização interna (resina epóxi cria camada vítrea). Artesanal e única.
+
+**Concreto:** pode ser feita pelo próprio proprietário. Dosagem correta é fundamental — use caute ou argamassa com massa colante AC3 (não concreto comum). Reforce com ferragem principalmente nos cantos. Impermeabilize bem após cura.
+
+**Metal (reciclado):** barato, experimental. Durabilidade questionável, melhor para usos temporários ou pouco intensos (lavabo de visitas).
+
+**Vidro:** acessível, mas exige cuidado. Pode quebrar.
+
+**Madeira:** com impermeabilização adequada, pode funcionar.
+
+##### Ergonomia
+
+A altura final bancada + cuba deve ser adequada às pessoas que usam. Pesquise "altura ideal bancada" considerando a altura dos moradores. Tire a média se houver grande diferença.
+
+**Atenção:** cubas de apoio somam 10-15cm extras à altura da bancada. Ajuste a base conforme necessário.
+
+#### Válvulas e acabamentos
+
+A válvula (também chamada "ralo" ou "falcê") tem 32mm de diâmetro padrão. Vem com canopla de acabamento que esconde imperfeições do furo.
+
+**Instalação:**
+1. Marque o círculo da válvula sobre a cuba/bancada
+2. Fure (furadeira, martelinho, conforme material)
+3. Aplique silicone sob a canopla
+4. Aperte a válvula (ela prende a cuba na bancada)
+
+> [!dica]
+> Válvulas podem ser encontradas a partir de R$ 3 (plástico) até R$ 700 (rose gold). Escolha conforme necessidade e orçamento.
+
+---
+
+**Resumo:** bancadas representam investimento significativo. Escolhas conscientes de material, dimensionamento otimizado e execução cuidadosa podem gerar economia de milhares de reais mantendo funcionalidade e estética.
 
 ### 83. Metais, Louças e Cubas
 
-*Descrição não disponível para esta aula.*
+A escolha de metais, louças e cubas impacta tanto a funcionalidade quanto o orçamento da construção. Este tópico abrange desde tipos de cubas até acessórios de banheiro, permitindo decisões informadas que equilibram custo e qualidade.
 
-### 84. Parede Difereciada
+#### Cubas: Tipos e Formas de Instalação
 
-*Descrição não disponível para esta aula.*
+As cubas podem ser instaladas de várias maneiras, cada uma com características específicas:
+
+##### Cuba Suspensa
+Fica completamente suspensa, encaixando-se direto na parede. Não requer bancada.
+
+##### Cuba de Apoio
+A cuba tem beiral que fica por cima da bancada. É uma das mais baratas e fáceis de encontrar. Disponível em tamanhos variados — desde 20cm para lavabos pequenos até modelos maiores. Permite reciclagem criativa de objetos como bacias de metal.
+
+> [!atencao] **Cuidado com a ergonomia:** cubas de apoio adicionam altura extra. Ao definir a altura final da bancada até o chão, considere a altura da cuba. Tire a média das alturas dos usuários principais.
+
+##### Cuba Embutida
+Fica por baixo da bancada. É a mais funcional para uso diário, especialmente em banheiros e cozinhas. Facilita muito a limpeza — basta puxar a água da bancada direto para dentro da cuba.
+
+**Para cozinha:** prefira cuba embutida em área levemente rebaixada da bancada (área molhada), que retém a água e facilita a organização de escorredores de pratos.
+
+##### Cuba Esculpida
+Feita na própria bancada (porcelanato ou granito). Visualmente bonita, mas:
+- Geralmente mais cara (exige trabalho de recorte e colagem)
+- Difícil de limpar (cantos retos acumulam sujeira)
+- Rejunte pode manchar
+
+> [!dica] Indicada para lavabos (uso eventual), não para cozinha (uso intenso).
+
+Permite embutir ralos com peças de porcelanato flutuantes por cima — a água "some" por baixo. Manutenção requer remover a peça.
+
+##### Cuba de Semi-encaixe
+Fica levemente para fora da bancada. Opção intermediária entre apoio e embutida — confortável e esteticamente agradável.
+
+##### Cuba de Sobrepor
+Tem beiral que fica sobre a bancada, similar à de apoio, mas geralmente com acabamento nas bordas mais detalhado.
+
+---
+
+#### Materiais de Cubas
+
+##### Porcelana
+- Mais comum e com maior variedade (preços, cores, tamanhos)
+- Extremamente durável
+- Não suja facilmente
+- Anos de uso comprovado
+
+> Não há erro em escolher porcelana.
+
+##### Pedra Natural Esculpida
+Exige impermeabilização interna com resina epóxi (não acrílica). A resina epóxi cria película resistente, tipo vidro, impedindo absorção de água. Não é material caro e pode ser aplicado pelo próprio construtor.
+
+##### Concreto
+Cuba de concreto (ou argamassa armada) pode ser executada com baixo custo.
+
+**Receita básica:**
+- Não usar concreto comum
+- Utilizar argamassa ou grout com adição de massa colante (cola de porcelanato)
+- A massa colante adiciona polímeros que conferem impermeabilidade, aderência e resistência
+
+> [!exemplo] Edu e Matheus Gil (canais do YouTube) têm tutoriais completos sobre cubas de concreto.
+
+**Dosagem:** tipo farofa, com mínimo de água possível. Quanto mais água, menos resistência. Incluir armadura de ferro para evitar trincas durante transporte e uso.
+
+##### Madeira
+Já foi executada com sucesso. Requer resinagem para durabilidade. Ainda sem dados de longo prazo sobre manutenção.
+
+##### Metal
+Cubas recicladas de tachos de cobre, bacias metálicas. Preço acessível, mas durabilidade a ser testada. Indicada para uso provisório ou em lavabos de baixa frequência.
+
+##### Vidro
+Bem em conta. Agradável em algumas situações, mas não muito comum em residências.
+
+---
+
+#### Válvulas (Ralos)
+
+Peça que faz a ligação entre cuba e tubulação. Disponível em diversos materiais e preços:
+
+- **Plástico comum:** a partir de R$ 3
+- **Louça esmaltada:** a partir de R$ 20
+- **Rose gold (decorativa):** até R$ 700
+
+**Diâmetro padrão:** 32mm (1 ¼") para a maioria das cubas residenciais.
+
+##### Instalação em Cuba Reciclada
+
+1. Posicione a válvula sobre a cuba
+2. Trace o contorno do furo necessário
+3. Quebre a porcelana com martelo e prego, ou use furadeira com broca apropriada
+4. Faça o mesmo furo na bancada
+5. Encaixe a válvula, que prende a cuba na bancada por pressão
+6. Aplique silicone sob a canopla (anel de acabamento) para vedar
+
+> A válvula trava a cuba sem necessidade de cola adicional.
+
+---
+
+#### Cubas para Cozinha
+
+##### Inox
+De longe a melhor opção para cozinha:
+
+- **Limpeza:** muito fácil
+- **Preço:** acessível
+- **Disponibilidade:** grande variedade de tamanhos
+- **Acessórios:** modelos com torneira integrada, telinha, área aramada para escorrer, ralo embutido atrás
+
+**Durabilidade:** extremamente alta. Cubas de demolição ainda em perfeito estado podem ser reutilizadas.
+
+> [!exemplo] A cuba da casa no curso foi adquirida de demolição. A bancada foi dimensionada para o tamanho da cuba existente.
+
+---
+
+#### Comparativo de Preços (Exemplos Regionais)
+
+##### Para Banheiros
+
+| Tipo | Faixa de Preço |
+|------|----------------|
+| Porcelana embutida | A partir de R$ 70 |
+| Porcelana de sobrepor | A partir de R$ 150–170 |
+| Porcelana de apoio (30cm diâmetro) | ~R$ 160–170 |
+
+**Diferenças de acabamento:**
+- Embutida: sem acabamento lateral (fica oculto)
+- Sobrepor: bordas superiores com acabamento (ficam visíveis)
+
+##### Para Cozinha
+
+- **Inox básica:** competitiva com porcelana
+- **Inox com acessórios:** depende da marca/modelo
+
+> [!dica] Mercado Livre oferece preços muito competitivos. Permite devolução em 30 dias sem justificativa (caso não goste). Torneiras e cubas adquiridas lá com ótima experiência (4 anos de uso sem problemas).
+
+---
+
+#### Acessórios de Banheiro
+
+##### Essenciais
+- **Toalheiro de rosto**
+- **Suporte de papel higiênico**
+
+##### Desaconselháveis
+- **Saboneteiras de vidro/prateleiras externas:** ocupam espaço, risco de queda e cortes. Preferir nichos embutidos na parede.
+
+> [!atencao] Nichos são mais seguros, econômicos e não obstruem o box.
+
+##### Opções de Baixo Custo
+
+**PVC pintado:**
+- Suporte de papel higiênico
+- Porta-toalhas
+- Prateleiras com suportes de PVC
+
+> [!exemplo] A casa do curso utilizou cano PVC pintado de preto para porta papel higiênico e porta-toalhas durante 4 anos com sucesso.
+
+**Cobre:**
+- Caninhos de cobre para prateleiras, luminárias, metais
+- Mais caro que PVC, mas ainda acessível
+- Disponível em lojas de bricolagem e online
+
+**Pé de máquina de costura:**
+- Base para bancadas de lavabo com cuba de apoio
+- Visual retrô/rústico
+- Permite gavetas/nichos para armazenamento
+
+**Barril/Tonel:**
+- Tratado como base de bancada
+- Prateleiras internas
+- Portinha para acesso à válvula
+
+---
+
+#### Metais e Torneiras
+
+##### Torneiras de Jardim
+**Preço:** ~R$ 7  
+**Aplicação:** substituição de torneiras convencionais em lavabos/banheiros  
+**Estética:** retrô/rústico  
+**Durabilidade:** comprovada (4+ anos de uso)
+
+> Duas torneiras foram substituídas posteriormente por modelos presenteados, mas a terceira permanece em uso.
+
+##### Torneiras Convencionais
+
+**Faixa de preço no Mercado Livre:**
+- Simples: ~R$ 170–270
+- Com duplo jato (normal + ducha): encontrada por R$ 273 (com frete)
+
+> [!exemplo] Torneira com jato duplo custava R$ 2.200–2.300 em lojas físicas. Comprada no Mercado Livre por R$ 273. Funcionando perfeitamente há 4 anos.
+
+---
+
+#### Puxadores de Móveis
+
+##### Opção Mais Econômica: Puxador Cavado (Cava)
+Falta no próprio painel que serve de puxador. Não requer peça adicional.
+
+##### Faça Você Mesmo
+
+**Couro/Cinto:**
+- Restos de cintos ou tiras de couro
+- Aplicação simples
+- Custo próximo de zero
+
+**Furos com serra-copo ou fresa:**
+- Furo passa-mão no próprio painel
+- Acabamento limpo
+- Funcional e moderno
+
+> [!dica] Gavetas podem emperrar se a marcenaria tiver erro de projeto (ex: 2cm de diferença). Nesse caso, substituir por sistema de furos é solução prática.
+
+---
+
+#### Luminárias e Arandelas
+
+**Mercado Livre** é excelente fonte:
+
+- **Pendentes metálicos (imitação cobre):** 3 unidades por R$ 120 (R$ 40/unidade)
+- **Arandelas:** diversos modelos acessíveis
+- **Política de devolução:** 30 dias, mesmo sem defeito
+
+> Permite testar no ambiente real antes de decidir manter.
+
+---
+
+#### Tubulações Aparentes (Estilo Industrial)
+
+Em vez de ocultar tubulações, expô-las pode agregar valor estético:
+
+- Tubos de cobre pintados
+- Canos de PVC pintados (ex: vermelho pintado de verde)
+- Registros, conexões como elementos decorativos
+
+> [!exemplo] Na garagem da casa do curso, a tubulação verde aparente tornou-se elemento decorativo intencional.
+
+---
+
+#### Manutenção Preventiva
+
+Programe manutenções regulares **antes** de surgirem problemas:
+
+- Limpeza de caixa d'água
+- Limpeza de caixa de gordura
+- Limpeza de ralos
+- Limpeza de arejadores de torneiras (acumulam sujeira)
+- Troca de vedações de registros
+- Troca de chuveirinhos quebrados
+
+> Manutenção preventiva evita problemas maiores e caros no futuro.
+
+---
+
+#### Resumo de Economia
+
+**Onde economizar sem perder qualidade:**
+1. Comprar online (Mercado Livre) em vez de lojas físicas
+2. Usar PVC ou cobre para acessórios em vez de peças prontas
+3. Fazer você mesmo: puxadores, prateleiras, suportes
+4. Reutilizar materiais: pé de máquina, barris, tachos
+5. Cubas de concreto/argamassa em vez de importadas
+6. Torneiras de jardim para lavabos
+7. Eliminar acessórios desnecessários (saboneteiras de vidro)
+8. Nichos embutidos em vez de prateleiras externas
+
+**Onde não economizar:**
+- Qualidade de dobradiças e fechaduras (manutenção futura)
+- Impermeabilização de cubas artesanais
+- Vedação adequada de válvulas
+
+### 84. Parede Diferenciada
+
+As paredes diferenciadas são acabamentos que fogem do tradicional, agregando valor estético e personalidade aos ambientes sem necessariamente encarecer a obra.
+
+#### Pastilhas
+
+Pastilhas são pecinhas pequenas que podem ser de vidro (vitrificadas) ou cerâmica. Geralmente vêm em telas, o que facilita e acelera a aplicação.
+
+**Indicação de uso:** pequenas áreas específicas, como nichos ou detalhes pontuais. Não são indicadas para grandes extensões porque:
+- O material já é caro
+- Criam excesso de informação visual quando aplicadas em grandes áreas
+
+**Vantagem prática:** A tela permite cortes fáceis para encaixar em qualquer móvel ou acabamento, minimizando perdas.
+
+#### Revestimento em Pedra
+
+Você pode aplicar pedras naturais nas paredes de duas formas:
+
+1. **Como revestimento:** aplicadas como placas, do mesmo modo que cerâmica
+2. **Como estrutura:** levantando a parede diretamente em pedra
+
+##### Parede de Gabião com Seixos
+
+Técnica decorativa e funcional que consiste em:
+- Construir uma grade/gradeado de pedra
+- Preencher com seixos rolados (pedras arredondadas sem quinas, polidas naturalmente em rios)
+- Resulta em parede vazada com ventilação permanente
+
+**Aplicação ideal:** Terrenos em declive ou aclive que precisam de muro de arrimo. A parede de gabião já nasce bonita e funcional, servindo tanto estruturalmente quanto esteticamente.
+
+#### Revestimento em Madeira
+
+Madeira nas paredes cria ambientes aconchegantes e pode ser executada de forma econômica:
+
+##### Opção 1: Pinus (faça você mesmo)
+- Utilize ripas de pallet reaproveitadas
+- Super baixo custo
+- Ótimo para painéis de TV
+
+##### Opção 2: Piso Laminado na Parede
+- Reaproveite sobras de piso laminado
+- Aplicação simples se a parede já estiver com massa corrida
+- Valoriza a parede dando aparência de material mais caro
+- Pode ser utilizado inclusive em lavabos
+
+##### Opção 3: Piso Vinílico na Parede
+- Adesivo, fácil de aplicar
+- Imita madeira com custo baixo
+- Pode fazer rodapé alto com o mesmo material
+
+> [!dica] Rodapé Alto
+> Rodapés altos (mais de 10cm) criam efeito visual sofisticado e são facilmente executados com laminado ou vinílico.
+
+#### Gesso 3D
+
+Revestimento tridimensional que cria texturas e relevos na parede.
+
+**Como economizar:**
+- Compre formas prontas (plásticas ou silicone)
+- Faça você mesmo durante a obra: enquanto projeta, vai produzindo as peças
+- O gesso em pó é muito barato (R$ 5 a R$ 10 o quilo)
+- Produção simples: mistura gesso com água, despeja na forma, aguarda secar
+
+**Custo:** Fazer você mesmo sai de 10 a 20 vezes mais barato do que comprar as placas prontas.
+
+Vários tutoriais na internet ensinam o processo completo de moldagem e aplicação.
+
+#### Papel de Parede
+
+Papel de parede é ótimo para renovação de ambientes, especialmente em **reformas**. Para primeira construção, não é a opção mais barata, mas oferece desenhos e texturas impossíveis de replicar com pintura.
+
+##### Alternativa Econômica: Tecido
+
+No lugar do papel de parede tradicional (que pode custar R$ 300+ o rolo), utilize **tecido**:
+
+- Aplica-se da mesma forma: com cola para papel de parede
+- Procure tecidos com boa cobertura (se a parede for escura, escolha tecidos com muitos fios)
+- **Custo:** Aproximadamente metade do preço do papel de parede
+- **Durabilidade:** Similar ao papel de parede
+
+##### Lambi-Lambi (Colagem Artística)
+
+Técnica ultra-econômica que consiste em colar materiais diretamente na parede:
+- Jornais
+- Revistas
+- Recortes variados
+- Páginas de livros antigos
+
+Cria texturas únicas e personalizadas praticamente sem custo.
+
+#### Tijolinho de EPS (Isopor)
+
+Para quem quer o efeito de tijolinho aparente mas não pode construir a parede assim, ou está em reforma:
+
+**Material:** Placas de EPS (isopor)
+
+**Processo:**
+1. Corte o EPS no formato de tijolinhos
+2. Use ferro de solda (R$ 30 a R$ 40) para criar texturas e imperfeições
+3. "Destrua" artisticamente: queime bordas, faça ranhuras, crie relevos
+4. Cole na parede
+5. Pinte com várias tonalidades (marrom claro, marrom escuro, tons terrosos)
+
+**Dica de pintura:** O segredo é aplicar várias tonalidades sobrepostas para criar profundidade. Não existe pintura errada — persista até encontrar o resultado que agrada.
+
+**Custo:** Irrisório comparado aos R$ 150/m² do brick natural (revestimento de tijolinho industrializado).
+
+#### Custo-Benefício
+
+| Acabamento | Custo | Dificuldade | Impacto Visual |
+|------------|-------|-------------|----------------|
+| Pastilha em nichos | Médio-alto | Baixa | Alto |
+| Pedra natural | Variável* | Média | Alto |
+| Madeira/pallet | Muito baixo | Baixa | Alto |
+| Piso laminado | Baixo | Baixa | Médio-alto |
+| Gesso 3D (faça você mesmo) | Muito baixo | Média | Alto |
+| Tecido (substituto papel parede) | Baixo | Baixa | Alto |
+| Tijolinho EPS | Muito baixo | Média | Alto |
+
+*Pedra: depende da disponibilidade regional
+
+> [!atencao] Priorização
+> Paredes diferenciadas devem ser usadas estrategicamente. Escolha **uma ou duas paredes** por ambiente para receber tratamento especial. O restante pode ter acabamento simples (pintura, massa texturizada, cimento queimado).
 
 ### 85. Estilos
 
-*Descrição não disponível para esta aula.*
+Esta aula apresenta os principais estilos arquitetônicos e de decoração que podem ser aplicados em projetos residenciais, com foco especial em quais estilos permitem maior economia sem perder qualidade estética.
+
+#### Por que definir o estilo desde o início
+
+O estilo não é apenas uma questão decorativa — ele deve ser definido **junto com o projeto arquitetônico**. Os acabamentos, a localização das tomadas, o tipo de iluminação e até os móveis precisam estar alinhados com o conceito escolhido para que o resultado final seja coerente.
+
+Ninguém vive no vácuo: você vai se inspirar em algo que já existe, combinar referências e adaptar ao ambiente em que vive. O importante é fazer escolhas conscientes desde o planejamento.
+
+---
+
+#### Estilo Clássico
+
+**Características:**
+- Elegância atemporal inspirada na arquitetura grega e romana
+- Muitos detalhes e adornos (boiseries, rodatetos, capitéis)
+- Móveis com curvas, pernas torneadas, acabamentos em veludo
+- Paleta de cores: marrom, bege, dourado, azul marinho
+- Tapetes, cortinas pesadas, papel de parede floral
+
+**Aplicações de baixo custo:**
+- Boiseries podem ser feitas com fitas ou molduras de MDF/PVC aplicadas na parede
+- Rodatetos em isopor ou gesso (mais acessíveis que os importados)
+- Aproveitar móveis herdados da família
+- Recuperar móveis antigos em lojas de usados ou demolições
+
+> [!atencao]
+> O estilo clássico **não é dos mais econômicos** quando executado integralmente. Móveis novos com esse perfil são caríssimos. Só vale a pena financeiramente se você herdar peças ou encontrar móveis antigos a bom preço.
+
+**Resumo:** Requinte, aconchego, atemporal. Ideal para quem tem acesso a móveis de família ou gosta de garimpar peças antigas.
+
+---
+
+#### Estilo Provençal
+
+Muito similar ao clássico, mas com ar de fazenda e paleta **mais definida**.
+
+**Características:**
+- Tons pastéis: lilás, rosa, branco, madeira clara
+- Romantismo, delicadeza
+- Menos formal que o clássico, mais acolhedor
+
+**Custo:** Também não é dos mais baratos. Sai no mesmo patamar do clássico.
+
+---
+
+#### Estilo Retrô
+
+**Características:**
+- Nostalgia de décadas passadas (anos 50, 60, 70)
+- Cores vivas e vibrantes (laranja, verde, amarelo)
+- Múltiplas estampas: bolinhas, listras, pop art, xadrez
+- Objetos vintage: TVs antigas, rádios, jukeboxes, discos de vinil
+- Luminárias industriais (baratas e amplamente disponíveis)
+
+**Aplicações de baixo custo:**
+- Composição de quadros feita com recortes de revistas, pôsteres, camisetas emolduradas
+- Papel de parede ou tecido colado na parede (tecido custa cerca de metade do preço do papel de parede)
+- Reaproveitar objetos antigos como decoração
+- Faixas pintadas nas paredes
+
+> [!dica]
+> Retrô pode ser **muito barato** se você reciclar objetos que já tem ou garimpar em brechós. A estética valoriza o "imperfeito" e o "nostálgico", então não exige acabamentos impecáveis.
+
+**Resumo:** Divertido, colorido, acessível. Ótimo para quem gosta de história e quer personalizar com criatividade.
+
+---
+
+#### Estilo Oriental
+
+**Características:**
+- Minimalismo e tranquilidade (zen)
+- Móveis baixos (mesas, cadeiras, camas próximas ao chão)
+- Pouquíssimas cores: preto, branco, marrom, bege — e vermelho como único destaque vibrante
+- Esquadrias com divisões geométricas (muito comuns em ferro, baratas de executar)
+- Plantas como bambu
+
+**Aplicações de baixo custo:**
+- Esquadrias de ferro com divisórias quadriculadas são **mais baratas** que esquadrias de alumínio ou madeira
+- Permitem uso de vidro simples (não temperado), reduzindo custo
+- Servem também como proteção contra intrusões
+
+> [!atencao]
+> Móveis baixos exigem adaptação. Sentar no chão com as pernas dobradas não é confortável para quem não está acostumado. Avalie se o estilo combina com seu estilo de vida.
+
+**Resumo:** Linhas retas, paz, espaços abertos. Busca tranquilidade e contemplação.
+
+---
+
+#### Estilo Minimalista
+
+**Características:**
+- **Menos é mais**
+- Mínimo de objetos e informações visuais
+- Tons neutros: cinza, branco, preto, pastéis
+- Texturas similares ou complementares
+- Nada de enfeites desnecessários
+
+**Aplicações de baixo custo:**
+- Reduz a necessidade de comprar objetos decorativos
+- Exige bom sistema de armazenamento (armários fechados) para esconder a bagunça
+- Quadros e detalhes podem ser feitos em casa (molduras de vidraçaria + arte impressa)
+
+> [!dica]
+> Minimalismo força você a viver com menos. Experimente: anote os objetos que você **realmente usa** durante um mês. O resto pode ser descartado ou guardado.
+
+**Método prático:** Coloque tudo em caixas. Tire das caixas apenas o que for usar. Após um mês, o que ficou na caixa provavelmente não é necessário.
+
+**Resumo:** Calmo, clean, funcional. Ajuda a reduzir ansiedade e bagunça. Menos manutenção, menos objetos fora do lugar.
+
+---
+
+#### Estilo Escandinavo
+
+**Características:**
+- Europeu (norte da Europa: Suécia, Noruega, Dinamarca)
+- Tons **muito claros**: branco, cinza claro, madeira natural clara
+- Detalhes geométricos e minimalistas
+- Mantas, tapetes, texturas naturais (lã, algodão, couro)
+- Móveis de madeira clara ou metal com tampos de madeira
+- Decoração discreta mas presente (cada objeto tem um propósito estético)
+
+**Aplicações de baixo custo:**
+- Mesinha de tambor com pernas de metal (tutorial disponível em canais DIY)
+- Luminárias pendentes simples
+- Decoração com plantas, folhas, insetos emoldurados
+- Cimento queimado nas paredes
+- Instalações elétricas/hidráulicas aparentes (desde que organizadas)
+
+> [!exemplo]
+> Cores: branco, preto, marrom, cinza. Nunca cores que "doem nos olhos". A combinação de tapetes de diferentes texturas é comum.
+
+**Resumo:** Aconchegante, contemporâneo, clean. Muito popular entre a geração atual. Fácil de replicar com DIY.
+
+---
+
+#### Estilo Urban Jungle
+
+**Regra única:** **Plantas por todos os lados.**
+
+**Características:**
+- Pode ser combinado com qualquer outro estilo
+- O protagonismo é das plantas, não dos móveis
+- Cozinha, sala, quartos — todos os ambientes têm plantas
+
+**Aplicações de baixo custo:**
+- Capturas selvagens: pegue mudas de amigos, vizinhos, família
+- Propague plantas que você já tem
+- Use vasos simples, cachepôs de palha (R$ 8 na região dos instrutores), cestos
+
+> [!atencao]
+> **Respeite as necessidades das plantas.** Não coloque cactos ou suculentas em ambientes internos sem sol direto — eles vão morrer ou atrofiar. Use apenas espécies de sombra ou meia-sombra dentro de casa.
+
+**Espécies recomendadas para interiores:**
+- Samambaia
+- Jibóia (diversos tipos)
+- Singônio
+- Monstera (Costela-de-Adão)
+- Monstera adansonii (menor)
+- Alocásias
+
+**Resumo:** Baratíssimo se você propagar suas próprias plantas. Terapêutico para quem gosta de cuidar de verde. Traz vida e frescor aos ambientes.
+
+---
+
+#### Estilo Boho (Boêmio)
+
+**Características:**
+- Despojado, descontraído, descolado
+- Nasceu com os hippies
+- **Mistura de estilos:** rústico + escandinavo + tropical + vintage + folk + romântico
+- Liberdade total: você vai juntando o que encontra e gosta
+- Contraste de materiais: metal + palha, madeira rústica + tecidos leves
+
+**Aplicações de baixo custo:**
+- Cama de pallet
+- Tapetes de taboa (R$ 80)
+- Cestos de palha para plantas (R$ 8)
+- Prateleiras de madeira simples
+- Macramês
+- Lanternas japonesas
+- Adornos redondos na parede
+- Potes, velas, objetos reaproveitados
+
+> [!dica]
+> Boho é o estilo da **reutilização**. Se você encontrou algo bonito na rua, em uma demolição, em um brechó — pode entrar. O importante é criar composições que façam sentido juntas.
+
+**Resumo:** Um dos **mais baratos**. Criativo, livre, acolhedor. Perfeito para quem gosta de garimpar e fazer DIY.
+
+---
+
+#### Estilo Rústico
+
+**Características:**
+- Cara de fazenda, campo, interior
+- Materiais **brutos e naturais**: madeira sem pintura, metal na cor do metal, concreto aparente, tijolo aparente, pedra
+- Pouquíssimo uso de cores artificiais (azul, verde, vermelho)
+- Couro, vidro, cimento queimado
+- Sensação de "descascado" ou "inacabado" pode ser proposital
+
+**Aplicações de baixo custo:**
+- Deixar tijolos aparentes em reformas (economiza reboco, massa, pintura)
+- Vigas e pilares de madeira aparentes
+- Estrutura metálica exposta
+- Pedras naturais
+- Barris e tonéis reaproveitados como móveis
+- Prateleiras de madeira bruta
+
+> [!exemplo]
+> Em reformas: descascar uma parede para expor o tijolo é mais barato do que refazer o acabamento. A "imperfeição" faz parte do estilo.
+
+**Resumo:** Próximo à natureza, honesto, prático. Aceita imperfeições. Materiais locais. Muito econômico.
+
+---
+
+#### Estilo Industrial
+
+**Características:**
+- Nasceu em Nova York, quando as pessoas ocuparam galpões industriais abandonados
+- Ambientes **muito abertos** (pouquíssimas divisórias)
+- Estrutura, tubulações e instalações **aparentes**
+- Materiais: ferro, concreto, cimento queimado, metal
+- Cores frias (cinza, preto, branco)
+- Madeira entra para "aquecer" o ambiente (senão fica frio demais)
+- Plantas, couro, lã, algodão trazem vida
+
+**Aplicações de baixo custo:**
+- **Elimina paredes divisórias** entre ambientes (enorme economia)
+- Ambientes definidos por móveis (sofá, tapete) e não por paredes
+- Cimento queimado no piso e paredes
+- Tubulações e fiação expostas (sem forro)
+- Móveis de metalon 2x2 (muito barato)
+- Nichos e prateleiras de ferro
+
+> [!atencao]
+> Sem elementos naturais (madeira, plantas, tecidos), o industrial vira **galpão frio e desconfortável**. É essencial equilibrar o metal e concreto com materiais que tragam aconchego.
+
+> [!exemplo]
+> Mezzaninos são comuns no estilo industrial: aproveitam pé-direito alto para criar um segundo pavimento (quarto em cima, cozinha/closet embaixo) sem precisar de paredes.
+
+**Resumo:** **Extremamente econômico.** Menos paredes, menos acabamentos, estrutura exposta. Perfeito para lofts e espaços amplos.
+
+---
+
+#### Estilo Tropical
+
+**Características:**
+- Sensação de praia, leveza, ventilação
+- Conexão com a natureza externa
+- Plantas tropicais, jardins integrados
+- Móveis leves (não acolchoados, para não esquentar)
+- Cadeiras vazadas, madeira clara
+- Tons claros e naturais
+- Muita iluminação natural
+- Vistas para áreas verdes
+
+**Diferença do Escandinavo:**
+- Escandinavo = frio, mantas, texturas quentes
+- Tropical = calor, ventilação, frescor
+
+**Aplicações de baixo custo:**
+- Similar ao escandinavo em materiais (madeira, tons neutros)
+- Diferença está nas plantas (tropicais) e na ventilação (ambientes mais abertos)
+- Estampas de folhagens
+
+**Resumo:** Fresco, arejado, luminoso. Ideal para climas quentes. Ajuda a combater calor e umidade.
+
+---
+
+#### Estilos Mais Econômicos (Resumo)
+
+Os estilos que permitem **maior economia** são:
+
+1. **Industrial** — Menos paredes, menos acabamentos, estrutura exposta
+2. **Rústico** — Materiais brutos, locais, sem necessidade de acabamento fino
+3. **Urban Jungle** — Decoração baseada em plantas (baixo custo se você propagar)
+4. **Boho** — Reutilização, garimpo, DIY
+5. **Escandinavo/Minimalista** — Menos objetos, menos desperdício (mas quadros e detalhes podem encarecer se comprados prontos)
+
+---
+
+#### Estilos Mais Caros
+
+- **Clássico** e **Provençal** — Móveis novos são caríssimos. Só vale a pena com móveis herdados ou de demolição.
+
+---
+
+#### Dica Final: Mood Board
+
+Antes de começar a obra, crie um **mood board** (painel de referências) para cada ambiente:
+- Imagens de inspiração
+- Paleta de cores
+- Texturas
+- Materiais
+
+Isso ajuda a manter consistência no projeto e evita compras impulsivas que não combinam com o conceito escolhido.
 
 ---
 
 ## Transcrição
-
-### Gravação 19
-
-Se você quiser esse piso mais claro ou colorido, você também pode fazer. Basta você adicionar pigmentos na mistura desse piso. Ele não é tão fácil deixar o poder bem branquinho, porque a gente tem que utilizar muito cimento branco, que é o cimento mais caro de ser utilizado do que o cimento comum. Então aí é mais fácil a gente conseguir cimentos queimados branquinhos pra paredes do que pra piso. Cimentos queimados não, desculpa, porque parece muito com cimento queimado. Mas esse aqui é o piso industrial.
-
-Outra vez alguém me pede pra eu especificar cimento queimado, eu especifico o piso industrial. Vocês vão ver agora o porquê. Outro piso também que é parecido com o industrial granilite, em que é colocado fragmentos de pedra, como marrom, granito, vidro, quartzo, na mistura do concreto e ele fica com esse acabamento. Exatamente. Esse daí vocês vão ver que tem peças bem grandes aparecendo aí, ou seja, peças bem grandes de vidro, de quartzo, tem que ser. Esse piso aí vai sair mais caro desse efeito. Esse da esquerda.
-
-Ainda é muito bonito, ele agrega valor estético maravilhoso, só que ele sai mais caro porque você vai ter que colocar bastante desses agregados, que são marrom, granito e vidro, quartzo também, e você vai ter que usar ligante mais claro. Como eu disse, pode ser a opção de utilizar o piso industrial. Pode ser a opção de utilizar a cola. Pode ser a opção de utilizar o cimento branco estrutural. Cimento branco estrutural. E é consorciamento comum, só que branco. Só que mais caro também, porque é branco.
-
-Esse aqui do lado direito, também é piso grande elite do Stelta, mas vocês vão entender que esse aqui já é bem minimal. Esse aqui é bem mais comum a gente ver sendo feito aí pelos locais. Inclusive na loja do meu quad é esse piso aí, grande elite, do lado direito. Vocês estão vendo. Próximo. Cimento queimado, muito conhecido na internet, principalmente. Tá bem na moda. Cimento queimado isso, cimento queimado aquilo. Principalmente porque foi desenvolvido o cimento queimado já pronto. Também tem uma grande propaganda por trás do cimento queimado pronto. Na verdade, ele tá ressurgindo.
-
-Porque o piso de cimento queimado era piso que ninguém nem queria na própria casa, era aquele famoso vermelhão. Então ele ficava com as casas mais pobres, que não tinham dinheiro pra comprar cerâmica e essas coisas. Aí esse piso voltou à moda agora, com esse estilo industrial. Porém, ele ainda continua com os mesmos problemas que a gente tinha nesses pisos quando ele era construído pra casas mais humildes, que é o quê? Esse tipo de piso, ele é, por exemplo, isolamento de polacas, porque a massa dele, tem que ser uma farofa.
-
-Não pode ter água nessa mistura, porque quanto mais água, menos resistência eu tenho no meu cimento. Então, pra eu fazer piso bem resistente, eu tenho que ter quase nada de água. E é muito difícil achar mundo de obra que esteja capacitado pra fazer uma argamassa com pouquíssima água e, mesmo assim, manter a trabalhabilidade da. Da massa. Então, tem que ser uma massa tipo farofa, super seca, você tem que ter de 3 a 5 centímetros de altura, pouco menos do que industrial, e ele não precisa de armadura.
-
-Porém, pra você fazer ele ficar, tipo, bem lisinho, tem que ser salpicado o cimento por cima dessa massa farofa e alisado com a desempenadeira, que é isso que vai criar essas manchas. Ele não fica tão regular quanto o piso industrial, ou seja, se você olhe de certo lado ou de outro, você vai ver umas espatuladas, porque ele é artesanal, né gente, feito à mão. Então, ele tem umas ondulações, umas ondulações maiores, ele é feito com argamassa e não concreto, então ele não leva brita, na composição, o que torna ele também. É só isso. Então ele não leva brinta na composição.
-
-E também ele precisa de muito mais juntas de dilatação, porque ele não é tão resistente quanto piso industrial, ele não tem o ferro, então ele trinca bem mais facilmente e desplaca bem mais facilmente. E pra remendar esse tipo de piso é complicadíssimo, tá gente? Complicadíssimo. Até hoje eu não vi remendo assim que ficasse o ideal. Aí pra fazer as juntas de árvores que a gente utiliza azulejos hidráulicos, porque combina super bem, casa super bem. Azulejos hidráulicos hoje em dia é uma coisinha que tá mais cara, então é sempre bom utilizar eles.
-
-Apesar de serem lindos e artesanais, é bom utilizar eles só em alguns pontos, devido realmente à supervalorização. Antigamente seria nada. Hoje em dia. Ele também não aceita juntas de dilatação tão grandes quanto o piso industrial. Enquanto que no cimento queimado a gente não tem esse espaço total. Talvez metro, dois metros. No máximo metro. Os quadrados de por. Exato. No máximo metro. Mas ainda é piso super barato também pra você fazer. Desde que é exatamente feito com a mão de obra especializada, se você já tiver o contrapiso, esse é o piso ideal pra fazer.
-
-Você Ó, de alguma maneira assim, especializada. É difícil até encontrar uma formação especializada para pedreiros que façam cimento queimado. Qualquer forma é, pega tabedriol e mostra o trabalho que você já fez. Você vai lá no ambiente, vê como é que ele faz. Ou até vê. No ambiente que você gostou e decide procurar o profissional que fez aquele ambiente específico. Não, foi uma maneira que a gente montou o piso aqui, a gente botou pouco de gasolina pra não ver qual era. E aí, esse piso tá bem feito. Tá bem feito, exatamente.
-
-Tem que fazer isso, porque é uma gasolina bem novinha, porque não tinha passado capa, ficou meio preto, depois não tem como passar o carro. Porque vai sujando. Porque vai sujando. Obviamente não vai passar carro na sala da sua casa. Não vai passar carro. A gente espera. É, na nossa casa, a TV é certo problema, porque tem catrinhas e. Colas. E aí a gente deixa montar mesmo. É, mas aí se você não tiver uma TV, se você não for criança Vamos lá, Ladrilhidáulico. Ladrilhidáulico.
-
-Ladrilhidáulico, eu acredito que vinha vindo de Portugal, essa tendência, porque eles usavam aquele ladrilho que tem mais branco. Aquele azul, branco. É azul, né. É azul na minha voz, assim. É da Amazônia, tem os desenhos, lindo aquilo ali. Aí hoje em dia esse Ladrilhidáulico vem de todo tipo de estilo, assim, tem uns com umas plaquinhas, né. O diferencial dele, realmente, é porque ele é o tipo de azulejo mais antigo, que era feito antigamente, só que era azulejo artesanal, mas uma vez hoje em dia tá em alta essa questão do azulejo artesanal.
-
-Cada peça é diferente de uma das outras, elas são pigmentadas separadamente, de uma por uma, cada tem seu próprio forno, o papai vai lá, coloca. Obviamente do azulejo hidráulico. Hoje em dia, fábricas de azulejo hidráulico mesmo, por ser processo artesanal, acaba saindo pouco caro pra gente utilizar esse revestimento em grande escala. Então o que a gente vê é cerâmica imitando o ladrilho hidráulico, a pintura do ladrilho hidráulico, e vê também ele utilizado já em negócios. Se você tiver bastante dinheiro, você pode usar à vontade, como é o caso aqui desse piso aqui, todo ladrilho hidráulico.
-
-Vocês podem ver que os tons de cinza são completamente diferentes do outro. E não foi propostal isso aqui, quer dizer, o preto até foi. Mas os cinzas, acontece naturalmente uma diferença de tom entre cada deles, assim como no branco e no preto também. E o legal desse azulejo hidráulico aqui, que eu achei pra trazer pra vocês, é como ele faz o encontro com o piso Mas ele podia ter colocado uma grande soleira de ponto a outro, dividindo esses dois pisos. Porém, aqui faz muito mais sentido a gente fazer realmente recorte como se piso entrasse dentro do outro.
-
-Com isso a gente consegue peças inteiras, então já elimina a perda que a gente ia ter de cortar essas peças aqui de hexágonos. E também elimina a necessidade de a gente comprar uma pedra extra, que seria o granito, a instalação desse granito, pra ser colocado aqui na divisão dos dois pisos. Então sim, você pode encontrar direto o piso com o piso. Lembrando que, obviamente, esses pisos têm que estar os dois no mesmo nível. Então, se piso tem uma espessura X, que a gente não tá vendo aqui, e o outro piso tem uma espessura Y, se atente a isso, porque o contrapiso é. Como é que eu digo, é.
-
-Balancear, balancear. Se piso é mais fino do que o outro, o contrapiso deve ser mais fino, tem que ser pouco mais alto do que esse daqui. Pra poder contrabalancear com o outro enquanto se encontrarem, o nível de cima tá ok. Vamos dar uma pausa aí, não precisa apertar o botão não, só esperar segundo. Tá abrindo a pacachoura? Tá abrindo, só a gente tem que abrir a porta pra casa e assistir o curso. Tá brincando, mané? Me deixar fora das gravações do meu próprio curso? Meu Deus. Vamos lá, ação. Olha mais uma vez aqui, ó, que linda.
-
-A iluminação indireta aqui em cima da nossa querida bancada, hein? Maravilhoso isso aqui. E olha só como ele usou aqui, ó, o ladrilho hidráulico. Com uma função estética de dividir aqui o ambiente, onde vai ser como se fosse quase. Não vai ficar escondido, não dá a melhor ideia do mundo não. Então acho que com isso a gente matou a ladrilha hidráulica. Autovalor estético, atemporal, detalhes e artesanal. Beleza. Vinílico. O piso vinílico é piso feito de PVC, principalmente, e é piso como se fosse papel de parede. É adesivo. Ele é adesivo.
-
-Então aí você tira uma película dele e gruda ele no chão. Mas aí você pode perguntar se o piso tem que estar extremamente reto. Sim, o piso tem que estar extremamente reto, porque ele vai continuar o que estiver embaixo dele. Então ele não é como uma cerâmica, porcelanato, em que você pode ajeitar imperfeições do piso, de centímetro talvez, Só com a cerâmica. Pra você pegar contrapiso e deixar ele nivelado, você vai precisar de produto extra, que é esse aqui. É produto de nivelamento rápido, auto nivelantes, que são pouco caros. Isso aqui dá até de metro quadrado só.
-
-Esse é o grande problema do piso vinílico. Ele é piso super barato, se for ser utilizado em cima de outro piso. Só que, se ele for utilizado em cima do contrapiso, ele sai muito caro, porque a gente tem que preparar esse contrapiso antes. O contrapiso, como eu falei, é aquela camada de concreto toda rugosa, pronta pra receber o revestimento. Esse nivelamento é quase como se fosse botar cerâmico e depois botar o piso em você. Exatamente.
-
-E apesar dele ser de fácil instalação, tem custo baixo, relativamente baixo, tem uma boa sensação no quesito toque, já que ele é piso não tão frio, então ele pode ser utilizado em regiões mais frias, que esfriam mais, você pode sentir conforto térmico maior nesse piso. E além dele ter diversos estilos, texturas, desde imitando regras de madeira, até imitando piso de cimento queimado, cores sólidas, diversos desenhos que você encontra e texturas desse piso, ele é mais indicado pro caso de reformas, pro caso de piso sob outro piso.
-
-E também ele não pode ser utilizado em banheiros, porque a unidade do banheiro vai fazer a cola dele soltar, só se for no máximo lavabo, que aí não vai E não pode ser utilizado também em varandas, porque também a chuva, mais uma vez, pode danificar esse piso. E móveis também podem danificar esse piso. Móveis com pezinho pontiagudo. Que você pega e arrasta. Cuidado. Mas é bom. Isso aqui é bem fácil de trocar. Só você tirar e colocar outra regra por cima. Bem, uma opção mais resistente é o piso laminado.
-
-O piso laminado ele é parecido com o vinílico, nesse sentido de você encaixar essas réguas, mas eles são pedaços de madeira mesmo. São realmente pedaços de madeira rígidos. Não madeira maciça, ele é uma conglomerata de madeira, como se fossem sobras de madeira e eles colocam aí e fazem só essa película de cima bem bonita. Tem ele de dois tipos, tem ele de clique, que basicamente as peças vêm com nasce fêmea, então você encaixa uma na outra e ela faz até clique.
-
-E aí essa vantagem, apesar desse piso de clique ser o mais caro dos laminados, a vantagem é que você pode descolocar, despregar ele, desclicar ele dos ambientes e levar ele para qualquer outro ambiente. Então se você tem escritório, que é escritório E que você pode alugar no ambiente alugado. Então esse tipo de piso você não vai perder. Você coloca lá, pode destacar e levar para outro ambiente que você vai usar. Se não, você pode utilizar o piso de cola, que basicamente. Mas qual. É a vantagem dele em relação ao vinílico principal? É que ele não precisa estar com o piso tão nivelado.
-
-É, esse tipo de piso aqui, ele tem uma manta por baixo, que não é uma manta cara, então ela não agrega valor no preço com a preparação do piso vinílico, que precisa desse nivelamento aqui de 73 reais. Essa manta, você mesmo joga ela, possivelmente a gente já ensinou a instalar esse piso você mesmo, inclusive esse daqui, ó. É o nosso querido escritório. Você pode ver lá no YouTube que a gente ensinou a instalar esse piso aqui. E a vantagem dele é que ele pode sim ser instalado direto sobre o contrapiso. E também, ele tem esse mesmo valor estético do piso vinílico.
-
-Ele é de madeira, diferente do vinílico que é de PVC. Mas ele também tem fácil instalação, tem baixo custo. Ele também não resiste a sol e a umidade. Então, assim, também não é piso para áreas molhadas ou áreas externas. Também traz a sensação de aconchego até mais do que o vinílico. Por ser de madeira mesmo, ele fica mais quentinho. Ele não gela, como os outros pisos gelam. E você também vai encontrar ele em diferentes estilos, texturas, materiais. E, obviamente, ele é mais barato do que o parcelonato, apesar de não ser tão durável. E é isso.
-
-Aqui a gente botou a observação que pra você utilizar a manta, pra minimizar o barulho do espaço. Essa manta não é opcional. Você pode, inclusive, utilizar mantas extras. Além da manta. Daí a manta. Essa manta não é opcional. Você pode utilizar outras mantas além dessa, que é obrigatória. Pra diminuir ainda mais ainda essa térmica, o ruído, os barulhos que transmitem, o eco, etc. Bem. Ok. Também tem pedra natural. A gente utilizou pedra natural nosso banheiro. A pedra natural é uma pedra. Ela é bastante porosa. E essa porosidade pode ser utilizada a seu favor, porque ela vai absorver água.
-
-Então uma pedra natural dessa aqui, na área de uma piscina, é excelente. E também, na área de banheiro, ela funciona muito bem. Porque ela não vai precisar. Ela não cria poças d'água, natural, você. Encontra em qualquer lugar na sua região, na sua cidade, pedras mais locais, saem mais baratas. Elas tem baixo custo, essa por exemplo aqui, saiu por R$14,00, mais de R$14,00 o metro quadrado que ela tem, ela é uma peça bem grande. Enquanto não passar o nato, a gente vai encontrar aí na faixa de R$90,00. Só pra vocês terem uma ideia, a gente vai já falar de bagulho.
-
-Bem, além dessa pedra castela aqui, que é uma pedra muito característica da nossa região, você pode fazer de seixo com cimento, também fica muito bonito o aspecto final. Ou você pode utilizar uma pedra como se fosse ardósia, essa daqui ó, é uma pedra chamada ardósia, que é uma pedra preta, bem bonita também. Pode fazer com a pedra mais rústica, alguns detalhes na parede, revestir essa parede com. Barateia, vários ambientes da sua casa. Pode botar uma escada também pra uma parede. Você pode fazer atrás da TV. Você não quer comprar painel de madeira que é caro? Agrega valor estético.
-
-É simples de fazer. Você bota pedra. Encontra em todas as regiões. Agrega valor também em reação de inércia térmica, porque se utilizado com isolante térmico, a espessura dele vai impedir que esse calor seja transmitido tão mais rápido. Então assim, amo. No aparelho do seu quarto. Amo, amo. Madeira. Outra coisa. Dá pra você construir a própria parede já em pedra. E aí não precisa revestir. Pode fazer a parede em pedra mesmo. Pode, Amanda? Pode. Aqui em Baleia tem até paredes de pedra feitas apenas com óleo de baleia. Não tem nem isso. Você pesca a sua própria baleia, você pode fazer.
-
-Não, pesca baleia não vai ser contra o Ibama. Mas eu só queria dizer que existe óleo de baleia feita em construções só de pedras e óleo de baleia. Existem, ok? madeira, pessoal. Dá pra colocar madeira em todo lugar da sua casa. Absolutamente todos os locais da sua casa podem ser feitos de madeira. Incluindo o piso, o revestimento do piso. O piso pode ser botado reguas, que são essas mais compridas e finas, ou pode ser colocado tacos, que são menores e mais gordinhos. Você também vai encontrar esse tipo de régua chamada assoalho, de madeira, que é quando ele encaixa no outro.
-
-Como se fosse o piso laminado, só que de madeira maciça. Então, bem mais caro. Então é isso.
-
-Se você tem a opção, se na sua cidade não for valor absolutamente caro, que nem aqui na nossa, a partir de R$ 150 a R$ 180,00 por metro quadrado, que a gente consegue aqui na região, é o piso maravilhoso, o atemporal, valor estético agregador. indistritível, inclusive pra reforma, se você chegar numa casa que tem piso de taquinho, que era muito comum antigamente, ó, que é essa opção aqui dele menor, vale a pena revitalizar na maioria dos casos esse taquinho, porque, eventualmente, por ser material natural, você vai ter que dar uma manutenção nesse material.
-
-É, manutenção em madeira sempre tem isso, ele sempre pode estar reagindo com o piso. Piso, então, água, fogo, produtos químicos, umidade, agências nocivos, você sempre tem que estar de olho nesse piso. A madeira tem esse detalhe. Lembrando que, por ele ser piso quente, ele é bem apostegante pra ambientes frios e frios, assim, também vai ajudar na inestetértica da sua casa. E aí tem os pisos de granito,. Que é o piso de pedra. Esse piso é caro, mas é bonito. Interessante, tem várias coisas pra você escolher. Super durável. É pra vida, as gerações, esse tipo de piso.
-
-O granito não mancha, ele tem uma porosidade bem baixa, diferente do mármore e tal. Vocês vão ver mais na frente que o mármore é uma pedra que suga bem mais água, então mancha mais facilmente. Ele vai trazer beleza, resistência e durabilidade. Ele é muito indicado tanto pra áreas internas como pra áreas externas e também pra bancadas e banheiros. O que a gente mais utiliza aqui na região, pelo valor, é o verde batuba. Porém, o que imita o predação gabriel, porque aqui na nossa região valia muito, sabe gente, o preço de granito de região pra região.
-
-Esse daqui, o predação gabriel chega a custar quatro vezes mais do que o verde bat bem acessível, o bege paonda também super comum, super acessível. E tem os mármores também pedras, é, mas elas tem uma. O mármore é menos resistente e mais poroso do que o granito, apesar dele ser mais bonito. Os desenhos do mármore são considerados mais bonitos que os do granito, só que mais caro.
-
-E também ele é mais suscetível a manchas, então assim, se você quer esse estilo aqui na sua casa de mármore, eu ainda optaria por o post-salonato que imita esse mármore, do que utilizar o margulho em si, porque por exemplo, esse Carrara vai manchar, Branco Piguet vai manchar, Breque vai manchar, todos esses aqui que vocês estão vendo, mancham.
-
-Então muito cuidado, como eu disse, ele não tem boa resistência a ácidos, mancha facilmente, perde o brilho quando exposto a certos materiais de limpeza pesado, então é piso assim que você tem que ter muito cuidado ao utilizar, sem falar que ele é bem caro, então por isso que geralmente a gente não vê tantos granitos no piso, vê mais granito em detalhes decorativos de imobiliário, detalhes decorativos de bancadas de banheiro, bancadas de lavabo também, em bancada de cozinha muita gente usa, mas já sabendo também do cuidado que precisa ter, porque pode manchar na própria cozinha com limão, suco de uva, se não me enganar, a Doma Arqu E temos aqui, vocês estão vendo que a gente vai do mais barato para o mais caro.
-
-Temos aqui ó, o porcelanato líquido e resina epóxi. Não quer dizer que você não possa se você quiser. Tem golfinho no seu quarto. Você pode, mas isso é pouquinho mais caro. Porque assim, esse porcelanato líquido, basicamente, quem viu a nossa mesa de resina. É uma coisa bem similar. É uma resina epóxi, ela tem endurecedor e a própria resina misturada entre os dois e jogados pelo piso. Então, ela fica realmente brilho espetacular. Fica como se fosse vidro líquido. Fica maravilhoso no quesito estético. Monolítico, ou seja, ele não tem divisões.
-
-Você pode deixar ele transparente, aparecer no desenho do fundo. Isso aqui, no caso, é adesivo. Que é colocado no piso Mas essa resina só numa cor só pra esconder o piso de baixo, não tem problema. Ele dá qualidade de balsa nato, mas tem alto custo inicial, especialmente de mão de óculos especializada. É isso que a gente tem pra hoje. O compartilho de pessoal na próxima aula. Te vejo na próxima aula. Eu sei que você tá curioso pra saber qual você vai escolher, baseado em quanto você vai gastar. Beijo. Qualquer dúvida você deixa aí embaixo. Até o próximo vídeo. Tchau. Até mais.
-
-Mais dia, meus amigos. Mais uma aula e mais muita economia pra você. Acho que aqui por dia a gente deve estar economizando todos juntos aqui uns 100, 200 dólares. Dólar. É, eu fiquei pensando agora, se eu falar em dólar já, uau. Vamos lá. A aula de hoje são pisos, meus amigos. Pisos. Importante isso. É, vamos continuar. A gente já passou por todos os pisos nas últimas aulas e agora a gente vai falar pouco sobre os preços deles. Antes, uma dica rápida que faltou das últimas aulas, que é a do nosso jardim de inverno. Nosso jardim de inverno a gente não utilizou o contrapiso.
-
-É no térreo, é na escada esse jardim de inverno. E a gente criou uma área que fosse até mais permeável. Isso, na verdade a ideia era inclusive fazer jardim de inverno mesmo. Só que acabei não colocando muitas plantas nessa área e optei por grama artificial pra ser mais fácil a limpeza ali da região. E sim, é bem fácil empatar grama artificial, gente. É só passar realmente vassoura em cima. O que a gente ganha com essa solução? Primeiro, essa área aí, a gente não precisou fazer o contrapiso, com isso a gente não paga nenhum concreto e nem mão de obra de fazer.
-
-Mas a varanda sem o contrapiso, a casa vai ficar direto na terra e isso existe, não pode. No caso, é literalmente jardim que você vai ter dentro de casa. Inclusive, jardins dentro de casa são uma ótima forma de a gente refrescar alguns ambientes, gente? Aí, no caso, tem uma claravó em cima, então entra bastante iluminação nessa área da escada também. A gente optou por grama artificial, realmente, só pela facilidade do dia a dia. A gente tinha uma grama verdadeira, mas optou por trocar pela artificial. Eu e o Fernando, mesmo, que fizemos esse ambiente, ele saiu super barato de fazer.
-
-Qual é o grande lance? Isso dali é uma área de, mais ou menos, uns 8 m², que a gente tem 6 a 8 m². Se a gente fosse pagar esses 6 a 8 m² em porcelanato, só a aplicação do porcelanato, sem contar o contrapiso, seria de R$131,00 no m². A gente vai já ver. Com isso, a gente gastaria quase R$ Alto explicativo. Embaixo da escada. Ninguém pisa embaixo da escada porque nem dá, porque tem uma escada ali. Já aproveitou isso e fez piso de baixíssimo custo. Isso, com pedras ornamentais, que é baratinho pra você fazer e você vai ter que adquirir de toda forma pra fazer o seu belíssimo jardim. Também.
-
-É só isso. E o contrapiso é isso. E a divisão. E a divisão da pedra pra areia, você faz com uma manta chamada bidim. Que também você vai usar na jardinagem, é uma manta extremamente importante pra sua obra. Inclusive, se você for fazer piso industrial, essa manta, ela é utilizada pra deixar o piso úmido. Porque nos primeiros dias, ele pode trincar. Então, pra ele não trincar, enquanto ele tá curando, a gente deixa sempre ele molhado. Ok, pronto. Então vamos para a comparação de preço em si. Se a gente for ver os preços que a gente tem na Senfra e for.
-
-Bem, essa tabela aqui, na verdade, ela está mostrando as várias camadas que existem nas seis soluções de piso que a gente apresentou na aula passada. Apresentou. Essas são seis opções das mais em conta para as mais caras. E boa parte desse preço vem da quantidade de camadas que cada deles tem. Por exemplo, o que a gente estava querendo mostrar com essas camadas? Principalmente a técnica de utilizar o piso industrial, principalmente quando você já vai ter uma concretagem, quando você já vai fazer uma laje.
-
-Você pode aproveitar a concretagem que vai ter dessa laje e fazer polimento em cima dessa laje, e só esse polimento tá pronto pro piso. E é assim que é feito geralmente os pisos de estacionamento e os pisos de shopping e os pisos também de grandes áreas tipo supermercado, porque é piso muito barato de ser feito. É, aí eu posso trazer pra minha casa, na verdade o piso, não é nem piso industrial, mas o piso de cimento queimado, não utilizado em área de embrigo. Mas o cimento queimado não tá aí. É, o cimento queimado não tá aqui não, mas tá mais pra frente. Então eu vou fazer mais pra frente.
-
-O piso industrial legal dele é o polimento. Certo. Hoje em dia o polimento tá muito barato, porque a gente tem máquinas específicas pra isso. E sai R$26,60 o metro quadrado, e esse é o preço assim, foi preço similar ao que a gente conseguiu aqui. Mas Fernando, você não está contando o concreto que foi utilizado. Não, o concreto foi utilizado pra laje. É, ele faz parte da estrutura. Pois é, isso que eu tô querendo mostrar quando eu comparo com o cerâmico. Cerâmico eu tenho a mesma laje, A.
-
-Única eu diferença é que a laje na cerâmica, ela é escondida pela cerâmica e no piso industrial não, a própria laje vira o seu próprio piso. O que acontece na cerâmica? A gente precisa, a gente tem a laje, e por cima da laje a gente tem que fazer contrapiso pra regularizar essa laje, principalmente, pra poder receber a cerâmica. Esse contrapiso já tem esse valor aqui, por metro quadrado, o valor de mínimo e máximo que a gente tem na senha, dependendo de área externa ou interna, não tem muita diferença. A cerâmica também é uma variação de preço que tem na própria tabela sempre.
-
-A gente utiliza sempre a mesma tabela para tentar, mesmo que haja erros, de erros para cima ou para baixo de preço, tem erros sistemáticos. E outra coisa, essa tabela sempre é atualizada, porque é nessa tabela que todos os engenheiros se baseiam para montar o seu orçamento. E o que a gente faz aqui, basicamente, é ver cada uma das soluções que a gente normalmente tem que tomar em casa e apresentando ela para vocês, para você ir fazendo o seu fluxo de caminhos e cada capa dessa você ir fazendo as suas escolhas, de acordo com quanto custa cada uma delas. Exato.
-
-Aí a gente vê que a cerâmica sobe para valor de R$98,00. Então a gente pode dizer que o piso industrial é 25% do valor da cerâmica, 75% da economia no piso da área de cima, 75% da economia No mare lá do nosso lado de cima, que é por volta de 70 metros quadrados. Não, aqui no caso a gente fez 100 metros quadrados. Não, na casa inteira. A gente fez 100 metros quadrados de piso industrial e a gente pagou R$20 o polimento. Vocês estão vendo aí que tem valor de até R$12. Na realidade eu trabalhei numa empresa e ela cobrava, na realidade, R$7 o polimento do piso. Era shopping.
-
-Mas enfim, conseguimos aqui na região o valor de R$20 por metro quadrado desse polimento e com isso todo o piso industrial aqui de casa, ou seja, todos os quartos, os closets, o mezzanino, a varanda de cima e a garagem externa saíram por R$2.000 no total e isso o piso já pronto. Enquanto que a área que eu coloquei o porcelanato, que foi a área da cozinha e a área da sala, a gente tem uma área mais ou menos de 80m², junto com as varandas, mais os banheiros. E eu lembro de ter gastado, mais de R$8.000 só no piso, só no material. Fora a mão de obra e fora a massa.
-
-Isso porque eu comprei de fábrica. Comprei diretamente de fábrica. Exato. Esse tipo de comparação que a gente fala quando a gente economiza de 10% a 30% na construção da sua casa, é fazendo essa troca. Porque a cerâmica é o padrão. O mais utilizado nas casas no Brasil é a cerâmica. Depois da cerâmica tem o porcelanato, que é pouquinho mais caro. Também pra estabilizar a senha. A gente tem outro. Desculpa, desculpa. Perdi só uma coisa, eu peguei aqui o valor agora. Foi R$4.000,00 no material, mais R$4.000,00 de mão de obra. Desculpa, foi R$8.000,00 no total. Foi R$8.000,00 com a mão de obra.
-
-Olha só, uma simulação aqui pra vocês. 80M² eu coloquei aqui embaixo, na minha sala, em varanda, de porcelanato, tipo régua, bosco, amêndoa, da Eliane. Eu optei pelo porcelanato por causa do snow, não queria que o piso ficasse liso pra ele, então na XR esse porcelanato, ele é levemente áspero. Então o snow consegue caminhar bem mais tranquilo Inclusive dentro também, ele tem uma ranhura melhor do que o piso industrial, ou seja, ele não fica liso.
-
-Com isso, eu teria gastado, de acordo com a tabela da CINFRA, total de R$10.500,00. Porém, eu consegui comprar esse postal nato direto de fábrica, baixando o custo do material de média R$80,00 a R$100,00 por metro quadrado, para R$39,00 por metro quadrado já com frete. Não se preocupe, eu vou falar dessa parte lá no final do vídeo, do custo. E com isso, eu consegui fazer por R$8.000,00, o que ainda é muito mais caro do que se eu tivesse optado toda essa área para o piso industrial mesmo, que eu teria gasto só R$1.600,00. Então assim, é uma economia de. Vamos dar. R$8.880,00 em uma decisão.
-
-Eu É, vamos também dar certo advogado de água e dizer, por exemplo, que piso industrial, depois que você faz, você tem que passar a cera. Tem que estar aplicando cera, mas não tem como bater o valor. E é uma cera que você encontra no supermercado. Cerâmica também desgasta, ela mancha da mesma forma. Vai perdendo o desenho de cima da cera. O piso industrial, por ele ser feito de concreto, ele é mais resistente do que o cimento queimado, gente? Não é o cimento queimado, se não me engano, a gente já explicou essa diferença. Já, já explicou. Cimento queimado é artesanal. A gente já explicou.
-
-Beleza. E aí? E aí o que? Agora eu entendi. e ele tem alguns porém sim. Você tem que ter cuidado porque ele pode manchar, é piso que sim mancha. Inclusive nosso ateliê, nosso piso, ele é completamente manchado. Você já deve ter reparado nos vídeos. Porque realmente a gente não tem cuidado com aquela área. Então cai tinta, cai tudo e a gente não limpa na hora. Se limpar na hora, fica limpo. Se deixar lá, o concreto pode absorver e ficar uma manchinha. Aí você tem que vir com algum produto de limpeza e limpar melhor aquela área.
-
-Mas, em geral, o vassoura aí pôndo molhado e você consegue ter uma casa tranquilamente, perfeito. Você consegue viver tranquilamente. Outra vantagem do piso vinírico. Outra vantagem desse piso industrial que eu considero particularmente é o seguinte, você pode em qualquer momento colocar piso vinílico sobre ele. E o caro do piso vinílico é a parte do nivelamento. Porque, geralmente, a gente, como já fez o contrapiso, fica uma espessura de, tipo, milímetro, dois milímetros, pra gente ter que deixar esse contrapiso que era todo rugoso, liso, pra receber esse revestimento do piso vinílico.
-
-O que é que acontece? Como eu já fiz o piso todo liso, ou seja, eu já puli, eu tiro a necessidade dessa camada de regularização, que é a camada mais cara da parte do piso vinílico. O piso em si, ele é muito barato. A gente conseguir 20 reais até 40 reais na internet por metro quadrado, você vai encontrar várias opções. Isso é o quê? É piso tipo adesivo. Você mesmo Então você pode aplicar ali, inclusive os que imitam madeira.
-
-Porém, ressalva-se, esse piso não pode ser aplicado em águas externas e também não pode ser aplicado em banheiros, porque a umidade e o vapor vai fazer com que ele descole, ele é cola. Certo, eu só preciso unir. Pode? Pode pegar aqui uma salto nivelante, ó, 79 reais. É, 79 reais, pega metro quadrado, mais ou menos. Cerâmica, porcelanato, granito, são os mais caros, granitos de mármore, são muito caros. Isso quando realmente é utilizada a própria pedra, gente? Se você acha bonito aquele piso que parece granito, você pode substituir ele porcelanato que imite esse granito.
-
-A gente tem porcelanatos que imitam todos os desejos de granitos possíveis, inclusive com maneiras diferentes, como se ele fosse próprio. Porcelanato líquido foi o que me surpreendeu por causa do preço, eu achava que ele ia ser mais caro do que granito e mármore, mas não é, porcelanato líquido aí, depois fui pesquisando até na internet, porcelanato líquido ele é. Uma opção até viável pra algum local que você tem em casa. Tu sabe o que é. Eu sei. Mesa de resina no chão, basicamente. É resina epóxi no chão, aquela mesma resina epóxi que a gente utilizou pra fazer uma mesa.
-
-Porque é piso que não tem junta nenhuma. Não tem junta, ele é piso monolítico e ele é legal se você quiser fazer algum efeito assim de bancar, porque você pode colocar desenho por baixo e fazer ele transparente, aí você vai ver o desenho embaixo, como se fosse tipo adesivo, pode adesivar e botar ele por cima, fica bem. Granito, cerâmica e até o piso vinílico, que ele vem em placas feitas, e o laminado também, você tem que levar em consideração 5% de perda quando você vai comprar esse material. Então esses valores até aumentam 5% quando você vai comprar o orçamento da sobra.
-
-E mais uma vez, se o porcelanato for muito grande, 5% não é suficiente. São 10% de perda se o porcelanato for maior do que 1 metro, com certeza. Eu queria mostrar pra vocês essas etapas. As etapas de aplicação de placas, que são cerâmica, porcelanato, mármore, granito. Elas envolvem. Pra gente colocar essa placa que é a que você anda em cima, a gente tem que pegar do piso morto e fazer contrapiso. Às vezes esse piso morto aqui é uma laje. Quando é uma laje, aí que a gente diz pra você fazer só o polimento da laje, porque aí já dá o seu piso pronto.
-
-Você não precisa nem fazer esse contrapiso em cima da laje. Que é quem esse contrapiso? É esse piso que esse rapaz tá fazendo aqui, que serve pra gente nivelar esse piso morto, pra ele poder receber a cerâmica. Por quê? O que acontece? Manda, mas a minha laje já não tá concretada, eu não posso aplicar minha cerâmica em cima direto da minha laje, não pode porque a sua laje apesar dela tá concretada. Como ela não recebeu nenhum tipo de tratamento, ela tá toda rugosa, cheia de pedrinhas, cheia de altos e baixos Deformações acima de 3 milímetros.
-
-Com essas deformações acima de 3 milímetros, o seu piso não fica legal. Então, ou você acaba gastando excesso de argamassa, que essa argamassa colante, que ela é mais cara, que ela vem num saco especial, gente? E aí sai muito mais caro a sobra, porque você vai ficar com uma altura imensa de argamassa. Ou você faz contrapiso pra poder receber, então, essa argamassa colante e o seu revestimento depois. O contrapiso, ele vai nivelar a laje todinha pra receber a serra. Então, essa é a camada intermediária. Esse contrapiso que é feito em duas mestras, aí passa uma régua em cima.
-
-Nessa régua vai deixando o piso nivelado. Quando o piso tá nivelado, aqui é o contrapiso sendo mostrado, vem mais outra argamassa em cima, que é mais cimento. Pra fazer a colagem dessa placa aqui em cima. Além dessa cola, tem outros detalhes pra gente aplicar esse piso como nivelador, você tem que botar em cada placa. Depois que as placas estão prontas, se elas não forem retificadas, você vai precisar de rejunte entre as placas também. É, custo extra também, de rejunte. Então são mais custos que você tem. E que às vezes a gente não vê. Porque a gente só olha, geralmente, o preço do material.
-
-Como vocês podem ver aí, são tudo materiais, inclusive, simples e baratos. Mas que a mão de obra, a quantidade de camadas de mão de obra, faz ele ficar mais caro. Por isso que às vezes uma construção. Seca, ap A construção seca, você tem a certeza, uma certeza muito maior, uma exatidão muito maior no seu orçamento, acaba dando susto, porque o orçamento está mais caro do que estão lhe prometendo que uma casa de alvenaria vai ser.
-
-Mas acontece que a casa de alvenaria você vai construindo, vai vindo aditivos, vai somando, e aquele orçamento que você tinha inicial não se reflete no orçamento final. Bem aqui, mostrando como é que seria a grande economia que a gente tem do piso industrial, principalmente em lajes. Quando a gente já vai ter uma concretagem, como essa aqui de uma laje, ou até quando o seu piso, ele necessita que já tenha uma concretagem, Você só faz polimento em cima, acabou. Basicamente é isso. Você faz polimento em cima da laje e você vive. Você também pode fazer, pode adicionar.
-
-Esse piso polido, do jeito que tá aqui, ele vai apresentar trincas. Que são trincas, pra muitas pessoas são trincas, como é que se diz. Ornamentais, adornos, são próprias do piso. Que eles caracterizam o piso. É, que eles caracterizam o piso. Enquanto que você também, não, gosta de linhas retas, não quer o caracalado nenhum, você vai e passa disco de cócegas também, não é grande coisa. Fazendo o seu quadriculado do jeito que você quiser. Mas ele tá muito pequeno, tá gente?
-
-Pode ser em panos de até 5 metros de largura o seu quadriculado, tá gente? 5 Metros, se tiver uma boa ferragem, ele aguenta bem sem trincar. Tá gente, exagerou. Ele deve ter quadrado de 1 metro por 1 metro. 1 Metro por 1 metro é o cimento queimado. eu ainda não desenvolvi essa habilidade de medir com uma foto e algumas linhas vermelhas. Olha o senhor em pé, Fernando. Olha a escala do homem em relação. A. Tu tá percebendo que ele tem o quê? 1 Metro e 70? Isso é 1 metro e 70.
-Piso vinílico.
-
-O piso vinílico tem uma propriedade que é o seguinte, mesmo com o contrapiso, você ainda pode sentir algum tipo desnivelamento no piso e eles recomendam, então, para piso vinílico sempre utilizar uma alta nivelante. Ou ser aplicado sobre outro piso, ou seja, bom piso para reformas. Pronto, excelente piso para reformas. Se você já tiver nessa etapa aqui, eu quero mudar o meu quarto, mudar o ambiente, ou uma cera que já perdeu muito o desenho que ela tem em cima, você pode pegar e aplicar o piso vinílico em cima, direto.
-
-Então você pula essa etapa, Fica só com esse custo de aplicação do piso vinil, que é quanto? É muito caro? Não, não é tão caro assim não. Esse aí tá até caro. Porque tem mais barato, você encontra aí na internet a preços bem acessíveis. Pois é, não, mas esse aqui é aplicado. É porque aí tá incluído a mão de obra. A mão de obra é você. Pode me dar ainda mais se você utilizar a sua mão de obra. Então o piso vinil que é legal nesse ponto, ele não é bom quando você vem do contrapiso pra encaixar ele. Porcelanato líquido. Por exemplo, eu senti o cheiro daqui. Porcelanato líquido, certo?
-
-Contrapiso, faz o contrapiso. Depois do contrapiso, a gente vai passar nivelador, certo? Por cima. Depois desse nivelador, você passa primer. Esse primer aqui é basicamente a solução diluída. Não. A gente sabe o que é isso aí, Fernando. É pra resina não ser sugada pelo piso. Que nem os nossos sonhos foram sugados pela madeira. Foi. Então, pra o piso não reagir com a porcelanato líquido, a resina, é passado primer. Esse primer, veda. Depois desse primer, aí sim, vem o porcelanato líquido por cima. Então, esse aqui tem até bastante etapas. Mas é piso interessante pra.
-
-Interessante pelo resultado. Ele tem uma gama incrível de possibilidades que você pode fazer com ele. Ele é muito brilhoso. Procurem em post-saranato líquido e vejam o tanto de tipo de post-saranato líquido que tem marmorizado. Tem uns que tem golfinho embaixo. E ele é piso monolítico, ou seja, ele não tem divisões. Não precisa fazer os cortes que tem no piso. Bem, vamos falar o que a gente consegue a mais sobre pisos. A gente tem a mais alguns pisos na tablada sem infra, que aparentemente a gente está muito em conta, que é piso, boto de tijolo, maciço, sem rejuntamento.
-
-Vai comprar tijolinho pra sua obra. Inclusive, esse piso aí eu já ensinei vocês a sentar. Dá pra pessoa mesmo também ser a própria mão de obra e fazer. Eu falo isso porque questão de quem quer economizar realmente pode colocar a mão na massa, exceto algumas, tipo, boa parte da casa. Mas processos simples você pode. E esse é deles. Esse piso é super barato de fazer, porque basicamente eles são esses bloquinhos do tijolo maciço. É tijolo super barato da gente conseguir. Tijolinho de jardim, tanto pra fazer parede de alvenaria de tijolo, como pra fazer piso.
-
-Pra fazer piso, basta você ter uma base nivelada, pegar esses tijolinhos, colocar do lado do outro e jogar pouco de areia por cima, que a areia vai intertravar no outro. Então eles não vão se mover e vão ficar piso bem resistente no final. Piso poroso, bom pra área interna. Área externa. Área externa, que é bom pra área externa e áreas molhadas. E áreas molhadas.
-
-Bem, tem pedras naturais são ótimas, a gente utilizou aqui nosso banheiro, pedras naturais que variam o preço pra cima e pra baixo, assim, e também a aplicação varia bastante, porque depende do tamanho das pedras, mas que são pedras muito bem cortadas, então elas devem ser. Mas são piso de baixo custo, gente? Observar só o acabamento da pedra, se ela tá uma pedra polida, que é uma pedra bem retinha, ou se ela tá uma pedra rugosa, que é uma pedra que ainda tem os seus, suas características primárias de pedra. Mas é revestimento super baixo custo.
-
-Procure as pedras que você encontra na sua região à venda mesmo, na sua região. Aqui é exemplo de cimento queimado, bem feito, com divisórios aqui. Inclusive, a gente mostrou essa semana lá no canal a casa do Adriano Carvalho, que vocês podem procurar no YouTube, que é loft industrial onde o piso é inteiro de cimento queimado, o revestimento da escada também e todo do mezzanino. Feito por ele, espatulado por ele. Se ele consegue fazer loft, você consegue fazer também. Aqui embaixo também tem o prédio do rejuntamento, que não está adicionado aquelas tabelas.
-
-Esse cimento queimado aí é o da parede. Desculpa gente, eu que mandei errado, tá gente? Desculpa, fui eu. Essa daí era a parola de paredes que eu tinha dito lá. Pessoal, o piso de cimento queimado não tem na tabela da CEINFRA o valor dele, mas eu vou dar a dica pra vocês, basicamente ele vai ser o valor do contrapiso, mais a mão de obra de pedreiro que vai salpicar cimento por cima e passar com a desempenadeira. Então aí você pode considerar como se fosse uma aplicação de uma goda cimentícia por cima do contrapiso. Na espatulação. Bem, fica muito bonito o cimento queimado no piso, na parede.
-
-Então se você pegar e gostar de espatular. Você pega, você vê na internet como é que faz. Você vê nosso canal como é que faz. Vê nosso canal como é que faz, como é que passa a espatula. Pra conseguir ser feito, você pega cantinho da sua casa, faz teste. Gostou, conseguiu acertar, não aceitou, muda alguma coisa também. Muda a receita, porque ele é uma receita. Muda, faz em outro lugar. Aposta no cimento branco nessa receita, porque o cimento branco vai deixar ele mais claro. Não, é muito complicado. Aí você pode fazer como o Adriano fez. O piso e as faritas dele ficaram muito bonitas.
-
-A Amanda, ela insistiu que eu falasse sobre raspagem e calafetação de tacos. Porque eu sei que algumas pessoas do caso é reforma, vocês estão aqui por causa de reforma, e uma boa ideia é reformar aquele piso antigo se você por acaso der de cara com piso de madeira. Por quê? Porque não é tão caro assim. Piso de madeira mesmo é 3, 4 vezes esse valor. Então aqui você tá, como é que eu digo? Revitalizando. Revitalizando, exatamente. Sem falar que é sustentável. Beleza, uma boa ideia fazer essa revitalização. E revestimento de carpete pra quem mora no sul, quem combate o frio.
-
-Piso de carpete, aqui o preço dele na Senfra, aplicação dele, isso por cima já de contrapiso. Isso. Soleiras, quanto é que custa uma soleira, mais ou menos? A gente deu a dica pra você no outro vídeo de você eliminar essas soleiras. Você deve ter pensado, não, eu gosto da soleira no ambiente, então a gente trouxe aqui o valor de uma soleira pra ver se você realmente gosta tanto assim da soleira, se é necessário pra você. É, também é questão estética. Não fica legal soleira de tanto dividir ambiente que tem o mesmo piso, não tem nenhum desnível entre eles, uma soleira não orna.
-
-Bem, a gente tem soleira embaixo da porta, R$92,00, uma porta de 80cm de distância, por exemplo. Aí, se você colocar em conta quanto é que isso vai se somar no final de economia. 1, 2, 3, 4. No caso tem, o que, uns 5 a 10 portas. Então, uma média de economia entre R$500,00 e R$1.000,00.
-É, é por aí mesmo. Bem, o piso de laminado. Muito bom esse piso, a gente falou dele na última aula. É. Olá, pessoal! Tô baixando da aula, pessoal! Esse pai não tá batalhando, hein? Tô baixando do meio. Vai sentar com o gato. Vai sentar. Por que ele se mexeu? Finge que nada aconteceu. Ele tá em cima de uma aula.
-
-Puxa pra lá, ele quer o gato. Ele é gato. É, realmente. A piso laminada, a gente já utilizou esse piso nosso escritório, é excelente, você pode também aplicar por si mesmo. Vai ficar muito bom. A vantagem dele pro piso vinílico, quer dizer, ele imita madeira, parece madeira. A vantagem dele pro piso vinílico é porque você não precisa estar com o piso 100% laminado, nivelado, como você precisa estar no piso vinílico. Ele sai bem mais barato de ser.
-
-Ele no final, é revestimento que imita madeira e sai mais barato de ser feito do que a madeira, obviamente, e ainda mais barato do que o piso vinílico se você tiver no contrapiso, porque ele aceita desnivelamento de até 3mm nesse contrapiso, porque por baixo dele vai uma manta. Sem falar que ele é piso também super fácil de ser aplicado, inclusive podendo ser aplicado por você mesmo, Se. A gente for dar algum porém, a durabilidade não é tão grande quanto se fosse madeira mesmo, não fosse porcela nada. Isso. A gente colocou aqui a opção dele colado.
-
-A opção dele colado, realmente você instala e você não pode levar esse piso pra nenhum local depois. Existe o piso laminado de clique. Esse é uma opção pouco mais cara, mas que tem a vantagem de se você dia precisar se mudar daquele ambiente, você pode levar aquele piso com você. Ótimo. Mas algumas opções de piso não acabam nunca. Não, não acabam. Você pode botar qualquer coisa no seu piso. Você nem sabia que tinha tantas opções assim, pra você ficar ordando na sua casa. Bem, você pode botar ladeiras hidráulicas no chão. Bota na sua cozinha, no banheiro, numa área especial da sua casa.
-
-Você cria volume totalmente diferente. Você pode ter retalhos e misturar esses retalhos, que vai ficar legal. Pela ladeira hidráulica é negócio muito legal, mas acaba. É, por isso que eu disse, é bem bonito, é sustentável, é artesanal, é local, mas não é uma opção que a gente conseguiu usar pra grandes áreas. Então pronto, é isso pra essa aula. É bastante opção de piso aí, mas vocês sabem que o piso é uma área grande da nossa residência. É, é acabamento, porque acabamento tem pano muito grande, então é grande potencial de economia.
-
-Exatamente, aqui é onde você vai realmente gastar uma nota preta. Você vê a diferença de utilizar o piso industrial, uma laje, é gritante, a economia que você tem é de 75%. Ok, muito obrigado, até a próxima aula. Até a próxima aula. Olá pessoal, sejam bem-vindos ao aula 28. Vamos começar a falar sobre o acabamento de paredes, a gente deve tomar umas 3, 4 aulas nisso. Não são muitas paredes, que a gente tem muitas opções também. Tem muitas opções, as opções são muito parecidas com as opções de piso. Mas, tem algumas diferenças, vamos entrar nelas.
-
-A gente vai dividir em 3 tipos aqui, mas essa divisão não é aleatória, mas é uma divisão arbitrária. Arbitrária, mas assim por vontade de nós. As mais tradicionais, que são as mais utilizadas em todas as casas, é cerâmica, porcelanato, pintura, texturas diversas. Bem, tem alguns tipos mais diversos que você encontra às vezes e às vezes não. São partilhas, pedras, madeira, laminado, vinílico, gesso 3D e papel de parede. E o que vocês devem estar esperando, provavelmente, que é o de baixo custo.
-
-Alvenaria aparente, óculos grossos, cimento vassurado, cimento queimado, tinta de terra e massa texturizada. Isso aqui é muito mais barato, muito mais em conta, muito mais baixo custo, muito mais econômico do que essas outras opções. Mas não são nem todas. Você tem todas as opções e, às vezes, até, alguma das opções é mais barata para você, porque você está com latas de tinta sobrando, para poder fazer uma reciclagem, você tem pedras. Você tem. O seu gosto também, que a gente leva completamente em consideração. Exato, tem o seu gosto também.
-
-Então, pintura tradicional, Quando você for fazer pinturas, não deixem marcas, que são ótimos. E também você pode, por exemplo, pintar de cima a baixo, você pode fazer meia parede também. A gente não tava curto, então você baixou o Matheus Witt. Cara do Matheus Witt, pintar também até aqui, ou pintar só o fundo. Não se preocupe, a gente vai falar de estética na aula de Stills. Vamos lá. A pintura tradicional. Mas é uma boa ideia já mesmo, porque a pintura, ela tem esse ganho de não modificar o ambiente.
-
-Se você tem ambiente muito profundo, você pode modificar essa profundidade do ambiente com a pintura. Você consegue modificar a altura de ambiente com a pintura, você consegue dividir ambientes com a pintura também. A pintura tradicional, ela tá presente em praticamente todas as casas, por ser muito fácil de aplicar. Tem profissionais que sabem mexer com tinta em todo lugar. Você pode pintar planos extensos, grandes, não precisa de rejunte entre os planos, algum tipo de. E também, a pintura, ela é boa porque ela pode dar retoques.
-
-Se tiver algum problema, se você quiser fazer alguma mudança, você. Só faz o retoque. Você faz os retoques. Por essa mesma capacidade de retoque, ela tem uma durabilidade tão grande assim, a gente precisa estar pintando a dependidade onde você mora.
-3 Anos, 5 anos, essas realmente precisam ser repintadas. Pra reavivar a casa todinha. Então tem essa questão da manutenção, basicamente. Também ela tem muitas camadas pra chegar nela.
-
-É, e ela também é mais pra essa patologia de que, tipo, mais facilmente ela suja, ela quebra, ela fica com problemas descascamento, fica com problemas de se pegar muito sol, ela desbota. Então, assim, é algo realmente que tem uma manutenção muito cara ao longo dos anos de uma casa pintada. O que a gente tá falando de que a pintura, ela precisa de muitas camadas, é porque assim, tá aqui a camada final da pintura de uma parede. Mas pra gente chegar até ela, você vai ter alvenaria da sua parede, se ela for feita de alvenaria. Nessa alvenaria é aplicado chapisco.
-
-Depois desse chapisco é feito embolso, que é o engrossamento dessa massa, pra tirar os desníveis, e reboco pra deixar ela o mais liso possível com o cimento. Depois desse reboco, a gente aplica selador pra impermeabilizar, principalmente. É, impermeabilizar Depois desse selador, vem massa corrida, pra deixar ainda mais regularizado quando sua parede estiver lisinha. E massa corrida são 2 de 1. E pintura também mais 2 a 3 de 1.
-Isso faz com que tenha camada do chapisco, camada do embolso, camada do repouco, camada do embaçamento. Embaçamento, selador e pintura.
-
-São aí entre 8 a 9 mãos de obra numa mesma parede, numa mesma parede. Pois é, vai chegar na parede. O problema maior disso é essa quantidade de trabalho. Porque assim, se a gente fosse só trabalho e fosse esse preço, ia ficar mais interessante, porque ia cortar a quantidade de dias que ia estar trabalhando naquela parede, com essa economia de tempo, ia gerar economia na obra, ia gerar menos desperdício. Bem. E outra coisa, a gente botou o valor de 83 reais por metro quadrado, agora a gente sai 1 metro quadrado. Vocês não têm ideia de quantos metros quadrados possui uma casa, por exemplo.
-
-Quarto tem 42 metros quadrados de parede, mais ou menos. Maravilha, vamos calcular já, baseado em apenas quarto, a economia de quarto. Se a gente tem 42 metros quadrados num quarto, a gente vai gastar ele, numa pintura tradicional, apenas pintando ele por dentro, 3.500 reais em quarto. É, a gente fala pintando, é quem? É chapisco, embolso, reboco, selador, massa corrida, pintura, certo? Então a gente vai mostrar naqueles acabamentos pra parede de baixo custo como pular essas etapas não. Não precisar dessas etapas. Eu já vou dar spoiler aqui,.
-
-Que dos acabamentos de baixo custo é a alvenaria aparente. Não essa. Não, não é essa a alvenaria aparente. Não é esse desenho aqui desse tijolo não. A alvenaria aparente é pra você usar a alvenaria estrutural. Ou blocos que podem ficar amostros, tipo. É, blocos que podem ficar amostros. Tijolo comum, talvez, tijolo refratário. Com a alvenaria exposta, você não precisa botar chapisco, não precisa botar embolso, não precisa botar reboco, selador, massa corrida, pintura. Ou verniz acrílico.
-
-Ou se você quiser realmente receber uma enxurrada de enxúga nessa parede e nem sentir a umidade dela por dentro, você pode colocar silicone líquido. De toda forma, é só uma mão. Comparado a nove mãos. Questão de velocidade, de mão de obra, questão de menos problemas que podem dar em cada uma dessas camadas aqui. Isso barateia muita obra. Outro tipo de pintura que já é interessante colocar em alguns locais da sua casa é a texturizada, porque principalmente ela dispensa uma das etapas, que seria a massa corrida. Porque? Porque ela é uma massa. Ela é quase como se fosse uma massa, já corrida.
-
-E você pode pedir ela já da cor que você quiser. Várias fábricas já fabricam a textura em cores pré-definidas, ou então você pode pigmentar também. Aí você elimina a pintura. Aí você pode também pigmentar a massa. Aí você passa a textura na parede e pronto, acabou. Uma mão também. Não, é duas mãos. E você também tem efeito diferenciado nessa parede. Como se essa parede tivesse tipo de revestimento diferenciado. Agora não abusar. Porque a textura é uma coisa que cansa a vista. Então no máximo uma parede assim, num. Ambiente. Ou talvez uma área externa. É, ou talvez uma área externa também.
-
-Isso. Beleza. Outro acabamento muito utilizado em paredes é a cerâmica, que eu até mostrei alguns tipos. Porque assim, a cerâmica é nas paredes, principalmente no bote do banheiro, que só vai até o teto. Calma lá, isso não quer dizer que elas sejam responsáveis pela impermeabilização do ambiente, tá gente? Não é. Não depende do revestimento, da impermeabilização desse. Quer dizer, até pouco.
-
-Mas o que realmente vai dar a impermeabilização é a camada de impermeabilizante mesmo, que tem que ser passada em qualquer área molhada, seja na cozinha, seja nos banheiros, seja o banheiro no segundo andar ou no primeiro andar. Impermeabilize. Ok, ela é boa também para a sensação de que ela não reage com a umidade. Isso, ou seja, ela não muda de cor. Enquanto que gesso, por exemplo, reage. Você bota no teto o gesso e, graças a Deus, aí começa a amarelar. Às vezes a umidade fica presa no seu banheiro e já amarela. Pode ficar mofo também, se não tiver ventilação nesse banheiro, pode dar mofo.
-
-Pode. Você pode utilizar as cerâmicas também. É bonitinha, existem cerâmicas mais coloridas também. Ela só não tem o brilho de porcelanato. Isso. Existem outras cerâmicas em outros formatos para você brincar mais, principalmente com a paginação. Não é porque é uma cerâmica que você tem que ter acabamento. É, esse acabamento aqui é branco. Branco, quadrado. Esse acabamento aqui você pode ser mais criativo do que isso Fica muito bonito. Porcelanato da mesma forma, você pode colocar na parede, aí você aumenta o nível de chique que é a sua casa.
-
-E é muito interessante utilizar nos banheiros, principalmente, porque você pode subir no teto, na área do boxe, transformar a área do boxe num santuário. E você pode também fazer bancadas com ele. Então, se você busca, assim, estilo bem monocromático, banheiro que tem uma só cor, só tom, com certeza porcelanato vai te ajudar a conseguir isso aí, bem facilmente, num preço até razoável. Você também não precisa subir a parede inteira do porcelanato, você sobe metade da parede do porcelanato. E o resto pinta. O resto bota pinta, bota vinílico em cima, aí vai.
-
-Vai valorizar a sua casa, porque assim, você quer efeito de alto valor por não tanto preço assim, então isso é baixo custo, pelo menos é que valorizar o seu imóvel, pelo menos. O porcelanato a gente não falou na aula de pisos, a gente estava falando aqui de paredes, basicamente o que você pode botar no chão, você pode botar na parede mais ou menos. Porcelanato é deles e tem três tipos de porcelanato que a gente falou na aula e não disse exatamente qual é o polido, esmaltado e acetinado.
-
-O polido é o que tem o maior brilho, o brilho mais forte e é proveniente de polimento que há em cima da peça. O esmaltado tem brilho mais remédio, mais razoável e é proveniente de esmalte que é aplicado em cima da peça. E o acetinado é brilho mais fraco e tem uma textura mais aveludada. O acetinado, por exemplo, é aquele que imita o cimento queimado. Tem vários pisos acetinados que imitam o piso de cimento que. Era só pra apresentar essa primeira parte, não é? Show. Ok, muito obrigado.
-
-Na próxima a gente vai falar sobre acabamentos bem mais diversos, pra você ter bastante criatividade na sua casa e valorizar o seu imóvel. Sejam muito bem-vindos à nossa aula 30 e parabéns a todos por já terem chegado tão longe. Espero realmente que vocês estejam tirando muito proveito do curso, aprendendo bastante, tomando suas anotações, imprimindo nosso ebook, sempre confira a área de bônus, que a gente sempre tá adicionando mais bônus e vão ter mais bônus também nesse curso. Então, vamos continuar daqui, que apesar de a gente já ter chegado longe ainda, tem muito a aprender.
-
-Tem, principalmente acabamento de parentes, que tem bastante capacidade de ter economias. Por quê? Porque o acabamento de parentes, como a gente viu nas outras duas aulas anteriores, pode ser muito caro. E a gente tem opções aqui a. Gente tem muita parede numa casa e muita área de parede. Então, uma decisão que a gente tome, mesmo que a diferença dela por metro quadrado seja pequena, digamos que eu diminua o metro quadrado de cem pra oitenta, pra setenta, pra cinquenta reais. Quando eu faço essa diminuição, você pode dizer, só vou economizar cinquenta reais.
-
-Se eu trocar os investimentos, é, mas é cinquenta reais em cada metro quadrado da sua casa. Quando a gente vai levar isso pra uma escala do tamanho de uma casa, isso já representa uma economia de cinco, dez mil reais. Facilmente, só fazer uma troca de revestimento e de opção de acabamento. E muitas vezes, você ainda consegue a mesma finalidade estética que você ia querer naquela outra opção que era mais cara. Ou seja, o resultado é o mesmo no final, por exemplo, de cor, textura e esteticamente visual, que a função do acabamento, ela é. Perfeito.
-
-Bem, a primeira opção, a mais barata de todas, não tem acabamento nenhum. Se você fez uma alvenaria própria. Tipo uma alvenaria estrutural? Uma alvenaria estrutural, uma alvenaria pretinha, você não precisa ter esses acabamentos. Vários tipos de tijolos, como a gente mostrou lá na aula, de alvenaria, eles podem ficar aparentes. Exemplos são o bloco estrutural de concreto pode ficar aparente, o bloco estrutural. Não, deixa eu mostrar pra vocês aí. O tijolo comum que a gente fez com a parede. Esse aqui é o tijolo comum?
-
-A gente fez uma parede aqui em casa com o tijolo comum, que é tijolinho maciço, e ele inclusive pode ser utilizado também pra ser construído a alvenaria estrutural. E olha que legal também, essa cinza. Tá vendo essa cinza aí? Você vai dizer, manda isso do Wood Frame que a gente mostrou pra vocês, a gente tem o Light Steel Frame, que é aquela estrutura de metal leve, que a gente pode parafusar, e tem o Wood Frame também, que é o mesmo esquema. Não toca na minha câmera, ó. E tem o Wood Frame também, que é o mesmo esquema.
-
-Então, a alvenaria, nesse caso aí, ela é literalmente parafusada na estrutura, e muitas vezes ela já vem com acabamento final, como é o caso dessas quadras aí, cimentiças. A gente viu, não sei se tu lembra, Fernanda, elas ao vivo lá na Feicom. Faça uma mão, na Feicom do ano. Eu lembro. Retrasado, faça uma mão nelas, isso. Lá em PMA, quando aumenta chuva, pode ser utilizado em banheiros, quando você tá utilizando a estrutura do Light Steel Frame, que é o futuro. A gente vem falando aqui no curso, se você.
-
-E o que é mais legal, se dia você precisar fazer uma manutenção nessa casa, ocorreu algum problema, você pode simplesmente desparafusar esse acabamento, dar a manutenção e reparafusar esse acabamento. Você não perde esse acabamento, que é o que eu acho mais legal desse método, são essas manutenções super fáceis. Porque no caso de uma alvenaria tradicional, a gente teria que, por exemplo, quebrar. Se fosse uma parede de cimento queimada, ela teria que ser toda quebrada e você teria que refazer a pintura inteira.
-
-Então, a longo prazo, esse tipo de método sai mais barato do que a alvenaria tradicional, que a longo prazo, obviamente, vão ocorrer problemas, é normal. E quando ocorrem problemas na alvenaria tradicional, eles são muito mais caros de serem resolvidos do que os problemas desse tipo de revestimento. Essa é a diferença também da construção a seco e Enquanto que na construção seca, a gente tem essa capacidade de montar e desmontar as peças. Bem, aqui tá exemplo da placa. Uma placa bonitinha de cimento. Certo? Você também pode utilizar aqui.
-
-A gente tá falando de paredes, eu sei, mas você pode deixar vigas aparentes também. Estrutura também. Estrutura aparente. Em casa a estrutura é toda aparente, a gente falou. Todos os pilares e vigas. Cobogó também, eles não precisam de revestimento por cima. Cobogó, pra quem não lembra, é esse bloco que funciona como se fosse tijolo, só que ele é todo vazado e ele já é mais bonitinho. Ele permite a ventilação e iluminação natural. Tem diversos modelos, tamanhos e materiais que compõem o Cobogó. Aqui a nossa casa a gente fez o mesmo estilo, com o tijolo comum, saiu super barato.
-
-O mais barato é você fazer a parede com o próprio tijolinho, se você quer ela com o resultado final de tijolinho, o mais barato com certeza é utilizar ele pra fazer a parede toda. No nosso caso a gente utilizou também uma junta seca, que é o que? Você não está vendo a argamassa, porque a argamassa não vem até a frente, como é o caso do lado esquerdo. No lado esquerdo a gente já tem uma argamassa, que vem sim até a frente da parede.
-
-Esses tijolinhos a gente vai encontrar eles de diversos modelos, mais bonitinhos, mais, como é que eu digo, únicos, destroyed, que é o caso do nosso, que a gente preferiu assim, primeiro porque eles são mais baratos quando eles são assim destroyed, segundo porque a gente já queria uma parede Então, alguns tijolos bem mais escuros do que outros, alguns bem mais claros do que outros. Como é só uma função de vedação, eu não preciso de uma alta qualidade nesses blocos. Então, não preciso comprar aquele mais carinho, mais bonitinho.
-
-Se eu fosse construir uma casa em alvenaria estrutural, utilizando esse bloco pra ele ficar aparente, não tem problema. Mas eu preciso rejuntar, porque senão pode infiltrar pra dentro de casa. Então, tem que ser bem rejuntado. E o bloco também, exatamente. Ele tem que aguentar a distribuição de casa. E o que é interessante? Hoje em dia, só o que a gente vê são as pessoas comprando esse revestimento pra aplicar depois na parede. Comprando papéis de parede pra aplicar esse revestimento, sendo que a gente tem a opção de ter de graça. E ainda mais barato do que construir uma alvenaria tradicional.
-
-Então, ao invés. Exatamente, porque aí senão você vai levantar aparelho de tijolo furado, botar chapisco, embolso, reboco, argamaça colante. E o revestimento, que é revestimento muito utilizado hoje em dia pelos arquitetos. A gente viu inclusive num vídeo lá no canal, na reforma daquele apartamento do PH. Vocês podem pesquisar reforma de apartamento grande, de luxo lá nosso canal, que vai aparecer esse tijolinho, que é revestimento de tijolinho, tá muito em alta. Sabe o quem usou também ele? A Dom Arquitetura, esse daqui ó, Bricks Natural. Vai já focar, gente. É, tem que cair.
-
-É, não, bota aqui, vai dar play agora. Esse daqui é o brick natural, então o pessoal compra ele, dá trabalhão de aplicar, porque cada deles também tem seu próprio tamanho e sua própria cor, então se o arquiteto tiver especificado pra vocês, esse daqui que é o brick, é o tijolinho, eu já indico que você abre todas as caixas, mistura tudo, pra depois aplicar ele na parede, senão você vai ter várias ilhas, e ele também tem diferentes tamanhos, então vai misturando aí pra compensar o outro, senão sua parede vai acabar indo descendo, subindo, e a qualidade também é muito importante.
-
-Esse brick aqui, não, deixa eu só te falar, você não vai acreditar, R$138,00 metro quadrado, a gente ao construir a parede, isso aqui só o. Só o revestimento. R$138,00 no metro quadrado, gente. Isso daqui é só o material. Se for colocar a aplicação, geralmente é praticamente o mesmo valor do revestimento. Tem pedreiro que cobra pelo mesmo valor do revestimento. Ou seja, aí são R$240,00 que você vai estar pagando a mais por metro quadrado pra colocar esse tijolinho. Digamos que você queira colocar, Fernanda, numa parede de só 5 metros, que seria a parede ali da cozinha.
-
-Se eu quero colocar em uma parede da cozinha, eu tenho 15 metros quadrados a R$240,00. Eu estaria gastando R$3.600,00 no revestimento de uma parede. Bem caro. Quer que eu te mostre como é que tu consegue esse tijolinho sem esse valor aqui de R$3.600,00, na verdade, economizando, é realmente deixando aparente, porque aí você economiza o embolso, economiza o reboco, economiza a massa colante e toda a aplicação do revestimento mais o revestimento. Então, assim, é mais do que R$3.600,00 de economia ao optar por uma parede assim.
-
-É verdade, você também pode fazer o tijolo aparente, a alvenaria aparente, com bloco de concreto. A gente tem a casa do meu sogro, que ele é muito. Como é que eu posso dizer? As pessoas gostaram muito desse vídeo aqui, ganhou nosso canal todos os prêmios do ano 2020, pelo menos. Todos os prêmios prata. Todos os prêmios prata. E completamente aparente a casa, aqui ó, você pode ver, e aqui como é que você aplica a técnica desse tijolo também, ele pega menos argamassa do que o normal.
-
-É, isso aí é só você botar argamassa dentro de saco, pela cor aí, ó, eu chuto até que pode ser uma argamassa base de terra, que é uma argamassa mais baixo custo, eu vou ensinar no módulo novo que a gente vai ter nesse curso aqui, que é o módulo de introdução ao meio construção. Outra coisa que eu acho interessante a gente frisar, é, aqui na casa, é que as paredes também, elas são bem protegidas, por quê? Apesar da organaria aparente poder pegar sol e chuva, obviamente como, inclusive, uma pintura, Se ela ficar exposta ao tempo, ela pode manchar.
-
-A pintura mancha, cria limo, e a alvenaria também mancha. Então eu acho sempre importante a gente frisar aquela questão dos beirais pra proteger as paredes. Aqui meu pai, ó, ele deixou beiral de dois metros e meio com a termoteira, porque a termoteira é algo muito leve. Então a gente consegue uma super varanda de dois metros e meio, só com a estrutura simples da termoteira. É, cem pilares vêm aqui, ó, cem pilares segurando a ponta desses. Se fosse. Uma cobertura de cerâmica, a gente teria que ter pilares aí nesses pontos pra aguentar esse peso.
-
-Outro detalhe que vocês podem estar se perguntando, porque aqui tem uns pontinhos pretos aí na telha. Circula aí pra mim, só pra eu explicar o que é. O que é isso aí? Meu pai não tirou o plástico do. Filme Ela vem com plástico filme. Pra proteger ela. Então antes de aplicar você tira o plástico filme. Você já comprou celular que tem plástico filme, aí você tira, pronto, ele não tirou. Imagina que meu pai até hoje usa o celular com plástico natal, porque tem. Muita coisa que a gente deixa até hoje. Esse microfone aqui, foi dia desses que eu tirei o plástico dele.
-
-O plástico não tinha nada a ver. alvenaria de cerâmica estrutural. Também posso deixar aparente? Posso deixar aparente, linda. E é mais barata do que a de concreto. É, mais barata. Também você pode ser criativo com as suas alvenarias. Eu acho muito bonitinho esse acabamento aqui, mas tem que ser artista pra fazer. Então se o seu. Se o seu. Pedreiro tem esse ar. É, tem esse dom aí, ele pode fazer, certo. Planejada, artística. Nossa, pra vocês verem. Como as vezes a gente tem material, dois materiais super simples, que é o tijolinho e a argamassa.
-
-E só com uma releitura do tijolinho e da argamassa, deixando espaço entre eles, a gente já consegue uma nova textura, novo revestimento, inclusive com o ganho de poder ser uma parede vazada, ou seja, uma parede com ventilação permanente. Seja de entrada ou, como eu prefiro, a parede de exaustão, como a gente tem aqui em casa, que é a de saída. Que não tem perigo de chupetar. É, aqui a gente tem alvinaria aparente. Posso fazer em tijolo de adobe? Pode fazer em tijolo de adobe. Eu não sei se a gente já comentou aqui, tijolo de adobe.
-
-Não sei se a gente já comentou aqui, mas você sabe o que é tijolo de adobe? A gente comentou, sim. É porque foi ano passado que a gente gravou. É, faz dois dias que virou outro. A gente comentou. O tijolo de adobe, é aquele tijolo que você mesmo pode fazer. Isso mesmo, você mesmo pode fazer. Inclusive, muitas vezes, na maioria dos casos, com o sol do próprio terreno que a gente tem. Então, você faz a forminha de madeira. Eu vou explicar detalhadamente, na realidade. Isso aqui não é em produção, é uma bioconstrução. Então, corte lá para esse módulo. E esse daqui de adobe, aparente.
-
-Maravilha também. Mas lembrando que bioconstrução, ela também tem que ter seus cuidados. Então, para ele estar aparente aqui, eu preciso passar imper. Quem precisa de condicionador tem que tacar fogo no momento asfático, ou talvez aquela preta que é líquida, mas tem que passar com bastante cuidado. Não, essa impermeabilização você mesmo pode fazer, inclusive, na sua obra. E a impermeabilização, nem a construção tradicional foge. O reboco, ele também precisa de uma camada de impermeabilização. Desculpa, o ar-condicionador abandonou. Obrigada.
-
-Aí essa camada de intermeabilização tem diversas opções, podem ser resinas, podem ser materiais mais naturais, que a gente tem presente no meio ambiente, ou pode ser também o silicone líquido, que é o que tem se mostrado o melhor resultado ao longo do tempo. Aqui, nesse vídeo que eu postei, dos comentários mais curtidos do vídeo foi assim, é mentira que essa casa é mais econômica, pois a intermeabilização desses blocos custa absurdo e sai muito mais caro do que algo na área tradicional.
-
-Às vezes, comentário desse faz a pessoa perder tanto dinheiro, uma pessoa que não tem estudo na área, comentando negócio desse, olha o quanto é que. Entra botão, o preço ainda. custa R$17, contra uma parede com acabamento tradicional, que ele vai pra R$100, R$120, R$130, R$17, contra R$130, R$17.
-A gente vai ver na próxima aula os custos relacionados ao acabamento de alvenaria. Botando, como é que se diz, os cavalos na frente da carruagem.
-
-Outro acabamento que você pode fazer no tijolo furado, aquele tijolo cerâmico que você faz a parede tradicional, você pode parar ele no chapisco em certas áreas estratégicas da sua casa. A nossa casa, por exemplo, a gente botou aqui na escada e a gente não poderia estar mais satisfeito com o acabamento. Ele é lindo, cria ambiente totalmente diferente ali pra caixa de escada. Esse aqui é outro tipo de acabamento na fachada da casa, em chapisco. Isso faz com que você não precise fazer o embolso, o rebolco, aí você passa depois o embolco em maçamento, duas.
-
-Camadas de maçamento, selador, outra camada de tinta. Ao invés de fazer isso, você faz chapisco mais grosso, porque assim, Só que bem feito. É, bem feito. Vai ser chapisco mais bem feito, pra poder ter esse acabamento. Ele é chapisco feito na peneira, não é chapisco que ele simplesmente sai e joga na parede. E aquela maquinazinha também não fica muito bom não, certo? A gente testou aqui em casa. Foi, a gente testou a máquina de chapisco e testou também jogando na peneira. Esse resultado aí a gente conseguiu jogando argamassa pela peneira, aí sim ela batendo na parede.
-
-Então, começa num canto, vai jogando, vai jogando, faz tudo, depois pode voltar e fazer mais uma mão com areia pouquinho mais fina pra preencher os espaços que podem ter ficado na parede. Bom, acaba ficando umas duas mãos assim de chapisco pra o rapaz ir na. É, obviamente ele dá pouquinho mais de trabalho do que o chapisco convencional, mas. O chapisco que vai esperar o embolso, ele serve, ele só tem a função de fazer a conexão entre o tijolo furado vermelho com o embolso, ele intermedia essa conexão. Da mesma forma que a gente pega e lixa canto de PVC pra pintar com spray, a mesma.
-
-É, o mesmo fundamento, criar ranhuras pra. Aderência. Pra criar a maior superfície de aderência. Gostou da ideia? A gente tá procurando as palavras exatas, precisas. Perfeito. É, exato. Cimento queimado é uma das técnicas também. Que a gente utiliza bastante aqui em casa. A gente tem na fachada, a partir de cimento queimado e nos banheiros. Cimento queimado pode ser aplicado no banheiro sim, certo? Não é tão indicado assim pra área do chuveiro. Dá pra botar na área do chuveiro. Eu já vi na área do chuveiro cimento queimado, mas.
-
-O problema é que o piso de cimento queimado na área do chuveiro pode ficar muito liso. Mas na parede pode utilizar. Mas não é como se fosse criar vazamentos. Ele aguenta umidade. Por que ele aguenta umidade? Porque o grão do cimento é grão muito, muito pequeno. Então assim, se eu tenho uma parede no rebobo e eu chego e é toda porosa, ou seja, ela passa a água pro outro lado e não tem nenhuma camada ali realmente fechadinha, se eu chego nesse rebobo e passo o meu cimento queimado, eu fecho esses poros, já que o cimento tem grãozinho bem pequeno, ele preenche todos aqueles vazios da parede.
-
-E aí, Amanda, como é que eu faço esse cimento queimado? Bem, o cimento queimado é feito com uma gola de cimento, que é cimento, água e cola branca. Podendo ser bianco também. Podendo ser bianco também. Então gente, pra fazer o cimento queimado é muito simples. Basta você preparar uma pasta de cimento, que é basicamente uma mistura de cimento com água. E pra gente não colocar água demais e diminuir a resistência desse cimento, que poderiam ocorrer trincas, inclusive o descolacamento, a gente adiciona nessa mistura a cola branca ou bianco.
-
-Qualquer desses dois que são adesivos PVA, a adesivo PVA, ele vai melhorar a capacidade desse cimento de se grudar na parede. Então a gente corre menos risco depois dele sair e ajuda também na intermeabilização. Por quê? Com menos água, adicionando esse aditivo plastificante, ele faz com que os grãos deslizem por mesmo sem adicionar mais água e com esse deslizamento, cada grãozinho meio que consegue preencher melhor o seu local.
-
-A dica pra ele ficar bem brilhoso no final, você pode, depois de passar essa pasta, jogar o pó do cimento mesmo em cima e aí desempenar com pó do cimento, que aí dá tipo brilho último. E outra dica também é você passar cera, desintermediabilizante, verniz e silicone líquido por cima, pra dar mais brilho também. Ele pode ser aplicado em cima diretamente do reboco, não do tijolo comum, do reboco. A não ser que seja uma alvenaria das aparentes, porque as alvenarias aparentes elas já são mais retilíneas.
-
-Então, eu posso aplicar sim o cimento queimado em cima das paredes de alvenaria estrutural geralmente. A gente recorre a massa assim bem rente com o tijolo comum. Exatamente Se você coloca cimento branco, a cor fica bem mais clara. Quanto mais cimento branco eu utilizo na mistura, não precisa ser o cimento branco estrutural, que ele é caro. Cimento branco comum, saquinho de quiúco, custa 2, 3 reais. Quanto mais cimento branco eu coloco e menos cimento normal, mais branquinho e mais claro vai ficar a minha parede no final.
-
-Eu posso inclusive fazer só com o cimento branco, claro que vai ser pouquinho mais caro, mas ainda muito econômico. E aí tem o resultado final dela toda branca, sabia? E você também pode pintar pigmentos, então tela amarela, tela azul, tela verde, a cor que você quiser, do cimento queimado. Eu acho que essa é uma das minhas texturas favoritas. E não enjoo, ela combina com tudo. Vocês vão ver que ela também é muito mais em conta do que a pintura.
-
-E ela consegue Cimento vassourado, uma técnica que a gente já aprendeu no estágio que a gente fez de piso, que a gente fazia piso, então a gente fazia mais no piso, mas não fazia com uma vassoura, tinha uma vassoura própria. É uma vassoura própria pra uma indústria. Aqui é uma vassoura de uma casa mesmo, mas dá pra fazer com uma vassoura também. Porque a ideia é criar essas lanhuras e esse efeito de lanhuras, basicamente é isso. Quer criar efeito texturizado na parede, fica excelente. A gente tem aqui na nossa parede.
-
-Se você tá assistindo na internet, provavelmente você não vai encontrar cimento vassourado em paredes, porque, assim, realmente é algo bem inovador, porque geralmente é utilizado como flan explicou, só no piso. Mas pra fazer na parede, é só utilizar a mesma base do cimento queimado, só que pouco mais líquida. Então agora coloca pouco mais de água. Não tira a cola branca, porque ela ainda ajuda na aderência. Então pode colocar pouquinho mais de água, ela vai render mais, vai sair mais barata e é mais rápido de fazer, porque é no pincel ou na brocha.
-
-Então dá pra analisar a proporção de cola, cimento. E água, pra gente ter uma ideia. Pode conferir lá nosso canal, amandainfernando.net. Lá nosso canal, youtube.com.br amandainfernando, aí você pesquisa lá em cima, cimento queimado da Amanda, aí vai ter uma cara bem grande em cima, na faixa de cimento queimado na faixada da casa. Aí lá eu ensino direitinho a receita que a gente usou duas receitas, uma só com cimento puro, que deu resultado pouco mais escuro, e a outra com metade cimento e metade cimento com cimento branco, metade cimento e metade cimento branco.
-
-Aí lá eu também dou uma proporção ótima que a gente utilizou de cola, mas basicamente foi uma parte pra 10, entendeu? É, basicamente. E outra coisa, o que eu indico, que vocês façam testes numa pequena parede, porque essa receita ela muda de acordo com o tipo de cimento que você tá utilizando. Então, a marca do cimento, se eu comece com cimento poti, tenho que fazer toda a minha casa com cimento poti, não posso trocar no meio por cimento mizu, por exemplo, porque vai. Mudar totalmente a tonalidade. E é melhor sempre fazer panos inteiros. Tem que fechar algum pano toda uma vez.
-
-Porque, inclusive, o sol batendo e o vento vai mudar a tonalidade dessa mistura no final, que é a velocidade que ela perde ou não a água. Então, dia, se dia é muito úmido, a parede parece que vai ficar mais escura do que dia muito quente. Por exemplo, a nossa parede, eu mostro mesmo, ela tem uma mancha ali do lado direito, eu Essa mancha, mostro gente, foi porque que essa a gente fez essa parede num dia que choveu muito, man então a água.
-
-A gente tinha piso errado na varanda nessa época, esse piso foi refeito, na época a gente teve quebrar tudo e refazer o piso pra fora, porque o cara fez o piso com caimento pra dentro. Só que no dia que a gente pintou essa parede, o caimento tava pra dentro, a água infiltrou, e essa parte aí da parede ficou curando com muito mais umidade. Então no final, apesar de hoje em dia ela tá seca, ela tem uma cor mais escura porque ela não perdeu água tão rapidamente quanto o resto da parede. A gente botou ventilador aí e vive com isso.
-
-Bem, existe no mercado efeito de cimento queimado já pronto pra você não precisar fazer a fórmula, certo? Esse efeito de cimento queimado já pronto, ele já vem no balde, você bota uma espátula e vai passando na sua parede, certo? Esse preço aí que eu encontrei tá inclusive muito barato. É, esse aqui é cimento queimado falso e esse aqui tá muito barato. Esse aqui é por demão, precisa passar umas duas. Geralmente eu vejo isso aí a pelo menos R$90 a R$100,00 no Mercado Quadrado. R$90 a R$100,00?
-R$90 a R$100,00 no Mercado Quadrado.
-
-Podem pesquisar aí na internet esses cimentos queimados de textura sem cara. É, porque esse aqui que eu peguei também é o metro quadrado que o fabricante tá dizendo. O fabricante tá dizendo que cada quilo rende nove metros quadrados, normalmente. E, normalmente, os fabricantes botam mais pra cima possível, mantendo bem rasinha, bem pequena, eles botam no máximo. E quando você vai ver alguns vídeos na internet de pessoas que aplicaram, elas dizem quanto é que forçamento delas, a gente vê que sai muito mais caro do que isso aqui do demão, certo?
-
-Mas então, pega o preço mais baixo pra gente competir com a nossa solução que a gente tem aqui, que é também cimento queimado falso, porque ele é feito com massa acrílica. Eu queria muito negócio pra escrever massa, PVA. Massa acrílica ou massa acrílica? Massa acrílica. Massa acrílica é utilizada na área externa da casa, porque ela é resistente à chuva. Enquanto a massa acrílica não. A massa acrílica é mais barata, bem mais barata, e ela é utilizada na parte interna da casa. Então, se for ser utilizada na parte interna, opte pela massa acrílica. Se for na parte externa, a massa acrílica.
-
-Exato. A massa acrílica também chama de massa BVA. Massa BVA mais pigmento. Aqui a gente usou pigmento preto. Isso, aí a gente fez duas em mãos. E só pouquinho de pigmento. Só pouquinho. A gente fez duas em mãos. Uma pouquinho mais escura, uma pouquinho mais clara. Depois deu uma lixadinha por cima. A gente fez a camada escura primeiro e passou na parede. Já ficou mais ou menos queimada. Mas aí a gente veio com uma segunda camada mais clara por cima. Aí deu o que cobriu a primeira. Aí depois a gente veio com uma lixa. E veio tirando pouco do branco que tinha por cima, criando uns efeitos.
-
-Aí além de você se divertir bastante, você gasta mais ou menos aqui por metro quadrado já acabado. Isso aqui é por demão. Você tem que passar umas duas demão fácil aqui. Isso aqui já é acabado. Final. Então assim, é extremamente mais barato. Então é muito mais barato. A gente consegue o mesmo efeito. E. Aqui por cima você passa também selador pra parar de soltar a torre. Se tiver soltando pó você pode passar selador e fica mais gostosa de passar na mão, fica mais aveludado pro final. Pode ser as carnaúba, pode ser aquelas resinas que a gente fala muito por aqui.
-
-E pra aplicar com a desempenadeira. A gente inclusive tem todo o tutorial nosso canal, você pode acompanhar lá procurando cimento queimado falso. Quando é que eu posso utilizá-lo? Posso utilizá-lo em cima de paredes no reboco. Posso utilizá-lo em cima de paredes no reboco de gesso. Posso utilizá-lo em cima de paredes que já foram amassadas também. E inclusive paredes que já foram pintadas. Beleza. A gente tem mais acabamento, tem mais coisa que a gente pode fazer com cimento. Tem cimento, é dos acabamentos mais baratos que a gente consegue fazer com parede.
-
-E você pode fazer várias paredes de várias coisas diferentes na sua casa. Aqui, o melhor nome que a gente encontrou na internet é efeito pedra sobre reboco. Se você botar isso na internet, você vai encontrar pessoas fazendo de várias formas de diferença. Aí ele faz uma espécie de reboco, certo? Só que em vez de passar o reboco com uma régua na parede e deixar bem lisinho, ele pega e faz uma espatulação própria dele, que vai criando nesse caso aqui escamas. Nesse caso aqui ele criou efeito de rocha, que é que ele pegou e botou na colher e. Você mantendo.
-
-Consistência na forma que você tá criando com argamassa, você consegue sim com essa argamassa criar uma textura. Exemplo disso é o seguinte, a gente não encontrou fotos, a gente vai inclusive lá na cidade pra tirar fotos pra vocês, mas eu acho que eu já mostrei em dos vlogs no canal de Barra Grande, que lá é muito comum a gente ver esse reboco aí feito com a mão, bem bonitinho. Ele faz com a mão. Então, ele pega, usa a burra, molha a mão e sai alisando bolinhas no. Como se fosse mais parecido desse lado direito, só que sem essas rachaduras. Então, ele faz como se fosse efeito cavernoso.
-
-É muito bonito, gente. É muito bonito. Ó. Tá vendo? Isso aqui é feito com reboco, isso aqui é uma pousada local. Ó, isso aqui é feito com reboco, isso aqui é uma pousada local. Onde o reboco imita umas pedrinhas. Feito à mão e depois é só pintado por cima. Pode inclusive ser pintado com tinta de terra, gel tinta. Que é uma tinta extremamente de baixo custo. A gente diminuiu galão de tinta aí de R$200 pra R$10, R$20. Parece bom? Arruba. Vou te baixar já essa gel tinta. Próximo. Então aí. Mais efeito. Esse daí é pra. Ficou bonito esse vídeo, ficou muito bem feito. É, esse aqui ele faz como?
-
-Ele pega e passa o reboco, deixa o reboco retinho. E como a parede com o reboco reto? Ele vem com uma madeirinha ou o dedo e vem fazendo os desenhozinhos. Por falar em madeirinha Imprensar esse molde de madeira em pinos, qualquer madeira que você tenha fininha, imprensa ele pra sair marcando. Isso funciona tanto no efeito de pedra no reboco, quanto no piso. Então, pra vocês, a energamaça é material muito. Versátil. Perfeito. Entendeu? Então a gente pode fazer calçadas que imitam pedra. A gente pode fazer, inclusive, aqui na frente, a gente tem aquelas pedras de concreto que imitam madeira.
-
-Que parece que é madeira, mas não é madeira, nem mora aqui em Próximo Bairro. Então seja criativo, vamos falar da tinta de terra. Tinta de terra também utilizamos aqui na nossa casa, se você puder assistir o vídeo no canal. Ela é uma excelente solução porque ela sai muito barata, é líquido que acaba saindo muito barato, é uma substância que, por razão, a tinta sai mais barata. E outra coisa também, você pode fazer por si mesmo, que aí o custo cai quase para zero. Ok?
-
-Você tem como fazer de várias cores, com vários tipos de terra, você pode botar pigmentos também nessa terra para dar mais puxada para o lado da cor que você quer também. É porque é difícil encontrar uma terra preta. É, aqui ó, na nossa casa a gente fez essa parede todinha. Ela era no reboco, certo? Ele não tinha feito acabamento nela, a gente fez o acabamento em tinta de terra. Aqui é o começo da aplicação, pra vocês verem que ela pode ficar com essa textura aqui, mas aqui a gente resolveu lixar nessa parte aqui da casa e ficar mais lisinha. Bem aqui também a gente lixou, certo?
-
-Isso aqui foi feito em tinta de terra, essa bola laranja aqui todinha. Essa parte verde aqui foi feita com massa BVR. E pigmento verde. Como se fosse cemento cremado, só que a gente pegou a massa corrida, fez só uma cor dela com pigmento verde e fez ela pouquinho mais diluída pra gente poder passar com o pincel e não com o. Com quem, Medusa? Com o Olímpico. O que é legal disso?
-
-A gente consegue fazer várias tintas da nossa casa de diferentes cores só comprando pigmento e ou uma tinta branca neutra ou pegar mesmo ali a massa corrida que tiver sobrado, diluir pouquinho essa massa corrida com água e faz várias tintas aí pra poder brincar e fazer detalhes na parede. Ficou muito bonito essa folha. Ficou excelente. Obrigada. Bem, outro acabamento. A gente vai ter que falar mais sobre tinta externa. Valeu. Então, dicas pra tinta de terra.
-
-Quanto menor o grão da areia que você estiver usando, mais fácil vai ser pra você ter essa tinta com bom fechamento, porque assim, a gente vai misturar, pra refazer essa tinta, você pode inclusive ver lá no canal o passo a passo completo. A gente vai misturar a terra com água, com cola branca, ou essa cola branca pode ser também o bianco, ou pode ser outra glutinante. Por exemplo, a gente tem óleo de linhaça, que melhora muito essa tinta, pra você adicionar a barato também, de conseguir. Você pode fazer seu próprio grude com goma, sabia disso?
-
-Pode fazer o próprio grude com goma, que aí você não precisa comprar cola, mas aí você dá pouquinho mais de trabalho. Você vai encontrar diversas cartilhas aí na internet, manuais de como fazer tinta de terra, porque a tinta, ela não tem uma receita final. Cada terra Quanto menor o grão, mais fácil vai ser aplicar essa tinta na parede, porque ele não decanta muito rápido pro fundo. Então, a gente consegue aplicar rapidamente e ter uma boa cobertura de ar com duas da mão, se isso é uma terra bem argilosa. Uma dica é peneirar. Que aí a gente consegue só os grãozinhos mais finos.
-
-Peneirando, peneirando, você consegue só os grãozinhos mais finos e faz a tinta só com aqueles grãos mais finos que você selecionou. Então, pensando aí, vamos fazer até manual aí de boas técnicas e boas práticas, pro curso, pra vocês terem essas receitinhas mais facilmente, na mão. Pode botar aí que eu faço, pode botar aí que eu faço manual aí depois pra. Ih, você tá adicionando coisa aqui, gente. Breto na região de bônus. Sempre atualiz Sim, isso não impede que você utilize as terras mais arenosas, com mais areia.
-
-A diferença é que elas vão dar pouco mais de trabalho contra as áreas mais demansa, pra cobrir tudo. Por exemplo, umas 3 a 4 demansa, aqui foram 3. Por quê? Porque é uma terra mais arenosa e a gente consegue com isso uma textura, o que não é ruim. Terra mais arenosa a gente consegue uma textura e se você estiver procurando uma textura, eu acho que é a opção certa. Eu gostei muito porque no fim ficou uma leve textura e eu gosto muito da minha textura. É bonita a textura. Completamente. Tanto que existe a massa texturizada, que é tipo de acabamento pra parede, que também sai muito barato, certo?
-
-Se você fizer principalmente com. A própria massa texturizada, ela vem de pronta, já. O que é uma vantagem muito grande. Porque ela não precisa de massa. Corrida e pintura. Não precisa de massa corrida. E pintura. Ela já é a massa corrida com a pintura junto. Os dois num pacote só. E você pode comprar a textura de cada cor que você quiser, ou então você também pode. Pigmentar em algo, nada impede. Você pode fazer a parte. Você passa ela na parede, ela fica com uma certa espessura. E nessa espessura, você tem como fazer desenhos, ranhuras específicas.
-
-E essas ranhuras podem ser feitas com todo tipo de material. Tem espátulas que fazem ranhuras, você pode fazer quadriculado na sua parede. Você pode utilizar E rolando com as texturas até bem bonitas. Se você for ver uma textura meio florida, meio arte no voo, é que você passa na parede. Essa lente também. Ela também é bem resistente à umidade, então se você tem uma parede ali que é mais chatinha, uma umidade dela, tentou resolver a infiltração, não consegue, essa massa texturizada tem se mostrado que mais é durável. Ela é boa para alistar, porque ela é mais grossa também. Ela é mais durável.
-
-No caso de infiltrações, parede meio chata para reforma, indica uma massa texturizada. Porque tem aqueles cansos que a gente, por mais que a gente resolva aquela infiltração, parece que ela sempre volta, 2, 3 anos depois. Então, massa texturizada nesse momento próximo. Grafiato é uma espécie de massa texturizada, que fica assim com essas ranhuras ventais. Isso, pode ser feito também essa textura de grafiato direto no reboco. Aí você pinta o seu reboco no final pra ele ficar assim. O grafiato é literalmente acessório, que a galera passa e cria essas ranhuras aí, ou no reboco ou na textura.
-
-Mas só tem uma coisa, não abusa de textura, não vai colocar textura em todas as paredes. A gente deu diversas outras opções. Vai mesclando entre elas, pra não ficar uma coisa cansativa. Fora da casa pode até ser, mas dentro de casa fica muito cansativo se a gente bota textura em todas as paredes. Então, escolhe uma outra pra chamar a atenção e as outras tenham uma coisa mais. Outras opções, mais lisa.
-
-Bem, tijolinho de EPS, você já pensou em ter aquele efeito de tijolinho em alguma parede, você vai fazer uma reforma na sua casa, em algum ambiente, você tá meio sem ideia, você pode pegar isopor, EPS é isopor, e fazer tijolinhos, e colar esses tijolinhos na parede, vai criar efeito interessantíssimo. Que é aquele, pra substituir aqueles 150 reais por metro quadrado que você teria que pagar se você fosse comprar o tijolinho mesmo pra ser aplicado na parede, que é o brick, que é caríssimo e tá super no modo. Seu próprio brick.
-
-De isopor, utilizando ferrinho de solda pra fazer as ranhuras, pra dar os detalhes. Então, a gente dá uma destruída aí no isopor, ó, preparado pra isso. E se é isopor, tá tão destruído que ninguém enxerga mais o isopor. Então, usa o ferro de solda baratinho, trinta, quarenta reais, cê compra cê vai pintar tudo na sua casa, inclusive, pra queimar isopor. E daí, cê vê, depois é só pintar da cor que cê quer. Pode ser marrom? Pode. Cê passa diversos tons de marrom, depois passa tom mais escuro, tom mais claro, passa vários tons. O segredo da pintura, vou dar dicas.
-
-Não, o segredo da pintura é, chegou, vai ir pintar. Viu que tá com a cor er. É, aquela frase lá. Que qualquer tolo que siga sua turística com constância vira sábio. Sim, vem aqui. Espera, não, essas são erros. Nenhuma vez eu toquei o pincel num quadro ou numa parede sem saber que aquilo estava errado. E continuei. Persisti. Persistiu. E outros erros, nem consigo participar daquele. E no final, todos os foi uns dias que eu tornei uma brilhante. Lindo. O. A tijolinha do GPS conversa com pinturas, então você pode ser criativo, certo? E ele também é vendido em panos.
-
-Esse bem daqui é tipo pano, assim, que você vem e gruda na parede. Aí sai mais caro. Não é faça você mesmo, que vem bem baratinho, certo? Tadalak. Amor! A Amanda descobriu esses dias esse Tadalak aqui, a gente deu uma olhada. Ela é basicamente tipo cimento queimado, só que a base de cal. Então a gente consegue uma liberdade muito maior de cores, porque o cal é branco. A base do cal é branco, então a gente consegue uma textura melhor também, mais fina. Ele é impermeável, então ele pode ser utilizado em águas molhadas, pode ser utilizado na área externa da socata.
-
-E ele funciona basicamente como se fosse reboco, que é muito alisado, entendeu? É reboco à base de cal muito, muito alisado, de forma que no final ele fica assim, essa coisa, essa parede perfeita. Está de laque significa até alisar. Alisar. Alisar. Então ele é à base de cal, bem alisado, super resistente à água, pode ser utilizado em piso, paredes e tudo. Olha a massa. Ele vem e eles ficam alisando, alis Gesso 3D, que a gente falou na última aula, ele pode você mesmo fazer os seus.
-
-Você tem uma forma, você pode comprar formas prontas, bem modernas, você pode preparar a sua própria forma com aquelas placas EVA. Você tem uma placa EVA que cresceu, tá parado ali na sua garagem, você pode pegar, fazer uma forma com ela. E essa forma faz Gesso 3D e até cimento 3D. Cimento 3D, muito bem lembrado, a gente consegue fazer, então, nossos próprios revestimentos, a gente não precisa comprar os.
-
-Seja ele de gesso, que você consegue comprar o gesso em pó, mistura com água e aí bota na forma e retira depois, ou de cimento, como o Fernando falou, o mesmo processo, compra o pó de cimento, mistura com água, bota na forma e desenforma depois. Com isso, a gente consegue ter revestimentos lindos na nossa casa. Se você tem, por exemplo, uma forma hexagonal e faz vários desses hexágonos aí de cimento, fica maravilhoso pra gente colocar numa parede e dar destaque extra e de graça praticamente, porque você vai comprar o saco de cimento que custa o quê?
-
-Hoje em dia, trinta e cinco reais, mas mesmo assim, trinta e cinco reais pra uma parede inteira, versus cento e trinta reais por metro quadrado, que é o preço de. Exato, eu acho que é isso. Fernando, tem sangue na casa nova. Não, a gente vai acabar fazendo muita coisa. Vai, pra você. Não acabou. Graças a Deus, ela ficou grande. Não acabou não, tem tecido. Tem tecido, Fernando. Tecido, gente. Tá fugindo o papel de parede e uma opção mais de custo é? Tecido.
-
-O tecido, você chega na loja, vê algum tecido que tem uma boa cobertura, se sua parede for escura atrás, pega tecido com bastante fio pra não aparecer a cor de trás. Senão, pode pegar tecido do comum mesmo e vai aplicar esse tecido na parede com cola. Cola, branca, isso mesmo, gente. Só cola branca, você passa atrás desse tecido e vai colando esse tecido na parede. Com isso, a gente consegue mais opções e o preço, pelo menos, vem metade do preço do papel de parede. A durabilidade também é bem. É, não é muito parecido com papel de parede. Agora sim, a gente pode pôr pouco de terra.
-
-Não é outra aula ainda. Não é outra aula ainda. Isso aqui é todas as aulas de acabamento de baste-fute para parede, tudo numa só. Então, quando você for dar esse curso aqui para o amiguinho seu, indicar para ele, ó, se inscreva no curso da Amanda e do Fernando, você diz, a aula 30 é a aula que pega e você economiza mais. Aguente. Fica com a gente mais minuto, estamos acabando. Reboco de terra, já ouviu falar? na realidade, a maioria dos rebocos é feito basicamente com areia, certo? Boa parte, três partes pelo menos.
-
-E o cimento, o que o reboco de terra faz é eliminar o cimento dessa equação inicialmente, ou pelo menos diminuir bastante ele, pra gente poder baratear esse reboco. Esse reboco também não é feito com areia lavada, que geralmente é areia que a gente compra pra construção, ele pode ser feito com areia do próprio terreno, o que também é mais uma economia. Como é que funciona?
-
-Eu vou me aprofundar mais na parte de bioconstrução, mas basicamente a gente vai ter a terra do nosso terreno, a gente vai analisar o que tem nessa terra e como a gente pode estabilizar essa terra, seja por meio de compressão, seja por meio de aditivos, como cimento ou cal, ou esterco, ou palha, tem várias E a gente vai utilizar ela pra rebocar a nossa parede. Pode ser tanto reboco grosso quanto reboco fino. E pode ficar pegando chuva? Sim. Tem várias estabilizações, a gente vai fazer vários testes, porque como eu disse, cada uma é uma receita. Isso daqui é mais uma prática de autoconstrução.
-
-Então, é tipo de reboco que a gente indica você mesmo fazer, porque ele não vai trazer malefícios à sua saúde. Aí gera muita economia, tanto em material quanto em mão de obra. Vai. Excelente. E mais uma dica também, seja criativo. Em acabamento de parede, não tem certo, não tem errado. Basicamente, todos os acabamentos que são utilizados no piso podem ser utilizados na parede, como, por exemplo, uma grama sintética. Fica lindo. Uma grama sintética na parede. Fica show, fica diferente. Demais.
-
-Então, pode utilizar garrafas pra construir a parede sem a matéria de garrafa estar sendo utilizada como tijolo. Fiz post sobre isso no meu Instagram, então sim, você pode chamar os amigos pra beber. Se não quiser comprar tijolo, não tem problema. Chama os amigos pra beber, faça seus próprios tijolos e ele ainda ilumina a sua casa dentro, como é o caso das garrafas, que aguentam uma força de compressão. E aí a gente tem uma terra estabilizada pra manter o uso local. Ou você pode também fazer uma pintura orgânica. Como a gente fez naquele quarto.
-
-Usando tintas de terra, usando tintas caseiras feitas à base de sobras de massa corrida, que a gente consegue aproveitar essas sobras pra fazer essas pinturas maravilhosas. E é isso, seja criativo. Massa PVA e pigmento também. E a gente. Seja criativo. É isso, seja criativo. Pode revestir de pallet, pode revestir de telha. Tu não colocou a telha, Fernando? Não coloquei a telha. Você pode botar uma telha metálica. Não, eu vou exigir do Fernando a telha. Tu vai exigir que eu abri aí o celular, então. Fernando, pelo amor deus. A telha, ela pode ser utilizada.
-
-Tanto aquela telha de fibra ou cimento, quanto a telha metálica, Não é tão baixo custo, mas é uma boa opção se você tem interesse demolição. Se você tem uma telha sobrando. Se você tem uma telha sobrando. Até comprar, algumas vezes vale a pena, porque a telha metálica sem ser a sanduíche com isopor dentro, ela é bem barata. Então assim, vale sim a pena, logo pelo efeito que ela cria no final. Que é efeito muito bonito. E esse efeito aqui, ele também é bem legal pra quando a gente tem uma parede estrutural e precisa passar afiamento por trás. Como se fosse shaft.
-
-Ela funciona como shaft, então, no final. Fica difícil colocar. Porque eu. É isso. Telhas, então, funcionam como shaft. Mas como é que essa telha é fixa na parede? São colocados diversos perfis de madeira na vertical, esse perfil parafusado na parede, e aí vem a Aí fica espacinho. Aí nesse espacinho você pode passar fios, cabos, água, elétrica, tudo isso quando você tem aquela situação de não pode quebrar a parede ou não quer quebrar a parede. Casas alugadas, por exemplo. Você pode arrasar a parede com você depois. Beijo. Essa foi a aula de hoje.
-
-Marquem-nos nos stories quando vocês virem paredes criativas. E até o próximo vídeo. Essa aula ficou com quase 50 minutos, gente. A aula das aulas. Acho que eu vou até falar pra dividir em dois, talvez. Acho que não. A aula das aulas. A aula das aulas. Até mais. Sejam bem-vindos a nossa aula 81, hoje a gente vai complementar nossa última aula de acabamentos, dando agora pra vocês todos os preços detalhados de cada deles. Bem, como é que fica a árvore de possibilidades desses acabamentos?
-
-Quando você utiliza o tijolo furado, que é o tijolo mais comum, você vai ter que fazer uma regularização nele, porque ele não é muito regular, então sua parede, invariavelmente, vai ficar pouco irregular. Essa regularização a gente resolve com as camadas de enxapisco, embolso e reboco. Você pode fazer eles com argamassa, mas você tem a possibilidade de fazer com tijolos, que a gente mostrou que baixa bastante o custo. Eu só queria lembrar, as pessoas lá na aula do tijolo furado, a gente comentou, que quando você utiliza tijolo de melhor qualidade, você tem uma parede mais reta e linha também.
-
-Porque dependendo da queima que aquele tijolo sofreu, o tijolo 8 furos, que vai ser infelizmente a opção para algumas pessoas, se ele tiver umas cores muito escuras, significa que ele queimou demais, e aí ele pode acabar diminuindo de tamanho esse tijolo, ou então ficando literalmente curva algumas faces dele. É isso que gera uma parede com tanta imperfeição. Além de, claro, aquela parte de instalações, que faz você ter quebrar tudo, esses tijolos, e aí fica realmente impossível a gente evitar de fazer essa regularização. Então É mais difícil, porque ele não.
-
-É tão regular quanto os outros blocos. Isso é tijolo muito bom, de boa qualidade, o pedreiro deveria ter feito bom trabalho na subida dessa parede para ela ficar toda retinha e aí poder ser utilizado esse bloco aparente. A gente nunca vê isso acontece, nunca vê. É, nunca acontece. Enquanto que o bloco cerâmico estrutural, o bloco de concreto estrutural e o tijolo ecológico são três opções que você pode deixar aparente. Você talvez deveria deixar aparente mesmo, porque economiza muito dinheiro. Bem, feito esse regularização, você vai passar para os acabamentos em si, certo?
-
-Você tem que compilar do tijolo furado também para dos acabamentos diretos sem regularização, que é o chapisco aparente. Que a gente mostrou, a gente fez aqui na nossa escada e mostrou nos slides anteriores. É geralmente, inclusive, revest pode fazer. Em jardim de inverno na sua casa. Então, com a parede regularizada, normalmente se faz a pintura. Também é utilizado cerâmica e pó celanato nas áreas molhadas. Esses são os mais tradicionais. Os que a gente tá mostrando pra vocês que são mais econômicos são aqui os cimentícios. Além dos cimentícios, massa texturizada e tinta de terra.
-
-São os mais em conta que você vai conseguir. Então tem esses outros também que são pouco mais caros. Menos o tijolinho em EPS, se você fizer você mesmo. Esses tijolinhos aqui não tem o preço deles na Senfra. É. Quem realmente não faça você mesmo. A Senfra não tem que fazer você mesmo. Tá, a venaria aparente é de longe mais barato. Bem, como é que a venaria aparente ainda tem preço? Você tem que fazer entre os tijolos. No rejunt principalmente, na realidade, mais necessariamente, nas paredes externas. As paredes internas não necessariamente você precisa fazer esse rejuntamento.
-
-Por exemplo, uma casa construída em tijolo ecológico, algumas fabricações de tijolos permitem que o tijolo, inclusive, nem tenha a cola, o cimento cola entre eles. Tem a aplicação do tijolo ecológico. Algumas dessas tijolos ecológicos podem ser montados em cima do outro, inclusive, sem rejunte prévio entre eles. Só que, quando ele fica exposto ao meio ambiente. A chuva, ao sol, etc. As intempéries. As intempéries. É interessante, na verdade, é obrigatório que a gente faça rejuntamento dessas frestas, que tem por volta de 2mm, pra poder essa água não entrar pra dentro de casa.
-
-Então, basicamente, como se fosse rejuntamento de p. É, não é tão difícil. E passar o líquido selador. Selador é o que esse rapaz passou aqui no começo do vídeo. Pode ser líquido selador comum. Pode ser a pintura. Ou seja, pode pintar você mesmo. Esse é o seu selador. Ele é transparente mesmo. Olha o que ele tá fazendo aí junto. Aqui é o selador, e aqui é o rejunte que ele passa depois do selador. Depois ele passa o selador de novo. Qual selador?
-
-Pode ser resina acrílica, pode ser resina de carnaúba, pode ser o mais natural, pode ser silicone líquido, que é o mais impermeável e lisa e não é caro. Ele fica por volta, se não me engano, de R$17 na aplicação, já como de obra, coisa que a gente quer mostrar pra vocês detalhe. Quando a gente tá falando de serviços de acabamento, boa parte dos acabamentos que a gente fala de pintura e de, como é que eu digo, rejuntes, pequenos serviços, podem ser feitos por você mesmo.
-
-Isso vai ajudar muito, porque o acabamento, como são grandes áreas, basicamente todas as paredes da casa, vão precisar de alguma intervenção pra ficarem prontas pro final. Você economiza, olha só aqui, mostra aqui o preço. Praticamente, olha só, praticamente todo o valor é de mão de obra. A gente tem só R$1,89 de argamassa, que seria o material que você usaria pra rejuntar. Então, se você mesmo colocar a mão na massa, você diminui esse valor de R$11 praticamente R$1. E R$2 praticamente R$2. R$3,50. Porque tem o líquido ali. R$3,50, você diminui pra R$3,50.
-Pronto, essa é a primeira dica.
-
-Tem que fazer em parênteses aparentes. Isso a gente tá falando, de novo, pra economia de uma casa toda. Então, sempre pega esse metro quadrado e você pode pensar nessa economia aí de R$17 pra R$3,50, dá uns R$15 de economia, uns R$14 de economia. Se você tem 100 metros quadrados, em R$14 de economia, você já tem R$1.400.
-100 Metros quadrados é o que? Numa sala, se você for deixar aparente e você vai chamar alguém pra fazer o rejuntamento e passar o selador, você tem a capacidade de fazer você mesmo, cê é? A gente tá querendo ver a diferença se, quanta economia se for eu fazer.
-
-Numa sala que tem 50 metros quadrados, em 100 metros quadrados a gente teria uma economia de 1.400 reais, porque era 14 vezes 100 metros quadrados, e em 50 metros quadrados a gente tem 700 reais por metro quadrado, 700 reais. Então numa sala de 50 metros quadrados de parede, tu vai ter uma economia de 700 reais. E se você mesmo for fazer o rejuntamento e passar o selador, que é a coisa mais simples do mundo? Bem, se você não for botar a parede, você vai ter que fazer uma regularização na parede, pra poder receber o acabamento final da parede. Se você não for fazer o chapisco grosso.
-
-Pra fazer essa regularização, a regularização tradicional é feita em argamassa. Ela serve pro interior e pro exterior da casa. E ela tem quatro princípios, que é fazer a camada de chapisco, que a gente viu na aula. Camada de chapisco, camada de embolso, camada de rebuco, e a camada do embaçamento, pra poder receber uma tinta. E esse preço dá R$91,00 por metro quadrado. Isso pelo preço da Seinfeld. Quando você for levantado na sua região, você vai ter outro preço, pouco mais acima, pouco mais abaixo, porque a Seinfeld é uma média geral. Mas tá aqui a dica do que você deveria fazer.
-
-A regularização de gesso, que você bota direto no tijolo curado, amarelo não, vermelho, ela sai R$17,00 por metro quadrado. Isso o preço da Seinfeld. Não tem na própria Seinfeld essa regularização, porque ela já é bastante utilizada. Você baixa pra R$17,00, o que antes era R$91,00 por metro quadrado. Essa diferença numa sala, que tem 40, 60 metros quadrados, vai dar R$3.000,00 de economia a R$4.500,00 de economia. Então, isso é só uma sala. Uma sala, ambiente interior, ambiente seco. Uma sala, na verdade, que tu colocou aí. Só a parede interna. Na parede externa, você faz.
-
-Essa sala que tu colocou aí, na verdade, é totalmente quarto. É realmente uma mini-sala. Não é uma sala com sala de jantar e dinheiro pegada, não, gente. É só uma sala, só para sofá e TV. Quatro por três. Quatro por três. Só o sofá e a TV. Não tem outro. É, só nisso aqui, você já recupera o preço do curso. Só com essa informação, só com esse slide aqui. Você pega e. Não, eu ia fazer reboco todo de dimensão. Agora, você faz reboco de gesso. Aí, vai acontecer o quê? Vai morfar o seu reboco de gesso? Não, não vai. Não, isso é importante porque você projetou a casa direito Dependente se for gesso.
-
-A parede de fora não pode ser de gesso. Regularização de gesso pode usar na parede externa, de jeito nenhum. O gesso não aguenta muito bem a. Umidade, por isso a gente também evita. Em banheiros, porque a gente tem aquele calor, aquele vapor do chuva elétrico. Apesar de que ele é ruim mesmo com contato com a água. Até em lavabos você pode utilizar o reboco de gesso sim. A gente tem reboco de gesso. Em lavabos você pode utilizar o reboco de gesso, mas por exemplo, você utiliza de uma certa altura pra cima.
-
-Então você pode fazer que nem a gente fez aqui em casa, que a gente tem lavabo, que ele é de reboco de gesso, e o que a gente fez foi, em uma certa área, que a gente viu que era a área onde ele mais resfingava a água, inclusive a gente deixou tempo assim pra ver, só nessa área a gente aplicou revestimentozinho que era metro white, que a gente deixou até ele no estilo destroide.
-
-Porque a gente não colocou, como a gente não sabia cortar ele com a maquita, eu e o Fernando já aplicamos, como a gente não sabia cortar esse revestimento, a gente decidiu utilizar só peças inteiras, e aí fazendo como se ela nascesse naquele lugar e fosse se distanciando aos poucos.
-
-Então assim, criatividade é tudo, e todo mundo acha charme.: Outra dica que não me é ótima.: Mas não dizia da gente ser pedreiro e colocar, Lu?: É, é muito gratificante também fazer esses quartos da casa, você até, como é que se diz, tem É, não uma.: Dá mais valor pro revestimento.: É, dá mais valor, tem uma efetividade maior pelo revestimento. A pintura látex. A pintura látex é o acabamento que se utiliza depois da regularização, e ele é do tradicional, mais utilizado.: Mas é barato também, você tem outros tipos de tintas que são mais caras, que é aquela acetinada, a brilho, entendeu?
-
-Então essa daqui é a mais comum que tem, que é aquela meio fosca, que também suja mais facilmente, querendo ou não. As outras tintas mais caras, laváveis, elas, obviamente laváveis, não sujam tanto, porque você sempre pode estar lá, limpando a pintura. Mas essa daqui não tem jeito, tem que repintar a casa de anos em anos. Inclusive a nossa já poderia receber monte de tintinha branca. É normal sujar dedo, principalmente em áreas que o que você pode fazer. O que eu pensei em fazer aqui em casa, deixar boa parte das paredes em branco no início.
-
-E aí, se eu fosse sentindo necessidade, é melhor na pintura, porque eu sei que lá tem muita mancha.: Por exemplo, na nossa cabeceira, que a gente se encostava muito na parede, que a gente se encostava muito nela, a gente optou por uma pintura de cimento queimado falso, que é essa última textura que vocês estão vendo aí, ó, feita com massa PVA. Então, isso aí deu pra gente uma parede que a gente não vê mais tão facilmente as manchas e a sujeira, porque ela já é naturalmente uma parede manchada.
-
-E a gente também fez essa mesma técnica no balcãozinho da nossa ilha da cozinha porque ela bate muito pé. Então pra não sujar também, colocamos essa textura aí também do mesmo jeito fazendo com massa PVA. Que é super fácil de fazer. Aí a gente colocou como se teceiro fizesse pra você. Mas se você mesmo fazer, sai R$3,00 apenas, ó. E vejam, R$15,00 é a mão de obra. Enquanto R$3,00 é a.: O material.: O material. E como a gente já aprovou pra vocês fazerem nós mesmos nosso canal, pode botar a mão na massa que é sucesso.: É, e aqui a gente mostra os acabamentos de cimento.
-
----
-
-### Gravação 20
-
-Também do mesmo jeito fazendo com massa PVA, que é super fácil de fazer, aí a gente colocou como se testeiro fizesse pra você, mas se você mesmo fazer, sai R$3,00 apenas, ó. Porque vejam, R$15,00 é a mão de obra, enquanto R$3,00 é a. O material. O material. E como a gente aprovou pra vocês fazerem, nós mesmos nosso canal, pode botar a mão na massa que é sucesso. É, e aqui a gente mostra os acabamentos de cimentícios, que além desse aqui, porque esse aqui é acabamento de cimentício falso. Ele limita o cimento queimado.
-
-Mas a gente tem o chapisco, o cimento basturado e o cimento queimado que a gente viu nas aulas anteriores. Todos eles são mais baratos do que a pintura látex. E a pintura látex aqui tá muito barato o preço. E todos eles você pode ver boa parte, praticamente tudo, é só mão de obra. Então, mais uma vez, são acabamentos que você mesmo pode fazer. Pois é, bem aqui é onde tá grosso da economia da casa, que a gente mostrou naquela tabela inicial, de onde é que tá os preços da casa. É nos acabamentos. Chega a ser 40% da casa o acabamento, variando de 25% a 45%.
-
-E sabendo que esses 40% boa parte é mão de obra, nada melhor do que fazer nós mesmos. Mas tem detalhe aí, Fernando. Não são todos os serviços que a gente pode fazer. Claro, porque esses profissionais vão fazer serviços que não podem ser feitos por você. Então isso daí a gente evita, que é o que o porcelanato, aplicação de porcelanato retificado, que tem que ser feito, inclusive, alguns profissionais. Às vezes destrói em revetimentos caríssimos, porque não sabem aplicar as técnicas direitinho. Acaba errando a aplicação. É, que é o caso ali da casa, infelizmente, da minha mãe.
-
-Isso é porcelanato 40x40, genérico, bom lá, bege, bonito. Só que como não foi utilizado nivelador, os pisos, eles estão levemente inclinados, foi só botado no martelo. Quando o cara vai só sentar no martelo e não usa espaçadores nem niveladores que precisa utilizar, que o seu engenheiro vai saber. Isso aí você não é pra saber esses detalhes técnicos, quem sabe detalhe técn E deixar ele lá, você também sem conhecimento nenhum, vai acabar, vai ficar acabamento pior, mesmo com o material caro. Você vai ter acabamento pior do que você teria com material barato, bem aplicado.
-
-O que você consegue fazer na sua casa é o rejuntamento. Isso, por isso que a gente deixou bem claro isso mesmo. Realmente não tem erro no rejuntamento. Mais opções de baixo custo, tinta de terra. A tinta de terra a gente fez aqui na nossa casa, paredão. Fez também nosso quarto de visitas. No nosso quarto mais artístico. Decorativo. O maior preço dele tá na mão de obra também, então se você for fazer você mesmo, que dá pra fazer também, tranquilo de se mexer com essa massa, você vai ter uma parede bacana por R$2,00 no metro quadrado.
-
-R$2,00. Se você pegar aí do seu terreno pra fazer, e você mesmo for fazer. Eu acho a melhor opção, de longe, pra ser sincera com vocês. Lembrando que se vocês quiserem uma tinta mais fininha, mais espessa, pra fechar bem a cor da parede, você tem que peneirar bem essa tinta e pegar mais os finos. Dessa terra que você tem que peneirar. Quanto mais fina a areia, pra você tirar a parte fina, você bota numa peneira, uma peneira com os espaçamentos dos buracos bem pequenininhos, aí você peneira toda a areia, vai jogando areia fora, areia, como se fosse. Os grãos maiores.
-
-Os grãos maiores, aí você tira a areia. Fica com esse silt, faz a sua tinta. Não se preocupe que eu vou explicar detalhadamente nossa introdução à bioconstrução. Vai ter modo, vai ter modo. Não tem problema. E pra Beleza, massa texturizada, que você compra pronta também, a gente mostrou nas aulas. O princípio dela também é bacana em relação à pintura, principalmente porque ela pula essa etapa daqui. O emassamento da parede. Então você vai fazer o chapisco em Bolsa e Boco e já vem colocando a textura. Ela substitui o emassamento com a pintura, porque ela começou a ser a soma dos dois.
-
-A textura. Muito bom pra fazer do palesterno, porque pula essa etapa. Mas também tem a textura que não vem na cor final, tem a textura tipo neutra, que aí você vem com a pintura por cima depois. Só não indico tanto essa, porque às vezes a textura quebra pedacinho e aí você vê a cor branca naquela pintura. Enquanto se a textura for toda de uma cor sólida, mesmo que ela quebre pedacinho, atrás a textura E pronto,. Mais aqui alguns preços que a gente tem na Sinfra, dos outros acabamentos pra parede que nós mostramos pra vocês durante as aulas.
-
-Com exceção dos dois últimos, os de cima você não pode colocar a mão na massa. Na verdade os três últimos, os três últimos você pode você mesmo fazer, os de cima a gente não indica que você mesmo faça. Percebam a diferença, os de cima eles são materiais que você, basicamente como se fosse uma alvenaria, ou seja, são várias pecinhas que você tem que mantê-las todas iguais, então existe pouco de talento, existe pouco de prática com certeza, manejo de ferramentas, principalmente de corte de maquita, que é a serra mármore, então a gente não indica que seja feito por você mesmo.
-
-Também são revestimentos mais caros, mas o que eu queria chamar a atenção, Fernando, olha a diferença da pedra pra cerâmica. Aqui e aqui. Muito pouco. É, pouco. Então, quando é que eu vou escolher utilizar uma pedra no lugar de utilizar uma cerâmica? Quando você tem a disponibilidade dessa pedra na sua região. Gostou da pedra? Gostou da pedra. Se você for em uma loja, a pedra tá com preço até melhor do que esse aqui, ó. Isso aqui tá R$28 o metro quadrado. Você consegue uma pedra R$15 o metro quadrado. A gente conseguiu aqui a R$14 o metro quadrado a pedra castelo. Compramos na hora.
-
-Compramos na hora, castelo. Então a gente utilizou pedra natural em todos os banheiros. Por quê? Como vocês estão vendo que o preço da pedra e da cerâmica são bem parecidos e são basicamente metade do preço dos outros equipamentos. São muito baratos. Esse cerâmica é comum, esmaltada, branquinha, entendeu? Cerâmica comum. Quando a gente tem esses revestimentos, pra não ficar uma casa completamente igual, a gente brinca com eles. A gente tem duas texturas de basicamente o mesmo preço, a gente vai utilizar, sim, as duas texturas.
-
-Porque assim a gente ganha uma casa mais divertida aos olhos, e isso também é importante. Então, mas eu vou optar por utilizar a pedra no banheiro ou utilizar a pedra na sala? Provavelmente no banheiro, porque é uma área menor, a gente sai ali do banho. Não desliza. Não desliza, tá molhando, a pedra absorve essa água. A pedra é antiderrapante, é aderente. E o cerâmica que já passa ar mais elegante, da coisa, a gente coloca num área mais nobre pra sala. A cozinha também tem cerâmica pouquinho mais cara. Então,. Isso é mais barato.
-
-Nossa, sairia 80 reais.
-80.
-Porque a gente conseguiu baixar o preço do poçonete retificado, polido, do material, no caso. Veja só, o material aí chegou a custar mais de 80%, não, com volta de 80%, não. Menos de 80%. Como assim? O material aí representa boa parte do valor. Basicamente, dois terços é só material. É, dois terços, é. Dois terços do valor que é material. Então, a gente focou em diminuir o preço do material comprando de fábrica, que é o que eu vou falar pra vocês na próxima aula.
-
-E se a gente conseguiu diminuir, a gente já conseguiu diminuir pra 30. Só que como a gente mora muito longe da fábrica, o frete deu 10 reais, então a gente diminuiu pra 40. Mas ainda é muita coisa. É. Então, de posse de todos esses acabamentos que vocês estão vendo aí, e os valores deles, o que você vai fazer? Pegar a sua planta, levantar as áreas, na verdade a SoftEd já vai ter levantado pra você essas áreas, e agora decidir qual área realmente você quer aquela pastilha cara, você quer aquele porcelanato chique.
-
-Porque aqui em casa, pra vocês terem ideia, eu utilizei só uma parte debaixo da casa, só na área de cozinha e sala, e eu gastei 8 mil reais. 8 Mil reais. Enquanto que no resto da casa inteira, a gente só gastou 2 mil reais pra todos os outros pizzas, então assim. Porcelanato é caro. Próxima aula a gente se vê por aí. Então até a próxima, vamos pra próxima. Até mais. Olá, sejam muito bem-vindos à aula 32. Hoje a gente vai falar sobre bancadas. Bancadas que é elemento que às vezes pode passar despercebido, pra muitos, pra mim, que é a parte que mais me interessa da construção.
-
-São as transmissões de carga, como é que mantém a estrutura em pé. Como é que tu transmite a carga de cortar limão. Pois é, e às vezes eu esqueço completamente que bancadas fazem parte da construção civil. E será que é possível fazer algum tipo de economia nas bancadas? Não só é como uma parte essencial da gente economizar numa obra, porque já são milhares de reais, gente. E tem materiais aqui que acho que só por preço de uma bancada dá pra fazer uma kitnet. Próximo. Na nossa casa a gente utilizou dois materiais pra fazer as bancadas.
-
-A gente utilizou madeira, que é dos tipos de bancada mais baixo custo que existem e fica belíssimo. Enquanto que na cozinha a Amanda fez questão de utilizar Nanoglass. Ela simplesmente bateu o pé e queria Nanoglass, Nanoglass. E é uma bancada mais salgada o preço. Eu tenho outros motivos pra explicar, mas quando chegar no slide do canal, eu vou explicar o porquê dessa escolha por uma bancada cara. Não precisa ser de baixo custo não, Fernando? A gente pode escolher item outro pra investir pouquinho mais.
-
-Então, a gente pegou o tamanho das nossas bancadas que a gente tem pra poder simular quanto é que ia sair elas em cada uma das soluções. A nossa maior bancada é a do cooktop, que fica na cozinha, ela tem 1,5m². A outra bancada da cozinha tem quase 1m². Então, talvez isso já gire, na sua casa, em algo similar, 1m, 1,5m, mas aí depende do seu projeto. Do lavável e do banheiro de visita, que são menores, 0,4m, e a do nosso banheiro, 0,6m². Bem, vamos falar de todos os tipos de bancadas que a gente conseguiu encontrar e que a gente conhece. Granito é a primeira, vocês provavelmente devem conhecer.
-
-O granito também é uma pedra utilizada em soleiros. Ela tem essa característica de ser pintadinha. Mais ou menos comigo, parece que é por comigo. E ela é. Esse é o granito andorinha, é dos mais simples que a gente tem. Ele tem fundo pouquinho mais claro também. Todo pintadinho vai ser aquele que está aparecendo na bancada do meio. A partir de R$260,00 no metro quadrado. O granito, ele é muito utilizado porque ele é material até em conta, alguns granitos. Apesar de que ele pode chegar até R$1.000,00 no metro quadrado. E com ele a gente tem muita versatilidade.
-
-Ele é material super durável e bastante resistente também. É uma pedra natural. Então, basicamente, realmente essa espessura mais grossa na parte da frente, ó, que vocês estão vendo, não quer dizer que a pedra seja dessa espessura, tá gente? Isso aí é outro pedaço de pedra que é colado por, num encontro. Então, o gado tem uma grande pedra desse tamanho, na verdade, são duas pedras encontradas a quarenta e cinco graus aqui no campo. ó. Assim seria corte dela. Exatamente. O que essa parte aí, ó, a gente tem, então, é isso como se fosse uma, que a gente chama de saia.
-
-A gente chama isso aí da saia da bancada. Isso, quem tá olhando aqui, tem a impressão de que a bancada é dessa altura. E o nome disso aqui é saia. Isso. Geralmente, é, os arquitetos gostam de especificar essa altura maior pra baixo justamente pra pedra parecer mais robusta, mas isso aumenta muito o preço. Então, se Então, pra parar de tirar uma bancada de granito, a gente vai tentar diminuir os tamanhos dela. Diminuindo principalmente aqui na frente, na saia, usando tamanho mínimo de 3 a 5 centímetros. Eliminando essa parte aqui, ó, que sai passeando pelo banheiro.
-
-Isso aqui não tem necessidade. Se essa parte aqui de trás da sua bancada for revestimento de adiária molhada, ou seja, azulejo, alguma coisa assim, você também não precisa desse frontão. Você pode chegar com a bancada e encontrar direto com o azulejo, como é esse caso aqui, ó. Eu dei uma cerâmica no fundo, post-salonato, na realidade, e aí eu encontro a minha bancada direto com ele, sem fazer esse frontão aqui. Outra dica também é você tirar esse pé, ó. Muitas vezes os arquitetos também gostam de mostrar esse pé, e esse pé ele sai.
-
-Gostam de botar pegando pedras e colocar em locais desnecessários, onde elas não vão ter essa funcionalidade toda. Outra opção que a gente tem de pedra natural é o mármore. A diferença do mármore pro granito é que ele é mais poroso e no lugar de pintinhas você vai ver o mármore com rajados. E apesar de ser mais caro, ele é menos indicado ainda pra cozinhas e banheiros, na verdade, porque ele mancha mais fácil por ser mais poroso. Então ele é mais bonito, mas ele chega a ser até símbolo de riqueza.
-
-Porque você derrubou vinho, mármore desse, você tem que automaticamente ir lá e limpar, porque se absorver vai manchar. Ou então você tem que fazer bom serviço de interminabilização e mesmo assim ainda não é garantido. Então ele é mais poroso e mais caro, não é tipo de bancada que eu indico esse valor aqui de R$60 Foi o que eu consegui aqui na cidade. Eu achei até estranho esse preço muito tão baixo. Pois é. Os próximos eram de R$400.
-Então a gente tem aqui, pois é, porque o que vai variar nesse valor?
-
-A estampa que você vai ter é do granita, que a gente tem umas estampas aqui do lado esquerdo e tem umas estampas do mármore do lado direito. Vocês estão vendo que o mármore tem mais riscos, como se fosse assim. Enquanto o granita tem mais pintinhas, exatamente. Amanda, como é que eu vou escolher a cor dessas bancadas? Tente combinar com o piso. Se o piso for uma cor clara, você pode botar uma cor escura na bancada pra contrastar. Se não, se o piso for uma cor escura, você joga uma cor clara na bancada. E também pode trabalhar com tom meio que sobretom.
-
-Por exemplo, se o seu piso for mais bege, procure colocar granito mais amarelado, mais bege, pra também combinar uma árvore também mais amarelada, mais bege, pra ter ali uma consistência. Mas não tem regra, regra, não. É só pra você ter uma ideia de gostos. Mas só que deve valer a ajuda nisso aí. Uma dica também, aqui existem granitos bem similares ao outro, em estampa e de preços completamente diferentes. Exemplo desse na nossa região, que vai variar também de região, é o preço do preto de São Gabriel, que aqui na região ele custa próximo de mil reais metro quadrado.
-
-E o verde batuba, que tá aqui como verde perola, ele custa 300 reais na nossa região metro quadrado. Então, se eu tô. Muito bom, muito bom. Bem, aqui é o NanoGlaze que a gente utilizou na nossa cozinha. E aí, por que eu utilizei o NanoGlaze? Bem, eu tenho piso muito escuro aqui em casa, que é piso de madeira, assim, num tom meio avermelhado, e aí eu queria uma bancada clara pra contrastar com esse piso. Queria, então, uma bancada mais puxada pro branco.
-
-Quando a gente vem aqui nos granitos, como o meu piso já tem textura, eu não queria botar uma textura também na bancada, porque ia ficar muita informação. Textura no piso, textura na bancada, textura no piso, textura na bancada. Então, eu já não consegui usar granitos. Então, eu já tive que descartar essa opção pra mim. Olhei as opções do mármore, põei e o mármore tem aquele problema de manchar. E muitas vezes, o preço do mármore aqui na região acaba saindo com a intermeabolização, o preço de nanoglaz. O nanoglaz é caro?
-
-É caro sim, mas pelo menos é uma coisa que você só investe uma vez na vida. Ele é material feito ou nanoglaz ou marmoglaz. Os dois têm suas similaridades. Eles são feitos com pó de mármore, pó de pedra e vidro. Esse é o diferencial dele. Pra ele ser feito de vidro, ele não mancha. A porosidade dele é bem menor. Além do nanoglaz, a gente tem o superglaz, que é mais resistente ainda, mas é o nanoglaz necessário pra gente avançar nesse nível. O Nano Glaze já é mais do que suficiente.
-
-Aqui o preço dele na região já tá a partir de mil e seiscentos reais por metro quadrado, apesar de que a gente conseguiu com mil e duzentos. E sim, algumas pessoas vão conseguir ele mais barato, especialmente cidades grandes, você encontra ele a partir de seiscentos reais por metro quadrado. A dica pra economizar, como eu fiz, foi o quê? Tirar de novo essa lateral da vontade, vou voltar aqui ó, pra minha casa. A gente não tem essa lateral aqui, que a gente eliminou. E a lateral de cá, a gente também eliminou. A minha saia, vocês podem ver, é bem pequena, ela só tem três centímetros.
-
-E olha mais uma dica extra, tá vendo essa área aqui do cooktop? Sua saia do cooktop, ela custa quatrocentos reais, pra vocês terem ideia. E ela é cortada e normalmente jogada fora. É, o que eu fiz Então, eu reutilizei essa pedra em outro local. Eu tive emendas aqui e aqui, sim. Eu tive que fazer emendas aqui e aqui e aqui. Eu aproveitei e dei uma olhada pra poder fazer essas emendas. Mas, enfim, essa foi a forma que eu consegui economizar R$400,00, ganhando aqui quatro emendas, pra poder economizar essa área aqui do cooktop.
-
-No total, essas duas bancadas da cozinha, na nossa época, saíram por R$2.000,00. Foi investimento que eu quis fazer. Eu sabia que eu poderia conseguir essas bancadas pouco mais baratas, mas eu quis investir esses R$2.000,00, porque eu sabia que era uma coisa que eu não ia me arrepender. Então, eu acho isso também bastante importante. Como eu sou muito desdoichada empresa de cozinha, se eu botasse qualquer outra coisa aí, eu já teria destruído o manchado. Celestone também é. De pedra artificial.
-
-E a ideia da pedra artificial é imitar os meios da pedra natural, como mármore principalmente e granitos mais nobres, mas principalmente mármore mais nobres e cores sólidas também. E como por ela ser artificial, ela tem a vantagem de não ser porosa, então ela não vai manchar facilmente de forma alguma. Então esse tipo de bancada, apesar de ser caro, com certeza ele é o mais indicado no quesito, assim, de você querer uma bancada que nunca vai manchar. Quartzo stone. Quartzo stone é a mesma questão do celestone, que só que imita o quartzo, entendeu?
-
-Então é o mesmo material, primo também, muito caro. Não acho que vai ser nosso foco aqui, mas é importante você saber que ele existe. Ainda mais se o seu arquétipo estiver especificado lá no projeto, é importante você saber quanto ele custa. É, ele chega assim, eu botei quartzo na. Porcelanato. Aqui que é uma dica boa. Pronto. Se você quer a cara da riqueza, mas o seu bolso não acompanha, uma dica que a gente pode fazer é o porcelanato.
-
-Geralmente ele sai mais barato do que essa daqui que a gente fez aqui em casa, só que na nossa região a gente não tem mão de obra especializada que faça bancadas de porcelanato. Quem faz bancadas de porcelanato? Pessoas que literalmente só fazem isso, ou seja, pedreiros muito bons de acabamento e também pessoas que algumas fábricas de porcelanato já fazem esse serviço. Na própria fábrica. Exatamente. E também empresas de granita, algumas estão começando também a trabalhar já com bancadas prontas, mas você encontra também no mercado livre. O difícil do porcelanato é encontrar a pessoa que faça.
-
-A pessoa que faz a mão de obra. E com qualidade. Por quê? Você tem processo artesanal Só que ele é todo recortado e colado, assim, de forma que ele fique idêntico a uma bancada. Ele é colado nele mesmo. Não tem uma, como é que eu digo, uma superfície aqui por baixo, não. É o próprio porcelanato com alguns reforços. Porque o porcelanato, ele é pouco fino. Bem, da mesma forma que você escolhe porcelanato pra compor seu piso, você vai escolher porcelanato pra compor a bancada. Então, depende do preço da peça. Existem peças de porcelanato que variam absolutamente de valor.
-
-Especialmente por causa do tamanho. Quanto maior a peça de porcelanato inteira, ou seja, menos juntas, a gente vai ter mais cara também, vai ser essa peça. Então, por exemplo, se eu quero uma ilha de cozinha sem emendas, eu vou ter que comprar uma pe de uma bancada de profundidade. Então, ter corte na profundidade já não vale a pena. Então, o valor desse tipo de bancada,.
-
-Ele vai ficar competitivo ali entre o preço de uma bancada de mármore, com a vantagem de que ele tem o mesmo ganho estético final, mas tem uma resistência maior a manchas e intempéries do tempo, com a desvantagem de que é mais difícil a gente encontrar a mão de obra que faça esse trabalho aqui com qualidade. Que é o mais complicado que eu acho na bancada de porcelanato. Mas ele se torna uma opção, então, bem viável se a gente quer casa da riqueza. E qual que é o pocelonato, Amanda? Não, tá gente?
-
-O pocelonato a gente vai, assim como a gente explicou na aula lá de pocelonato, existem diversos tipos, é bom a gente utilizar pocelonato com PEI, que a resistência dele é de dois pra cima. Porque a gente vai estar passando, muito material de limpeza nesse, eu não sei vocês, mas sempre tem que desinfetar ali a pia da cozinha. Passar químicos. Químicos, exatamente, obrigado. Pois é, o PEI é resistente, a gente já viu na aula de pocelonato, esse PEI. Mas aqui mostrando de novo. Então, utilizar de dois a três pra cima, porque ele já aguenta mais os químicos e a abrasão.
-
-Também só pode utilizar o retificado. Não, é que só posso utilizar, não. Você pode revestir até com açarã, mas é mais invisíveis. Tem que ser identificado para parecer uma boa peça. Até que se fizer essas juntas aqui, até para você limpar, essa junta aqui vai sujar muito. Se o chão já suja, ele toca a culpa. Bem, também você pode escolher entre os tipos de textura que tem em cima, os acabamentos que tem em cima do porcelanato, e tem os que são menos porosos. Menos porosos no banheiro ajuda porque mancha menos. Os menos porosos são polido, esmaldado e acentinado.
-
-O externo e o natural, eles são mais porosos. Atritosos, eles tem uma superfície que é mais chata de limpar. Com ranhuras. Exatamente, com ranhuras e texturas. Então, esses dois aqui, que são poçolanatos geralmente utilizados na área de terra, a gente não indica você fazer bancadas com eles. Então, ou esmaldado, ou polido, ou acetinado. Como é que eu escolho, Ana? Depende do visual que você quer. Polido vai passar ar mais chique, o acetinado ar pouco mais industrial, uma coisa mais natureza. Então, e o esmaldado fica ali entre os dois.
-
-O esmaldado, na verdade, é o esmalte que é passado por cima. Então, vai depender aí de do acabamento final dele, vai depender da própria peça. Tem também poçolanato aqui que chama poçolanato técnico, é poçolanato que a gente não encontra muito por aí, mas a No caso, se eu precisar cortar essa peça, ela não vai ficar diferente o acabamento superior do acabamento lateral, porque o acabamento lateral é o mesmo acabamento do superior. Então, quando eu faço bancadas com ele, eu tenho juntas muito discretas. Inclusive, se a junta ficar aparente, ela ainda fica discreta. Temos o acrílico.
-
-O acrílico, também mais conhecido no Brasil pela própria marca dele, que é o Corian, é uma bancada que ela pode ser moldada. Então, ela tem diferentes formas. A forma que você quiser é a forma que ela pega. Ela pode ser feita com cubas embutidas e esculpidas com ela, assim como nas cubas de porcelanato também, só que o diferencial dela é que ela você não vê emendas. Você não consegue ver, mas a gente consegue ver em todos os outros chips que a gente mostrou até agora as emendas, porque as emendas aqui são feitas com o mesmo material da cuba, que é o Corian, certo?
-
-Enquanto nas outras bancadas, a gente tem que utilizar massa plástica, rejunte, e esses materiais, eles acabam amarelando durante o tempo. Então, mesmo que eu venha adquirir uma pia de quartz stone, vai aparecer no tempo essa linha aqui Nessa pia aqui, quando a gente olha de perto, a gente consegue ver as linhas que juntam uma pedra na outra. Agora sim, isso é o detalhe, o detalhe, o detalhe. É só pra vocês saberem mesmo, porque eu sei que tem gente que itens da casa vai querer se investir mesmo. E o direito é todo seu, espero que você economize e consiga. O melhor que tem aqui. Isso.
-
-E a gente também tem as cubas de inox. Essas cubas de inox, elas têm a fama de ser barata, mas você pode encontrar elas muito caras também. Então vai depender da cuba que você encontrar. Essas mais quadradinhas, mais redas, bem mais elegantes, obviamente vão ser bem mais caras do que aquelas que a gente já encontra em casas antigas, assim, que são aquelas meio padrãozinhas. Aqui a gente tem exemplo da cozinha do Matheus Uma bancada super simples, então deve conhecer o Matheus Hilton, se você não começou a conhecer.
-
-Essa bancada é super simples e deu up na cozinha, ó, que também são de azulejo simples, com o quê? Com contraste, com pintura, com estilo industrial, ficou bem legal aqui. Enquanto essa daqui já traz ar meio que mais elegante. Pelo formato mais quadrado dela e tudo. Elas trazem uma moderna por serem espelhadas, são fáceis de limpar, pode colocar material quente, não tem problema nenhum, mas é de vantagem dela que ela pode riscar também. Se você corta o material em cima, bate, ela pode amassar ou riscar, então tem que ter certo cuidado também.
-
-Não só nessa, indica que tenha cuidado em todas as bancadas e saia cortando coisa na cabine de madeira. Ao invés de cortar em cima do objeto mesmo em si. Vidro. O vidro. O vidro eu não vi em bancada de cozinha. Com bons motivos. Mas ele existe sim em bancada de banheiro. Tem, eu já vi em bancada de banheiro, em prateleira, de tudo quanto é jeito. É, bancada de escritório, mas eu particularmente não acho muito legal, eu acho que combina às vezes dentro de escritório mesmo, tipo com salas. É, eu acho que ele combina numa mesa de jantar, eu acho que ele combina num home officezinho.
-
-Banheiro, eu já não sou muito fã de bancada de vidro em banheiro, apesar de que o preço pode ser pouco afecível. Se você pesquisar na sua região aí o valor do vidro, você vai ver que entre granito, às vezes vidro tem preço mais. Competitivo. Compete bem com eles. É, utilizar também o vidro temperado, porque o E também a variação de grossura dele pode variar de 3 a 25 milímetros, então é muito alto. Vidro A variação. O vidro também tem uma questão que encarece ele, que é o besotado.
-
-O besotado, mas não é obrigatório, porque você pode fazer detalhe, especificar detalhe que na borda desse vidro deve ser vidro besotado, que aí você diminuísse pouco a espessura no final, mas é desnecessário. A bancada de concreto, essa daqui é a queridinha, hein? Essa daqui a gente está devendo no canal, vai com certeza ter vídeo de bancada de concreto em algum momento, pra gente ver quanto trabalho dá realmente. Eu fiz levantamento de preço de como é que seria pra fazer de acordo com a tabela da CINFRA, ela mostrou valor bastante econômico.
-
-Então, principalmente se você for fazer a própria bancada, porque os materiais em si. É, o que vai sair caro aqui é mais a montagem da forma? É, a forma pega a maior parte do preço do concreto armado, eu já venho falando isso até na parte da estrutura, porque a forma que é uma das partes mais caras do concreto armado, você pega e joga fora depois que você constrói sua casa. É. Por isso que a gente tá falando pra utilizar outro tipo de construção.
-
-Mas na bancada, você quer fazer uma coisa estilosa, quer fazer, eu tô com os preços da bancada na minha região, tá muito caro, eu tenho bom acesso a cimento, já fiz cimento queimado, e esse cimento depois que ele é feito, depois que ele sai da forma, você tem que passar no permeabilizante nele, você pode passar a própria resina epóxi nele. É o que eu acho mais importante nas bancadas de concreto, é a intermeabilização, tá gente? Porque ela pode manchar, o concreto é poroso, a gente não tá vendo, mas ele é cheio de póros aqui, ó, quando a gente aproxima o olhar a gente vai ver.
-
-E esses póros podem manchar, uma vez que a gente derrama aquele líquido e não limpa na hora, ou então a bancada não está bem intermeabilizada. Então atenção, vai fazer bancada de concreto, tem que intermeabilizar muito, muito bem. Aqui é só jogar o concreto por cima e espatular ele, de forma que ele fique com essa superfície lisinha. Pode salpicar cimento, pode salpicar também o cimento branco. Porque o cimento branco vai trazer uma claridade maior pro resultado final dessa peça.
-
-É, porque aqui, quando você faz essa peça, essa parte que tá mostrando aqui, é a Essa aqui é o vídeo que eu vi no canal. Eu também não gostei do vídeo que eu vi. Vamos cortar essa parte aí do brilho. Mas eu vou depois ficar discutindo isso aí contigo. Porque quando a gente for fazer. A forma não fica por cima, a forma fica por baixo. A forma que o rapaz fez do vídeo que eu assisti fica aqui do lado de cima. Essa parte da pia. Tanto que ele pega a cuba. E. Como é que ele concreta? Ele concreta de baixo pra cima? Quando ele vai fazer essa forma aqui, ele faz no chão. Entendeu?
-
-E depois coloca no local. Não foi uma que foi feita a forma no local, não. A gente pode cortar isso tudo. Pode cortar isso tudo ali. Eu não vou nem falar dessa parte da brilha, porque a gente vai falar no canal quando a gente for fazer uma bancada dessa. Tá. Então esse acabamento aqui você consegue espatulando, jogando o cimento assim por cima, fazendo Eu explico num vídeo lá no canal, onde você pode procurar com cimento que é armado branco na fachada, que a gente fez aqui em casa, e espatulando também essa gola de cimento.
-
-Então ela pode ser espatulada enquanto a cuba tá fresca, ou ela pode ser espatulada depois. Essa gola de cimento por cima. Ela vai dar o finíssimo acabamento. Madeira, bancadas de madeira já são muito utilizadas aí nos Estados Unidos, basicamente todas as cozinhas de lá são de madeira. Como a gente não tem uma oferta tão grande aqui de madeira no Brasil, não é todo mundo que acabou optando por bancadas de madeira. Não é muito comum aqui na nossa região.
-
-Apesar de que elas são uma excelente opção de baixo custo pra gente fazer tanto bancadas de banheiros, com cubos de sobrepor fica lindo, quanto bancadas de cozinha mesmo, contanto que a gente siga alguns cuidados. Por exemplo, primeira espécie de madeira. O Fernando botou muracateada aqui, mas muracateada não tem signo não, tá mesmo. Olha quem me disse que tem que ser o Dr. Google, porque eu jamais escreveria essa palavra com confiança. Eu escrevi no Google, vi como é que escrevi e copiei como é. Então pesquisa na sua região aí, espécies de madeira que aguentem, sejam resistentes à água.
-
-A gente precisa geralmente de uma madeira de pelo menos uns 3cm de espessura, pra ter certeza que essa madeira não vai flambar, certo? E elas são materiais bem contas aqui, a gente conseguiu as duas, na verdade a gente conseguiu as três bancadas dos nossos banheiros por R$200, as três somadas, tá gente? Três bancadas custaram R$200, já com o acabamento de lixamento e o hidro repelente passado por cima, que é outro ponto. Ela tem que ter material protetor e esse material tem que ser lixado ao longo dos anos, então eles exigem uma certa manutenção em comparação com os outros.
-
-Apesar do valor bem conta. E o valor foi em 2017 e foi por metro quadrado de bancada. Metro e quarenta de bancada por duzentos reais. Metro e quarenta por duzentos reais. A gente foi lá comprar na madeireira pedaço de madeira, literalmente, que a gente achou bonito e que tinha uma largura boa e que a gente podia utilizar nas bancadas. Se você não encontrar bancadas com pelo menos, se você não encontrar madeira com pelo menos sessenta centímetros de largura, que são mais difíceis, você pode comprar as tábuas de trinta centímetros de largura e mandar de aminar elas num macineiro.
-
-Esse macineiro faz o encontro pra você, então ele une uma com a outra e essa união se bem feita vai garantir que a madeira não vai empenar no futuro, sempre passando os materiais protetores. E não pode apoiar a coisa quente Outra opção de bancada de madeira, além da madeira maciça que a gente pode comprar, tipo a macateara, IP, etc. A gente faz a madeira como o Matheus e. Algumas opções aqui, também muito em conta, são compensado naval, que o Matheus utilizou aqui, também muito bem tratado no verniz, muito bem tratado no material hidrorepelente. E outra opção é.
-
-Isso aqui é uma bancada fácil pra você mesmo, então o custo dela é baixíssimo, pode ficar inclusive abaixo de 200 reais o custo dessa bancada inteira aqui, porque a chapa de compensado tem 2,20m por 1,60m e você compra ela na faixa de 150 reais. Então você vai ter só o trabalho de cortar e deixar envernizar. E também tem a opção de MDF revestido de fórmula, que é material que ele aguenta, assim, água, gente? Então pode ser utilizado em cozinhas. Quem já utilizou aqui, pelo que eu tenho visto, tem dado muito certo, é o pessoal do Diabenovo.
-
-Eu gosto bastante do trabalho deles, acho muito bonito. Ó, e eles fizeram esse tampo aqui na cozinha imensa deles. Deixa eu dar o play. Tem que voltar aqui. Não. Ó, eles fizeram esse tampo imenso da cozinha deles, que ficou a coisa mais linda. Eles mesmos, muito inspirador esse casal. E eles fizeram, pô, R$750,00. Uma bancada que custaria aí R$3.000,00 no Meme. Então isso aqui, é utilizar as dificuldades a nosso favor. É ter a criatividade. Essa cozinha da Luana ficou maravilhosa. Depois vocês vão ver que eles fizeram.
-
-A coz E a última dica que tu tava falando no começo, eu fiz aqui quantitativo pra ver quanto é que era mesmo. Será que essa lateral, ela pesa no orçamento? E pesa, porque ela pode chegar a ter uma área muito parecida com a área da bancada. Olha essa foto do meio aqui. A área do pé dela é maior do que a área da bancada. Verdade. E com que função. Quem é que vai sair cortando pé de pau aqui? Não vai, não vai. A gente tem que atingir uma estética na lateral mesmo sem isso. Exatamente. Isso aqui já tem uma estética. Então chega a ser o preço da própria bancada.
-
-Só botar uma lateral aumenta 50%, botar duas laterais aumenta 100%. Então, quando você resolve fazer uma ilha com duas laterais, você pode estar gastando 877 reais quando essa ilha sem essas laterais podia ser pra você por 427 reais. Então, pessoal, pra resumir essa aula aqui, vamos aos preços. Uma simulação de quanto ficariam as bancadas aqui de casa em cada desses materiais que a gente apresentou pra vocês hoje. Com o quantitativo das nossas bancadas, ou seja, o tamanho já reduzido.
-
-Então, que a gente já aplicou aquelas dicas de reduzir a saia, tirar o frontão, se já tiver material intermeado lá atrás. E essas dicas que a gente deu pra vocês, tirar o pé, etc. A gente conseguiu o quantitativo que a gente precisa de 3.8 metros quadrados de bancada no total de banheiros, lavabo e cozinha. E com isso a gente. E com isso, E com isso, a simulação ficou o seguinte, no granito cinza durinho, que é.
-
-Dos granitos mais simplesinhos que a gente vai encontrar, a gente conseguiu valor de todas as bancadas de R$ 989,00. Nesse valor já está incluso o valor da pedra e o que a loja de granito cobra, que é para a montagem dessa bancada, também já está incluso aqui. Seguido do mármore Carrara aqui, se a gente fosse fazer, olha só, a gente gastaria R$ 4.564,00. Lembrando que o mármore mancha muito mais fácil. Isso daí, quando eu coloco o pé, o mármore da bancada não cai com o pé. Todas as bancadas estão consideradas o mesmo tamanho aqui.
-
-Então eu economizaria R$ 3.500,00 por baixo, se eu optasse por granito, que é mais resistente do que o mármore. Essas imagens aqui são ilustrativas pra gente ver qual é o material, não é a bancada. É uma tabela interessante pra você poder ter os valores das suas bancadas. Porque é assim que a gente vai mostrar nas aulas mais pra frente. É competição das opções. Você pega e bota na ponta do lápis as opções que você encontrou. E você pode competir com elas. Umas com as outras. Porque assim, quando você. Não, eu dou muito valor ao meu banheiro. No meu banheiro eu tenho ritual.
-
-No meu banheiro, que é onde eu acordo, que é o meu embelezo, tem que ter uma bancada de mármore e tal. Aí você vai lá e bota o seu mármore dessa forma. Aí você percebe, não, os banheiros não usam tanto. Então depende dos seus valores. Você entender melhor os seus valores, a gente vai ter módulo de bônus, tem módulo de bônus de. Qual é o nome do módulo de bônus? É de inteligência emocional, que faz com que você organize a sua hierarquia de valores pra você saber onde investir o seu orçamento.
-
-Tá, então temos aqui também em outro mármore, porque como a gente explicou, depende do tipo de mármore que você vai escolher, nesse outro a gente já consegue valor bem mais em conta de R$1.400,00. Óbvio que existem mármores até importados da Índia que o valor mais quadrado é incontável. O preço em contato de pedras, em geral, é quase o quanto você quer pagar, mas você não vai conseguir menos que R$200,00, R$250,00 mais quadrado, não. É, mas tu vê que quando a gente passa pra uma pedra artificial, esse valor já aumenta muito.
-
-Uma pedra artificial, eu já tô gastando aí R$6.000,00 nas bancadas da minha casa, se eu tiver utilizando essa pedra artificial. Claro que ela quer que desviem o escopo que eu falei pra vocês, de não manchar. Mas uma opção tão incômoda. Mais uma opção que também tem esse benefício de não inchar e pode apoiar coisa quente é a bancada de porcelanato, gente. A bancada de porcelanato tá por R$ 1.141,00. É valor muito acessível que você tem aqui e que você consegue fazer uma infinidade de acabamentos, economizando até na cuba.
-
-Porque uma vez que você faz uma cuba esculpida, embutida no porcelanato, você não precisa comprar a cuba, que custa por volta aí de R$ 200,00, R$ 300,00 até R$ 500,00.
-As R$ 200,00 são as mais simplesinhas. A gente também vai falar de louças metais na aula pouquinho mais pra frente. Mas já saiba que nessa opção aqui tá incluso a economia de uma cuba. Então vale muito a pena a gente optar pelo porcelanato sim, tanto pra bancadas de banheiro quanto pra bancadas de visita.
-
-Mais bar Se você não tá procurando esse visual que eu posso te dar na pasta, que é visual mais esteticamente elegante, fino e rico, a gente tem as bancadas de madeira, que são bem em conta pra gente fazer tanto pra cozinha quanto pra banheira, lembrando que a bancada de madeira precisa de manutenção ao longo dos anos e também que ela precisa de material protetor.
-
-Então, aqui, a gente gastaria por volta de seiscentos e oitenta e quatro reais, já com material protetor também, que no caso é verniz hidrorrepelente, que impede, que é mais resistente do que os outros vernizes, que é mais resistente do que os outros vernizes e impede a água de penetrar na madeira e assim apodrecer a madeira. Além dessa de madeira, você vê que a gente possui uma madeira maciça. Tem também aquelas outras de fórmica, que é mais barata do que a madeira Então, seguindo, a gente tem a de concreto armado. A de concreto armado, aquela questão que a gente explicou pra vocês.
-
-Tem duas opções. A faça você mesmo, que é a da direita, que fica por 220 e poucos reais, porque o material realmente é bem em conta, que é o cimento, a areia e pouco de ferro que você vai usar. E o caro da bancada de concreto, que é a mão de obra. Então, uma vez que a gente adiciona a mão de obra, ela já compete bem com a madeira. Fica aí uma dúvida. Já que o concreto também vai prezar aquela película resinadora, pra não ter coisa porosa. E aí, eu acho que isso torna muito mais uma questão de gosto, quando a gente vai optar por uma bancada de concreto ou de madeira.
-
-Então, essas são as suas opções. Porque se você tem. Tem pouco dinheiro na minha mão, mas eu tenho tempo. Então,. Sejam. Muito bem-vindos ao número 33 Estamos acabando o módulo de acabamentos. Mas esse não vai ser o último módulo desse curso, tá gente? A gente ainda vai ter módulo de orçamento, vai ter módulo de introdução, abril construção e autoconstrução. Já tá disponível pra vocês assistirem também o módulo de inteligência emocional e produtividade aqui, pra ajudar vocês também a se organizarem a fazer as aulas e botar tudo em prática. Sem mais delongas, vamos começar essa aula.
-
-É, nessa aula a gente vai falar sobre metais e louças, ok? E cubas. E cubas, é. Bem, cubas são o elemento que fica embaixo da pia. Torneiro. Torneiro, digamos assim, torneiro, que também é chamado de falsete. Falsi, ou falsete. Falsê, acho que a gente fala em francês. Em francês, em francês. Não tô relevante. Falsê, ou torneiro. Esse elemento pode ser de várias maneiras postas na sua bancada. Uma delas é a suspensa, onde ela fica suspensa, completamente suspensa, ela própria cuba se encaixa na parede aqui. Outra maneira é a mais comum é essa aqui, de apoio.
-
-Você bota a cuba em cima, aqui é a bancada, e aqui é a cuba. Aí você bota a cuba em cima. Mas há outras maneiras de você colocar a cuba. Você pode botar ela sobreposta, onde ela tem beiral em cima da bancada. Ela pode ser embutida, ou seja, por baixo da bancada. Esse é o mais comum na cozinha. Normalmente você bota uma cuba de inox aqui na cozinha. Ela também pode ser esculpida na própria bancada, que fica bem bonita, com pedras, com salinatos. E de semi-encaixa, que ela tem esse vazado aqui pra fora. Esse vazado aqui eu acho muito bonito e a pessoa Como é que você.
-
-Vai escolher, então, dentre todas essas cubas, qual vai ser a cuba certa, pra você? Primeiro, elas têm diferentes preços e também diferentes funcionalidades. Por exemplo, a cuba esculpida, ela é uma cuba que geralmente está pouquinho mais cara. Em boa parte das situações, porque ela exige muito trabalho de recorte, de colagem de peças, ou ela é toda em porcelanato, ou ela é toda em granito, dependendo do material que ela foi feita.
-
-Ela realmente é uma cuba mais bonita, mas devido a ela ter esses cantos e ser uma cuba muito quadrada, muito retangular, ela pode ser difícil de limpeza pro dia-a-dia. Então, é tipo de cuba que a gente indica mais pra você utilizar numa vaga, onde vai vir uma visita. Algo assim, evitar cozinha, por exemplo, com a cuba esculpida, porque imagina o trabalho que não ia dar pra você limpar essa cuba depois. Aí o rejunte aparece, porque acaba ficando manchado. A cuba também não tem uma durabilidade tão boa se for de granito, se for de porcelanato até tem.
-
-Mas tem essa questão da limpeza que é pouquinho chata. Nesse modelo a gente também consegue embutir os ralos. Como é que a gente embute os ralos nesse modelo? A gente corta peças de porcelanato, literalmente, ou pedra, que coloca por cima e escondendo esse ralo. Ela fica levemente flutuante, então a água parece que some embaixo dela. Mas pra manutenção você ainda precisaria tirar essa peça de porcelanato e dar manutenção ali na parte de baixo que seria do ralo.
-
-Então a manutenção também pode ser Pra banheiro, então, do dia-a-dia que você for utilizar, geralmente é a embutida, ela é a mais funcional, porque é mais fácil de você lavar a pia, ao redor, quem usa muita maquiagem, suja a bancada. Ela é a cuba mais simples, porque você joga água ali e puxa a água toda pra dentro dela, entendeu? Então você consegue uma limpeza de bancada bem mais rápida. Também é a que eu prefiro em cozinha, principalmente em cozinhas que a gente.
-
-Principalmente na cozinha, eu prefiro que a gente deixe essa cuba embutida, pode ser de inox, pode ser de outros materiais, e faça ela numa área molhada, uma área da bancada que a gente mostrou pra vocês nos slides passados, de bancadas, que ela tem uma área levemente mais baixa. Pra impedir que essa água saia, então essa água fica contida lá na bancada. Uma área molhada e nessa área molhada eu vou botar o meu escorredor de pratos se eu tiver e vai ter também a minha cuba embutida para eu limpar facilmente, lavar facilmente aquela área.
-
-Tem a cuba de apoio, ela é muito barata, a gente encontra ela pronta. Uma das mais em contas, ela tem de tamanhos, desde tamanhos bem pequenininhos, assim, de 20 centímetros, que é bom para aquele lavabo bem pequeno, para quem só vai realmente lavar as mãos ali, como ela também é bom para a gente reciclar alguns objetos, então se eu quero fazer uma cuba utilizando uma tonela, ela vai ser que ela vai ser só colocada por cima da bancada e feito o furo da válvula. Aí pode usar diversos materiais. Metal, etc. O cuidado é com a ergonomia. Porque cada uma dessas cubas, ela tem a altura certa.
-
-Uma A de semi-encaixe é uma ótima opção pra se a gente quer ficar ali entre a cuba de apoio, mas quer ter pouco mais de, como é que eu digo, conforto pra o banheiro? A de semi-encaixe, ela é cubo extremamente confortável pra gente utilizar no dia-a-dia da gente. A de sobrepor também, mas eu ainda prefiro a de semi-encaixe porque eu acho ela mais bonita, ela fica levemente pra fora. Essa da altura, é o que eu ia falar, porque a de apoio, você tem que levar em consideração essa altura extra, que ela tem quando você for botar a ergonomia da altura final da curva até o chão.
-
-Essa altura final até o chão, ela varia, a ergonomia é principalmente do seu. A depender da sua altura, da altura das pessoas que você vai utilizar. A gente já deu aula de ergonomia, eu não lembro direito, talvez seja 90 centímetros essa altura aqui, pra você poder utilizar. Pra cada dá só pra pesquisar na internet, altura pessoa, altura bancada, que você vai ver que exatamente de acordo com a altura da pessoa, existe a altura da bancada ideal. Mano, tem mais de uma pessoa na minha casa, eu tenho que tirar a média das alturas do pessoal aí, entendeu?
-
-Por exemplo, eu tenho 1,70, o Fernando tem 1,86, nossa média de altura é bem alta, então todas as nossas bancadas costumam ser Nem aqui que a. Gente tem uma cuba de apoio de 15 centímetros, por exemplo, a bancada vai ficar 15 centímetros abaixo. Enquanto que na de sobrepor, na de imputir, não. A altura da bancada é a mesma altura do final da cuba. Que é o local que a gente vai estar sendo utilizado. Então a altura da bancada e a altura da cuba tem que ser vistas em relação a qual cuba você vai utilizar.
-
-Ela tem também vários formatos, tem cubas que são quadradas, cubas que são retangulares, cubas redondas, cubas ovais. E também tem formatos dos mais variados. Aqui formato de concha, aqui formato bem exótico de pedra esculpida para funcionar como cuba. O que me leva já para os materiais que podem ser escolhidos na cuba. A cuba mais comum que tem é a de porcelana. Essa você encontra pra vender em todos os locais, geralmente também é a que a gente encontra a maior variedade de preços, cores, tamanhos e etc. E tipo assim, não tem erro.
-
-É extremamente durável, não suja, a gente tem utilizado a poça lá em Cuba há anos por bom motivo, ela é muito boa, realmente matéria, assim, você não vai se arrepender de comprar. Mas a gente tem outros materiais que podem ser utilizados e que tem uma durabilidade interessante também. Então é que são pedras, você poderia ter uma cuba feita com uma pedra. Esculpida, base de pedra, isso. E também resinada. Tem que ter processo de permeabilização na parte interna, principalmente. Utiliza-se para não usar resina acrílica para fazer. Resina epóxi. Resina epóxi? Vai de pedra, é.
-
-Ele esculpe a pedra e aí ele passa a resina epóxi, porque a resina epóxi cria uma camada bem mais resistente que a resina acrílica. A resina acrílica, ela tende a ser absorvida. A resina, porque ela é base de água. A resina sintética, não tanto. Ela cria uma película. Por isso que ela geralmente tem que ser lixada se for reaplicada, porque ela não vai ser sugada, entendeu? Ela cria literalmente vidro dentro dessa pedra, que é imitação de uma porcelana. E a resina epóxi não é algo caro, a gente já utilizou lá nosso canal. E a gente te ensina lá nosso canal também como utilizá-la.
-
-Então só dá uma olhadinha lá. Cubo de concreto, eu acho que vai ser uma ótima opção, Fernando. Já vi o Matheus Gil te utilizando na cozinha dele. Foi uma ótima experiência, pelo que ele tem tido. O Edu também, do canal do YouTube, já ensinou a fazer essa cubo de concreto. É cubo completamente fácil, você mesmo. Com a dosagem certa do concreto, que é o mais importante pra fazer essa cubo de bancada. Que é o quê? Eu vou utilizar concreto comum? Não. Você mais precisa de argamassa. É, pois é. Eu não vou utilizar concreto comum, eu posso utilizar caute.
-
-E aí Mas ele também utiliza uma massa colante no meio. Por quê? Porque a massa colante tem certos polímeros nela, é uma massa polimérica, que esses polímeros dão uma impermeabilidade maior a essa massa, uma colagem melhor, resistência, aderência, tudo isso. Então não é qualquer concreto. Então assistam os tutoriais e façam a massa direitinho, pode fazer vários testes. Lembrando também de botar ferro. A gente chama de cubo de concreto. Mas dá pra ser feito completamente também em argamassa. A gente não vai dizer que é uma cuba de argamassa armada. Argamassa fica feio, porque é chamada de.
-
-Cuba de concreto. Mesmo que seja argamassa armada, ninguém fala. Isso aí é problema de. Mas pode ser graut também, que é tipo de concreto. É, como você diz, é problema de nomenclaturas que a gente tem na Constituição Civil. É, não fiquem assustados com esses nomes de graut. Uma coisa vai ter cola na outra. É muito melhor pra cliente ouvir que a cuba dele é de concreto do que a cuba de argamassa. É, não fiquem assustados quando a gente fala graut, argamassa, concreto, assim, de não saber exatamente a diferença entre eles. Eles são bem similares. Os outros são a base do cimento.
-
-E com estrutura de agregado, que pode ser areia, pode ser brita. Aí. Madeira, é outro tipo de cuba que eu soube. Já vi, executado de madeira, muito bonita. Muito bacana, também tem uma possibilidade de ter o que faça você mesmo aqui. Pode também ser resinada, pra durar mais. Resinada pra durar mais. Metal, que também é uma cuba que pode ser de baixa custa, que no caso é uma cuba reciclada. Isso. Eu tenho minhas dúvidas em relação a cerca da durabilidade. Durabilidade.
-
-Então fiquem tranquilos que eu vou ser a primeira a utilizar uma cuba de metal na minha casa e ver o quão durável ela consegue ser. Pode ser também pra uma cuba mais provisória. Sim, também tem isso. Pra aguentar uma cuba que vai aguentar ano, dois anos. Num lugar que não tem muita gente também utilizando, por exemplo, lavabo que só vai pela visita sazonal a cada seis meses, entende E a de vidro. A de vidro ela é bem em conta, bem barata. E especialmente ela fica agradável em algumas situações. Tem que ter cuidado com o vidro. É, pode passar muito isso a perceber. Aqui. Eu trouxe.
-
-Aqui é o do canal doidoo, que é como você fazer a sua Cuba. Pra vocês terem uma ideia de como é que você tem essa possibilidade de fazer as suas Cubas. Assista o vídeo completo lá. É uma coisa interessante pra você fazer uma Cuba sua, talvez, antes até de você ter a sua casa. Deixa eu ver se eu tenho capacidade de fazer uma Cuba. Então assista o vídeo lá, doidoo. Mas é muito simples. Duas caixas, basicamente. Aqui é uma caixa exterior, aqui é a caixa interior. Essas duas caixas vão formar uma forma. Da Cuba. Ele coloca aqui papel para não ter aderência.
-
-Pode ser do Ericsson também, como se fosse do Ericsson. Você pode utilizar o do Ericsson e por cima dele também botar desenformante. Você passa óleo nele, óleo de cozinha, ou qualquer outro tipo de gordura também funciona perfeitamente, certo? Você faz o furo na caixa onde vai passar a válvula, que também é chamada de ralo, mas o nome mais correto é válvula, mas também chamam isso aqui de ralo. É, você faz a massa, você bota as duas caixinhas no local, faz a massa.
-
-Essa massa que ele faz, é aqui uma massa feita com uma parte de cimento CP2, que é o cimento mais comum que existe, e uma parte de argamassa AC3.
-Que é uma argamassa colante de maior resistência aqui, geralmente. É, é. Até aquela pizza sobre piso, a área externa. Essa argamassa AC3, AC significa argamassa colante, é uma argamassa utilizada pra você colar a cerâmica, usualmente. Mas aqui ele tá utilizando pra fazer. Em áreas molhadas e áreas com muito sol. É, em áreas molhadas. Mas que resiste a água melhor. Não é muito resistente a reações químicas. Ele não colocou ferro.
-
-Não, ele não colocou nenhum ferro. Mas eu até indico o que colocou, sabia? Eu acho bom também, dá uma resistência muito maior com o ferro. Principalmente quando você for mover ela. Não é nem quando ela estiver paradinha, porque quando você for mover, ela pode tentar, pode alguma coisa ali. Então eu acho que quando a gente utiliza o ferro, que nem a gente já te mostrou nosso vídeo fazendo a fonte de cimento. Que é só colocar umas barras de ferro, principalmente em C, nos cantos, em L, nos cantos. É, você botar uns cantos aqui de ferro, assim, nos quatro cantos.
-
-Você botar aqui no topinho, melhor coisa que tem. Adicionar na base também aqui, show de bola, acabou. Só isso aqui vai ajudar muito no transporte, porque Dá uma porrada, bater com alguma coisa nela. Aqui que ela tá sem ferro, ela vai resistir menos. Mas, se não for ter esses impactos, com argamassa ela vai durar bastante também. Então, basicamente é isso. A massa é feita dessa forma aqui. Você adiciona água até pegar essa consistência. Você utiliza o mínimo de água possível pra chegar nessa consistência. Quanto mais água você utilizar, menos resistente ela fica.
-
-Então, você vai utilizando a água aos poucos, até ela pegar esse ponto. Aqui o ponto de gosmento que ela vai estar, de viscosidade que ela vai estar. Você enche a forma e vibra a forma. Você vibra a forma, você pode dar umas batidas. Uma martelinha, uma coisinha bem pouquinho. Você pode fazer também. Uma lixadeira, deixar. A lixadeira ligada nas paredes. Se você tiver uma lixadeira, você cola a parede, você cola na parede Não vai dar, eu vou reser na época. Então o acabamento é melhor. Aí depende do seu bolso. Aí você pode pensar também em fazer. Se rápido não.
-
-Obrigada ao Edu aí, por ter esse tutorial. Também o Matheus e o Ti já fez tutorial dessa Cuba. Assista o máximo de tutoriais e aprenda pouquinho de cada. Aqui é uma. Como é que você pode dizer? Ela está utilizando material que ela tinha, que era essa Cuba, mas não é uma Cuba, isso é tipo prato de porcelana que ela tinha. A Erika Karpuk também pode dar uma olhada lá no que ela faz. Então ela vai reciclar o material. Isso aqui você poderia fazer com qualquer peça metálica que você tem aí também. Mas se você tem uma peça de porcelana. Ou uma peça de madeira também.
-
-Se você tem uma peça de porcelana dessa aqui, que é uma espécie de prato, ela vai. Essa vende separadamente, a preços a partir de 3 reais ela de plástico, preços de 20 reais ela de jacaromada, 50 reais, inclusive se você quiser pagar 700 reais uma rose gold você consegue. Então é o valor que você escolhe. O tamanho dela aqui é de 32 milímetros. 32 Milímetros é o tamanho desse buraco aqui, do diâmetro do buraco dele pra fazer a passagem. Aí ela faz o que? Ela bota essa válvula em cima da porta do porcelana, passa risco ao redor pra ver o tamanho que ela precisa cortar, na porcelana.
-
-Aí ela vem com martelo e prego, e vem quebrando a porcelana com o martelo e o prego, pra fazer esse buraco. Ela também vem aqui e faz buraco na bancada dela de madeira. Ela vai fazer o buraco, como é que ela pega o tamanho desse buraco? Ela bota o ralo em cima do buraco, Aí ela vem com uma maquinazinha que ela tem, pequena, de rotativa, que vai fazer o furo total. Mas se você quiser, você pode continuar com o martelo e o prego, até quebrar todinho esse círculo. Aí, mas o círculo não ficou tão bom.
-
-O círculo da válvula aqui, ela tem essa auréola ao redor dela, que vai tampar essa grosseria que vai estar no buraco. Vai ficar o finíssimo acabamento. Então você vai ver o finíssimo acabamento lá. Sempre essas peças, vem com canópolas de acabamento, que é justamente pra gente esconder. A canópola de acabamento é isso, ela esconde a horrorosidade que está por trás. Por isso que ela tem vários metais. Tem registros, tem a canópola de acabamento, chuveiro tem a canópola de acabamento, válvulas. Tem as próprias placas, os esp Então ela faz esse buraco, encaixa a válvula, travando a cuba na mesa.
-
-Então a própria válvula aperta a cuba na mesa. Pra você pensar como é que eu vou colar a mesa. Você não precisa fazer nenhuma cola especial não, você só aperta assim. E nesse aperto você aplica silicone embaixo dessa canopla de acabamento, você aplica silicone. Também pode aplicar aqui embaixo também, sem problema. Pra água que tá aqui não entrar por debaixo da válvula, certo? Então a água que vem aqui vem só por cima da válvula. Então fica perfeito. Pronto, então não é muito difícil você fazer, você mesmo, seus acabamentos para cubas.
-
-Para continuar aqui em metais, você também pode utilizar uma solução muito barata, que é utilizar PVC ou metais pintados, para ser o seu suporte, seus acessórios, o seu banheiro. Então vamos ver o que interessa. Quanto custa cada uma dessas cubas e como é que a gente vai escolhê-las? Bem, para a cozinha, as cubas de inóculos são de longe as maiores, na minha opinião, no quesito de limpeza, no quesito de preço que você encontra, disponibilidade de tamanhos, tem elas com acessórios. Que já vem com o. Já vem com a torneira.
-
-Tem umas que já vem com torneira, tem umas que vem com telinha, tem umas que vem, aqui ó, essa daqui ó, que vem com ar amado, ó, para você escorrer. Ela vem quando ela é armada, pra você escorrer algumas coisas já na própria pia. Tem essas cubas aí, enfim, tem além. Tem elas, inclusive, já com ralo embutido atrás. Ou seja, você não quer dedicar espaço só pra escorrer pratos assim, ao lado, fazer botar escorredor de pratos, assim, avulso. Tem cubas que já vêm com esse escorredor embutido nelas também.
-
-Então, inócuos é o que você vai encontrar maior variedade e também é preço muito bom pela durabilidade delas. Aqui, a daqui de casa, na verdade, a gente encontrou, tinha sido reutilizada de outra obra, ou seja, uma obra demolição, mas elas são tão duráveis que ela ainda tava em perfeito estado. Então, a gente fez a nossa bancada pro tamanho que ela veio. Não o oposto, mas isso aí eu já sabia que eu ia construir uma casa. Não, não é lixo, não é lixo. Lixo de é luxo dos outros. Boa, boa. E pra banheiros, Amanda, o que você indica? aqui em casa eu utilizei as cubas de porcelana.
-
-De sobrepor, na minha época foi 160 cada uma, mais ou menos equivalente a essa aí de 169. Comprei as três iguais pros três banheiros, porque eu não tava com muito tempo, então eu peguei elas de 30cm de diâmetro, que é exatamente essa aí, ó, de 29. Então essas aí foram as que eu usei aqui em casa. Tem sido muito bom, mas nosso banheiro a gente se arrependeu que a gente queria uma cuba dupla, então a gente sente muita falta de ter duas cubas.
-
-Mesmo que seja uma cuba de sobrepor, cuba de apoio, a nossa bancada de madeira ela molha bastante, mas não mudou em nada, mudou total de zero, nesses 4 anos que a gente tinha. Talvez no máximo uma queimada de chapinha que eu dei ali na bancada de madeira. Mas tirando isso, lixamento, a gente ainda nem fez manutenção, mas tem que ser feito lixamento e repassar o material protetor a cada alguns anos. Pra garantir que ela vai ficar bem durável. Aqui essa Argin Buti. A Argin Buti, elas são visivelmente mais baratas, mais em conta do que as de apoio.
-
-Porque a Argin Buti não tem acabamento lateral brilhoso, esmaltado, não tem acabamento lateral. Fosco, assim, como é que pode dizer? O tato dela é áspero. Quando você pega na lateral dela, ela é áspera, porque vai ficar escondida. Então, eles não botam nem aqui a bordinha de cima. Até essa bordinha de cima, que vai ser colada, não é esmaltada. Ela nem é esmaltada, vai gerar nenhum problema até na hora da cola. E sabe qual exemplo muito bom de bancada que a gente viu esses dias, com essa daí? Assistam lá nosso canal, o Turco pela Casa Croar, que é vídeo que mostra técnicas de hiper-adobe.
-
-E nos banheiros, eles utilizaram o cimento queimado colorido pra fazer a bancada. Na casa da bancada de concreto, amarela. E colocaram essa cuba de embutido na bancada de concreto. Fica trabalho muito bonito, muito, muito bom e funcional. A de sobrepor, ela vai ter detalhe nas bordas, essas bordas vão ficar aparecendo, então, assim que você identifica que uma é de sobrepor e a outra é de embutir, a borda daqui de cima tem acabamento bonitinho. Porque vai ficar aparente. Aí o preço já começa a ficar pouco maior.
-
-Você pode encontrar as mais baratas, mas as mais baratas já não competem com as mais baratas aqui, que chegam a 70 reais. É, competem, mas não tão baratas assim. E as mais caras, bem, o céu é o limite quando se fala de. Querer entrar em. Se vocês forem em lojas físicas, vocês vão ver que o valor é bem mais alto do que em lojas online. Também indico comprar esses materiais na internet. É, principalmente não no site da Marketing Específico Amigo, mas no Mercado Livre. O Mercado Livre tem uma boa competitividade.
-
-E o Mercado Livre tem uma vantagem de que se você comprar e não gostar nos primeiros 30 dias, você pode devolver. Só de não gostar, de não gostei. Tipo assim, o produto não precisa apresentar defeito pra você devolver. A gente comprou os nossos pelo Mercado Livre, as turnês também, e a experiência foi ótima. Foi, a gente teve poucos problemas que merecem ser mencionados. Cumbas de semi-cache, elas já são mais chiques. Então o preço dela você não vai encontrar algo parecido com. Elas são também maiores, elas costumam ser maiores. Elas levam mais material.
-
-Então elas levam mais material, mais acabamento, mais mão de obra. Isso faz com que você não consiga encontrar preços tão acessíveis pra ela. Apesar de que ela é mais confortável. No mercado livre é que você encontra. Preços absurdos. Absurdamente baratos. Preços assim que são impactantes. E esses preços são reais, Amanda, eles são. Porque, por exemplo, essa cuba de cobre, eu comprei lá pra casa do meu pai, que é outro instituto de casa nosso, vão lá, tem uma casa de baixíssimo custo, e as cubas lá da casa dele são todas feitas com esses tachos de cobre.
-
-Na verdade ele ainda tem as alcinhas, como se fosse aquela panela de cobre mesmo, porque a gente, no caso, comprou a panela. E mandou fazer a válvula como a gente mostrou nos outros vídeos. Fez o corte na panela e encaixou essas válvulas aí. No Mercado Livre também você encontra as válvulas, é valor bem acessível. E apesar, assim, de algumas dessas cubas vocês terem que ficar ligados. Porque nem sempre o material delas é porcelana, o efeito estético delas é bem legal e elas costumam também ser bem duráveis, até as que são de mármore sintético e outros materiais. Ok.
-
-Bem, os acessórios do banheiro. O seu banheiro precisa de acessórios para segurar a toalha de rosto. Agora, tem uns acessórios que são os acessórios de xampu e sabonete. Que a gente indica fazer nichos. Que a gente indica fazer nichos. Exato. Chegou as palavras da minha boca. Você pode aproveitar se você tiver. Por que é questão de segurança. Por que é questão de segurança. Por que é questão de segurança. Porque aquelas prateleiras, elas ocupam espaço, as prateleiras externas, num lugar que já é muito pequeno, gente. Qualquer coisa que eu caio ali, eu bato minha cabeça, entendeu?
-
-Num pedaço de vidro. Não queremos isso. Então, nicho batido ali é mais seguro. E mais bonito. É, mais seguro e mais econômico também. O metal e o PVC você pode utilizar pintando eles e ser criativo para poder você fazer as suas portas de toalhas e portas de papel higiênico. Na nossa casa a gente utiliza o porto de papel higiênico de cano de PVC pintado em preto. Não só os portas de papel higiênico, os portas de toalhas também. É só isso. Só isso, os portas de toalhas e os portas de PVC. E as prateleiras que estão com pinos. Tem outro tutorial lá nosso canal. Podia ter botado a foto do nosso.
-
-É, poderia ter botado, mas tem vários tutoriais nosso canal, então pode ver lá. Enquanto que os acessórios de banheiro, esse aqui é o que eu acho o mais perigoso de todos, porque não só você pode se tacar nele e se cortar, ele quebra, aí vai ter monte de caco de vidro enquanto você está tomando. Eu particularmente gosto bastante desse preto, ó, pra banheiro. No quesito estético, acho que esse daqui é dos melhores custos-benefício que a gente vai encontrar. Esse preto fosco também pra maçanetas. Aqui em casa a gente botou as maçanetas todas num preto fosco, não me arrependi.
-
-Não mancha, não desbota fácil, não saia o esmalte, a pintura. Então esses metais são muito bons. Eles não correm tão rápido também, na minha impressão. Não vai ser minha impressão. Quanto os outros. Ok. Outra dica interessante, já que a gente já está falando de várias molhadas, é sobre as tubulações. Há uma possibilidade de você agregar o seu ambiente mostrando essas tubulações, de alguma forma. Você deveria também ter tirado foto de nada aqui de casa. Aqui em casa a gente tem algumas tubulações externas também, porque a gente optou por não utilizar forro.
-
-Então a gente tem esse mesmo cano vermelho, só que na nossa casa a gente pintou de verde e ele passa aqui no cantinho da garagem. Mas realmente fica inclusive mais bonito, em muitos dos casos. Principalmente no estilo industrial. Esse aqui, olha o estilo industrial desse aqui, é cimento no chão, na parede, a cuba é de cimento. Aí ele bota aqui, parece que você está num, como você diz, é o banheiro dos bombeiros aqui. Eu achei legal que essa Cuba foi feita de manilhas de concreto. Empilhadas. Foi, umas manilhas empilhadas e aqui uma manilha maior, talvez. Uma manilha tronco de cone.
-
-Gostou dessa aí? Gostei. Eu particularmente gostei bastante da segunda foto porque eu não sou o tipo de pessoa que utiliza armário de banheiro. A gente não tem armário nosso banheiro e a gente não se enche na cidade dele até hoje. É, realmente. Então eu gosto muito da segunda foto que ela dá a sensação de banheiro maior. A terceira também. A terceira também tá mais aberta. É legal que aqui tem uma casinha. Essa casinha aqui deve ser de. Parece uma ventilação. Bonita. Bem, então pra você economizar também nas ruas e metais, realmente você tem uma criatividade.
-
-Você pode utilizar certos ambientes da sua casa, certos lavabos externos. Reciclar móveis. É, e reciclar os móveis. É uma coisa que o pessoal faz muito é utilizar esse pé de máquina aqui de costura. Que eu tenho aqui em casa, já guardado pro banheiro lá em Fortaleza, que vai ser o de visitas. A gente vai fazer. E tu tá vendo esse móvelzinho em cima? É só o que eu tô procurando, esse móvel. Porque eu acho a coisa mais linda num banheiro. Esse móvel aí que você pode guardar nas gavetinhas, na escova de cabelo. Pode ficar pra guardar ali algodão. Gosto muito.
-
-Talvez seja isso não, a função do armário. Mas esse daí tá muito mais bonito. Mas não é nem questão de funcionalidade, porque ele é bonitão. É porque ele é lindo, maravilhoso. Botar tampo de concreto simples, qualquer consegue fazer tampo de concreto desse aqui. Você pode reciclar materiais metá É, exato. Você pode ter uma pedra parada, uma pedra que sobrou do corte da sua cuba. Você tem a cozinha, você vai fazer corte pra fazer, botar a cuba embutida da cozinha aí. O que eles vão fazer com esse pedaço? Você pode pegar e tratar esse pedaço pra virar tampo em outro lugar.
-
-Uma cuba grande, não é, irmão Carlos? Não, uma bancada. Não, não entendi, o Júlio disse que esse pedaço de granito ia ser cortado. É, a cuba do banheiro é grande, é. A cuba da cozinha, a cuba da cozinha. Não, é porque pra o cara cortar granito desse tamanho, tem que ser uma cuba bem grande de cozinha, mas você também pode. Desse tamanho, mas. Você também pode ir nas normalarias, que geralmente eles têm pias lá, que o cliente pediu e não gostou e não pagou. Eles têm pias já prontas, assim, de, digamos assim, sobras de. De sobras mesmo, de sobras desse pedaço.
-
-Inclusive também demolições de obra. A casa, as bancadas lá foram todas demolição de obra. É incrível, ficou lindo. Como se tivesse espelho que for o ambiente. Barril, muito interessante esse aqui pra tratar barril, pra ele virar o. Ele tem uma portinha aqui pra ter acesso a essa válvula, e essa portinha provavelmente tem aqui dentro umas prateleiras. Também pode ser aqueles tonéis metálicos. Com prateleiras dentro. A Paloma Cipriano já fez ficou muito bonito. Esse daí foi o que a gente fez na casa do meu pai, com esse. Essa alcinha que eu tinha falado pra vocês nos cachos de cobre.
-
-E a torneira, a gente utilizou essa torneira aqui em casa também. Torneirinhas de jardim, que são de metais e custam só 7 reais. Ela trouxe uma bem retrô. A gente utilizou aí durante 4 anos. Tem dos melhores que ainda é ela. Aí a gente depois ganhou duas torneiras, e aí trocamos duas torneiras. Mas a lá de cima ainda é. A terceira ainda é ela. Pode a gente ver caninhos de cobre. Esses caninhos de cobre são pouquinho mais caro do que o PVC. Mas eles são de cobre, gente. E você também pode utilizar eles pra fazer tudo que vocês imaginarem. Luminárias, metais, assim.
-
-Então ficou a opção do PVC pintado e a opção do cano de cobre em si. Isso aqui você encontra em loja de bricolagem. Pouquinho mais caro. Ou na internet. Até mais uma opção aí que é. É parecida. Mesmo pé de máquina, com tampo de madeira e uma cuba de metal. É, mas o que ele agregou aí? E torneira também de jardim. Olha o piso da área, ó. Ele não fez o piso. Assim como a gente não fez o piso aqui da nossa escada, que é jardim de inverno, ele não fez o piso dessa área. Piso não feito é piso não pago. Então. Puxadores. Puxadores são elemento que pode encarecer pouco a sua obra, seus móveis.
-
-Praticamente, porque eles são muitos e cada custa uma matinha. Pois é, então quando você chegar e pedir pra fazer puxadores, você pode pedir esses puxadores cavados. Que eles já são uma falta, do puxador. É, é o puxador feito com a falta do puxador. Eles são a opção mais em conta. Você também pode fazer os seus puxadores com restos de cintos, restos de couro que você tem. A gente fez nas gavetas, só que nossas gavetas não ficaram tão boas, elas ficaram enganchando pouco porque alguém errou dois centímetros no projeto.
-
-Não sei quem, mas enfim, então a gente acabou depois trocando esses de couro que a gente tinha lá nosso closet pelo do lado direito, que são furos feitos com a troca fresa. Deixa buraco aqui, pode ser a serra-copo também. Aí ficou bem legal de abrir, porque agora tem o furo. Experiência própria, passando pra vocês. Mas alguns preços de louças e metais, tem opções econômicas, principalmente no Mercado Livre. De torneiras, aqui a gente conseguiu uma do Mercado Livre, que foi. Foi. De 170, a nossa torneira. Grande achar. Ela tem uma de spade, é bem rica, imagina. Calma aí, gente.
-
-A nossa torneira foi essa que tá. No kit aí da esquerda, ó. Que ela tem uma torneira simples e tem uma torneira de jato. Ela a gente tinha encontrado em lojas por R$2.200, R$2.300 e a gente comprou no mercado por R$273,00 por frete. Tá funcionando até hoje. Perfeitamente, já faz 4 anos, gente. Ela acabou de receber uma visita do bombeiro, mas só pra limpeza e acolchamento. Manutenção de limpeza e acolchamento. E, prescindivelmente, a preventiva, que é o quê? Antes de dar problema, chama o bombeiro pra fazer aquela limpeza de caixa d'água, limpeza de. Dicas de drop da Amanda.
-
-Limpeza de caixa de gordura, limpeza de ralo, limpeza de torneira, principalmente aquelas que tem arejador na ponta, que pode sujar pouquinho, chuveiros, acolchamento de registro de. O nome daquilo? Chuveirinho. Troca de chuveirinho quando ele quebra. Várias coisas que você tem que fazer aí na tupulação da sua casa pra. Garantir uma. Dia a gente chega no módulo de manutenção da casa. A gente chega lá. 2025 Tá aí. Bem, ralos também, você pode comprar todos esses acessórios, ralos lineais, difícil de encontrar em lojas. Também aqui ó, comprar as, isso que são panelas.
-
-Tinha que engraçar que tu botou uma arandela no meio da aula de louças de metais. Muito interessante. Arandelas também, você pode comprar no Mercado Livre. A gente comprou exatamente esse modelo aqui pra casa, não de arandelas, de pendentes. A gente comprou numa promoção que vinham 3 por R$120, então a gente conseguiu 3 pendentes, cada por R$40 a unidade, desses de metal imitando a cor cobre. Tem vários modelos. Exatamente, Mercado Livre é excelente pra essas luminárias. E aquela questão do Mercado Livre que você compra e não gostar, você pode devolver. Ele tá te pagando?
-
-Não, não tá não, não tá não, mas eu podia. Podia estar rece Sejam bem-vindos, meus amigos, à aula 29. Continuando os acabamentos de Paris, agora a gente vai pra uns acabamentos mais diferenciados. Na categoria dos diferenciados. Próximo. Ó lá, pastilhas. Pastilhas, usualmente, podem ser feitas de vidro. Vitrificadas. É, ou tem. São. Pastilhas são pecinhas bem pequenas. Pode ser cerâmica, pode ser pastilha que já vem numa tela, que geralmente são as que eu indico você utilizar, porque elas são mais rápidas de ser aplicadas.
-
-Mas é investimento que tá no mercado já há muito tempo, e, praticamente, eu gosto dele em pequenas áreas. Não gosto tanto como o Fernando mostrou aí, em grandes áreas. É detalhe muito grande. Então, só dentro de nicho, só. Cobrindo uma. Também porque eu acho o material já bem caro, mas é questão de g. Nessa telinha você corta de qualquer jeito, pode encaixar qualquer móvel que precisar e corta essas beiradinhas aqui perfeito. Então a perda dele é o mínimo possível. As pedras, você pode colocar as pedras na parede também.
-
-Você pode colocar elas como revestimento, aplicando como se fossem placas, do mesmo modo que você aplica placas cerânicas. Você pode até levantar a sua parede em pedra mesmo. Eu acho que não nessas fotos existiram. Esse é revestimento, tem pedra cariri ainda no banheiro, mais uma vez, pedra cariri no lafar, pedra natural, isso. É muito bom levantar essa pedra no piso. Mas você pode fazer também a parede com pedras também. Você vê revestimento em pedra. É, mas nenhum desses aqui são só revestimentos em pedra aqui. Aí sim a parede com pedras.
-
-É, mas essa parede com pedras tem o detalhe Muito interessante isso aqui, porque é o seguinte, você faz uma grade de pedra e pega os seixos, essas pedras que não tem quinas, que são todas roladas. A chamada de seixo, o seixo rolado que rolou muito no rio, até perder todas as pontas e ficou lisinho. Aí você joga dentro do gradeado e pronto, tá feito a parede.
-
-Exatamente, e isso aí também é legal, porque se você tem terreno em declive, terreno em aclive, nos dois casos, e precisa construir uma parede aí nessa região pra poder ter muro de arrimo, você pode construir uma parede já pensada em ser uma parede bonita, como é o caso do tipo de parede de gabion, que já é muito bonita pra você só. Você também pode revestir com madeira, aqui eu mostrei pra vocês lá no canal uma vez, amigo meu revestiu em pinos, ficou muito bonito, inclusive ajudou ele a fazer os moldes. Ou você pode utilizar, inclusive, ripas de pallet, como é o exemplo de cima.
-
-Também fica muito legal pra você revestir uma parede, fazer painel de TV também, fica muito bom, e super baixo custo. Outra opção é você utilizar o próprio piso laminado, sobrou de outro local. Quer reaproveitar, você pode também aplicar esse piso laminado na parede, inclusive é super simples, se a parede já tiver pintado com massa corrida. É uma forma de você parecer, dar uma coisa cara pra aquela parede, porque geralmente é madeira. Valorizar. Valorizar aquela parede ali, botando piso vinílico. Você pode, inclusive, usar ele em lavavos também.
-
-Só por causa da porta do O laminado também é parecido. O clima do vinílico. Só muda ele realmente entre eles porque é o sol e o vinílico é adesivo. Adesivo, se você for cobrir a parede. O laminado você também pode subir ele na parede, você também pode fazer o rodapé com o laminado. Rodapé alto, dessa forma aí. É, aqui tá até alto demais, mas pode ser. Rodapé desse alto, acho que a gente. Vai acabar fazendo na sala, porque eu acho muito bonito. G3D, muito legal também. Eu acho legal a aplicação do G3D, quando a pessoa faz os seus próprios revestimentos em gênero.
-
-Você pode fazer isso, porque conforma-se. Você compra o gesso porque sai muito mais barato do que você comprar o revestimento de gesso em 3D pronto. Entendi. Enquanto você está projetando a sua casa,. Você já está com o seu gesso. Você já está com o seu gesso no dia a dia, virando forma. Exatamente. Foi na obra, começou a ficar caro, bateu ali gesso, botou na forma, o outro dia tirou. E vários tutoriais também na internet mostrando como fazer isso aqui. E papel de parede? Papel de parede é ótimo pra quando a gente quer dar uma renovada no ambiente, baixo custo também.
-
-Ótima opção aí pra reformas, tá gente? Coloquei aqui principalmente pra reformas. Porque pra primeira construção, não é a opção mais barata. Apesar de que se você quer, obviamente, desenho, de papel de parede, o que agrega, realmente tem que optar pelo papel de parede. Mas eu Gente, vou dar uma dica pra vocês que é substituir o papel de parede por tecido. Você pode aplicar da mesma forma, utilizando a cola pra papel de parede, só que no lugar de você comprar o papel de parede, se você achar tecido mais em conta, que você gosta mais da textura, pode aplicar o tecido. Sem medo.
-
-É, e papel de parede também tem. Eximita uma última gama enorme de materiais. Por exemplo, aqui tá com tudo pedra, e aqui tá com tanto de joelhinho. Tem uns que você tem textura também, no fundo já. Você passa e tem o relevo. Isso, tem o relevo. Mas também são pouco mais caros. São. É isso que a gente tem de acabamento de veste pra poder. Sejam muito bem-vindos a mais uma. Sejam muito bem-vindos a mais uma maravilhosa aula aqui nosso curso e parabéns pra você que já tá chegando aí no final, hein? Já tá começando a ver a sua casa nova, gente? Tomando forma? É, tá vendo? Olha só, estilos.
-
-Estilos, Amanda. Os estilos, ele. Talvez seja a primeira aula. Porque é o começo do sonho. É aqui que você começa a visualizar como vai ser o conceito da sua casa. Então essa é uma aula que liga muito bem com o conceito de projeto. Lá do começo. Quando você tá conceitando o seu projeto, você procura coisas similares. Porque assim, você não tem como. Ninguém vive no vácuo, então você vai copiar algum estilo, alguma coisa que você gosta, alguma coisa que lhe chama atenção e que combine também com o ambiente que você vive.
-
-Não tá certo, essa aula deveria estar lá no começo, porque o estilo, que basicamente vai ser definido também pelo projeto de interiores, ele tem que ser definido pra ficar, assim, o mais perfeito possível junto já com o projeto arquitetônico. Por quê? Porque os acabamentos do projeto arquitetônico tem que estar condizentes com o estilo que você vai fazer, que vai estar condizente com os tipos de imóveis que você vai utilizar, onde vão estar as tomadas, onde vai estar a iluminação.
-
-Então, isso tudo tá conectado de uma forma que realmente é impossível a gente fazer uma obra sem pensar em estilos de obra. Certo. E há estilos que são mais baixo custo. Também. Não é o clássico. A gente colocou aqui o estilo clássico porque se você é aquela pessoa que vai herdar uns móveis de vó, eu acho que esse estilo sim vale a pena e a gente consegue fazer ele de baixo custo. Em outros casos é pouco mais difícil porque esses móveis hoje em dia, na verdade, são caríssimos. Então, não se encaixa tanto num estilo de baixo custo.
-
-Especialmente porque no estilo clássico, além da gente ter muitos móveis com veludo, que é tecido mais caro, cheio de adornos que também já encarece pouco, móveis que geralmente não são fácil você mesmo porque dificilmente você mesmo vai conseguir fazer móveis de tamanho a perfeição. O estilo clássico, ele passa também muita elegância. Então, ele tem muitos detalhes, ele tem muitos adornos, ele tem tapetes. Isso tudo inicialmente pra gente o que tem presente nesse estilo? Essas perninhas com curvas Esse rapaz da parede, qual o nome desse refri? Boiser. Boiser.
-
-Boiser é detalhe na parede que não tem função nenhuma, além de ser belo detalhe na parede. Que é essa fitinha. Isso aí é faça pra você mesmo. Inclusive é uma forma que a gente pode puxar estilo pouco mais clássico pra nossa casa, ainda com baixo custo. Fazendo Boiser na parede. Por isso que a gente colocou essa foto aí. Também o estilo clássico não quer dizer que você possa trabalhar só na paleta de cores marrom, bege e nada do tipo não. Ele também você pode usar com pouco de dourado ali. O dourado fica muito bem. O azul marinho também.
-
-Então é estilo que a gente também consegue colorir mais os ambientes. Fica bem legal. Nunca sai de moda. É requinte. Puxado pra arquitetura grega e romana que é o quê? Esse roda-teto, ele pode ser em isopor, ele pode ser em gesso, existem vários formas de você fazer esse roda-teto ali que vai dar detalhe a mais, que é puxado da arquitetura grega romana, esses detalhes. É capitão, é capitão. É capitão das colunas. Então, papel de parede também entra nesse esquema, especialmente aqueles floridos de casa de vó.
-
-Boas essas que eu já falei, herança de imóveis de família, recuperação de imóveis antigos também é uma opção, você pode também adquirir esses imóveis em locais que não têm imóveis antigos, mas hoje em dia isso já virou moda e todo mundo já foi lá pegar os imóveis antigos, não tem mais imóveis antigos, os imóveis antigos são mais caros. Se encontrar, compre. E é aconchego atemporal. Estilo muito similar é o Provençal. A diferença é que o Provençal traz pouco mais de ar de fazenda e ele é pouco mais assim.
-
-A paleta de cores dele é mais definida, com tons de madeira, branco e uma coisa mais lilás, mais rosinha. Tons pastéis. Tons pastéis, exatamente. É o estilo clássico, só que pouco mais afinado. É, então sai mais ou menos no mesmo preço. Não é estilo barato de forma nenhuma. O Retro, o Retro eu gosto bastante. É, o Retro pode ser muito barato, principalmente se você tem esses maquinários, os Retros, que você pode utilizar na decoração. Essa TVzinha aqui, que já morreu há muito tempo, você tem na sua casa, você pode botar na sua decoração. Esse jukebox aqui que eu vou arrumar ainda dia.
-
-Essas luminárias também industriais, combina bem com decoração Retro e são luminárias baratas da gente conseguir em todos os locais. Decoração de parede que você mesmo pode fazer com diversa arte, mais puxada para o pop. Então uma composição de quadros, isso aí também é bem baixo custo e a gente consegue fazer até com quadros que você tem em revistas, recortes. Tudo isso aí que você tiver camisetas, pode virar quadro e tudo vira decoração. A faixa preta também, tu viu ali pintado? É, faixa Papel de parede também é. Tipo de acabamento que pode ser muito barato, principalmente numa reforma.
-
-Você já tem uma parede pronta, mas só que ela precisa de uma cor nova, ao invés de você botar uma cor, você bota papel de parede. Mas não papel de parede. Porque o papel de parede a gente encontra pouco mais caro, os rolos. Tem rolos aí que você encontra 300 reais, o que é pouco inviável. Mas a gente tem a solução de utilizar tecidos no lugar desse papel de parede, que é uma boa ideia. Também não tem aí, mas lambi-lambi, ó. Tu tá vendo aquela parede de jornais? Uma boa ideia é você fazer lambi-lambi numa parede. Pode ser com jornais, pode ser com revistas, pode ser com. Que é o quê?
-
-Basta você colar as coisas naquela parede. É simples assim. Podem e muitas estampas, as estampas inclusive elas podem se, vou dizer, misturar. É, não é exatamente misturar não, mas tem mais de uma estampa no ambiente. Isso, por exemplo aqui ó, a gente tem bolinhas nas almofadas, uma arte pop, tem sofá com a cor bem cheguei, que é laranja e verde, do lado a gente tem sofá que tem uma textura também, então o pop ou o retro ele tem essa característica de cores, de texturas, cores vivas, aparecendo e estampas diferentes também, por exemplo o piso ali ó, o piso xadrez. Certo.
-
-Bem, então pra entender, pra ter uma ideia do que é o retro, ele cria essa nostalgia, desses templos, árvores, quando tava começando a fazer essas máquinas novas, tem essas cores fortes, pop art, e mistura dos materiais, ok? Tem mistura de materiais aqui ó, com aço Bem, o oriental também é outro rapidamente identificável, a gente olhando para os ambientes acha que veio do Japão, da China, alguma coisa do tipo. Por algum motivo eles não gostam de cadeiras ergonômicas. Exatamente, eles gostam dos ambientes muito baixos, mesas e cadeiras baixas, pode até sentar de joelhos aqui nessas cadeiras.
-
-Todos os móveis em geral, quando você quer estilo mais oriental, são mais baixos, os racks, os. Tudo. Eles também atrapalham muito o minimalismo, então tem bastante espaço aberto e pouca conflito de cores nos ambientes. Usualmente a única cor que se coloca no. Cor assim mesmo de verde, vermelho, azul, é o vermelho. As outras cores são cores neutras, assim, preto, marrom, branco, bege. E é muito interessante também o estilo de esquadrilhas que eles geralmente utilizam. Eles sempre colocam essas esquadrilhas que são muito em conta pra gente executar com ferro.
-
-Lembra que a gente falou que as esquadrilhas mais baratas que a gente consegue fazer são com ferro? Esse daí é bom estilo de esquadrilha que vai manter uma segurança pra sua casa, porque o ladrão ele não vai conseguir entrar por esses. Você faz de forma que ele não consiga. Entrar por esses vidros. E aí você pode utilizar o vidro simples, que é vidro mais barato. Ele é fixo na esquadrilha de metal com a massa especial, que junta vidro e metal. É bem tranquilo de fazer e super em conta. Então esse daí é uma ótima opção.
-
-É quase como se você tivesse uma esquadrilha de vidro, só que com preço mais do metal. É, então sai mais barato do que uma esquadrilha de vidro Os ambientes com. Estilo oriental, eles criam muito esse. Linhas retas. Apesar que você pode ter detalhes curvos, mas é miseravelmente pouco. E também, ele cria. Esse tipo de estilo é estilo que cria essa tranquilidade no ambiente, essa paz. Então, quando você faz ambiente assim, você tá procurando o zen mesmo. Você está encontrando? Não garantimos encontrar com a arquitetura. Mas ajuda.
-
-Você vai todo dia comendo nessa mesa aqui, tu acha que vai te ajudar a ficar tranquilo? Vai, a pessoa senta com calma. Mas tuas pernas vão doer. Isso é o que ninguém fala. A gente não tá acostumado a ficar sentadinho com as pernas dobradas. A gente vai num restaurante e sente falta, sabe, do encosto das costas, desse tipo de mesa. Tem que lembrar do primeiro ensinamento do Buda, que é a vida é o sofrimento. Estilo minimalista. Minimalista.
-
-O minimalismo tem uma similaridade aqui com o oriental, mas claramente isso aqui não é oriental, claramente é moderno, porque não tem aquelas coisas vermelhas, aqueles bambus, aquelas plantinhas aparecendo. E o minimalista ele tenta criar nada praticamente, ele não tem informações em local nenhum. É uma coisa bem estéreo. É tipo nada de enfeites, o mínimo de objetos possíveis aparecendo nos locais, não tem aquele horror de informações pelo contrário, tem o mínimo de informações possíveis por ambiente, as texturas são muito similares, pelo menos no máximo se complementam.
-
-É, eu acho que é estilo que é muito bom pra modernidade hoje em dia, que a gente tenha uma velocidade muito grande nos trabalhos na internet. Então se você é uma pessoa que tem uma ansiedade elevada e que gosta de, queria trabalhar, ficar mais calmo, o estilo oriental e o estilo minimalista podem ajudar você a ter menos informações e barulho na sua casa. Quando você volta pra sua casa, ela é canto que você quer estar mais zen, por exemplo. Então, quanto menos é mais, é o lenda do minimalismo. E muitos poucos tons, pouco de azul, pouco de madeira aqui. Então, realmente não tem muita informação.
-
-Quanto mais a gente falar do minimalismo, mais a gente tá. Não sendo minimalista. Eu tô tentando. Não, pera aí, tem que falar pouco. Tipo assim, ele trabalha muito com tons de cinza, porque são tons neutros, então geralmente o minimalista puxa pro tom neutro pra não agredir os olhos, tons naturais, tons pastéis. E a nossa próxima casa, acho que eu vou puxar muito pro estilo minimalista. Pelas coisas que tu disse, parece ser tão lindo esse estilo. Parece que vai me trazer bem nessa noite.
-
-Eu concordo, se eu tenho menos objetos, menos deles, não vou estar fora do lugar, menos bagunça eu tenho em uma casa. Menos é mais. Pois é. Então assim, o que é que eu dou de dica? Pague no seu dia hoje e anote os objetos que você realmente pegou e usou hoje, pra você ver a quantidade de coisas na sua casa que você nunca utiliza. Eu já ouvi falar de outro método pra fazer minimalismo. Você pega todas as coisas da sua casa e bota em caixas. Todas, todas. Pega tudo e bota em caixas. Aí à medida que você for precisando dela, você vai tirando da caixa.
-
-É as que você não usou e ficou na caixa assim tipo mês. Pô, pra quê que eu tô precisando? É verdade. Uma boa ideia. Gostei, Fernanda. É tipo o método da Marie Kondo. Evoluindo, eu tentei trazer os estilos em evoluções. A gente quer botar. Não, tá muito pouca a informação. Eu prefiro alguma coisa mais. Eu sou adepta do It Yourself e gosto de fazer uma coisinha ali. Gosto de ver o Pinterest. Não tá tão Pinterest. Gosto de ver minha casa evoluindo, fazendo uma coisinha e outra. Não tá tão Pinterest. É que não tem lugar pra gente. A medida que você for morando nela também.
-
-A Escandinávia, na verdade, é estilo europeu. Do norte, exatamente. Mas a gente gostou muito, porque a gente é alguiense. A gente quer essa sensação de que tá frio mesmo. Mas o que a gente tem nesse estilo? São tons muito claros nesse estilo, e detalhes assim, geométricos, detalhes minimalistas. Ele tem o que você olhar, e parece que tudo que você olha tem pouco de arte ali.
-
-Por exemplo, aqui a gente tem aquela mesinha, ó, que a gente já ensinou vocês a fazer aí no canal, que é aquela mesinha de metal, com perna de metal, a gente ensinou você a fazer tudo nessa mesinha, que é uma mesinha de tampa de tambor. Recula a mesa, por favor. Ó, então são objetos do It Yourself que a gente tem presentes aí. A gente tem uma decoração, a lâmpada também, outro do It Yourself. A gente tem uma. Tipo assim, não era necessário, mas são pontos pra gente olhar e admirar que foram acrescentados aí nesse estilo. Ele tem bastante mantas. Ó, ele tem uma cabeça aqui, uma releitura.
-
-Dos chifres de antigamente em 3D, só que hoje em dia eles são feitos de papel, graças a Deus. Era uma boa ideia pra eu ter copiado também. Insetos. Não que a gente se interesse por insetos, mas por algum motivo a gente acha tão bonito, quando eles estão em quadros. Insetos, folhas, isso tudo tá na nossa geração. Então, é estilo mais com a decoração pintras da nossa geração, eu definiria assim. Cimento queimado. Mais uma vez, umas instalações externas, Cores mais minimalistas, branco, preto, marrom. Você vê que ele não bota uma cor aí que dói nos olhos. É tudo bem.
-
-Olha a combinação de tapetes também aqui, que interessante. É couro. Couro, material natural. Couro, material natural. Algumas estampas mais sólidas com preto e branco. Então é isso aqui do estilo escandinavo. Eu acho muito bonito. Nosso segundo andalho é todo estilo escandinavo. Não sei se vocês já notaram, mas é. Temos o Urban Jungle. Urban Jungle só tem uma regra. Plantas. Todos os lados. É, porque assim ó, você pode ver aqui, você pode, qual é a similaridade entre essas casas aqui? É só as plantas, não mais as plantas. Esse vídeo se chama Lila do It Yourself Core, ó. É, eu peguei dela.
-
-O Cafofo do Dani, que é Instagram muito legal, se você não segue, siga lá. É, ele tem assim, o estilo Urban Jungle como ninguém, na minha opinião. Realmente é Urban Jungle, porque é Urban Jungle na cozinha, Urban Jungle na sala, Urban Jungle no. Todos os locais é Urban Jungle. É pra quem gosta de aguar planta. É uma certa terapia, eu gosto bastante, eu vejo as folhinhas dela abrindo. Não tenho plantas dentro de casa, porque o Fernando reclama, mas. É, eu reclamo pouco. Não é isso. Porque tu vai aguando e vai molhando a casa.
-
-Bem, no Urban Jungle meio que Não é como se a coisa principal fosse o sofá e a gente tem o detalhe das plantas. A gente tem plantas e o detalhe do sofá. O bom é que esse estilo é muito barato da gente conseguir atingir, porque basicamente a gente vai ter plantas que podem ser capturas selvagens, pra quem não sabe o que é captura selvagem, vá no seu vizinho, peça uma mudinha, vá na sua vó, peça uma mudinha, vá na casa da sua amiga, peça uma mudinha da planta dela, tá andando na estrada e viu uma sambaia selvagem, para, entra no meio do mato, captura essa sambaia, segue com a vida.
-
-O que eu tenho pra dizer? Pra fazer esse estilo, respeite as plantas que você tá utilizando. Não adianta tentar botar no suculenta, no meio da sua sala, a suculenta vai morrer. Não adianta ter cacto na sua sala, o cacto vai morrer. Plantas de sol devem ficar no sol, então aqui ó, cacto aqui ó. Tá errado, isso aqui tá errado. Você tá desrespeitando o cacto. Tudo bem que ele chegou da loja bonitinho e grande assim, mas ou ele não vai se desenvolver, ou ele vai se desenvolver atrofiado pela falta de sol, ou ele vai apodrecer. Literalmente, ele vai ter tontágua e ele vai morrer.
-
-Então, respeitar as plantas e as espécies. Utilizar somente espécies de sombra ou de meia sombra. Se pegar uma boa claridade. E aí deixar as plantas que realmente são de sol pra área externa. É importante. Porque senão vai gastar aquele planta e vai morrer tudo. São plantas boas. Samambaia, Cingônios, Monstera. Posso falar aqui as espécies? Eu acho importante. Constela de Adão. Constela de Adão, que é a Monstera. Monstera. Aqui ela de novo. Ela é corinha. Onde você bota essa planta fica lindo. Aqui a Jibóia. Tem diversos tipos de Jibóia. Eu tô muito próximo. Tem diversos tipos de Jibóia.
-
-Deixa eu ver o que tem aqui mais. Aí tem as Alocáceas. Essa daqui é outro tipo de Monstera, que é a Monstera da Nazônia. Ela é pouco menor. Jibóia aqui de novo. As plantas, elas acabam até se repetindo. Você pode ir pegando. Ó, Samambaia aqui. Pode ir pegando ali a do seu viz Isso é o limite na sua coleção. Lembrando de evitar cactos dentro de casa. Logo porque o Feng Shui disse que nem é bom você ter espinhos dentro de casa. Mas nós estamos seguindo o Feng Shui. Boho! Boho! Boho é estilo mais largado. É estilo que nasceu com hits. Então é estilo descontraído, descolado, casual.
-
-É pouquinho de cada. É uma mistura de cada dos estilos. Entra pouco do rústico, entra pouco do escandinavo, entra pouco do tropical, entra pouco do urban django. Ele é livre, despreocupado. É uma mistura de estilos. Exatamente como tava aí, ó. Vintage, rústico, folk, romântico. Então é realmente o que você for conseguindo por aí. Aí você vai juntando de alguma forma bonita. E eles vão vai formando a sua casa. Basicamente é Basicamente você vai olhando uma foto, o que é que lhe agrada, e aí a partir daí você vai fazendo umas composições do ambiente.
-
-Por exemplo, podem ser a mistura de metal com palha, que é o exemplo aqui da segunda foto, móveis de metal e palha. Fica contraste muito bonito. Pode ser a cama aí, ó, ela tem umas madeiras rústicas atrás, que dá ar mais confi, confortável. Tem ambiente músculo também, de madeiras descendo do teto. Galho aqui. Isso tudo são adornos baratos da gente fazer, fáceis de executar e rápidos, prateleiras. Esse estilo é dos mais baratos aqui, ó. Cama de pallet. Cama de pallet. Aí os tapetes de taboa lá do mercado, você consegue esses tapetes aí por volta de 80 reais.
-
-Os cestos de planta aqui na região a gente consegue a 8 reais, os cachepozinhos, esses Também tudo em palha, a gente vê muitas das decorações pra onde a gente viaja, que é a coisa mais linda. É você fazer composições, prateleiras de madeira simples, que a gente já ensinou. Macramês, plantinhas também. Então tudo coisas muito baratas que você consegue ir na sua região ou você mesmo fazer. Potes, velas. Velas, potes, muito bom. Lanternas japonesas, são mais adornos redondos na parede. Tem esses adornos redondos na parede? Tem tudo. Já me borrou. Estilo russo.
-
-Outro estilo que pode sair muito em conta. O estilo rústico é muito puxado pra aquela fazenda, de vó. Então, aquela cara que você tem de fazenda de vó é o estilo rústico. É muita madeira bruta também, materiais meio que inacabados, que a gente chama como, por exemplo, bruto. É o tijolo na sua composição natural. A própria parede descascada, ela pode vir no estilo rústico como algo bonito, entendeu? Aquela mistura entre pouquinho de massa que ainda tinha ali e o tijolo que agora ficou aparente. Então, descassar uma parede na reforma é uma boa ideia.
-
-Minha amiga tá fazendo isso lá onde ela vai dar uma aula de yoga. Ou seja, você economiza no lugar de refazer o acabamento, você tira esse acabamento e aproveita ali o tijolo. Não tá com acabamento. Acabamento mais fino. O rosto dele tem muita madeira. Muita. A madeira sem estar pintada de nada específico. É madeira na cor da madeira mesmo. Porque isso quer dizer madeira. Metais, metais não. Os elementos tentam ser mais puros. E é o que? Metal aparecendo. Você não pinta o metal de azul, verde, vermelho, alguma coisa. É a cor de metal. A madeira é a cor da madeira. O concreto é a cor.
-
-A parede é a cor do concreto. A pedra. A pedra do chão. A cor da pedra. Então, tem esse ponto. Ele também mistura com outro material, que é couro, vidro, cimento queimado. Cimento queimado aqui nas paredes. E ele que é leve ar de bagunça. É, é como se, eu sinto assim, que uma pessoa que mora numa casa dessa aqui, sei lá, dessa aqui. Realmente mora, mas tem. Ela bebe leite assim, tirado da vaca. Uma pessoa que tá próximo, sabe aquele estilo arquitetônico, brutalismo? É. Eu acho legal. Porque ele evita a gente ficar utilizando cores e coisas pra iludir a pessoa, tipo pôster. Fica criando.
-
-Fica criando informação visual atual em vez de ouvir a natureza. É, eu acho que ele é estilo mais prático também, ou seja, você pode encaixar nesse estilo rústico aquele imóvel que você herdou da sua avó, que é uma cristaleira bonita. Nesse estilo rústico também você pode deixar mais spots aparentes, não tem aquela necessidade do minimalismo, do mínimo de informações. Então a gente pode aproveitar uma tela metálica e colocar nas suas panelas aqui o imóvel da avó.
-
-Nesse estilo também a gente não precisa se preocupar tanto com o acabamento, a gente aceita a estrutura meio que com a história que ela tem. As vidas aparecendo. Esse detalhe aqui ó, que não tem revestimento nessa área, a gente chama atenção pra isso, como se fosse detalhe. Outra coisa, ó, madeira aparecendo aqui na estrutura. Isso aqui a gente faz aqui em casa. No lugar da gente fazer o forro de gesso por baixo da madeira, que é geralmente como é feito, a gente aproveitou o forro da estrutura e mandou ele fazer o gesso por cima da estrutura, pra estrutura ficar aparente, não escondida.
-
-Com isso a gente consegue detalhe arquitetônico extra. Então madeira demolição, só que eu sei lá isso. Então madeira demolição, aqui tijolinho que pode ser o ecológico, aparente também, pedras naturais, mais aberto aqui, ó, o céu aberto. E esse é estilo rusco, sucesso absoluto. Estilo industrial, linhas retas, ferro meu amigo, indústria, cimento concreto. Esse aqui é o nosso showdown. O estilo industrial nasceu nos Estados Unidos, acho que foi em Nova Iorque, onde as pessoas estavam procurando opções baratas pra morar e estavam encontrando galpões abandonados.
-
-Desses galpões abandonados, eles viam como é que era galpão, como parece galpão. Parece galpão isso aqui, sério. São ambientes bem abertos, geralmente alguns com vermelho. Estrutura aparecendo. Estrutura completamente aparente, também coisas bem. Instalações elétricas aparecendo, instalações hidráulicas também aparecem. A gente utiliza principalmente cimento, metal e madeira. Pode fazer de encaixar isso de qualquer forma que você quiser, que vai dar o estilo industrial. Geralmente a gente utiliza madeira pra trazer pouco do natural, porque o industrial ele é muito frio.
-
-Ele geralmente é só o ferro e o cimento. Aí pra trazer ele pra esse ar de casa que a gente coloca madeira, plantas, elementos naturais, couro, lã, algodão, que vai ser sofá. Esses elementos que vão trazer a vida do industrial. Se você tiver esses elementos, literalmente vira galpão. Frio, você fica congelando. De duro e rígido que é o ambiente. Então é muito importante quando a gente tá trabalhando com estilo industrial que tem bastante metalom é esse metal aqui ó, que eu gosto de fazer meus móveis todos em metalom 2x2. Que é super em conta da gente fazer, os nichos você mesmo pode fazer,. É.
-
-Uma coisa aqui do estilo industrial, que eu tava falando que foi feito em galpões, é essa questão de que a gente não tem tantas divisões entre ambientes, os ambientes são divididos pelos móveis. É, eles são todos integrados. Esse sofá tá criando corredor por trás do sofá que vai dar em outro ambiente. E aqui não tem uma parede dividindo. Aqui ó, a cozinha tá aqui. Quem é que divide a cozinha da sala? Meu que o tapete divide a cozinha da sala. Enquanto no estilo clássico a gente tem claramente a divisão dos ambientes por todas as paredes. E várias paredes abornadas. Até no rústico aparece.
-
-O do estilo industrial quer ter essa expansão do galpão. Aí bem aqui tem a mesa de jantar separada aqui da sala de estar pelo sofá. Bem aqui ó, o tamanho desse galpão tudo aberto. Tem corredor criado aqui. A partir desse sofá, aqui tem ambiente musical. Com os instrumentos criados naquele ambiente. E no caso de você ser jovem casal que não precisa necessariamente do quarto estar fechado, você pode integrar ainda esse quarto com o loft, fazendo mezzanino.
-
-Que é isso aí, que a gente divide aquele pé direito super alto, quando a gente tem, e cria novo pavimento inteiro, mais ou menos pouquinho acima da metade desse ambiente, que é o caso que vocês estão vendo aí. Embaixo eu posso ter uma cozinha, closet, e em cima eu posso ter quarto. Eu economizo parede, economizo muito. E o estilo tropical, o último estilo que a gente gostaria de mostrar pra vocês, que dá uma sensação ótima de praia, tem uma ligação muito grande com a natureza do lado de fora, certo? Porque assim, vamos diferenciar do bandiango.
-
-E do escandinavo, o escandinavo traz uma sensação de frio, com aquelas mantas, com coisas de pele, enquanto no tropical a gente tem mais uma sensação de praia. Os materiais são bem similares, os tons são bem similares, muda o quê? Muda as plantas que eu vou colocar, muda a decoração que eu vou colocar, muda o estilo de cadeira que eu tô utilizando, uma cadeira mais leve, uma cadeira, por exemplo, ó. Não é acolchoada, fica quente, precisa de ventilação. Essa daqui também é uma cadeira mais leve que eu tô utilizando. É como se fosse o escandinavo, só que dos trópicos.
-
-Mais pux É, porque ele tenta ser. Simples, não tenta ter post, informações assim de aquela TV antiga, alguma coisa assim, não tem essas coisas. O que ele tá tentando fazer? Ele tá tentando esfriar a casa. É estilo que tenta fazer correr o vento, mostrar bastante plantas ao redor pra impedir esse calor tropical e essa umidade tropical de ficar abafando a casa e transformar ela num fogo. Estampas de plantas. Madeira. A conexão com o ambiente de fora. Bastantes jardins também. Bastante iluminação natural também. É, então acho que é isso. Então foram todos os estilos.
-
-E vistas para a natureza, que é importante isso. Os estilos mais em conta que a gente tem são o estilo industrial disparado, porque nem divisão entre os ambientes tem muito. Que é uma das coisas que pode ter bastante mais risco e burro. Risco também. Pode ser muito baixo custo. Isso. Urban jungle também. Também pode ser bastante, apesar de pegar trabalho e cuidar das plantas, não vai gastar tanto financeiramente. O escandinavo devido ao minimalismo.
-
-Também dá pra fazer de baixo custo, mas óbvio que esses quadrinhos bonitos às vezes podem ser pouco caros se você comprar naquelas lojas decoração. Então, dá pra gente fazer estilo escandinavo, mas a gente vai ter que fazer Samba do Creole doido, que é o quê? Encomendar uns quadros nos locais de vidraçaria, no lugar de comprar ele, pronto, em loja, levando arte de casa pra eles imprimirem lá e fazendo esses pequenos truques. Fazer muito fácil pra você mesmo também. É. O minimalista também é super simples de fazer, basta você focar em ter o mínimo de informações possíveis.
-
-É, nesse tipo aqui você tem que pensar ou em muito armazenamento pra tudo ficar escondido, ó, então em imóveis pra armazenamento fechado, que pode sair pouco caro a mercenaria desses Tem níveis também, tá gente? Então, tem aqui o retro oriental, o provençal e o clássico. É, o clássico e o provençal são os mais caros. Espero que vocês tenham gostado. Nas próximas aulas a gente vai falar pouquinho também de mood board, que é como é que você começa os seus ambientes.
-
-E vai falar também depois de novo módulo, que vai ser módulo de orçamentos, que a gente vai te ajudar a entender melhor a sua planilha, como é que ela funciona, como é que ali você vê quais são os maiores custos. Você sabia que 80% dos custos da sua casa vem de 20% dos itens? Olha aí, grande lei de parida. Então vamos atrás desses 20% de itens, que nesses 20% de itens a gente vai economizar muito. Ótimo, até a próxima aula. Tchau. É mais bom de tudo. Sejam muito bem-vindos à aula 23, nosso módulo de obras. Hoje a gente vai falar de aberturas e esquadrilhas.
-
-Parabéns por já ter chegado nesse ponto. Parabéns, não é pra qualquer. Bem, na sua casa você vai precisar de aberturas, principalmente pra você sair e entrar da casa. Pra você sair e entrar vento também, pra você ter iluminação. O que mais? Pra que serve mais as aberturas da casa, Amanda? Ventilação, iluminação natural, ela serve também. A gente tem que saber se a abertura vai ser uma abertura permanente ou ela vai ser uma abertura completamente. Perene. Perene, que abre ou fecha. Ou se é uma abertura também completamente fechada, que seriam também vidros fixos.
-
-Isso vai variar, claro, de acordo com a função que a gente tem naquele ambiente. Que a gente precisa iluminar, ter acesso a todos os cômodos. Igualmente não convidados. Não convidados, mas não precisa contar não, Fernanda, o planeta não é teu, o planeta também é dos insetos. Então vamos lá, a gente trouxe aqui pra vocês, alguns modelos de aberturas e vai explicar mais ou menos aqui o que significa cada deles. Vamos lá, já abrimos aqui aquela. Sabe o que eu pensei? Depois eu vou te mostrar o que eu pensei, mas.
-
-Sobre o tipo de abertura, tem tipo de abertura que é de esquadrilha que é só fazer o portal, sem esquadrilha nenhum, que é o modelo mais barato que tem. A gente podia mostrar aquela casa que a gente viu no YouTube. Vamos lá, fim do vídeo, fim do vídeo. No fim do vídeo, inclusive, a gente vai te mostrar uma casa que ela é completamente aberta. Vocês acham a minha casa aberta, vocês vão conhecer a desse arquiteto no fim do vídeo e ele vai chocar vocês Então gente, a gente tem a porta simples de abrir, que é aquela porta que abre pouquinho mais de 90 graus.
-
-Então é importante nesse tipo de porta que ela não fique colada com a parede. Porque assim ó, a gente tem aqui a parede. Quando a porta abre, se ela cola com a parede, eu não tenho uma abertura o suficiente. Então eu tenho que deixar essa porta levemente afastada, aqui, alguns centímetros. E o trinco baixo na parede. E o trinco baixo na parede. Tem que deixar afastada alguns centímetros pra essa porta, ó, poder abrir mais do que 90 graus. Essa minha mão aqui tá simbolizando a porta e a parede. Esse espaço aqui a gente chama de boneca. Não sei porquê.
-
-E normalmente é de 10 centímetros, 15.
-10 A 15 centímetros que a gente mantém. Beleza, essa é a porta de abrir. Vocês também devem conhecer a porta de correr, muito utilizada para espaços pequenos, porque ela não precisa. Tomar o espaço da abertura..Fazer esse grande movimento. Portas pivotantes, usualmente utilizadas como a porta de entrada da casa, porque ela dá ar de grande elegância. Sim, de finesse. A diferença dela é que o eixo que ela roda não fica exatamente na ponta da porta, ele fica alguns centímetros mais pouco pra direita.
-
-Vou arriscar aí pra vocês o eixo.: Pode às vezes ser no meio também.: Pode ser no meio também, dependendo da porta pivotante, pode vir até no meio e fica ainda mais chique. O problema é que ela ocupa bastante espaço, geralmente são portas mais largas, e a gente realmente utiliza elas mais na entrada, pra dar todo glamour na casa, também são pouco mais caras. Ou então nos fundos, principalmente nas entradas.: E sa Ok, a gente tem portas sinfonadas também, elas ocupam muito pouco espaço, porque elas se dobram dentro de si, usualmente utilizadas talvez em banheiros, ou em.: Locais onde.
-
-Closet, depósito.: Closet, depósito.: Elas não são tão bonitas, e a maioria dos modelos também não tem uma grande durabilidade, porque assim, apesar delas serem bem contas, principalmente uma que você encontra no mercado de PVC, só que ao longo do tempo, quando você vai abrindo e fechando, essa porta tende a não ser tão durável quanto as outras, porque ela tem muito mais conexões pra dar problemas ali no meio do que as outras portas.: Tipo camarão, muito parecido com a sanfonada, só que é com os painéis maiores.: Esse tipo de camarão é bem legal, porque a gente pode utilizar ele em fachadas também.
-
-Então, quando você quer uma boa integração do ambiente, você consegue praticamente pegar todas essas portas e sugar todas elas pra uma portinha só. Maravilhosa pra quando você quer grandes aberturas e não quer nenhuma folha fixa. aqui em casa, apesar de ter grandes aberturas, eu tenho uma folha fixa.: Ok.: Aí a gente tem agora janelas. A gente tem, pra começar, as janelas venezianas. Venezianas, são vários. Como é que eu digo?: Fresas.: Frestas deixadas a partir do espaço de duas placas. Elas podem ser, claro, de madeira, PVC. A gente vai te mostrar os materiais e preços ainda nessa aula.
-
-Mas o grande da veneziana é que, por ela ter E mesmo assim, ele permite que entre a ventilação. Então, assim, é uma excelente opção para locais que você quer ventilar de uma forma permanente, mas mesmo assim, não quer perder a privacidade e também não quer deixar aquele local desprotegido de chuva. Lembrando que essa janela de correr, você pode encontrar ela com quatro folhas, sem as duas do canto fixa. Você pode encontrar ela uma folha móvel e uma folha fixa. E todas as folhas fixas, todas as folhas móveis também.
-
-E todas as folhas móveis também, inclusive cortinas de vidro, que são várias dessas aí de correr ou até cortinas pivotantes de vidro também.: Você também pode botar uma esquadrilha de vidro bem bonitona no seu quarto. Fixa, completamente fixa mesmo, assim na parede, pra quê? Só pra entrar em luminosidade, pelo seu projeto você não precisa que entre a ventilação naquele local, só luminosidade.: É, aqui estão só os principais modelos, modelo de esquadrinha é coisa que não acaba, e você também ainda pode, claro, desenhar suas próprias esquadrinhas do jeito que você quiser.
-
-De janelas, a gente ainda tem aquelas de abrir, que são bem comuns ainda da gente ver hoje em dia, mas tem aquele problema de que quando bate o vento nela, pá, abriu de uma vez, pode bater na parede, é mais chato de puxar, porque tem que deixar ela ali pra cada lado, então assim, não é o meu tipo favorito de esquadrinhas.: A esquadrinha guilhotina, ela é similar a uma guilhotina mesmo, ela sobe e desce, a.: A quem se esquadrinha, falando?: Você Uma esquadrilha especial pra pessoas que você não gosta, você pode olhar pelo outro lado da janela.
-
-A gente tem janelas pivotantes também, que ela assimila a porta pivotante, o eixo de rotação dela em algum local que não, nas beiradas, então o pivô dela é deslocado.: Pode ser, pode ser. Ela é pivotante tanto nessa direção, como ela pode pivotar nessa direção aqui, tá gente, desenhando o outro eixo. Ela também pode ser pivotante nessa direção, o que é ótimo pra quando a gente quer fazer uma janela vertical, ou seja, uma janela bem alta e fina, que a gente faz essa janela pivotante e a gente consegue corredor de ventilação.
-
-Aquele mesmo modelo que o Fernando desenhou ali pra vocês, pode ser fixo, mas pivotante a gente ainda ganha a ventilação extra nele.: Ótimo, também tem camarão.: Que é a mesma questão da porta camarão, mas aí já não é tão comum Portas e janelas de camarão. Esse tipo de portas e janelas de camarão, o modelo, ele tende a dar mais problema ao longo do tempo, porque ele tem mais juntas. Então, assim, tem que ter mais cuidado, mais lubrificação dos metais ao longo do tempo.
-
-Se for madeira, mais cuidado também, porque a madeira pode inchar, empenar, e aí pode ser que essa abertura não fique tão legal.: As esquadrilhas de madeira tem realmente esse detalhe que tu tá falando, que ela tem uma possibilidade dela empenar, então ela precisa de uma manutenção específica, a depender da madeira que você escolheu e a forma como ela tá montada na esquadrilha. Mas, as esquadrilhas de madeira são bastante populares no Brasil, porque tem uma certa abundância, monte de obra, e foi tradicionalmente utilizada nas construções convencionais.: Até hoje.: Até hoje.: Por quê?
-
-Porque ela é esteticamente muito bonita, o preço dela é, como é que eu digo, pelo custo-benefício, é muito atrativo para o cliente. A gente encontra ela já em diversos modelos prontos e em qualquer lugar de loja de material de construção, então a disponibilidade dela é indiscutível.: É boa para litorais, porque no litoral ela não sofre a corrosão que a marisia traz.
-
-Mas, como a gente estava falando, cada tipo de madeira e do ambiente em que ela está inserida, precisa de uma manutenção específica.: Especialmente as madeiras, porque quando você está utilizando uma madeira verde, ela tende a empenar em portas. Então, cuidado ao comprar portas muito baratas, porque a procedência da madeira dessa porta é importante. Pode acabar que a porta, depois de ano, não feche. Então, você vai tentar fechar e ela meio que emperra. Isso aí é por quê? Porque a madeira tende a dilatar e retrair, enquanto ela ainda está meio que curando.
-
-Então, é importante também tratar essa madeira com hidrorepelente, para ela não pegar umidade e não inchar com essa umidade. E tratar também com verniz e tudo para cupim também, para não acontecer o pior.: Não utilizar madeira verde.: Não utilizar madeira verde, exatamente.: Aqui tem alguns preços que a gente pegou da Cinfra. Uma janela comum, 1,10 por 1,20, sairia R$333,00, de acordo com a CINFRA. E uma porta comum, R$280,00.: Porque esse preço, Chefe?: Instalado.: É, porque esse preço.
-
-Pra você entender, você encontra portas aí a partir de R$100,00 até R$200,00 no mercado das portas simples de madeira. Porém, fora essa porta, você também tem que comprar esses acabamentos aqui, ó, que são os alisares da porta. E a forra, que é essa parte interna aqui da porta, que a gente chama de forra, também tem que ser comprada por fora. Detalhe, porque o ideal é que você compre da mesma madeira pra não ocorrer diferença de tonalidade entre esses materiais. E também você tem que pagar a instalação e as dobradiças dessa porta.
-
-Lembrando que se for economizar em dobradiças, pode ser que você tenha mais problemas no futuro A melhor coisa que você pode fazer é uma manutenção frequente nas dobradiças.: Se você teve que economizar na dobradiça, você trabalha ela sempre naquele desengripante de spray, que aí ela sempre vai manter a sua porta com giro bem legal. Mesma coisa pra fechadura.: Esse valor aqui tá incluso na instalação também. Tem a marca máscara que precisa ser aplicada aqui, vai depender do tipo de condição que você tem. Esquadrilha! Vem as esquadrilhas de alumínio.
-
-Elas não são tão utilizadas assim, uma esquadrilha feita completamente de alumínio, mas.: Elas são bastante utilizadas sim.: Onde é que estão utilizando?: Elas são utilizadas em lavanderias, porque é local onde a gente não precisa esteticamente dar a coisa mais linda do mundo, mas de toda forma, lavanderia é ponto onde a gente sempre precisa de ventilação. Então, com esquadrilha de alumínio, a gente consegue fazer esquadrilha de alumínio com ventilação permanente.
-
-Entre essas vendesianas aí que vocês estão vendo, existem vários furinhos que permitem que a gente deixe, por exemplo, roupa secando dentro de uma lavanderia, sem aquela lavanderia ficar com alta umidade.: Então pra mim a maior vantagem da esquadrilha de alumínio é a leveza dela e a resistência que ela tem, a durabilidade. Então utilizar ela assim que você tiver maritima é uma ótima ideia. Utilizar perto de piscinas, utilizar em lavanderias, é uma boa ideia.: E também a versatilidade dessas esquadrilhas, porque às vezes você precisa fazer, por exemplo, só uma portinha pro gás.
-
-E essas esquadrilhas são perfeitas pra isso, porque elas te dão uma liberdade imensa de poder fazer a esquadrilha do jeito que você quiser, do tamanhozinho que você quiser e aonde você precisar. Quando a gente, por exemplo, tá trabalhando com clarabóias, a gente geralmente utiliza elas ao redor da clarabóia, tipo veneziana, pra gente poder manter uma ventilação nessa clarabóia mais uma vez sem entrar chuva dentro de casa, porque ela tem uma excelente vedação contra a São caras.: São caras. Alumínio é material caro.: Por causa da durabilidade.
-
-Então assim, é caro inicialmente.: Tem custo inicial caro, mas a durabilidade dela paga esse preço.: Porque também ela não precisa de manutenção como precisa a de madeira. De madeira você sempre eventualmente vai ter que estar dando uma lixada, uma reinvernizada e tratar contra cupim e animais que podem acabar com essa esquadrilha. Enquanto que a esquadrilha de alumínio não. Sem falar que a esquadrilha de alumínio ela já tem diversos acabamentos. Então você dispensa o serviço que é necessário na porta, que não está incluso aí no valor, que é o serviço de pintura e envernizamento.
-
-Nesse tipo de esquadrilha você não precisa. Apesar da diferença de preço entre a porta, por exemplo, praticamente ser o dobro, É, não chega realmente ser o dobro no final, ela é pouquinho mais cara, mas como essa porta aqui ainda vai ter que receber tratamento por cima, o preço ainda fica pouco mais próximo.: Eu diria aí que aí você ainda vai pagar por volta de R$50,00 aí, pra poder fazer o tratamento dessa porta de mão de obra imaterial.
-
-Essas quadrias de ferro, são os modelos mais baratos que você consegue de esquadrias, porque o material também é o material mais barato que a gente consegue trabalhar. Já falei pra vocês, quando a gente tá trabalhando assim entre madeira e ferro, a depender da região, geralmente o ferro tem se mostrado mais barato, tanto pra fazer telhado de telhadra termoacústica, por exemplo, quanto nesse caso aqui, que é pra fazer esquadrias.
-
-Quando a gente tá trabalhando com esquadrias de ferro, apesar do preço maravilhoso delas de ser o mais barato de todos, muitos cuidados com esse tipo de escuadrilha.: Os mesmos cuidados com a madeira contra a umidade, porque ela corrói ao longo dos anos, então ela também precisa de material protetor por cima. Esse material protetor pode ser zarcão, que é fundo anticorrosivo, pode ser tritão, que é outro tipo de fundo anticorrosivo, e por cima você tem que passar uma pintura. Você pode deixar no zarcão ou no tritão, porque eles já têm algumas opções de cores, mas são opções de cores limitadas.
-
-Você vai encontrar ele no vinho, você vai encontrar ele no preto, mas você, por exemplo, não vai encontrar ele no branco, dificilmente. Então, se você quiser essa escuadrilha de uma certa cor, você vai ter que também pagar a pintura por fora, depois, por cima, desses fundos que vão proteger, de fato, a sua escuadrilha.: Ela não pode ficar sem esses Assim como as escuadrinhas de alumínio, que são finas, essas escuadrinhas de ferro-tumelo, elas tendem a ter uma espessura mais fina do que a de madeira. Me calçando aqui. Olha a calçada no rosto aí.
-
-E aí, isso ocorre que ela passa o calor pra dentro de casa, então não é indicado assim no caso de quarto, não é indicado assim no caso de ambientes com grande permanência no local. Pode ser utilizada como numa porta de entrada, uma porta dos fundos, uma porta de garagem, uma janela de ambiente que a gente não utiliza tanto, que é só realmente pra ter a janela ali, eventualmente.: Outro problema dela é que se essa janela ou porta pegarem sol direto, ela vai ter também problemas com a abertura, porque ela dilata, então você muitas vezes não consegue abrir essa porta em algumas horas do dia.
-
-Mas a grande vantagem, Fernanda, é a segurança. É dos tipos de esquadrias mais seguras que tem. Então, se você tem problemas de segurança na sua cidade, também é ótimo tipo de esquadria pra você utilizar. E ela pode ser utilizada em conjunto com outras esquadrias. Ela fazendo apenas a parte da segurança. Como, por exemplo, vocês estão vendo aí uma porta de ferro toda vazada, fazendo a segurança de uma porta interna, por exemplo. Então, a grande vantagem desse tipo de esquadria não é você exatamente comprar ela pronta.
-
-É você mandar fazer ela.: Porque quando você compra o material, se você já tem serralheiro na sua obra, que vocês vão ver aí, é muito legal ter serralheiro na obra, porque a variedade de portas que a gente consegue fabricar, nós mesmos na própria obra, a quantidade de móveis que a gente consegue fabricar, o guarda-corpo, tudo utilizando peças cruas de metal, É incrível, e economiza muito no final do lugar de comprar ela pronta. Exemplo, eu indico que vocês assistam o vídeo lá da casa do meu pai, onde eu mostrei que ele utilizou apenas a esquadrilha de ferro na casa inteira.
-
-Então, nas janelas, além da proteção por fora de ferro, a gente também tem as esquadrilhas internas de ferro. E aí você consegue tanto o fechamento total, como só o parcial.: Bem, o preço que faz mais sentido da CINFRA é o preço da porta em chapa de ferro. Não é esse aqui, porque esse aqui é uma porta vazada, bonitinha. Então, eles cobram pra fazer essa arte aqui na porta. Essa aqui seria uma chapa de ferro mesmo. Essa chapa de ferro, se você fizer uma porta normal, R$ 283,00. O janela mais barato que tava aparecendo na tabela da sempre era a janela de ferro tipo caixilha.
-
-Deve ser tipo de janela de ferro pouco mais complexa, com preço meio alto. Então esse preço aqui usualmente é mais baixo que uma janela. Essas janelas do meu sogro com certeza foram bem mais baratas do que isso aqui. Aqui é a casa do meu sogro, que ele fez todas as esquadrilhas de metal. Isso aqui é uma porta de metal, que foi pintada com zarcão e pintada.: Com. Esmalte sintético na cor cobre, que eu comprei.: Não é nem cobre isso aqui, é dourado?: É cobre.: Do lado do lado do lado do lado do lado.: Ela poder ficar aberta se quiser permanentemente.
-
-Então vamos lá, a escolha que a gente tem aqui em casa, a gente é de vidro temperado. Perguntam muito isso pra gente, basicamente é literalmente só a chapa de vidro, não existem requadros ao redor desse grande pano de vidro. Existe o vidro temperado de 6mm, 10mm, 8mm e essa milimetragem, obviamente, quanto maior mais cara, mas ela vai depender de onde vai ser utilizado esse vidro e o tamanho também dos panos, exatamente. Então quanto maior o pano, mais caro vai sair.: A maior vantagem desse tipo de esquadrilha, que é de vidro temperado, também chamada blindex, é o preço dela.
-
-Você vai ter uma casa toda de vidro, você vai ter grandes vãos de vidro, que são muito bonitos, eles tem a capacidade de integrar os ambientes, trazer a iluminação pra dentro de casa, criar você que talvez tenha uma casa com tamanho menos reduzido. Esses vidros vão dar uma sensação de abertura, vão diminuir a claustrofobia dentro da casa.: E você pode substituir paredes inteiras como a gente fez por esse vidro.: É, paredes inteiras. Pode ficar conectado só as estruturas, os pilares e as vigas, como aqui em casa.
-
-E o custo dela não vai ser tão alto assim.: Ela é comumente utilizada em lojas que a gente vê hoje em dia. Praticamente. Vitrines. Vitrines, exatamente. Mas elas são também ótimas opções para residências. Só que geralmente, sabe o que acontece, Fernando?: O que acontece?: Passa aí pra tu ver. Utilizam-se mais esse tipo de esquadrinhas aqui em casas, que é a esquadrinha com vidro e requadro de alumínio. E tu sabe por quê?: Eu sei porque. Não, você não quer.: Não, é só porque os arquitetos preferem.: Os arquitetos preferem. Eles acham mais elegante, mais bonita, mais acabada, mais fina.
-
-Claro, claro que sim. Mas, já que você está procurando métodos de como manter o finíssimo acabamento da sua casa.: E ainda preço baixíssimo.: E baixar o máximo preço possível, você tem como utilizar a vidro na sua casa sem utilizar esse quadro de alumínio que todo arquiteto coloca.: Isso, eu não indico que a gente utilize esse tipo de esquadrilha de vidro com o requadro de alumínio, porque realmente ele encarece muito a obra. Por exemplo, aqui em casa a gente fez orçamento de quanto é que sairia os vidros desse tipo aqui e quanto é que sairia na sua outra opção.
-
-E na sua outra opção aqui na região, o seu é quatro vezes mais caro. Em geral, ela é pra sair 40% mais caro, mas esses absurdos saem bem, bem mais caro do que o outro modelo, também acontecem por causa da disponibilidade do material em algumas regiões. Como isso aqui é material mais, digamos assim, que exige mais geralmente ele chega ainda mais caro nos interiores e nessas áreas mais rurais.: Então, vidros mais comuns, tipo blindex, que já são utilizados em lojas e são necessários já na sociedade em si, saem mais em conta. O meu irmão, tecnologia.
-
-Na casa dele, ele se utilizou já desses vidros com porta, com esquadrilha de alumínio. A diferença prática é, esse tipo de esquadrilha com recuadro de alumínio, ele é mais leve pra ser puxado em portas de correr, justamente por causa do recuadro que fica em contato direto com o trilho e não o vidro. No outro caso, é o vidro em contato direto com o trilho.
-
-O seu vidro, ele tem mais aprisa, então é uma porta levemente mais pesada e que exige mais limpeza dos trilhos pra ela correr direitinho do que essa porta com recuadro de alumínio.: Agora sim, aqui em que tem bem menos, praticamente, terço das nossas esquadrias, custou 46 mil reais as esquadrias da casa deles. São, tipo, bem, bem menores. Eu queria até calcular depois na área, mas.: É, eu diria terço, é bom. É terço, é terço.: Mas também, o vidro dele é reflexivo.
-
-Tu acha que é muito ruim se eu virar aqui pra mostrar pra galera o vidro?: Não, não.: Dá pra mostrar, não. calma aí, eu vou mostrar assim. deixa eu segurar aqui o cabo, porque esse cara é importante. Não dá pra ver. Reflete, tá vendo? Ela reflete os. Tira o. Descobrindo a nossa vida. Cês tão vendo que o jardim tá refletido, gente? Tem uma palmeira ali, ó, o editor vai dar zoom. Justamente porque o vidro dele não é vidro transparente. Não que você necessariamente precise de requadro de alumínio pra poder você ter vidros reflexivos, não.
-
-A gente vai te mostrar aqui na frente que o tipo de vidro que você vai utilizar, ainda depende do tipo de requadro que tá sendo utilizado.: Então, assim, se a gente tem vidro, a gente pode fazer com requadro de ferro, com requadro de madeira, com requadro de alumínio ou até sem o requadro, que é o caso do vidro temperado Blindex, que é uma marca. Blindex é uma marca, é tipo isopor.
-
-Vai.: Tem pouco mais barato do que o de alumínio, mas ele também é bem mais caro do que só o de vidro.: Ele sai mais caro por causa do material protetivo.: Sim, é verdade.: Ele sai mais caro porque o alumínio não precisa ter material protetor por cima, enquanto madeiras, elas precisam, sim, de material protetor.
-
-Madeiras e ferros precisam de material protetor e também a manutenção desses materiais protetores.: Ao longo do tempo, o alumínio, você vai ter muito menos manutenção do que madeira.: E ela pode enterrar essa madeira, mais uma vez, pela questão da madeira ser material natural, que a gente não tem como controlar. Então, sim, ela tende a inchar, ela tende a retrair. Já trabalhei com casos de esquadrilhas em madeira também e não recomendo esse tipo de esquadrilha nem para regiões que.
-
----

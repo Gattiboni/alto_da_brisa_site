@@ -14,12 +14,73 @@ Ordem: mais recente no topo.
 
 # Inserts para CHANGELOG.md
 
-Cole as 5 entradas abaixo no `CHANGELOG.md` **acima da entrada
-`[2026-05-21] DOC — Avatar do Claudinho da Brisa salvo no projeto`**.
+### [2026-05-25] DOC — Plano de Reformulação dos Módulos criado (D015)
 
-O CHANGELOG está em ordem cronológica reversa (mais recente no topo). A entrada
-de 24/05 vai mais alto, depois 23/05 (duas entradas), depois 22/05 (duas
-entradas).
+Documento `docs/design_system/reformulacao_modulos.md` criado. Estabelece
+processo de trabalho módulo a módulo para entregar leitura ativa no portal:
+pacote de 7 minutos no topo com recursos visuais específicos por natureza de
+conteúdo, aprofundamento textual por clique.
+
+Ordem proposta dos 12 módulos, com Módulo 1 como piloto para ajuste do processo.
+Critério de pronto definido por módulo: visualização rica funcional + leitura
+completa acessível + navegação intra-página + responsivo 320-1280px + Lighthouse
+Accessibility ≥ 90.
+
+D014 permanece válido como camada base. D015 adiciona camada específica por
+módulo acima dela.
+
+---
+
+### [2026-05-25] DECISÃO — Conteúdo do portal: leitura ativa por módulo (D015)
+
+Validação visual de D014 implementado mostrou que o resultado, embora
+estruturalmente correto, entrega leitura passiva. Decisão D015 abre ciclo de
+reformulação módulo a módulo, com recursos visuais específicos por natureza de
+conteúdo, para atender a intenção original do portal (densidade variável de
+consumo).
+
+---
+
+### [2026-05-25] SITE — Componentes D014 implementados e integrados às 88 aulas
+
+Implementação completa dos componentes de conteúdo especificados em D014:
+
+- `<Callout>` (atencao / dica / exemplo) com barra lateral colorida e eyebrow
+  tipográfico em small caps
+- `<Citacao>` em Cormorant Garamond italic, sem caixa, com atribuição em small
+  caps quando presente
+- `<Tabela>` com transformação responsiva em CSS puro: tabela tradicional em
+  desktop, cards empilhados em mobile (sem scroll horizontal)
+- `<ProcessFlow>` com parser do bloco markdown customizado `flow`: horizontal
+  com setas tipográficas em desktop, vertical com conectores em mobile
+
+Componentes localizados em `site/src/components/content/`. Roteamento em
+`site/src/components/Markdown.tsx` via componentes custom do react-markdown:
+detecta GFM-alert (`> [!tipo]`) na AST hast e roteia para `<Callout>`,
+blockquotes sem `[!` viram `<Citacao>`, code blocks com linguagem `flow` viram
+`<ProcessFlow>`, tabelas markdown viram `<Tabela>`.
+
+Tipografia global atualizada em `site/src/app/globals.css`: corpo 17px mobile /
+18px desktop, line-height 1.7, largura máxima de leitura ~65 caracteres
+(`prose-content` = 65ch).
+
+Ingestão concluída via `scripts/consolidar_temas.py`: 88 aulas reais
+
+- Aula 25 ausente com callout direcionando para Aula 26, distribuídas em 12
+  arquivos por módulo em `site/content/temas/`. Headings das aulas rebaixados 2
+  níveis para manter hierarquia sob `### N. Título`. Conversão dos 3 ASCII art
+  (módulo 2) para blocos `flow` aplicada. Transcrições não renderizadas no
+  front, conforme D013.
+
+Página `[slug]/page.tsx` ajustada: aulas abertas por default (sem accordion),
+TOC sticky em desktop (≥1024px) com âncoras, seção `## Transcrição` oculta no
+render.
+
+Componente legado `Callout.tsx` (v0) removido após confirmar ausência de
+importadores.
+
+Build limpo, 12 rotas SSG geradas, validação visual no browser completada pelo
+Tech Lead.
 
 ---
 

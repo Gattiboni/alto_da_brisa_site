@@ -4,9 +4,9 @@ import { Container } from "@/components/Container"
 import { Header } from "@/components/Header"
 import { Footer } from "@/components/Footer"
 import { SectionEyebrow } from "@/components/SectionEyebrow"
-import { Accordion } from "@/components/Accordion"
 import { Tag } from "@/components/Tag"
 import { Markdown } from "@/components/Markdown"
+import { Toc } from "@/components/Toc"
 import { ClaudinhoFloatingButton } from "@/components/ClaudinhoFloatingButton"
 import { lerTema, listarSlugs } from "@/lib/temas"
 import type { Metadata } from "next"
@@ -32,6 +32,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 }
 
+function aulaAnchor(numero: number): string {
+  return `aula-${numero}`
+}
+
 export default async function TemaPage({ params }: PageProps) {
   const { slug } = await params
 
@@ -43,12 +47,19 @@ export default async function TemaPage({ params }: PageProps) {
   }
 
   const numFmt = String(tema.numero).padStart(2, "0")
+  const tocItems = [
+    { id: "visao-geral", label: "Visão Geral" },
+    ...tema.aulas.map((aula) => ({
+      id: aulaAnchor(aula.numero),
+      label: `${aula.numero}. ${aula.titulo}`,
+    })),
+  ]
 
   return (
     <>
       <Header />
-      <main className="py-16">
-        <Container>
+      <main className="py-12 md:py-16">
+        <Container size="wide">
           <div className="mb-3">
             <Link
               href="/conhecimento"
@@ -60,68 +71,66 @@ export default async function TemaPage({ params }: PageProps) {
           </div>
 
           <SectionEyebrow>Módulo {numFmt}</SectionEyebrow>
-          <h1 className="font-serif text-4xl text-coal mb-4">{tema.titulo}</h1>
-          <div className="flex items-center gap-2 mb-12">
+          <h1 className="font-serif text-4xl md:text-5xl text-coal mb-4">
+            {tema.titulo}
+          </h1>
+          <div className="flex items-center gap-2 mb-10 md:mb-14">
             <Tag variant="green">
               {tema.meta.totalAulas}{" "}
               {tema.meta.totalAulas === 1 ? "aula" : "aulas"}
             </Tag>
-            {tema.transcricao.length > 0 && (
-              <Tag>
-                {tema.transcricao.length}{" "}
-                {tema.transcricao.length === 1 ? "gravação" : "gravações"}
-              </Tag>
-            )}
           </div>
 
-          {/* Visão Geral */}
-          <section className="mb-16">
-            <h2 className="font-serif text-2xl text-coal mb-4">Visão Geral</h2>
-            <div className="text-coal/85">
-              <Markdown>{tema.visaoGeral}</Markdown>
-            </div>
-          </section>
+          <div className="grid gap-10 lg:grid-cols-[220px_minmax(0,1fr)] lg:gap-14">
+            {/* TOC desktop */}
+            <aside className="hidden lg:block">
+              <Toc items={tocItems} />
+            </aside>
 
-          {/* Aulas */}
-          {tema.aulas.length > 0 && (
-            <section className="mb-16">
-              <h2 className="font-serif text-2xl text-coal mb-5">Aulas</h2>
-              <div className="space-y-2">
-                {tema.aulas.map((aula) => (
-                  <Accordion
-                    key={aula.numero}
-                    title={aula.titulo}
-                    meta={`Aula ${aula.numero}`}
-                  >
-                    <Markdown>{aula.conteudo}</Markdown>
-                  </Accordion>
-                ))}
-              </div>
-            </section>
-          )}
+            {/* Conteúdo */}
+            <article className="min-w-0">
+              {/* Visão Geral */}
+              <section id="visao-geral" className="mb-12 md:mb-16 prose-content">
+                <h2 className="font-serif text-2xl md:text-3xl text-coal mb-4">
+                  Visão Geral
+                </h2>
+                <div className="text-coal/90">
+                  <Markdown>{tema.visaoGeral}</Markdown>
+                </div>
+              </section>
 
-          {/* Transcrição */}
-          {tema.transcricao.length > 0 && (
-            <section className="mb-16">
-              <h2 className="font-serif text-2xl text-coal mb-3">Transcrição</h2>
-              <p className="text-[13px] text-coal/55 italic mb-5">
-                {tema.transcricao.length}{" "}
-                {tema.transcricao.length === 1 ? "gravação" : "gravações"} de
-                áudio do curso, transcritas e polidas.
-              </p>
-              <div className="space-y-2">
-                {tema.transcricao.map((gravacao, idx) => (
-                  <Accordion
-                    key={idx}
-                    title={`Gravação ${gravacao.numero}`}
-                    meta={`Áudio ${idx + 1} de ${tema.transcricao.length}`}
-                  >
-                    <Markdown>{gravacao.conteudo}</Markdown>
-                  </Accordion>
-                ))}
-              </div>
-            </section>
-          )}
+              {/* Aulas (sempre abertas) */}
+              {tema.aulas.length > 0 && (
+                <section className="mb-12 md:mb-16">
+                  <h2 className="font-serif text-2xl md:text-3xl text-coal mb-6 prose-content">
+                    Aulas
+                  </h2>
+                  <div className="space-y-12 md:space-y-16">
+                    {tema.aulas.map((aula) => (
+                      <section
+                        key={aula.numero}
+                        id={aulaAnchor(aula.numero)}
+                        className="scroll-mt-20"
+                      >
+                        <div className="prose-content">
+                          <div className="font-ui text-[10px] uppercase tracking-[0.15em] text-sand mb-2">
+                            Aula {aula.numero}
+                          </div>
+                          <h3 className="font-serif text-xl md:text-2xl text-coal mb-5">
+                            {aula.titulo}
+                          </h3>
+                          <Markdown>{aula.conteudo}</Markdown>
+                        </div>
+                      </section>
+                    ))}
+                  </div>
+                </section>
+              )}
+
+              {/* Transcrição: oculta por D013 — campo continua exposto no
+                  tipo Tema mas não é renderizado. */}
+            </article>
+          </div>
         </Container>
       </main>
       <Footer />

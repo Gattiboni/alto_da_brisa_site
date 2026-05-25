@@ -36,8 +36,14 @@ body {
   background: var(--color-bg);
   color: var(--color-coal);
   font-family: var(--font-sans);
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.7;
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 18px;
+  }
 }
 
 /* Tipografia base. Componentes podem sobrescrever. */
@@ -59,6 +65,11 @@ h1, h2, h3, h4, h5, h6 {
 :focus-visible {
   outline: 2px solid var(--color-green);
   outline-offset: 2px;
+}
+
+/* Largura confortável de leitura: ~65 caracteres por linha. */
+.prose-content {
+  max-width: 65ch;
 }
 
 /* Scrollbar discreta (webkit) */
