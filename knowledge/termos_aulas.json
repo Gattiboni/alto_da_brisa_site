@@ -1,0 +1,376 @@
+{
+  "_meta": {
+    "descrição": "Termos-âncora pra ranquear quais gravações cobrem cada aula. Gerado manualmente com base nos títulos do course_structure.json + jargão observado nas transcrições polidas.",
+    "uso": "Pra cada aula, conta hits dos termos em cada uma das 21 gravações. Top N (com soma de tokens cabendo em ~180k) vão pro prompt.",
+    "peso_termos_compostos": "Termos com 2+ palavras valem 3 hits; termos curtos (1 palavra) valem 1.",
+    "data_geração": "2026-05-24"
+  },
+
+  "1": {
+    "titulo": "Objetivo do Curso",
+    "termos": ["objetivo do curso", "apresentação do curso", "bem-vindos", "curso de baixo custo", "casa de baixo custo", "vamos te ensinar"]
+  },
+  "2": {
+    "titulo": "Etapas da Construção de uma Casa",
+    "termos": ["etapas da construção", "etapas da obra", "fases da obra", "fases da construção", "passo a passo da obra", "sequência da obra", "ordem da obra"]
+  },
+  "3": {
+    "titulo": "Comece pelo NÓ Necessidades vs Orçamento",
+    "termos": ["necessidades vs orçamento", "necessidades versus orçamento", "começar pelo nó", "comece pelo nó", "necessidade e orçamento", "ponto de partida", "diagnóstico inicial"]
+  },
+  "4": {
+    "titulo": "Estimando Necessidades e Orçamento com Chat GPT",
+    "termos": ["chat gpt", "chatgpt", "GPT", "inteligência artificial", "IA", "prompt", "estimar necessidades", "estimar orçamento"]
+  },
+  "5": {
+    "titulo": "Estimando Necessidades e Orçamento com Chat GPT 2",
+    "termos": ["chat gpt", "chatgpt", "GPT", "segundo exemplo", "outro exemplo", "continuação", "vamos continuar com o GPT", "prompt avançado"]
+  },
+
+  "6": {
+    "titulo": "Etapas do Projeto",
+    "termos": ["etapas do projeto", "fases do projeto", "estudo preliminar", "anteprojeto", "projeto executivo", "projeto legal", "projeto básico", "memorial descritivo"]
+  },
+  "7": {
+    "titulo": "Tipos de Projetos",
+    "termos": ["tipos de projeto", "projeto arquitetônico", "projeto estrutural", "projeto hidráulico", "projeto elétrico", "projeto complementar", "complementares", "projeto de arquitetura"]
+  },
+  "8": {
+    "titulo": "Fluxo de Projetos 1/2",
+    "termos": ["fluxo", "sequência", "ordem", "começa pelo arquiteto", "primeiro o arquiteto", "qual projeto vem primeiro", "depois vem", "antes do projeto", "passa pro estrutural", "vai pro hidráulico"]
+  },
+  "9": {
+    "titulo": "Fluxo de Projetos 2/2",
+    "termos": ["compatibilização", "compatibilizar projetos", "incompatibilidade", "conflito entre projetos", "BIM", "interferência entre projetos"]
+  },
+  "10": {
+    "titulo": "Desenho Técnico / Elemento de Projetos",
+    "termos": ["desenho técnico", "planta baixa", "elementos de projeto", "elementos do projeto", "elevação", "fachada", "corte da casa", "perspectiva", "escala 1:50", "escala 1:100", "ler uma planta"]
+  },
+  "11": {
+    "titulo": "Projeto: Vale a Pena?",
+    "termos": ["vale a pena fazer projeto", "vale o projeto", "importância do projeto", "investir em projeto", "compensa fazer projeto", "valor do projeto", "por que ter projeto"]
+  },
+  "12": {
+    "titulo": "Projeto: Quanto Custa?",
+    "termos": ["quanto custa o projeto", "custo do projeto", "valor do projeto arquitetônico", "honorário do arquiteto", "honorários", "preço do projeto", "tabela CAU", "CAU", "valor por m2 de projeto"]
+  },
+  "13": {
+    "titulo": "Construir sem Investir em Projeto",
+    "termos": ["sem projeto", "construir sem projeto", "sem investir em projeto", "obra sem projeto", "construir no olho", "improvisar projeto"]
+  },
+  "14": {
+    "titulo": "Lei Athis",
+    "termos": ["lei athis", "athis", "assistência técnica habitacional", "assistência técnica para habitação", "lei de assistência técnica", "11.888"]
+  },
+  "15": {
+    "titulo": "Necessidades",
+    "termos": ["necessidades da família", "levantamento de necessidades", "programa de necessidades", "quantos quartos", "quantas pessoas vão morar", "perfil da família"]
+  },
+  "16": {
+    "titulo": "Tamanhos e Ergonomia",
+    "termos": ["tamanho dos cômodos", "tamanho de cômodo", "tamanho de ambiente", "ergonomia", "dimensão mínima", "dormitório de", "sala de", "cozinha de", "pé-direito", "altura do pé direito", "bancada"]
+  },
+  "17": {
+    "titulo": "Distribuição de Espaços",
+    "termos": ["distribuição de espaços", "distribuição dos ambientes", "circulação na casa", "layout da casa", "como distribuir ambientes", "zona íntima", "zona social", "zona de serviço", "setorização"]
+  },
+
+  "18": {
+    "titulo": "Introdução ao Terreno",
+    "termos": ["módulo de terreno", "módulo do terreno", "introdução ao terreno", "começar pelo terreno", "escolher terreno", "análise do terreno", "estudar o terreno"]
+  },
+  "19": {
+    "titulo": "Clima - Parte 1",
+    "termos": ["clima", "weather spark", "weatherspark", "temperatura média", "temperatura da cidade", "umidade", "insolação", "estação do ano", "verão e inverno"]
+  },
+  "20": {
+    "titulo": "Clima - Parte 2",
+    "termos": ["clima", "ventos", "rosa dos ventos", "vento predominante", "orientação solar", "ventilação cruzada", "implantação da casa"]
+  },
+  "21": {
+    "titulo": "Clima - Parte 3",
+    "termos": ["clima", "estratégia bioclimática", "bioclimática", "carta bioclimática", "conforto térmico", "givoni", "zoneamento bioclimático"]
+  },
+  "22": {
+    "titulo": "Sondagem de Solo - Resistência - SPT",
+    "termos": ["sondagem", "SPT", "sondagem de solo", "resistência do solo", "ensaio de solo", "tipo de solo", "solo argiloso", "solo arenoso", "solo rochoso", "laudo do solo"]
+  },
+  "23": {
+    "titulo": "Topografia - Geometria do Terreno",
+    "termos": ["topografia", "topográfic", "levantamento topográfico", "curvas de nível", "declividade", "inclinação do terreno", "geometria do terreno", "georreferenciamento", "RT topográfico"]
+  },
+
+  "24": {
+    "titulo": "Orçamento: Estimativa Inicial ao Executivo",
+    "termos": ["estimativa inicial", "orçamento executivo", "EVF", "estudo de viabilidade", "CUB", "custo unitário básico", "orçamento por m2", "estimativa de custo", "orçamento paramétrico"]
+  },
+  "25": {
+    "titulo": "Estudo de Caso - Orçamento, Planejamento e Controle",
+    "termos": ["estudo de caso", "casa do lago", "casa de parnaíba", "caso real", "exemplo de orçamento", "exemplo prático de obra", "planilha de orçamento"]
+  },
+  "26": {
+    "titulo": "Estudo de Caso - Orçamento, Planejamento e Controle 2",
+    "termos": ["estudo de caso", "casa do lago", "controle de obra", "cronograma da obra", "planejamento da obra", "cronograma físico financeiro", "curva S", "acompanhamento de obra"]
+  },
+  "27": {
+    "titulo": "Orçamentos Custos Indiretos, Compra de Fábrica, Quadro de Concorrência",
+    "termos": ["custos indiretos", "custo indireto", "compra de fábrica", "comprar de fábrica", "quadro de concorrência", "concorrência entre fornecedores", "cotação", "BDI"]
+  },
+
+  "28": {
+    "titulo": "Serviços Preliminares",
+    "termos": ["serviços preliminares", "canteiro de obra", "almoxarifado", "tapume", "gabarito da obra", "locação da obra", "NR 18", "NR-18", "banheiro químico", "padrão de energia"]
+  },
+
+  "29": {
+    "titulo": "Introdução CBCS Fundações",
+    "termos": ["módulo de fundação", "módulo das fundações", "introdução de fundação", "introdução de fundações", "função da fundação", "objetivo da fundação", "para que serve a fundação", "tipos de fundação"]
+  },
+  "30": {
+    "titulo": "Bloco Simples, Alicerce de Pedra, Concreto Simples",
+    "termos": ["bloco simples", "alicerce de pedra", "alicerce convencional", "concreto simples", "concreto ciclópico", "pedra arrumada", "pedra arremassada", "pedra de mão", "fundação rasa simples", "rachão"]
+  },
+  "31": {
+    "titulo": "Sapata Concreto Armado",
+    "termos": ["sapata isolada", "sapata corrida", "sapata armada", "sapata de concreto", "sapata de concreto armado", "sapata convencional", "armadura da sapata"]
+  },
+  "32": {
+    "titulo": "Viga Baldrame",
+    "termos": ["viga baldrame", "baldrame", "viga de baldrame", "viga baldrâmica", "amarração das sapatas", "amarração de fundação"]
+  },
+  "33": {
+    "titulo": "Radier Concreto Armado",
+    "termos": ["radier", "fundação radier", "radier armado", "radier de concreto", "laje radier", "laje de fundação", "fundação tipo placa"]
+  },
+  "34": {
+    "titulo": "Fundações Profundas",
+    "termos": ["fundação profunda", "fundações profundas", "estaca", "estaca escavada", "estaca hélice", "hélice contínua", "estaca raiz", "tubulão", "bloco de coroamento"]
+  },
+  "35": {
+    "titulo": "Fundações Mistas",
+    "termos": ["fundação mista", "fundações mistas", "mistura de fundações", "combinar fundações", "sapata e estaca", "radier e estaca"]
+  },
+  "36": {
+    "titulo": "Impermeabilização das Fundações",
+    "termos": ["impermeabilização da fundação", "impermeabilização do baldrame", "impermeabilizar fundação", "manta asfáltica", "neutrol", "umidade ascendente", "umidade na parede", "umidade do solo"]
+  },
+  "37": {
+    "titulo": "Como Escolher Fundação?",
+    "termos": ["como escolher fundação", "como escolher a fundação", "qual fundação usar", "qual a fundação", "decidir fundação", "critério de fundação", "escolha de fundação"]
+  },
+  "38": {
+    "titulo": "Material Didático de Fundações",
+    "termos": ["material didático", "material complementar", "material de apoio", "PDF de fundação", "apostila", "ebook", "PDF complementar"]
+  },
+  "39": {
+    "titulo": "Encerramento de Fundações",
+    "termos": ["encerramento do módulo", "encerramento de fundação", "encerramento das fundações", "fim do módulo de fundação", "fechando o módulo", "até a próxima"]
+  },
+  "40": {
+    "titulo": "Como Escolher Fundação Segura e Eficiente",
+    "termos": ["como escolher", "escolher fundação", "escolher a fundação", "qual fundação", "decidir fundação", "fundação segura", "fundação eficiente", "tentar primeiro", "vai tentando", "escalazinha", "ir tentando"]
+  },
+
+  "41": {
+    "titulo": "Convencional: Concreto Armado In-Loco e Alvenaria - Parte 1",
+    "termos": ["concreto armado in loco", "concreto armado in-loco", "alvenaria convencional", "bloco cerâmico 8 furos", "tijolo de 8 furos", "estrutura convencional", "obra convencional", "viga e pilar", "convencional parte 1"]
+  },
+  "42": {
+    "titulo": "Convencional: Concreto Armado In-Loco e Alvenaria - Parte 2",
+    "termos": ["chapisco", "emboço", "reboco", "massa única", "massa corrida", "selador", "acabamento convencional", "alvenaria amarrada", "estrutura independente", "convencional parte 2", "concretagem", "vibrador", "adensador"]
+  },
+  "43": {
+    "titulo": "Entulho",
+    "termos": ["entulho", "geração de entulho", "resíduo de obra", "caçamba", "RCD", "descarte de resíduo", "lixo de obra"]
+  },
+  "44": {
+    "titulo": "Alternativas ao Convencional",
+    "termos": ["alternativas ao convencional", "sistemas alternativos", "construções alternativas", "métodos alternativos", "comparar sistemas construtivos"]
+  },
+  "45": {
+    "titulo": "Alvenaria Estrutural",
+    "termos": ["alvenaria estrutural", "bloco estrutural", "modulação de alvenaria", "bloco de concreto estrutural", "casa em alvenaria estrutural"]
+  },
+  "46": {
+    "titulo": "Estrutura Metálica",
+    "termos": ["estrutura metálica", "metálico", "viga metálica", "pilar metálico", "perfil metálico", "perfil I", "perfil H", "aço estrutural"]
+  },
+  "47": {
+    "titulo": "Light Steel Frame, Wood Frame e Drywall",
+    "termos": ["light steel frame", "steel frame", "wood frame", "drywall", "LSF", "perfil galvanizado", "casa de madeira frame", "OSB", "placa cimentícia"]
+  },
+  "48": {
+    "titulo": "Paredes de Concreto Armado",
+    "termos": ["parede de concreto", "paredes de concreto armado", "concreto moldado in loco", "fôrma de parede", "parede maciça de concreto", "MRV", "paredes de concreto MRV"]
+  },
+  "49": {
+    "titulo": "Concreto Celular",
+    "termos": ["concreto celular", "bloco celular", "bloco de concreto celular", "siporex", "autoclavado", "concreto aerado", "ytong"]
+  },
+  "50": {
+    "titulo": "Paredes e Painéis",
+    "termos": ["painel de parede", "painéis de parede", "painel monolítico", "painel pré-fabricado de parede", "painel de fechamento"]
+  },
+  "51": {
+    "titulo": "Pré-Fabricados e Pré-Moldados",
+    "termos": ["pré-fabricado", "pré-moldado", "premoldado", "prefabricado", "concreto pré-fabricado", "estrutura pré-moldada", "galpão pré-moldado"]
+  },
+  "52": {
+    "titulo": "Bloco de ICF",
+    "termos": ["ICF", "bloco de ICF", "insulated concrete form", "isopor preenchido com concreto", "fôrma de isopor"]
+  },
+  "53": {
+    "titulo": "Painel de EPS",
+    "termos": ["painel de EPS", "EPS estrutural", "isopor estrutural", "painel monolítico de EPS", "EPS preenchido", "casa de isopor"]
+  },
+  "54": {
+    "titulo": "Casa Container",
+    "termos": ["casa container", "casa contêiner", "container marítimo", "contêiner marítimo", "container residencial", "construir com container"]
+  },
+  "55": {
+    "titulo": "Bioconstrução",
+    "termos": ["bioconstrução", "bioconstrutivo", "casa de barro", "casa de pau a pique", "adobe", "taipa", "taipa de pilão", "cob", "superadobe", "hiperadobe", "construção natural"]
+  },
+
+  "56": {
+    "titulo": "Lajes: Introdução e Tipos",
+    "termos": ["introdução de laje", "introdução de lajes", "módulo de laje", "módulo de lajes", "o que é laje", "tipos de laje", "tipos de lajes", "panorama de lajes", "laje de piso", "laje de forro", "laje de cobertura"]
+  },
+  "57": {
+    "titulo": "Laje Maciça e Treliçada",
+    "termos": ["laje maciça", "laje treliçada", "laje trelicada", "treliça da laje", "vigota treliçada", "tavela", "enchimento de laje"]
+  },
+  "58": {
+    "titulo": "Laje Painel, Protendida e Nervurada",
+    "termos": ["laje painel", "laje protendida", "protendida", "protensão", "laje nervurada", "painel treliçado", "pré-laje", "laje pré-fabricada", "laje alveolar", "laje WT"]
+  },
+  "59": {
+    "titulo": "Lajes Light Steel Frame, Drywall e Wood Frame, Madeira, OSB",
+    "termos": ["laje de steel frame", "laje de wood frame", "laje seca", "laje de madeira", "laje de OSB", "laje em drywall", "entrepiso de madeira"]
+  },
+  "60": {
+    "titulo": "Laje Cascaje e Bambucreto",
+    "termos": ["cascaje", "bambucreto", "bambu na laje", "laje de bambu", "laje bioconstrutiva", "laje ecológica", "laje natural"]
+  },
+
+  "61": {
+    "titulo": "Cobertura Cerâmica",
+    "termos": ["telha cerâmica", "telhado cerâmico", "telha colonial", "telha romana", "telha portuguesa", "telha francesa", "telha de barro"]
+  },
+  "62": {
+    "titulo": "Cobertura Fibrocimento",
+    "termos": ["telha de fibrocimento", "fibrocimento", "telha brasilit", "telha eternit", "telha ondulada"]
+  },
+  "63": {
+    "titulo": "Cobertura Laje Impermeabilizada",
+    "termos": ["laje impermeabilizada", "telhado de laje", "cobertura em laje", "impermeabilização da laje", "laje plana", "laje como cobertura", "manta asfáltica em laje"]
+  },
+  "64": {
+    "titulo": "Cobertura Telha Ecológica e PVC",
+    "termos": ["telha ecológica", "telha de PVC", "telha PVC", "telha plástica", "telha reciclada", "tetraplas", "telha de fibra vegetal"]
+  },
+  "65": {
+    "titulo": "Cobertura Telha Sanduíche",
+    "termos": ["telha sanduíche", "telha sanduiche", "telha termoacústica", "telha com isolamento", "isopor entre telhas"]
+  },
+  "66": {
+    "titulo": "Cobertura Telha Sanduíche - Instalação Estrutura",
+    "termos": ["instalação da telha sanduíche", "estrutura da telha sanduíche", "parafuso da telha sanduíche", "montagem da telha sanduíche", "acessório da telha sanduíche"]
+  },
+  "67": {
+    "titulo": "Cobertura Telha Sanduíche - Manutenção",
+    "termos": ["manutenção da telha sanduíche", "limpeza da telha sanduíche", "vida útil da telha sanduíche", "cuidado com telha sanduíche"]
+  },
+  "68": {
+    "titulo": "Cobertura Telhas Translúcidas",
+    "termos": ["telha translúcida", "telha transparente", "telha de policarbonato", "telha de fibra de vidro", "iluminação natural pela telha"]
+  },
+  "69": {
+    "titulo": "Cobertura Telhado Verde",
+    "termos": ["telhado verde", "cobertura verde", "telhado vivo", "telhado vegetado", "telhado com grama", "telhado jardim"]
+  },
+  "70": {
+    "titulo": "Cobertura Telhado Verde Extensivo",
+    "termos": ["telhado verde extensivo", "extensivo", "telhado verde leve", "telhado verde de baixa manutenção", "substrato fino"]
+  },
+  "71": {
+    "titulo": "Cobertura Telhado Verde - Exemplos",
+    "termos": ["exemplo de telhado verde", "exemplos de telhado verde", "casas com telhado verde", "obras de telhado verde", "projetos de telhado verde"]
+  },
+  "72": {
+    "titulo": "Cobertura Telhado Verde - Custos",
+    "termos": ["custo do telhado verde", "preço do telhado verde", "valor do telhado verde", "quanto custa telhado verde"]
+  },
+  "73": {
+    "titulo": "Cobertura com Isolamento 1/2",
+    "termos": ["isolamento térmico de cobertura", "isolamento de telhado", "manta térmica", "manta sub-cobertura", "isopor no telhado", "lã de vidro no telhado", "isolamento parte 1"]
+  },
+  "74": {
+    "titulo": "Cobertura com Isolamento 2/2",
+    "termos": ["isolamento térmico de cobertura", "isolamento de telhado", "isolamento parte 2", "comparativo de isolantes", "lã de PET", "espuma de PU"]
+  },
+
+  "75": {
+    "titulo": "Forros",
+    "termos": ["forro de gesso", "forro de PVC", "forro de madeira", "forro de drywall", "forro de isopor", "forro mineral", "rebaixamento de teto", "instalação de forro"]
+  },
+  "76": {
+    "titulo": "Pisos - Parte 1",
+    "termos": ["tipo de piso", "tipos de piso", "piso cerâmico", "porcelanato", "piso de cerâmica", "piso laminado", "piso vinílico"]
+  },
+  "77": {
+    "titulo": "Pisos - Parte 2",
+    "termos": ["piso industrial", "granilite", "cimento queimado", "piso de cimento", "piso de granito", "piso pétreo"]
+  },
+  "78": {
+    "titulo": "Pisos - Parte 3",
+    "termos": ["piso de madeira", "deck", "piso elevado", "piso de bambu", "piso natural", "piso ecológico"]
+  },
+  "79": {
+    "titulo": "Acabamento de Parede - Introdução",
+    "termos": ["acabamento de parede", "tipo de acabamento", "introdução parede", "parede com pintura", "parede com revestimento", "panorama acabamentos parede"]
+  },
+  "80": {
+    "titulo": "Paredes de Baixo Custo",
+    "termos": ["parede de baixo custo", "acabamento barato de parede", "massa PVA", "tinta de terra", "tinta caiada", "cimento queimado na parede", "reboco barato"]
+  },
+  "81": {
+    "titulo": "Paredes - Preços",
+    "termos": ["preço da parede", "preço de acabamento de parede", "valor por m2 de parede", "comparativo de acabamentos", "custo de parede acabada"]
+  },
+  "82": {
+    "titulo": "Bancadas",
+    "termos": ["bancada", "bancada de cozinha", "bancada de banheiro", "granito", "mármore", "quartzo", "silestone", "ardósia", "porcelanato em bancada"]
+  },
+  "83": {
+    "titulo": "Metais, Louças e Cubas",
+    "termos": ["metal sanitário", "torneira", "registro", "louça sanitária", "vaso sanitário", "bacia sanitária", "cuba", "pia", "lavatório", "ducha"]
+  },
+  "84": {
+    "titulo": "Parede Diferenciada",
+    "termos": ["parede diferenciada", "parede de destaque", "revestimento diferenciado", "papel de parede", "parede 3D", "ripado", "lambri"]
+  },
+  "85": {
+    "titulo": "Estilos de Acabamento",
+    "termos": ["estilo de acabamento", "estilo da casa", "estilo decorativo", "estilo industrial", "estilo rústico", "estilo escandinavo", "estilo japandi", "estilo minimalista"]
+  },
+
+  "86": {
+    "titulo": "Esquadrias",
+    "termos": ["esquadria", "esquadrias", "esquadria de madeira", "esquadria de alumínio", "esquadria de PVC", "esquadria de ferro", "tipos de vidro", "vidro temperado", "vidro laminado"]
+  },
+  "87": {
+    "titulo": "Aberturas",
+    "termos": ["abertura na parede", "tamanho de janela", "tamanho da porta", "altura do peitoril", "verga e contraverga", "verga", "contraverga", "vão livre"]
+  },
+
+  "88": {
+    "titulo": "Instalações Elétricas e Hidráulicas",
+    "termos": ["instalação elétrica", "instalação hidráulica", "elétrica e hidráulica", "tubulação", "PEX", "PPR", "fiação", "disjuntor", "quadro de luz", "ponto elétrico", "ponto hidráulico"]
+  },
+  "89": {
+    "titulo": "Iluminação",
+    "termos": ["iluminação", "luminária", "lâmpada", "LED", "ponto de luz", "iluminação direta", "iluminação indireta", "temperatura de cor", "lúmens"]
+  }
+}

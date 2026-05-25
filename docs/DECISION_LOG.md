@@ -28,6 +28,223 @@ Ordem: mais recente no topo.
 
 ---
 
+# Inserts para DECISION_LOG.md
+
+Cole as 4 entradas abaixo no `DECISION_LOG.md` **no topo da lista de Decisões
+Registradas** (logo após o `## Decisões Registradas` e o primeiro `---`, antes
+da D010 atual).
+
+Ordem cronológica de cima para baixo: D014 primeiro (mais recente), D013, D012,
+D011. O DECISION_LOG está em ordem "mais recente no topo", então D014 vai mais
+acima.
+
+---
+
+### [2026-05-24] D014 — Componentes de Conteúdo do portal: paleta enxuta com transformação responsiva
+
+**Contexto:** Após a re-extração das 88 aulas (D012), o inventário estrutural
+revelou volumes que justificam componentes próprios: 292 callouts
+(atenção/dica/exemplo), 27 tabelas comparativas, 269 blockquotes não-callout,
+~1.100 headings e ~3.500 itens de lista. O conteúdo precisa ser legível em todos
+os contextos de leitura do projeto — celular em reunião, no carro, em sítio com
+pouca luz — o que torna mobile-first uma obrigação não-negociável (não uma
+preferência).
+
+**Alternativas consideradas:**
+
+- Adotar biblioteca pronta (shadcn/ui, Radix, Mantine): qualidade visual
+  baixa-média para conteúdo editorial, identidade "SaaS app" contamina a
+  identidade contemplativa do projeto, custo de customização alto
+- Pesquisar referências via Perplexity AI: tentado, resultados genéricos demais;
+  Claude tem contexto direto do projeto e produz proposta mais aderente
+- Especificar componentes próprios alinhados à identidade visual já definida em
+  D006
+
+**Decisão:** Quatro componentes próprios, especificados em
+`docs/design_system/componentes_conteudo.md`:
+
+1. `<Callout>` — uma estrutura única, diferenciada por barra lateral colorida
+   (atenção: carvão, dica: verde, exemplo: areia) e eyebrow em small caps. Sem
+   variações visuais drásticas: callouts são frequentes (292), variar muito
+   polui a página.
+2. `<Tabela>` — tabela tradicional em desktop, transformação automática em cards
+   empilhados em mobile. Resolve o problema de tabelas com 4+ colunas em 375px
+   sem recorrer a scroll horizontal.
+3. `<Citacao>` — tipografia expressiva sem caixa nem borda. Cormorant Garamond
+   italic grande, atribuição em small caps. Diferencia-se do callout pelo gesto
+   tipográfico, não pelo container.
+4. `<ProcessFlow>` — fluxo horizontal em desktop, vertical em mobile, alimentado
+   por bloco de código markdown customizado com linguagem `flow`.
+
+**Princípios mandatórios para qualquer componente de conteúdo:**
+
+- Funcionalidade total entre 320px e 1280px sem hover-only
+- Largura de leitura ~65 caracteres em desktop
+- Texto base 17px mobile / 18px desktop (acima do padrão da web)
+- Line-height 1.7 no corpo
+- Zero dependência de hover para acessar informação
+- Estados de foco visíveis para navegação por teclado
+
+**Racional:** Componentes próprios alinhados à identidade contemplativa do
+projeto produzem leitura melhor que biblioteca pronta genérica. Especificação
+simples (uma variante por componente em vez de três ou quatro) reduz superfície
+de manutenção sem sacrificar capacidade — diferenciação por tipo de callout, por
+exemplo, vem de barra lateral + eyebrow, não de fundos distintos que criariam
+visual ruído nas 292 ocorrências do acervo. A transformação tabela→cards em
+mobile é a decisão tecnicamente mais complexa (parser customizado de markdown),
+mas é a única forma de tabelas com muitas colunas serem legíveis em phone.
+
+**Responsável:** Alan Gattiboni **Status:** Ativa
+
+---
+
+### [2026-05-23] D013 — Transcrições como fonte RAG, não conteúdo de front
+
+**Contexto:** As 21 gravações de áudio polidas em `curso_limpo.md` totalizam
+~2.5MB de transcrição falada. Renderizar isso no front por módulo, como estava
+acontecendo nas páginas de `/conhecimento/[slug]`, gerava arquivos de 2MB por
+módulo (módulo 4) e poluía a experiência de leitura: o usuário via blocos
+enormes de fala não-segmentada mistos com o conteúdo curado das aulas.
+
+**Alternativas consideradas:**
+
+- Manter transcrições no front, esconder com accordion fechado por padrão: ainda
+  carrega 2MB no cliente, ainda confunde a estrutura do conteúdo
+- Remover transcrições completamente: perde-se a fonte de verdade que o
+  Claudinho da Brisa pode consultar para responder perguntas específicas que
+  extrapolem o conteúdo curado das aulas
+- Separar transcrições em arquivos próprios, fora do conteúdo renderizado,
+  disponíveis apenas para RAG
+
+**Decisão:** Transcrições saem do front. As 21 gravações ficam em
+`build/transcricoes/01.md` a `21.md` (e depois em `site/content/transcricoes/`),
+com header indicando os módulos que cobrem. O front renderiza apenas o conteúdo
+curado em `site/content/temas/`. O Claudinho da Brisa, em fase posterior, indexa
+transcrições no pgvector com peso menor, como fallback quando o conteúdo curado
+não responde a pergunta específica do usuário.
+
+**Racional:** A unidade de leitura humana é a aula curada. A unidade de pesquisa
+do RAG pode ser mais granular e incluir as transcrições brutas como contexto
+secundário. Separar reduz peso do front em ordem de magnitude (cada módulo cai
+de 2MB para ~100KB), simplifica a experiência de leitura, e ainda preserva a
+fonte de verdade para consultas profundas via Claudinho.
+
+**Responsável:** Alan Gattiboni **Status:** Ativa
+
+---
+
+### [2026-05-23] D012 — Re-extração das 88 aulas via Claude API com ranqueamento por termos-âncora
+
+**Contexto:** A base gerada em D008 (mapeamento gravação→módulo via Claude API)
+produziu 12 arquivos `.md` por módulo, mas a seção de aulas individuais dentro
+de cada módulo continha apenas resíduos do scraper Kiwify ("[sem descrição]", "A
+senha para abrir o arquivo é seu e-mail", links de Google Drive). De 89 aulas
+previstas no curso, 67 estavam efetivamente vazias no front, apesar do conteúdo
+existir nas 21 gravações de áudio. O conteúdo dos professores estava lá; só não
+havia sido segmentado por aula.
+
+**Alternativas consideradas:**
+
+- Aceitar o estado atual e renderizar as aulas vazias como "em processamento":
+  frustra o leitor, contradiz a vocação do projeto
+- Tentar segmentar manualmente as 21 gravações em 89 aulas: trabalho humano de
+  dias, com qualidade duvidosa
+- Pipeline Claude API com prompt curado por aula, usando o mapeamento original
+  (`mapeamento.json`): segmenta corretamente as aulas que o mapeamento conhece,
+  mas falha nas que o mapeamento errou ou subestimou
+- Pipeline Claude API com ranqueamento automático de gravações por aula: para
+  cada uma das 89 aulas, ranquear todas as 21 gravações por hits de
+  termos-âncora específicos da aula e enviar as top-N que caibam em ~150k tokens
+
+**Decisão:** Pipeline Claude API (Sonnet 4.5) com ranqueamento por
+termos-âncora. Termos curados manualmente em `knowledge/termos_aulas.json` (89
+entradas). Para cada aula, `extract_aulas.py` busca os termos em todas as 21
+gravações, pondera termos compostos (3x peso) vs simples (1x), seleciona top-N
+gravações até cair em 150k tokens, e chama Claude API com prompt calibrado para
+extrair somente o conteúdo da aula específica e ignorar tudo que pertença a
+aulas vizinhas ou outros módulos. Se a aula não estiver coberta, devolve
+`AULA_AUSENTE` (preferir omissão à fabricação).
+
+Custo total acumulado: ~$11 (~R$60) ao longo de 3 rodadas (batch + 2 resumes
+para corrigir erros). Resultado: 88 OK, 1 ausente legítima (Aula 25, "Estudo de
+Caso 1" — conteúdo fundido na Aula 26), 0 erros.
+
+**Tecnicalidades resolvidas durante o processo:**
+
+- Erro 400 (prompt too long): budget de 180k tokens estourava por ~7-15k devido
+  a tokenização real PT-BR ser ~15% maior que estimativa chars/4. Ajustado para
+  150k.
+- Erro 500/529 transientes: retry com backoff exponencial (2s, 4s, 8s, 16s,
+  32s), até 5 tentativas.
+- Rate limit 429 (Tier 1 = 30k input tokens/min): throttle preventivo + retry
+  com `retry-after` do header da Anthropic.
+- Cache prompt: ativado quando aulas adjacentes têm seleção de gravações
+  idêntica, desligado quando seleção é única (evita pagar cache_write sem
+  reuso).
+- Marcadores de callout fora do padrão: detectados e normalizados
+  automaticamente por `audit_aulas.py` (`atenção` → `atencao`, `importante` →
+  `atencao`, etc).
+
+**Pós-decisão:** As 88 aulas ficam em `build/aulas/{modulo}_{aula}.md` com
+header HTML de metadados (tokens, custo, status). Consolidação em 12 arquivos
+finais (`build/temas_v3/`) e ingestão em `site/content/temas/` ficam para o
+ciclo de release. As 21 transcrições viram fonte RAG separada (ver D013).
+
+**Responsável:** Alan Gattiboni **Status:** Ativa
+
+---
+
+### [2026-05-22] D011 — Foundation Entrega 1: composição visual e parser de markdown
+
+**Contexto:** A Foundation visual do portal precisa estar resolvida antes de
+implementar componentes complexos: tipografia carregada, paleta como tokens
+reutilizáveis, componentes-base estabelecidos (Container, Header, Footer, Toc,
+Tag, Markdown), parser de markdown funcional e rotas das páginas-âncora montadas
+(homepage, `/conhecimento`, `/conhecimento/[slug]`, `/galeria`, `/dashboard`,
+`/claudinho`, `/login`, `/solicitar-acesso`). Sem isso, qualquer componente novo
+nasce sem casa.
+
+**Alternativas consideradas:**
+
+- Adotar template ou starter pronto (Vercel templates, shadcn starter):
+  contradiz a identidade visual já definida em D006, importa convenções de SaaS
+  que não casam com o projeto
+- Construir do zero direto em Next.js 16 + Tailwind v4 + next/font: controle
+  total, alinhado à identidade, sem dívida importada
+
+**Decisão:** Foundation construída do zero. Tailwind v4 com tokens da paleta via
+`@theme` em `globals.css`. Fontes Cormorant Garamond, Lato e Montserrat via
+`next/font/google` no `layout.tsx`. 12 componentes base em
+`site/src/components/`: Container, Header, Footer, SectionEyebrow, Tag, Callout
+(versão inicial, posteriormente substituída pela especificação D014),
+HighlightBox, Accordion, TemaCard, Toc, EmConstrucao, Markdown,
+ClaudinhoFloatingButton. Parser de markdown customizado em
+`site/src/lib/temas.ts` lendo de `site/content/temas/`. Validador de rotas em
+`site/scripts/check_routes.mjs` confirmando 17/17 rotas respondendo 200.
+
+**Bugs resolvidos durante a construção:**
+
+- Regex JavaScript: `\Z` interpretado como caractere literal "Z", não como
+  anchor de fim de string. Substituído por `(?![\s\S])` no parser de aulas,
+  corrigindo perda do módulo 4 (parsing parava no Z de uma URL Google Sheets).
+- Tailwind v4 sem `tailwind.config.ts`: paleta vai direto em `globals.css` com
+  `@theme`. Estabelecida a sintaxe correta.
+
+**Racional:** Foundation própria mantém a identidade contemplativa do projeto
+(D006), evita importar convenções estranhas, e estabelece a base sobre a qual
+D014 (componentes de conteúdo) pode ser implementado sem conflito visual.
+Validação por sandbox confirmou build OK, 17/17 rotas 200, antes de instalar
+localmente no ambiente do Tech Lead.
+
+**Pós-decisão:** Não commitado imediatamente porque a re-extração das aulas
+(D012) precisava acontecer antes — sem conteúdo bom, a Foundation entraria no ar
+mostrando aulas vazias. Commit unificado de Foundation + 88 aulas + componentes
+D014 + decisions D011-D014 acontece no ciclo de release.
+
+**Responsável:** Alan Gattiboni **Status:** Ativa
+
+---
+
 ### [2026-05-18] D010 — Polimento determinístico da base de conhecimento
 
 **Contexto:** A base de conhecimento gerada em D008 ainda contém vícios de fala,

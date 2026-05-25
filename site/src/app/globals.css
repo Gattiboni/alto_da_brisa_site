@@ -1,26 +1,78 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/*
+ * Alto da Brisa — Design Tokens
+ * Tailwind v4 usa @theme para expor variáveis como utility classes.
+ * Cada custom property aqui vira utility (ex: bg-green, text-coal).
+ */
+
+@theme {
+  /* Cores da identidade visual (docs/identidade_visual.md) */
+  --color-green: #6b7f67;
+  --color-sand: #b7b0a1;
+  --color-stone: #d6d3ce;
+  --color-coal: #333437;
+  --color-white: #ffffff;
+
+  /* Backgrounds derivados */
+  --color-bg: #ffffff;
+  --color-bg-soft: #faf9f7;
+  --color-bg-tint: #d6d3ce;
+
+  /* Tipografia (carregada via next/font no layout.tsx) */
+  --font-serif: var(--font-cormorant), Georgia, serif;
+  --font-sans: var(--font-lato), system-ui, sans-serif;
+  --font-ui: var(--font-montserrat), system-ui, sans-serif;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* Reset/base */
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-bg);
+  color: var(--color-coal);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+/* Tipografia base. Componentes podem sobrescrever. */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: -0.005em;
+  color: var(--color-coal);
+}
+
+/* Selection com a cor da identidade */
+::selection {
+  background: var(--color-green);
+  color: var(--color-white);
+}
+
+/* Foco acessível e consistente */
+:focus-visible {
+  outline: 2px solid var(--color-green);
+  outline-offset: 2px;
+}
+
+/* Scrollbar discreta (webkit) */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-stone);
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-sand);
 }

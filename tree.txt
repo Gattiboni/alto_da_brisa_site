@@ -30,20 +30,48 @@ alto_da_brisa_site/
 │   ├── curso_limpo.md
 │   ├── descricoes_das_aulas.md
 │   ├── mapeamento.json
-│   └── temas/
+│   ├── temas/
+│   │   ├── 01_introducao.md
+│   │   ├── 02_projeto.md
+│   │   ├── 03_terreno.md
+│   │   ├── 05_servicos-preliminares.md
+│   │   ├── 06_fundacoes.md
+│   │   ├── 07_estruturas-vedacoes.md
+│   │   ├── 08_lajes.md
+│   │   ├── 09_coberturas.md
+│   │   ├── 10_acabamentos.md
+│   │   ├── 11_aberturas-esquadrias.md
+│   │   └── 12_instalacoes-residenciais.md
+│   └── temas_v2/
 │       ├── 01_introducao.md
+│       ├── 01_introducao_polish_log.txt
 │       ├── 02_projeto.md
+│       ├── 02_projeto_polish_log.txt
 │       ├── 03_terreno.md
+│       ├── 03_terreno_polish_log.txt
 │       ├── 04_orcamento-planejamento-controle.md
 │       ├── 05_servicos-preliminares.md
+│       ├── 05_servicos-preliminares_polish_log.txt
 │       ├── 06_fundacoes.md
+│       ├── 06_fundacoes_polish_log.txt
 │       ├── 07_estruturas-vedacoes.md
+│       ├── 07_estruturas-vedacoes_polish_log.txt
 │       ├── 08_lajes.md
+│       ├── 08_lajes_polish_log.txt
 │       ├── 09_coberturas.md
+│       ├── 09_coberturas_polish_log.txt
 │       ├── 10_acabamentos.md
+│       ├── 10_acabamentos_polish_log.txt
 │       ├── 11_aberturas-esquadrias.md
-│       └── 12_instalacoes-residenciais.md
+│       ├── 11_aberturas-esquadrias_polish_log.txt
+│       ├── 12_instalacoes-residenciais.md
+│       └── 12_instalacoes-residenciais_polish_log.txt
+├── scripts/
+│   ├── polish_clean_batch.py
+│   ├── polish_clean_modulo4.py
+│   └── polish_common.py
 ├── site/
+│   ├── .gitignore
 │   ├── README.md
 │   ├── eslint.config.mjs
 │   ├── next-env.d.ts
@@ -59,7 +87,11 @@ alto_da_brisa_site/
 │   │   ├── logo_A_alto_da_brisa.png
 │   │   ├── next.svg
 │   │   ├── vercel.svg
-│   │   └── window.svg
+│   │   ├── window.svg
+│   │   └── claudinho/
+│   │       ├── claudinho-avatar.png
+│   │       ├── claudinho-hero.png
+│   │       └── claudinho.png
 │   └── src/
 │       └── app/
 │           ├── favicon.ico

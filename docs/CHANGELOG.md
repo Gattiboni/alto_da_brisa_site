@@ -12,6 +12,163 @@ Ordem: mais recente no topo.
 
 ## 2026
 
+# Inserts para CHANGELOG.md
+
+Cole as 5 entradas abaixo no `CHANGELOG.md` **acima da entrada
+`[2026-05-21] DOC — Avatar do Claudinho da Brisa salvo no projeto`**.
+
+O CHANGELOG está em ordem cronológica reversa (mais recente no topo). A entrada
+de 24/05 vai mais alto, depois 23/05 (duas entradas), depois 22/05 (duas
+entradas).
+
+---
+
+### [2026-05-24] DOC — Componentes de Conteúdo especificados (D014)
+
+Especificação dos quatro componentes que renderizam o conteúdo das aulas no
+portal: `<Callout>` (com variantes atenção/dica/exemplo, total 292 ocorrências
+no acervo), `<Tabela>` (27 ocorrências, com transformação tabela→cards em
+mobile), `<Citacao>` (269 ocorrências, tipografia expressiva sem caixa),
+`<ProcessFlow>` (sequências de etapas, alimentado por bloco markdown customizado
+`flow`).
+
+Princípios mandatórios definidos: mobile-first absoluto entre 320px e 1280px,
+sem hover-only, largura de leitura ~65 caracteres, texto base 17px mobile / 18px
+desktop, line-height 1.7. Documentado em
+`docs/design_system/componentes_conteudo.md`.
+
+Auditoria estrutural (`scripts/audit_aulas.py`) executada antes da
+especificação, gerando `build/audit_report.md` e `build/audit_inventario.json`
+com inventário completo: 1.104 headings, 774 subseções inline, 3.549 itens de
+lista, 27 tabelas, 3 ASCII art a converter para `<ProcessFlow>`.
+
+---
+
+### [2026-05-24] SITE — Auditoria estrutural e normalização de marcadores
+
+Script `scripts/audit_aulas.py` (Python puro, sem API, custo zero) varreu as 89
+aulas em `build/aulas/`, detectou e normalizou 5 callouts com marcadores fora do
+padrão (`[!atenção]` → `[!atencao]`, `[!importante]` → `[!atencao]`, etc), e
+gerou relatório completo de inventário estrutural. Mapa de normalização cobre
+variantes acentuadas, em maiúsculas e equivalentes em outras grafias.
+
+Estado final do acervo: 88 OK, 1 AUSENTE legítima (Aula 25), 0 erros, 0
+marcadores fora do padrão. Pronto para ingestão em `site/content/`.
+
+---
+
+### [2026-05-23] SITE — Re-extração das 88 aulas concluída (D012)
+
+Pipeline `scripts/extract_aulas.py` com ranqueamento por termos-âncora em
+`knowledge/termos_aulas.json` concluído após 3 rodadas (batch + 2 resumes para
+corrigir erros transientes). Resultado final:
+
+- 88 aulas com conteúdo curado de qualidade editorial em
+  `build/aulas/{modulo}_{aula}.md`
+- 1 aula ausente legítima (Aula 25, "Estudo de Caso 1" — conteúdo fundido na
+  Aula 26)
+- 0 erros
+- Custo total acumulado: ~$11 (~R$60) ao longo de 3 rodadas
+- Modelo: `claude-sonnet-4-5-20250929`
+- Budget final: 150k tokens cacheados por aula (reduzido de 180k após estouro
+  causado por tokenização PT-BR ~15% maior que estimativa chars/4)
+
+Inventário estrutural do acervo: 292 callouts (135 atenção, 108 dica, 49
+exemplo), 27 tabelas comparativas, 269 blockquotes não-callout, 774 subseções
+inline, 1.104 headings. Volume e diversidade justificam componentes próprios
+documentados em D014.
+
+---
+
+### [2026-05-23] SITE — Pipeline de extração com retry, throttle e prompt caching
+
+Hardening do `scripts/extract_aulas.py` para suportar batch das 89 aulas em
+conta Tier 1 da Anthropic (30k input tokens/min). Adicionado:
+
+- Retry com `retry-after` da Anthropic para 429 (rate limit)
+- Retry com backoff exponencial (2s, 4s, 8s, 16s, 32s) para 500/529 (server
+  errors transientes)
+- Retry curto para `APIConnectionError`
+- Throttle preventivo: janela móvel de 60s rastreando tokens consumidos, pausa
+  antes de estourar 85% do TPM
+- Prompt caching com `cache_control: ephemeral` ativado automaticamente quando
+  aulas adjacentes têm seleção de gravações idêntica; desligado quando seleção é
+  única (evita pagar cache_write sem reuso)
+- Ordenação inteligente do loop (aulas com mesma seleção agrupadas) para
+  maximizar reuso de cache
+
+Saída persiste em arquivos individuais com header HTML de metadados (tokens,
+custo, status), permitindo `--resume` ao re-rodar.
+
+---
+
+### [2026-05-22] DOC — Termos-âncora curados para ranqueamento por aula
+
+Arquivo `knowledge/termos_aulas.json` criado com termos-âncora para cada uma das
+89 aulas do curso. Curadoria manual, considerando:
+
+- Termos do título (e variações)
+- Jargão dos professores observado nas transcrições polidas ("pedra arrumada" =
+  alicerce, "concreto ciclópico" = concreto simples, "estribado" = forte, etc)
+- Negative anchors para distinguir aulas vizinhas dentro do mesmo módulo
+
+O arquivo alimenta o ranqueamento por aula em `extract_aulas.py`: para cada
+aula, busca em todas as 21 gravações, pondera termos compostos (peso 3) vs
+simples (peso 1), e seleciona as gravações mais relevantes que caibam no budget
+de contexto.
+
+---
+
+### [2026-05-22] SITE — Descoberta: conteúdo das aulas v2 era lixo do scraper Kiwify
+
+Auditoria do conteúdo em `knowledge/temas_v2/` (gerado em D008 e polido em D010)
+revelou que de 89 aulas previstas no curso, 67 estavam efetivamente vazias na
+seção `## Aulas`. As "aulas" eram apenas resíduos do scraper Kiwify ("[sem
+descrição]", "A senha para abrir o arquivo é seu e-mail", links de Google Drive)
+— não conteúdo de aula. O conteúdo real do curso existia, mas estava só nas
+seções `## Transcrição` (21 gravações concatenadas como blocos não segmentados
+por aula).
+
+Descoberta motivou a re-extração completa documentada em D012.
+
+---
+
+### [2026-05-22] SITE — Foundation Entrega 1 construída (D011)
+
+Composição visual do portal estabelecida em Next.js 16 + Tailwind v4
+
+- next/font + React Compiler:
+
+* Tokens da paleta Alto da Brisa via `@theme` em `globals.css`
+* Fontes Cormorant Garamond, Lato e Montserrat via `next/font/google`
+* 12 componentes-base em `site/src/components/` (Container, Header, Footer,
+  SectionEyebrow, Tag, Callout v0, HighlightBox, Accordion, TemaCard, Toc,
+  EmConstrucao, Markdown, ClaudinhoFloatingButton)
+* Parser de markdown customizado em `site/src/lib/temas.ts`
+* Páginas-âncora montadas: homepage, `/conhecimento`, `/conhecimento/[slug]`
+  (com SSG via `generateStaticParams`), `/galeria`, `/dashboard`, `/claudinho`,
+  `/login`, `/solicitar-acesso`
+* Validador de rotas em `site/scripts/check_routes.mjs` confirmando 17/17 rotas
+  respondendo 200
+
+Bug corrigido durante construção: regex JavaScript não suporta `\Z` como anchor
+de fim de string (interpreta como caractere literal Z), substituído por
+`(?![\s\S])` no parser. Sem o fix, módulo 4 perdia a aula 27 por parsing
+terminar prematuramente no Z de uma URL Google Sheets.
+
+Não commitado imediatamente — aguarda re-extração das aulas (D012) e
+implementação dos componentes de conteúdo (D014) para commit unificado.
+
+---
+
+### [2026-05-21] DOC — Avatar do Claudinho da Brisa salvo no projeto
+
+Libélula estilizada (referência pessoal — tatuagem no pescoço do Tech Lead)
+finalizada como avatar oficial do assistente. Salva em `site/public/claudinho/`
+em três variações: SVG (fonte), PNG 256×256 (avatar) e PNG 512×512 (hero). Sem
+variação claro/escuro por hora. Padding interno de ~20% no canvas para render
+correto em círculo (`border-radius: 50%`).
+
 ### [2026-05-18] SITE — Polimento determinístico dos 12 módulos de conhecimento
 
 Pipeline determinístico Python (sem API, custo zero) executado sobre os 12

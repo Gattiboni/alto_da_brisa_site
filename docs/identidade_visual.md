@@ -216,7 +216,102 @@ O Alto da Brisa fala como quem construiu algo com intenção e quer compartilhar
 
 ---
 
-## 8. Referências e Arquivos
+## 8. Componentes de Conteúdo
+
+Componentes específicos para renderização do corpo de texto das aulas e demais
+conteúdos editoriais do portal. Especificação detalhada em
+`docs/design_system/componentes_conteudo.md`. Resumo aqui:
+
+### Princípios mandatórios
+
+- **Mobile-first absoluto**: funcional entre 320px e 1280px sem hover-only
+- **Largura de leitura**: ~65 caracteres por linha em desktop (`max-w-prose`)
+- **Tamanho base do texto**: 17px em mobile, 18px em desktop
+- **Line-height do corpo**: 1.7
+- **Estados de foco visíveis**: navegação por teclado funcional
+- **Zero dependência de hover** para acessar informação
+
+### `<Callout>`
+
+Interrupção do fluxo de texto para destacar alerta, dica ou exemplo. Estrutura
+única, diferenciada por barra lateral colorida e eyebrow tipográfico:
+
+| Tipo      | Barra lateral        | Eyebrow   |
+| --------- | -------------------- | --------- |
+| `atencao` | Carvão `#333437` 3px | "ATENÇÃO" |
+| `dica`    | Verde `#6b7f67` 3px  | "DICA"    |
+| `exemplo` | Areia `#b7b0a1` 4px  | "EXEMPLO" |
+
+Fundo Pedra Clara `#d6d3ce` em todos os tipos. Eyebrow em Montserrat 600, 11px,
+uppercase, letter-spacing 0.14em. Markdown de entrada:
+`> [!atencao] Título opcional\n> Texto`.
+
+### `<Tabela>`
+
+Comparação sistemática entre opções. Em desktop, tabela tradicional com regras
+horizontais finas em Pedra Clara, header em Areia Quente claro, padding
+generoso. Em mobile (<768px), cada linha vira um card empilhado: primeira coluna
+como título em Cormorant Garamond 20-22px, demais colunas como pares label/valor
+com label em Montserrat 11px uppercase.
+
+Implementação requer parser markdown customizado que renderiza condicionalmente
+baseado em viewport.
+
+### `<Citacao>`
+
+Frase memorável extraída do conteúdo. Tipografia expressiva sem caixa nem borda
+— diferencia-se do callout pelo gesto, não pelo container.
+
+- Fonte: Cormorant Garamond italic
+- Tamanho: 22px mobile, 26-28px desktop
+- Cor: Carvão `#333437`
+- Line-height: 1.45
+- Aspas tipográficas: `"` e `"`
+- Atribuição (opcional): Montserrat 11px, small caps, letter-spacing 0.1em,
+  Areia Quente `#b7b0a1`, alinhada à direita, precedida de travessão `—`
+
+Markdown de entrada: `> texto da citação` (blockquote simples, sem marcador
+`[!tipo]`).
+
+### `<ProcessFlow>`
+
+Visualização de sequência de etapas. Em desktop, fluxo horizontal com cards e
+setas tipográficas (`→`) em Cormorant Garamond. Em mobile, fluxo vertical com
+cards empilhados e conectores verticais (linha + `▼`).
+
+Markdown de entrada (linguagem customizada `flow`):
+
+````
+```flow
+Etapa 1 → Etapa 2 → Etapa 3
+```
+````
+
+Variante com descrições (etapa por linha, separador `::`):
+
+````
+```flow
+Etapa 1 :: Descrição da etapa 1
+Etapa 2 :: Descrição da etapa 2
+```
+````
+
+Número da etapa em Cormorant Garamond 28-32px Verde Floresta, título em Lato
+14-15px, descrição em Lato 13px Carvão atenuado.
+
+### Mapeamento Markdown → Componente
+
+| Padrão no `.md`                               | Componente                                                |
+| --------------------------------------------- | --------------------------------------------------------- |
+| `> [!atencao]` / `> [!dica]` / `> [!exemplo]` | `<Callout>`                                               |
+| `\| col \| col \|` (tabela MD)                | `<Tabela>`                                                |
+| `> texto` (blockquote sem `[!`)               | `<Citacao>`                                               |
+| `` ``` flow ... ``` ``                        | `<ProcessFlow>`                                           |
+| Demais padrões MD                             | Renderização padrão (headings, listas, parágrafos, links) |
+
+---
+
+## 9. Referências e Arquivos
 
 | Item              | Local                                    |
 | ----------------- | ---------------------------------------- |
