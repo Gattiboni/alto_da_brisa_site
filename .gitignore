@@ -34,3 +34,5 @@ knowledge/raw_video/
 *.pem
 *.key
 secrets/
+
+graphify-out/
