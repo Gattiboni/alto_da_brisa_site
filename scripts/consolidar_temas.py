@@ -14,9 +14,10 @@ Para cada arquivo de aula:
 A seção `## Transcrição` é mantida vazia (transcrições serão geradas
 em uma rodada separada com flag `--transcricoes` no extract_aulas.py).
 
-Casos especiais:
-  - Módulo 4: a Aula 25 não foi extraída. Inserida como placeholder
-    apontando para a Aula 26.
+Aulas ausentes (status: ausente):
+  - O corpo é substituído por um callout gerado que aponta para a
+    próxima aula COM conteúdo do módulo (fallback: a anterior com
+    conteúdo, ex.: última aula do curso). Ver D017.
 
 Uso:
     python scripts/consolidar_temas.py
@@ -49,15 +50,26 @@ SLUGS: dict[int, str] = {
     12: "12_instalacoes-residenciais",
 }
 
-# Quando a aula tem status: ausente, substituímos o corpo por um callout
-# que aponta para a aula vizinha (apresentada conjuntamente).
-SUBSTITUICOES_AUSENTES: dict[int, str] = {
-    25: (
+def montar_callout_ausente(target: int | None) -> str:
+    """
+    Callout de redirecionamento para aula ausente.
+
+    `target` é o número da aula vizinha COM conteúdo para onde apontar.
+
+    A âncora `#aula-N` é um CONTRATO com o renderer: cada aula é
+    renderizada numa `<section id="aula-N">` via `aulaAnchor(n)` em
+    `site/src/app/conhecimento/[slug]/page.tsx`. Os headings do corpo NÃO
+    recebem id (react-markdown sem rehype-slug), então esta é a única
+    âncora estável. Se o esquema mudar lá, mude aqui também.
+    """
+    base = (
         "> [!atencao]\n"
-        "> Este estudo de caso é tratado em conjunto com o seguinte. "
-        "Vá direto para a [Aula 26](#26-estudo-de-caso---orcamento-planejamento-e-controle-2)."
-    ),
-}
+        "> Esta aula não tem conteúdo próprio reconstruído a partir das "
+        "gravações do curso."
+    )
+    if target is None:
+        return base
+    return f"{base} Consulte a [Aula {target}](#aula-{target})."
 
 
 HEADER_HTML_RE = re.compile(r"^<!--[\s\S]*?-->\s*\n", re.MULTILINE)
@@ -111,10 +123,13 @@ def ler_tema_existente(slug: str) -> tuple[str, str]:
     return titulo, visao
 
 
-def parsear_aula(path: Path) -> tuple[int, int, str, str]:
+def parsear_aula(path: Path) -> tuple[int, int, str, str, bool]:
     """
-    Lê arquivo build/aulas/MM_AAA.md e devolve:
-      (modulo, aula, titulo, conteudo_sem_h1_nem_header).
+    Lê arquivo knowledge/aulas/MM_AAA.md e devolve:
+      (modulo, aula, titulo, conteudo_sem_h1_nem_header, ausente).
+
+    Para aulas ausentes o corpo volta vazio: o callout é montado depois,
+    em main(), quando já se conhecem as aulas vizinhas do módulo.
     """
     nome = path.stem  # ex: "02_006"
     parts = nome.split("_")
@@ -147,19 +162,20 @@ def parsear_aula(path: Path) -> tuple[int, int, str, str]:
         titulo = nome
         corpo = raw_sem_header
 
-    if ausente and aula in SUBSTITUICOES_AUSENTES:
-        corpo = SUBSTITUICOES_AUSENTES[aula]
+    if ausente:
+        # Callout gerado em main() (precisa do contexto das aulas vizinhas).
+        corpo = ""
     else:
         # Rebaixa headings: o `##` da aula vira `####`, ficando sob o `### N.`.
         corpo = rebaixar_headings(corpo, niveis=2)
 
-    return modulo, aula, titulo, corpo
+    return modulo, aula, titulo, corpo, ausente
 
 
-def montar_secao_aulas(aulas: list[tuple[int, str, str]]) -> str:
-    """Monta a seção '## Aulas' a partir da lista [(numero, titulo, corpo)]."""
+def montar_secao_aulas(aulas: list[tuple[int, str, str, bool]]) -> str:
+    """Monta a seção '## Aulas' a partir de [(numero, titulo, corpo, ausente)]."""
     linhas: list[str] = ["## Aulas", ""]
-    for numero, titulo, corpo in aulas:
+    for numero, titulo, corpo, _ausente in aulas:
         linhas.append(f"### {numero}. {titulo}")
         linhas.append("")
         if corpo.strip():
@@ -173,7 +189,7 @@ def montar_tema(
     numero: int,
     titulo: str,
     visao_geral: str,
-    aulas: list[tuple[int, str, str]],
+    aulas: list[tuple[int, str, str, bool]],
 ) -> str:
     """Constrói o conteúdo final do arquivo de tema."""
     total = len(aulas)
@@ -209,17 +225,36 @@ def main() -> None:
         raise SystemExit(f"Diretório não encontrado: {TEMAS_DIR}")
 
     # Agrupa todas as aulas por módulo.
-    por_modulo: dict[int, list[tuple[int, str, str]]] = {n: [] for n in SLUGS}
+    por_modulo: dict[int, list[tuple[int, str, str, bool]]] = {n: [] for n in SLUGS}
 
     for arq in sorted(AULAS_DIR.glob("*.md")):
-        modulo, aula, titulo, corpo = parsear_aula(arq)
+        modulo, aula, titulo, corpo, ausente = parsear_aula(arq)
         if modulo not in por_modulo:
             continue
-        por_modulo[modulo].append((aula, titulo, corpo))
+        por_modulo[modulo].append((aula, titulo, corpo, ausente))
 
     # Ordena cada módulo por número da aula.
     for modulo in por_modulo:
         por_modulo[modulo].sort(key=lambda x: x[0])
+
+    # Monta o callout das aulas ausentes. Feito após a ordenação: o link
+    # aponta para a próxima aula COM conteúdo do módulo; se não houver
+    # (última aula do curso), cai na anterior com conteúdo. Ver D017.
+    for lista in por_modulo.values():
+        for idx, (aula, titulo, _corpo, ausente) in enumerate(lista):
+            if not ausente:
+                continue
+            target: int | None = None
+            for j in range(idx + 1, len(lista)):
+                if not lista[j][3]:  # próxima com conteúdo
+                    target = lista[j][0]
+                    break
+            if target is None:
+                for j in range(idx - 1, -1, -1):
+                    if not lista[j][3]:  # fallback: anterior com conteúdo
+                        target = lista[j][0]
+                        break
+            lista[idx] = (aula, titulo, montar_callout_ausente(target), ausente)
 
     # Escreve um arquivo por módulo.
     for numero, slug in SLUGS.items():

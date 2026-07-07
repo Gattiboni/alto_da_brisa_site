@@ -32,6 +32,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 }
 
+// CONTRATO de âncora: cada aula é uma <section id="aula-N">. Os callouts de
+// aulas ausentes (gerados em scripts/consolidar_temas.py → montar_callout_ausente)
+// linkam para `#aula-N`. Os headings do corpo NÃO recebem id (react-markdown sem
+// rehype-slug), então este é o único alvo estável. Se mudar aqui, mude lá também.
 function aulaAnchor(numero: number): string {
   return `aula-${numero}`
 }

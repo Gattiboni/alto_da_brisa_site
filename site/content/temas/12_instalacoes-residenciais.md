@@ -103,18 +103,10 @@ As próximas aulas do módulo detalharão:
 
 Tudo sempre com foco em reduzir custos sem comprometer qualidade ou segurança.
 
-### 89. AULA_AUSENTE
+### 89. Iluminação
 
-O conteúdo da aula "Iluminação" está presente na transcrição, mas de forma fragmentada e incompleta. A gravação foi interrompida e retomada ("a gente voltou agora no tempo pra gravar uma cena que desapareceu dos cartões"), resultando em conteúdo truncado que não permite reconstruir uma aula completa e coerente sobre o tema.
-
-O material disponível cobre:
-- Tipos de iluminação por função (geral, decorativa, destaque, sinalização)
-- Ergonomia (alturas de instalação)
-- Temperatura de cor (2.700K a 6.500K)
-- Tipos de lâmpadas (LED vs fluorescente vs incandescente)
-- Iluminação decorativa
-
-Porém, falta desenvolvimento adequado, exemplos completos e organização pedagógica necessária para uma aula autossuficiente. A transcrição termina abruptamente no meio de uma frase sobre iluminação de bancadas.
+> [!atencao]
+> Esta aula não tem conteúdo próprio reconstruído a partir das gravações do curso. Consulte a [Aula 88](#aula-88).
 
 ---
 

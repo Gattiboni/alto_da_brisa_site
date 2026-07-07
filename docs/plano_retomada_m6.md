@@ -43,13 +43,13 @@ Três perguntas abertas surgiram na retomada. Nenhum commit ou edição de conte
 Decisões já tomadas na retomada precisam virar registro formal — decisão sem log é decisão que se perde. Commits da rodada: docs (fim desta fase), fonte de conteúdo (Fase 3) e fechamento (Fase 7).
 
 ## ✔️ Tarefas
-- [ ] 2.1 Registrar no DECISION_LOG: **Aula 32 (Viga Baldrame) será preenchida** com o conteúdo de slides do `knowledge/temas/`, com nota de proveniência (fonte: slides, não transcrição). Demais 8 ausências ficam tratadas com callout padrão **[C→A]**
-- [ ] 2.2 Registrar no DECISION_LOG: **calculadora de sapata fora do piloto** (candidato interativo adiado; reavaliar pós-piloto) **[C→A]**
-- [ ] 2.3 Registrar no DECISION_LOG a **política de pipeline e conteúdo**: (i) fonte de verdade = diretório de aulas versionado (destino definido na 3.1); (ii) `site/content/temas/` é saída gerada — nunca editar à mão; (iii) edição de conteúdo = editar fonte + re-rodar `consolidar_temas.py`; (iv) `extract_aulas.py` é geração inicial — re-rodar sobre aula curada exige reconciliação explícita **[C→A]**
-- [ ] 2.4 CHANGELOG: entry retroativo do build do graph (2026-06-17) **[A]**
-- [ ] 2.5 CHANGELOG: entry da retomada + sanity-check + report da Fase 1 **[A]**
-- [ ] 2.6 Corrigir contagens erradas nos docs: CHANGELOG ("88 OK, 1 ausente" → 80/9), `reformulacao_modulos.md` (M4 "3 aulas + 1 ausente" → 4 headings, Aula 25 tratada com callout). Memory atualiza na próxima geração **[A]**
-- [ ] 2.7 Commit dos docs pendentes (D015 v1.1) + novos registros — mensagem única de retomada **[A]**
+- [X] 2.1 Registrar no DECISION_LOG: **Aula 32 (Viga Baldrame) será preenchida** com o conteúdo de slides do `knowledge/temas/`, com nota de proveniência (fonte: slides, não transcrição). Demais 8 ausências ficam tratadas com callout padrão **[C→A]**
+- [X] 2.2 Registrar no DECISION_LOG: **calculadora de sapata fora do piloto** (candidato interativo adiado; reavaliar pós-piloto) **[C→A]**
+- [X] 2.3 Registrar no DECISION_LOG a **política de pipeline e conteúdo**: (i) fonte de verdade = diretório de aulas versionado (destino definido na 3.1); (ii) `site/content/temas/` é saída gerada — nunca editar à mão; (iii) edição de conteúdo = editar fonte + re-rodar `consolidar_temas.py`; (iv) `extract_aulas.py` é geração inicial — re-rodar sobre aula curada exige reconciliação explícita **[C→A]**
+- [X] 2.4 CHANGELOG: entry retroativo do build do graph (2026-06-17) **[A]**
+- [X] 2.5 CHANGELOG: entry da retomada + sanity-check + report da Fase 1 **[A]**
+- [X] 2.6 Corrigir contagens erradas nos docs: CHANGELOG ("88 OK, 1 ausente" → 80/9), `reformulacao_modulos.md` (M4 "3 aulas + 1 ausente" → 4 headings, Aula 25 tratada com callout). Memory atualiza na próxima geração **[A]**
+- [X] 2.7 Commit dos docs pendentes (D015 v1.1) + novos registros — mensagem única de retomada **[A]**
 
 ---
 
@@ -113,6 +113,7 @@ Critérios do `reformulacao_modulos.md`: responsivo sem quebras, teclado funcion
 - [ ] 6.3 Lighthouse Accessibility ≥ 90 **[A]**
 - [ ] 6.4 Pacote de 7 min funcional + todas as aulas acessíveis com leitura completa **[A]**
 - [ ] 6.5 Reportar bugs → ciclo de ajuste com Codinho até aprovar **[A→K]**
+- [ ] 6.6 Verificar links internos das páginas alteradas (callouts de ausência, TOC) — clicar, não só olhar **[A]**
 
 ---
 

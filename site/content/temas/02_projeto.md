@@ -470,26 +470,10 @@ Se faltou algum item, **você não está pronto**. Volte e complete.
 
 **Próxima aula:** Fluxo de Projetos 2/2 — detalhamento de cada etapa do projeto arquitetônico, do estudo preliminar ao executivo, e como cada revisão impacta custos e prazos.
 
-### 9. AULA_AUSENTE
+### 9. Fluxo de Projetos 2/2
 
-A transcrição fornecida não contém o desenvolvimento específico da aula "Fluxo de Projetos 2/2" (Aula 4 do Módulo 2).
-
-**Análise da transcrição:**
-
-As gravações apresentadas cobrem principalmente:
-- **GRAVAÇÃO 2**: Visão geral do curso, objetivos, etapas da construção, necessidades, tamanhos e introdução ao projeto
-- **GRAVAÇÃO 5**: Orçamentos, planejamento e controle de obras (conteúdo extenso sobre EVF, cronogramas, custos)
-- **GRAVAÇÃO 7**: Continuação de planejamento e controle, diário de obra, ferramentas de gestão
-- **GRAVAÇÃO 12**: Economia na planilha orçamentária, custos indiretos
-
-Embora haja menções ao **fluxo de projetos** nas gravações (especialmente na GRAVAÇÃO 2, onde Amanda e Fernando falam sobre as etapas do projeto arquitetônico, desde estudo preliminar até projeto executivo, e mostram o fluxograma geral), o conteúdo não se aprofunda especificamente na **segunda parte do fluxo de projetos** como uma aula dedicada.
-
-O que aparece são:
-- Explicações sobre etapas gerais (estudo preliminar, anteprojeto, projeto básico, projeto executivo)
-- Fluxograma mostrando planejamento → projeto → execução
-- Menções sobre compatibilização de projetos
-
-Porém, não há um desenvolvimento sistemático e completo do tópico "Fluxo de Projetos 2/2" que permitiria extrair uma aula específica sobre essa continuação do fluxo.
+> [!atencao]
+> Esta aula não tem conteúdo próprio reconstruído a partir das gravações do curso. Consulte a [Aula 10](#aula-10).
 
 ### 10. Desenho Técnico / Elementos de Projetos
 
@@ -949,19 +933,10 @@ Para caso você vá comprar o terreno de alguém ou vá vender o seu imóvel con
 
 **Acabou, gente, os custos.** Então, total, né? Quanto é que ficou essa brincadeira, Amanda? Na próxima aula, a gente vai mostrar uma planilha linda que o nosso querido engenheiro preparou aqui pra gente.
 
-### 13. AULA_AUSENTE
+### 13. Construir sem Investir em Projeto
 
-A transcrição fornecida não desenvolve o conteúdo específico da aula "Construir sem Investir em Projeto". 
-
-Embora haja uma **menção breve** no início da gravação ("Hoje eu verifiquei que a gente não tem uma aula específica para layouts, mas a gente tem Construir Sem Investir em Projetos, que tem várias ideias também para ajudar de forma similar a layouts. Dá a mesma ideia de baixar bastante o custo para o cliente de questão de projeto"), essa menção é apenas contextual e não desenvolve o tema.
-
-O conteúdo real da transcrição cobre:
-- **Necessidades** (aula 10)
-- **Tamanhos e Ergonomia** (aula 11)
-- **Distribuição de Espaços** (aula 12)
-- Tópicos do **Módulo de Terreno** (clima, orientação solar, ventilação)
-
-A aula 8 não está presente de forma desenvolvida nesta gravação.
+> [!atencao]
+> Esta aula não tem conteúdo próprio reconstruído a partir das gravações do curso. Consulte a [Aula 14](#aula-14).
 
 ### 14. Lei Athis
 

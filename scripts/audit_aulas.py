@@ -31,7 +31,8 @@ from pathlib import Path
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-AULAS_DIR = REPO_ROOT / "build" / "aulas"
+# Fonte de verdade curada das aulas (D016): knowledge/aulas/ versionado.
+AULAS_DIR = REPO_ROOT / "knowledge" / "aulas"
 REPORT_FILE = REPO_ROOT / "build" / "audit_report.md"
 INVENTARIO_JSON = REPO_ROOT / "build" / "audit_inventario.json"
 
@@ -224,6 +225,14 @@ def auditar_arquivo(path: Path) -> AulaInventario:
     modulo_id = int(meta.get("modulo_id", 0))
     titulo = meta.get("titulo", "?")
     status = meta.get("status", "?")
+
+    # Classificação de ausência: header `status: ausente` OU corpo contendo o
+    # marcador `AULA_AUSENTE`. A detecção de corpo é a rede de segurança contra
+    # regressão do extract (que já classificou errado por olhar só o header —
+    # ver D017): se uma futura re-extração devolver `# AULA_AUSENTE` com header
+    # status: ok, o audit ainda pega.
+    if status == "ok" and re.search(r"\bAULA_AUSENTE\b", conteudo):
+        status = "ausente"
 
     inv = AulaInventario(
         arquivo=path.name,

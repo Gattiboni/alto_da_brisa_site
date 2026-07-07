@@ -112,7 +112,7 @@ A economia real na construção não acontece comprando material mais barato na 
 ### 25. Estudo de Caso - Orçamento, Planejamento e Controle
 
 > [!atencao]
-> Este estudo de caso é tratado em conjunto com o seguinte. Vá direto para a [Aula 26](#26-estudo-de-caso---orcamento-planejamento-e-controle-2).
+> Esta aula não tem conteúdo próprio reconstruído a partir das gravações do curso. Consulte a [Aula 26](#aula-26).
 
 ### 26. Estudo de Caso - Orçamento, Planejamento e Controle 2
 

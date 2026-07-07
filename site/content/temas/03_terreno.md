@@ -15,16 +15,10 @@ Esses conhecimentos são fundamentais para tomar decisões inteligentes no proje
 
 ## Aulas
 
-### 18. AULA_AUSENTE
+### 18. Introdução
 
-A transcrição fornecida não contém uma aula introdutória ao Módulo 3 (Terreno). O conteúdo começa diretamente com instruções práticas sobre o estudo de clima usando o site Weather Spark, seguido por demonstrações do software Climate Consultant, e depois passa para SPT e topografia.
-
-Não há um trecho que apresente:
-- Uma visão geral do que significa estudar o terreno
-- Por que o estudo do terreno é importante para o projeto de uma casa
-- Uma lista panorâmica dos aspectos que serão estudados (clima, sondagem, topografia) sem aprofundá-los
-
-O material vai direto ao conteúdo técnico da "Aula 2 - Clima - Parte 1" sem passar por uma introdução ao módulo como um todo.
+> [!atencao]
+> Esta aula não tem conteúdo próprio reconstruído a partir das gravações do curso. Consulte a [Aula 19](#aula-19).
 
 ### 19. Clima - Parte 1
 
@@ -101,31 +95,15 @@ Quando o gráfico indica que a região fica encoberta a maior parte do tempo, po
 
 > [!dica] A nebulosidade é menos crítica que outros fatores climáticos para a maioria dos projetos residenciais.
 
-### 20. AULA_AUSENTE
+### 20. Clima - Parte 2
 
-A transcrição fornecida não contém o desenvolvimento do conteúdo específico da aula "Clima - Parte 2". 
+> [!atencao]
+> Esta aula não tem conteúdo próprio reconstruído a partir das gravações do curso. Consulte a [Aula 22](#aula-22).
 
-O material transcrito aborda:
-- Introdução ao estudo de clima usando Weather Spark (Clima - Parte 1)
-- Uso do software Climate Consultant (Clima - Parte 3)
-- Sondagem de Solo - SPT (outra aula do módulo)
-- Topografia (outra aula do módulo)
-- Orçamento (conteúdo de outro módulo)
+### 21. Clima - Parte 3
 
-Não há um trecho dedicado ou identificável que desenvolva especificamente os tópicos que seriam esperados para uma "Parte 2" de clima, que deveria dar continuidade ao conteúdo da Parte 1 e anteceder a Parte 3.
-
-### 21. AULA_AUSENTE
-
-O conteúdo da transcrição fornecida aborda:
-
-1. **Clima - Partes 1 e 2**: Uso do WeatherSpark e Climate Consultant para análise climática
-2. **SPT**: Explicação completa sobre sondagem de solo
-3. **Topografia**: Geometria do terreno, legislação e índices urbanísticos
-4. **Orçamento** (de outro módulo): Discussão extensa sobre planejamento orçamentário
-
-A **"Clima - Parte 3"** não está desenvolvida como aula distinta na transcrição. O conteúdo de clima aparece concentrado nas duas primeiras gravações, cobrindo ferramentas de análise (WeatherSpark e Climate Consultant), mas não há um terceiro segmento que justifique uma aula separada "Parte 3".
-
-O tópico de clima é mencionado brevemente ao final da seção de topografia (ao analisar o exemplo de Parnaíba), mas apenas como aplicação prática do que já foi ensinado anteriormente, não como conteúdo novo que caracterizaria uma terceira aula sobre o tema.
+> [!atencao]
+> Esta aula não tem conteúdo próprio reconstruído a partir das gravações do curso. Consulte a [Aula 22](#aula-22).
 
 ### 22. Sondagem de Solo - Resistência - SPT
 
