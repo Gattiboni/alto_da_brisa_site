@@ -60,14 +60,14 @@ Decisões já tomadas na retomada precisam virar registro formal — decisão se
 A fonte curada do acervo está fora do git — resgatá-la vem antes de qualquer edição. Depois: preencher a Aula 32 (elo estrutural do M6, referenciada nas aulas 31, 35 e 36), unificar as 8 ausências na convenção de callout e consertar o auditor que mentia.
 
 ## ✔️ Tarefas
-- [ ] 3.1 Mover `build/aulas/` → `knowledge/aulas/` (89 arquivos); ajustar paths no `consolidar_temas.py` (input) e `extract_aulas.py` (output); avaliar marcar `knowledge/temas/` como legado (README curto) **[K]**
-- [ ] 3.2 Commit imediato da fonte versionada — proteção contra perda vem antes de estética **[A]**
-- [ ] 3.3 Preencher a Aula 32: converter o conteúdo de Viga Baldrame do `knowledge/temas/06` para o padrão das aulas (H4/H5, listas MD reais, callouts D014 onde couber) + nota de proveniência → `knowledge/aulas/06_032.md` **[C planeja / K executa]**
-- [ ] 3.4 Unificar as 8 ausências restantes na convenção `status: ausente` (mecanismo da Aula 25), preservando as justificativas existentes; verificar se o `consolidar_temas.py` generaliza o callout/link ou precisa de ajuste pequeno **[K]**
-- [ ] 3.5 Consertar o classificador do `audit_aulas.py` (detectar corpo `AULA_AUSENTE`, não só header `status:`) e re-rodar o audit — esperado pós-3.3/3.4: 81 com conteúdo / 8 ausentes tratadas **[K]**
-- [ ] 3.6 Rodar `consolidar_temas.py` e validar o diff de `site/content/temas/` — nada além do esperado mudou **[K]**
-- [ ] 3.7 Build + render local das aulas alteradas (32, 39 e as 6 dos outros módulos) **[K]**
-- [ ] 3.8 Commit da rodada de conteúdo **[A]**
+- [X] 3.1 Mover `build/aulas/` → `knowledge/aulas/` (89 arquivos); ajustar paths no `consolidar_temas.py` (input) e `extract_aulas.py` (output); avaliar marcar `knowledge/temas/` como legado (README curto) **[K]**
+- [X] 3.2 Commit imediato da fonte versionada — proteção contra perda vem antes de estética **[A]**
+- [X] 3.3 Preencher a Aula 32: converter o conteúdo de Viga Baldrame do `knowledge/temas/06` para o padrão das aulas (H4/H5, listas MD reais, callouts D014 onde couber) + nota de proveniência → `knowledge/aulas/06_032.md` **[C planeja / K executa]**
+- [X] 3.4 Unificar as 8 ausências restantes na convenção `status: ausente` (mecanismo da Aula 25), preservando as justificativas existentes; verificar se o `consolidar_temas.py` generaliza o callout/link ou precisa de ajuste pequeno **[K]**
+- [X] 3.5 Consertar o classificador do `audit_aulas.py` (detectar corpo `AULA_AUSENTE`, não só header `status:`) e re-rodar o audit — esperado pós-3.3/3.4: 81 com conteúdo / 8 ausentes tratadas **[K]**
+- [X] 3.6 Rodar `consolidar_temas.py` e validar o diff de `site/content/temas/` — nada além do esperado mudou **[K]**
+- [X] 3.7 Build + render local das aulas alteradas (32, 39 e as 6 dos outros módulos) **[K]**
+- [X] 3.8 Commit da rodada de conteúdo **[A]**
 
 ---
 

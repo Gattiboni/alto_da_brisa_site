@@ -28,6 +28,44 @@ Ordem: mais recente no topo.
 
 ---
 
+### [2026-07-07] D019 — Arquitetura dos pacotes de 7 min: conteúdo curado em site/content/pacotes/, composição condicional
+
+**Contexto:** O D015 exige um "pacote de 7 min" no topo de cada módulo
+reformulado. O `consolidar_temas.py` sobrescreve `site/content/temas/`
+preservando apenas Título e Visão Geral (D016) — o pacote precisa de um lar que
+sobreviva à re-consolidação.
+
+**Alternativas consideradas:**
+
+- Seção nova preservada pelo consolidar: mais estado especial num script que
+  deveria ser burro; mistura conteúdo gerado e curado no mesmo arquivo
+- Arquivo em `knowledge/pacotes/`: pacote não tem etapa de geração (fonte =
+  forma consumida) e a página lê fora do root de deploy (`site/`) — fragilidade
+  gratuita
+- Arquivo próprio em `site/content/pacotes/{slug}.md`, composto pela página
+
+**Decisão:** Arquivo próprio em `site/content/pacotes/`. Regras: (i) `pacotes/`
+é curado à mão, **nunca** gerado — espelho simétrico do D016 (`temas/` é gerado,
+nunca editado); (ii) composição condicional: a página renderiza a seção do
+pacote apenas se o arquivo existir — módulos sem pacote renderizam como antes,
+intocados; (iii) componentes visuais entram como fenced blocks roteados pelo
+`Markdown.tsx` (convenção do D014); dados vivem no markdown, nunca no
+componente; (iv) norma de manutenção: o pacote duplica números por design
+(camada de destilação); cada bloco declara a(s) aula(s) de origem em comentário,
+e **editou aula → confere os blocos que a citam**; (v) aulas permanecem abertas
+por default, com colapso individual disponível e regra da âncora (navegar pra
+`#aula-N` colapsada abre a aula) — spec em
+`docs/design_system/modulo_06_wireframe.md`.
+
+**Racional:** Incrementalidade (11 módulos não sabem que o piloto existe),
+modularidade (pluga/despluga por existência de arquivo, sem flag), zero dívida
+(script de consolidação continua burro; nenhuma lógica de preservação nova).
+Wireframe completo do piloto: `docs/design_system/modulo_06_wireframe.md`.
+
+**Responsável:** Alan Gattiboni **Status:** Ativa
+
+---
+
 ### [2026-07-07] D016 — Fonte de verdade do conteúdo: knowledge/aulas/ versionado; site/content/temas/ é saída gerada
 
 **Contexto:** A retomada revelou que `build/aulas/` (89 arquivos, fonte curada
