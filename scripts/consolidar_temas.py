@@ -2,7 +2,7 @@
 """
 consolidar_temas.py
 
-Consolida as 88 aulas extraídas em `build/aulas/{MM}_{AAA}.md`
+Consolida as 88 aulas extraídas em `knowledge/aulas/{MM}_{AAA}.md`
 em 12 arquivos `site/content/temas/{slug}.md`, um por módulo, preservando
 título e Visão Geral já existentes em cada tema.
 
@@ -29,7 +29,8 @@ from pathlib import Path
 
 # Diretórios base (relativos à raiz do repo).
 REPO_ROOT = Path(__file__).resolve().parent.parent
-AULAS_DIR = REPO_ROOT / "build" / "aulas"
+# Fonte de verdade curada das aulas (D016): knowledge/aulas/ versionado.
+AULAS_DIR = REPO_ROOT / "knowledge" / "aulas"
 TEMAS_DIR = REPO_ROOT / "site" / "content" / "temas"
 
 # Slugs canônicos (já estabelecidos em site/content/temas/).

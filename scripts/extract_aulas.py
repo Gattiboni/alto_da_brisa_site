@@ -12,7 +12,7 @@ Estratégia:
 - Salva cada aula em arquivo individual primeiro (resiliência), depois consolida
 
 Saída:
-  build/aulas/{modulo_id:02d}_{aula_id:03d}.md   — uma por aula (cache de progresso)
+  knowledge/aulas/{modulo_id:02d}_{aula_id:03d}.md — uma por aula (fonte curada, D016)
   build/temas_v3/{XX_slug}.md                   — 12 arquivos finais consolidados
   build/transcricoes/{N:02d}.md                  — 21 gravações em formato final
   build/aulas_log.json                          — metadados (custo, tokens, status)
@@ -60,7 +60,10 @@ TERMOS_AULAS = REPO_ROOT / "knowledge" / "termos_aulas.json"
 
 # Outputs
 BUILD_DIR = REPO_ROOT / "build"
-AULAS_DIR = BUILD_DIR / "aulas"
+# Fonte de verdade curada das aulas (D016): knowledge/aulas/ versionado.
+# ATENÇÃO: re-rodar este script sobrescreve a curadoria — exige reconciliação
+# explícita (nunca sobrescrita cega). Ver D016.
+AULAS_DIR = REPO_ROOT / "knowledge" / "aulas"
 TEMAS_OUT = BUILD_DIR / "temas_v3"
 TRANSCRICOES_OUT = BUILD_DIR / "transcricoes"
 LOG_FILE = BUILD_DIR / "aulas_log.json"
