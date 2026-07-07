@@ -12,7 +12,26 @@ Ordem: mais recente no topo.
 
 ## 2026
 
-# Inserts para CHANGELOG.md
+### [2026-07-07] DOC — Retomada pós-gap: sanity-check + investigação Fase 1
+
+Sanity-check aprovado (build, typecheck, lint, 12 rotas SSG, graph em dia com
+HEAD `04bf4bec`). Investigação da Fase 1 revelou: (i) fonte curada das aulas
+(`build/aulas/`, 89 arquivos) fora do git; (ii) censo real do acervo é 80 OK / 9
+ausentes — não "88 + 1" — por bug de classificação no `audit_aulas.py`; (iii)
+docs pendentes eram exclusivamente o material D015 v1.1. Plano da rodada em
+`docs/plano_retomada_m6.md`. Decisões D016–D018.
+
+---
+
+### [2026-06-17] SITE — Knowledge graph do projeto buildado (entry retroativo)
+
+Codinho buildou knowledge graph de código + conteúdo via `graphify` a partir do
+commit `04bf4bec`. 2134 nós · 2270 edges · 168 comunidades. Relatório em
+`GRAPH_REPORT.md`. Uso: navegação e radar de arquitetura. Caveat registrado: a
+seção de "isolated nodes" é majoritariamente artefato de granularidade (headings
+de conteúdo indexados como nós), não lista de pendências.
+
+---
 
 ### [2026-05-25] DOC — Plano de Reformulação dos Módulos criado (D015)
 

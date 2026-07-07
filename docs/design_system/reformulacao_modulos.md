@@ -108,27 +108,40 @@ Atualização da seção "Padrões Emergentes" deste documento.
 
 ## Ordem dos módulos
 
-Ordem proposta, sujeita a revisão pelo Tech Lead:
+Ordem proposta, sujeita a revisão pelo Tech Lead.
 
-1. **Módulo 1 — Introdução Casa de Baixo Custo Sustentável**
-   - Por que primeiro: é a porta de entrada do leitor; também é o
-     menor (5 aulas). Piloto ideal pra ajustar o processo.
-2. **Módulo 2 — Projeto** (12 aulas, conceitual)
-3. **Módulo 6 — Fundações** (12 aulas, técnico-processual)
-4. **Módulo 10 — Acabamentos** (11 aulas, decisorial, 7 tabelas)
-5. **Módulo 4 — Orçamento, Planejamento e Controle** (3 aulas + 1
+**Critério do piloto:** a escolha do primeiro módulo otimiza por
+**prova de conceito visual honesta**, não por menor risco de processo.
+O Módulo 1 (Introdução) foi cogitado por ser o menor e porta de
+entrada, mas é texto-pesado por natureza — prototipar recursos visuais
+ricos ali daria pouco material pra exercitar e um piloto morno, que não
+provaria se a ideia funciona. Um módulo denso força os componentes
+ricos a aparecerem: se funciona no difícil, funciona em qualquer um.
+
+1. **Módulo 6 — Fundações** (12 aulas, técnico-processual) — **PILOTO**
+   - Por que primeiro: conteúdo denso que *pede* visualização
+     (timeline de execução, diagramas de sapata, comparativos
+     isolada/corrida, fluxos passo-a-passo). Teste honesto dos
+     componentes ricos. Obriga criatividade real na proposta.
+2. **Módulo 10 — Acabamentos** (11 aulas, decisorial, 7 tabelas)
+3. **Módulo 2 — Projeto** (12 aulas, conceitual)
+4. **Módulo 4 — Orçamento, Planejamento e Controle** (3 aulas + 1
    ausente, denso com cálculos)
-6. **Módulo 9 — Coberturas** (14 aulas, catálogo de soluções)
-7. **Módulo 7 — Estruturas e Vedações** (15 aulas, comparativo de
+5. **Módulo 9 — Coberturas** (14 aulas, catálogo de soluções)
+6. **Módulo 7 — Estruturas e Vedações** (15 aulas, comparativo de
    métodos)
+7. **Módulo 1 — Introdução Casa de Baixo Custo Sustentável** (5 aulas,
+   porta de entrada — depois que os padrões visuais já estabilizaram)
 8. **Módulo 8 — Lajes** (5 aulas)
 9. **Módulo 3 — Terreno** (6 aulas)
 10. **Módulo 5 — Serviços Preliminares** (1 aula)
 11. **Módulo 11 — Outros Acabamentos** (2 aulas)
 12. **Módulo 12 — Encerramento** (2 aulas)
 
-Após o piloto (M1), o Tech Lead pode reordenar baseado em prioridade
-percebida.
+Após o piloto (M6), o Tech Lead pode reordenar baseado em prioridade
+percebida. Nota: o M1, por ser a porta de entrada do usuário, pode ser
+puxado pra frente assim que os padrões visuais estiverem maduros — ele
+se beneficia de herdar componentes já provados em vez de inventá-los.
 
 ---
 
@@ -176,4 +189,5 @@ momento:
 ---
 
 Responsável: Alan Gattiboni
+Versão: 1.1 — 2026-07-06 (piloto trocado de M1 para M6; ver "Critério do piloto")
 Versão: 1.0 — 2026-05-25

@@ -26,6 +26,84 @@ Ordem: mais recente no topo.
 
 ## Decisões Registradas
 
+---
+
+### [2026-07-07] D016 — Fonte de verdade do conteúdo: knowledge/aulas/ versionado; site/content/temas/ é saída gerada
+
+**Contexto:** A retomada revelou que `build/aulas/` (89 arquivos, fonte curada
+real das aulas) estava fora do git — `build/` está no `.gitignore` — e que o
+`consolidar_temas.py` sobrescreve `site/content/temas/` integralmente,
+preservando apenas Título e Visão Geral. Edição manual no site não é durável;
+perda do disco local tornaria o acervo curado irrecuperável (`extract_aulas.py`
+custa API e não é determinístico — regeneraria texto diferente).
+
+**Alternativas consideradas:**
+
+- Negação no `.gitignore` (`build/*` + `!build/aulas/`): zero mudança de script,
+  mas perpetua fonte editável dentro de diretório cuja convenção declarada é
+  "descartável"
+- Congelar o pipeline e editar `site/content/temas/` à mão: mata o pipeline e
+  cria fork de conteúdo
+- Mover `build/aulas/` → `knowledge/aulas/` e ajustar paths nos scripts
+
+**Decisão:** Mover. Política de conteúdo a partir de agora: (i) fonte de verdade
+= `knowledge/aulas/` (versionada); (ii) `site/content/temas/` é saída gerada —
+nunca editar à mão; (iii) edição de conteúdo = editar a fonte + re-rodar
+`consolidar_temas.py`; (iv) `extract_aulas.py` é geração inicial — re-rodar
+sobre aula curada exige reconciliação explícita, nunca sobrescrita cega.
+
+**Racional:** `build/` significa "regenerável e descartável" por convenção — é
+exatamente por isso que estava no gitignore. Conteúdo curado editável à mão é
+fonte, não artefato de build. O conteúdo estava no lugar semanticamente errado;
+mover corrige de uma vez ("bem feito UMA vez").
+
+**Responsável:** Alan Gattiboni **Status:** Ativa
+
+---
+
+### [2026-07-07] D017 — Tratamento das 9 aulas ausentes; Aula 32 preenchida com conteúdo de slides
+
+**Contexto:** O censo real do acervo é **80 aulas com conteúdo / 9 ausentes** —
+não "88 + 1" como registrado no audit, CHANGELOG e memory. Oito aulas
+renderizavam o heading cru `AULA_AUSENTE` para o usuário (02: 9, 13 · 03: 18,
+20, 21 · 06: 32, 39 · 12: 89); apenas a Aula 25 tinha callout de
+redirecionamento. Causa raiz: o classificador do `audit_aulas.py` só olhava o
+header `status:`, e as 8 aulas onde o LLM devolveu `AULA_AUSENTE` no corpo
+passaram como OK. A Aula 32 (Viga Baldrame) é elo estrutural do Módulo 6 —
+referenciada nas aulas 31, 35 e 36 — e possui conteúdo completo na geração
+legada baseada em slides (`knowledge/temas/`).
+
+**Alternativas consideradas (Aula 32):** manter ausente por pureza de fonte (só
+transcrições) vs preencher com o conteúdo dos slides.
+
+**Decisão:** Aula 32 preenchida a partir dos slides, convertida ao padrão das
+demais aulas, com nota de proveniência visível. As outras 8 ausências unificadas
+na convenção `status: ausente` (mecanismo do callout da Aula 25), preservando as
+justificativas existentes. Classificador do `audit_aulas.py` corrigido para
+detectar também corpo `AULA_AUSENTE`.
+
+**Racional:** Buraco no elo estrutural do módulo em nome de pureza de fonte é
+dívida disfarçada de rigor. E ferramenta de auditoria que classifica errado
+mente de novo na próxima rodada — conserta-se a causa, não o sintoma.
+
+**Responsável:** Alan Gattiboni **Status:** Ativa
+
+---
+
+### [2026-07-07] D018 — Calculadora de sapata fora do piloto M6
+
+**Contexto:** A Aula 31 traz fórmula e exemplo numérico prontos (área = carga ÷
+tensão admissível do solo), candidato natural a componente interativo.
+
+**Decisão:** Fora do escopo do piloto. Reavaliar após o piloto concluído.
+
+**Racional:** Único candidato interativo do módulo; incluí-lo adiciona escopo e
+risco sem provar a hipótese central do D015 (densidade variável de consumo).
+
+**Responsável:** Alan Gattiboni **Status:** Ativa
+
+---
+
 ### [2026-05-25] D015 — Conteúdo do portal: leitura ativa por módulo, não leitura linear
 
 **Contexto:** Os componentes D014 foram implementados e integrados às 88 aulas.
@@ -80,12 +158,23 @@ D014 permanece válido como **camada base tipográfica e dos 4 componentes
 universais**. D015 não revoga D014 — adiciona uma camada acima dela, específica
 por módulo.
 
-**Pós-decisão:** Próximo ciclo começa pelo Módulo 1 (Introdução) como piloto.
-Resultado do piloto informa abordagem dos demais 11. Pendências de navegação
+**Pós-decisão:** Próximo ciclo começa pelo **Módulo 6 (Fundações)** como piloto.
+Resultado do piloto informa a abordagem dos demais 11. Pendências de navegação
 intra-aula (botões "tópico anterior" / "próximo" / "voltar ao topo") e Claudinho
 contextual entram como itens paralelos, não bloqueantes da reformulação.
 
-**Responsável:** Alan Gattiboni **Status:** Ativa
+**Revisão [2026-07-06]:** O piloto foi trocado de Módulo 1 para **Módulo 6
+(Fundações)**. O critério de escolha do piloto passou de "menor risco de
+processo" (M1 é o menor, 5 aulas, porta de entrada) para "prova de conceito
+visual honesta". Razão: o M1 (Introdução) é texto-pesado por natureza e daria
+pouco material pra exercitar timelines, matrizes e fluxogramas — um piloto morno
+que não provaria a hipótese. Um módulo denso e técnico-processual como Fundações
+força os componentes ricos a aparecerem: se funciona no difícil, funciona em
+qualquer um. O M1 volta pra ordem mais à frente, quando já houver padrões
+visuais maduros pra herdar em vez de inventar. Ordem completa em
+`reformulacao_modulos.md` v1.1, seção "Critério do piloto".
+
+**Responsável:** Alan Gattiboni **Status:** Ativa (revisada 2026-07-06)
 
 ---
 
