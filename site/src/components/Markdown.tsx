@@ -12,6 +12,18 @@ import { Callout, type CalloutTipo } from "@/components/content/Callout"
 import { Citacao } from "@/components/content/Citacao"
 import { Tabela } from "@/components/content/Tabela"
 import { ProcessFlow, parseFlow } from "@/components/content/ProcessFlow"
+import { MapaTipos } from "@/components/content/MapaTipos"
+import {
+  EscaladaDecisao,
+  parseEscalada,
+} from "@/components/content/EscaladaDecisao"
+import {
+  ComparativoCustos,
+  parseCustos,
+} from "@/components/content/ComparativoCustos"
+
+/** Linguagens de fenced block roteadas para componentes (sem <pre> wrapper). */
+const CUSTOM_LANGS = ["flow", "tipos", "escalada", "custos"]
 
 interface MarkdownProps {
   children: string
@@ -231,7 +243,8 @@ export function Markdown({ children }: MarkdownProps) {
           if (isValidElement(first)) {
             const className =
               (first.props as { className?: string }).className || ""
-            if (/language-flow\b/.test(className)) {
+            const lang = /language-(\w+)/.exec(className)?.[1]
+            if (lang && CUSTOM_LANGS.includes(lang)) {
               return <>{children}</>
             }
           }
@@ -247,9 +260,17 @@ export function Markdown({ children }: MarkdownProps) {
 
         code: ({ className, children, ...rest }) => {
           const langMatch = /language-(\w+)/.exec(className || "")
-          if (langMatch?.[1] === "flow") {
+          const lang = langMatch?.[1]
+          if (lang && CUSTOM_LANGS.includes(lang)) {
             const raw = String(getText(children)).replace(/\n$/, "")
-            return <ProcessFlow steps={parseFlow(raw)} />
+            if (lang === "flow") return <ProcessFlow steps={parseFlow(raw)} />
+            if (lang === "tipos") return <MapaTipos raw={raw} />
+            if (lang === "escalada")
+              return <EscaladaDecisao degraus={parseEscalada(raw)} />
+            if (lang === "custos") {
+              const dados = parseCustos(raw)
+              return dados ? <ComparativoCustos dados={dados} /> : null
+            }
           }
           if (className) {
             // Code block com outra linguagem
